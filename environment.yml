@@ -1,0 +1,18 @@
+name: por
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9
+  - pip
+
+  # core
+  - Sphinx
+  # scraping
+  - requests
+  - lxml
+
+  # dev
+  - ipython
+  - black
+  - isort>=5.0.0
