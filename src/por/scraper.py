@@ -3,9 +3,6 @@ from __future__ import annotations
 import json
 import re
 
-from lxml import html
-import requests
-
 # blank_rule = [{"areas": [{"controls": [{"value": ""}]}]}]
 blank_rule = [{"areas": [{"controls": [{"value": "<BLANK RULE DUMMY>"}]}]}]
 
@@ -16,7 +13,7 @@ PARA = re.compile("</?p.*?>")  # needed for e.g. 3.12 with <p style=...>
 LIST_ITEM = re.compile("""<li .*?>""")
 
 
-def chapter_text(content: bytes) -> str:
+def chapter_text(content: str) -> str:
     chapter_rules = get_rules(_get_chapter_data(content))
 
     chapter_title, chapter_intro = chapter_rules.pop(0)
@@ -28,14 +25,12 @@ def chapter_text(content: bytes) -> str:
     return "\n\n".join(text)
 
 
-def _get_chapter_data(content: bytes) -> dict:
-    por_state = _get_state_data(content.decode("utf-8"))
+def _get_chapter_data(content: str) -> dict:
+    por_state = _get_state_data(content)
     return por_state["chapters"][por_state["currentChapter"]]
 
 
 def _get_state_data(page_content: str) -> dict:
-    # state = tree[1][2].text
-    # state = state[:state.index(";(function()")].removeprefix("window.__INITIAL_STATE__=")
     start = page_content.index("window.__INITIAL_STATE__=") + len("window.__INITIAL_STATE__=")
     end = page_content.index(";(function()")
     state = page_content[start:end]
@@ -166,29 +161,25 @@ def _html_to_rest(html_text: str) -> str:
 
 
 if __name__ == '__main__':
-    # r_text = requests.get("https://www.scouts.org.uk/por").content.decode("utf-8")
+    # from pathlib import Path
+    #
+    # from lxml import html
+    # import requests
+
+    # Path("overview-raw.txt").write_text(requests.get("https://www.scouts.org.uk/por/").content.decode("utf-8"), encoding="utf-8")
     # Path("ch3-raw.txt").write_text(requests.get("https://www.scouts.org.uk/por/3-the-scout-group/").content.decode("utf-8"), encoding="utf-8")
+
     # with open("overview-raw.txt", "r", encoding="utf-8") as f:
     #     r_text = f.read()
-    # tree: html.HtmlElement = html.document_fromstring(r_text)
-    # # main = tree.find(".//main")[0][0]  # page content
-    # # pdf_link = main[0][-1][0].get("href")
-    # pdf_link = tree[1][1][2][2][1][0][0][0][-1][0].get("href")
-    #
-    # # sections = main[1]
-    # # intro = sections[0]
-    # # chapters = sections[1]
-    # # appointments = sections[2]
-    # # links = [node.get("href") for node in (intro[0], *chapters[1:], appointments[0])]
-    #
-    # por_state = get_state_data(r_text)
+    # pdf_link = html.document_fromstring(r_text).find(".//main")[0][0][0][-1][0].get("href")
+    # por_state = _get_state_data(r_text)
     # por_index = por_state["index"]
     # por_intro = por_state["intro"]
     #
     # links = [item["url"] for item in por_index]
 
     with open("ch3-raw.txt", "r", encoding="utf-8") as f:
-        ch3_raw = f.read().encode()
+        ch3_raw = f.read()
     ch3_text = chapter_text(ch3_raw)
     with open("chapter-3.rst", "w", encoding="utf-8") as f:
         f.write(ch3_text)
