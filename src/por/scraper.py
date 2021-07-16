@@ -91,7 +91,11 @@ def _html_to_rest(html_text: str) -> str:
     text = text.replace("<strong><br /></strong>", "<br />").replace("<em><br /></em>", "<br />")
     text = STRONG.sub("**", text)
     text = EMPH.sub("*", text)
-    text = text.replace("**<br />", "**").replace("<br />**", "**").replace("*<br />", "*").replace("<br />*", "*")
+    text = (
+        text  # run twice to catch extra tags
+        .replace("**<br />", "**").replace("<br />**", "**").replace("*<br />", "*").replace("<br />*", "*")
+        .replace("**<br />", "**").replace("<br />**", "**").replace("*<br />", "*").replace("<br />*", "*")
+    )
 
     # <a> and <p> tags
     text = LINK.sub(r"`\2 &lt\1&gt`_", text)  # don't use < and > as we split on these later
