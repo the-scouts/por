@@ -6,6 +6,9 @@ import re
 # blank_rule = [{"areas": [{"controls": [{"value": ""}]}]}]
 blank_rule = [{"areas": [{"controls": [{"value": "<BLANK RULE DUMMY>"}]}]}]
 
+ALPHA = "abcdefghijklmnopqrstuvwxyz"
+ROMAN = ("i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x")
+
 STRONG = re.compile("</?strong>")
 EMPH = re.compile("</?em>")
 LINK = re.compile("""<a .*?href="(.*?)".*?>(.*?)</a>""")
@@ -102,33 +105,33 @@ def _html_to_rest(html_text: str) -> str:
     text = PARA.sub("\n", text).replace("\n\n", "\n").strip("\n")  # paragraph
 
     # lists
-    numbering: list[tuple[bool, str | None]] = []  # tuples are ordered true/false and list type
+    numbering: list[list[str | None, int | None]] = []  # tuples are ordered true/false and list type
     parsed = []
     for tag in text.replace("<", "¦<").replace("\n", "¦").split("¦"):  # split to tags and on newlines
         # indent level
         if tag.startswith("<ol"):
             if "lower-roman" in tag:
-                numbering.append((True, "i."))
+                numbering.append(["i.", 0])
             else:  # elif "lower-alpha" in tag:
-                numbering.append((True, "a."))
+                numbering.append(["a.", 0])
             parsed.append("")  # nested lists must be separated by blank lines
         elif tag.startswith("<ul"):
             if "none" in tag:
-                numbering.append((False, ""))
+                numbering.append(["", None])
             else:
-                numbering.append((False, "*"))
+                numbering.append(["*", None])
             parsed.append("")  # nested lists must be separated by blank lines
 
         # dedent level
         elif tag.startswith("</ol"):
-            if (lvl := numbering.pop(-1))[0] is not True:
+            if (lvl := numbering.pop(-1))[0] not in {"a.", "i."}:
                 raise ValueError(f"list parsing mismatch! {lvl=}")
             parsed.append("")  # nested lists must be separated by blank lines
             if remaining := tag.removeprefix("</ol>").strip():
                 indent = "   " * len(numbering)  # three spaces per level
                 parsed.append(indent + remaining)
         elif tag.startswith("</ul"):
-            if (lvl := numbering.pop(-1))[0] is not False:
+            if (lvl := numbering.pop(-1))[0] not in {"*", ""}:
                 raise ValueError(f"list parsing mismatch! {lvl=}")
             parsed.append("")  # nested lists must be separated by blank lines
             if remaining := tag.removeprefix("</ul>").strip():
@@ -137,8 +140,14 @@ def _html_to_rest(html_text: str) -> str:
 
         # item tags
         elif tag.startswith("<li"):
-            is_ordered, list_char = numbering[-1]
+            list_type, count = numbering[-1]
             indent = "   " * len(numbering[1:])  # three spaces per level, ignoring first level
+            list_chars = ALPHA if list_type == "a." else ROMAN
+            if count is not None:
+                list_char = list_chars[count] + "."
+                numbering[-1][1] += 1
+            else:
+                list_char = list_type
             parsed.append(f"{indent}{list_char: <3}{tag.removeprefix('<li>')}")  # try to remove naive <li> tag
 
         # just add the text:
