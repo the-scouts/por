@@ -3,8 +3,10 @@ from __future__ import annotations
 import json
 import re
 
+from lxml import html
+
 # blank_rule = [{"areas": [{"controls": [{"value": ""}]}]}]
-blank_rule = [{"areas": [{"controls": [{"value": "<BLANK RULE DUMMY>"}]}]}]
+blank_rule = [{"areas": [{"controls": [{"value": "|BLANK RULE DUMMY|"}]}]}]
 
 ALPHA = "abcdefghijklmnopqrstuvwxyz"
 ROMAN = ("i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x")
@@ -60,7 +62,7 @@ def get_rules(chapter_data: dict) -> list[tuple[str, str]]:
 def _get_rule_details(item: dict) -> tuple[str, str]:
     rows = item["content"]["sections"][0]["rows"]
     if not rows:  # intentionally left blank
-        return item["title"], "<BLANK RULE DUMMY>"
+        return item["title"], "|BLANK RULE DUMMY|"
     # e.g. 3.51 has 2 controls dicts
     return item["title"], "".join(control["value"] for control in rows[0]["areas"][0]["controls"])
 
@@ -80,6 +82,9 @@ def _emit_titled_block(title: str, text: str, page_title: bool = False) -> str:
 
 
 def _html_to_rest(html_text: str) -> str:
+    if html_text == "|BLANK RULE DUMMY|":
+        return html_text
+
     # assert count <(p|a|ol|ul|li|em|strong|sup) == count <[a-zA-Z]
     text = (
         " ".join(html_text.replace("\n", "").split())  # normalise whitespace
@@ -99,6 +104,13 @@ def _html_to_rest(html_text: str) -> str:
         .replace("**<br />", "**").replace("<br />**", "**").replace("*<br />", "*").replace("<br />*", "*")
         .replace("**<br />", "**").replace("<br />**", "**").replace("*<br />", "*").replace("<br />*", "*")
     )
+
+    t = text[:]
+    t = LINK.sub(r"`\2 &lt\1&gt`_", t)  # don't use < and > as we split on these later
+    t = "".join(_parse_html_list(tag) for tag in html.fragments_fromstring(t))
+    LI = re.compile("</?li>")
+    t = LI.sub("", t)
+    t = PARA.sub("\n", t).replace("\n\n", "\n").strip("  \n").replace(" \n*", " *")  # paragraph
 
     # <a> and <p> tags
     text = LINK.sub(r"`\2 &lt\1&gt`_", text)  # don't use < and > as we split on these later
@@ -160,7 +172,7 @@ def _html_to_rest(html_text: str) -> str:
                 indent = "   " * len(numbering)  # three spaces per level
                 parsed.append(indent + tag)
 
-    return (
+    text = (
         # clean up left over <li> tags
         LIST_ITEM.sub("", "\n".join(parsed))
         # deal with newlines
@@ -170,13 +182,106 @@ def _html_to_rest(html_text: str) -> str:
         .strip("\n")
         # replace with real values
         .replace("&lt", "<").replace("&gt", ">")
+        .replace("&amp;", "&")
     )
+    t = t.replace("<br>", "\n").replace("<br />", "\n").replace("\n\n\n\n", "\n\n").replace("\n\n\n", "\n\n").strip("\n").replace("&lt", "<").replace("&gt", ">")
+
+    # a = '"""""""""""' + text.replace("\n\n", "\n")  # .replace("\n", "")
+    # b = '"""""""""""' + t.replace("\n\n", "\n")  # .replace("\n", "")
+    # if a != b:
+    #     if "In the absence of an existing formally adopted Constitution to the contrary" not in text:
+    #         print(a)
+    #         print(b)
+    #         _diff(a, b)
+    #         raise AssertionError
+    return t
+
+
+TYPES_CHARS = {
+    "alpha": ALPHA,
+    "roman": ROMAN,
+    "disc": "*",
+    "none": " ",
+}
+
+
+def _parse_html_list(tag: html.HtmlElement, indent_level: int = 0) -> str:
+    name = tag.tag
+    if name not in {"ol", "ul", "li"}:
+        return _stringify_element(tag)
+
+    # ordered list
+    if name == "ol":
+        ordered = True
+        list_type = "alpha"
+        if "lower-roman" in tag.get("style", ""):
+            list_type = "roman"
+
+    # unordered list
+    elif name == "ul":
+        ordered = False
+        list_type = "disc"
+        if "none" in tag.get("style", ""):
+            list_type = "none"
+
+    # list items
+    else:
+        raise ValueError("can't have raw li tags!")
+
+    count = 0
+    parsed = ["", ""]  # nested lists must be separated by blank lines
+
+    indent = "   " * indent_level  # three spaces per level, ignoring first level
+    line_prefix_no_number = indent + "   "
+    for el in tag:
+        list_char = f"{TYPES_CHARS[list_type][count if ordered else 0] + '.' * ordered: <3}"
+        line_prefix = indent + list_char
+        count += 1
+
+        if el.text:
+            parsed.append(line_prefix + el.text)
+            line_prefix = line_prefix_no_number
+        for sub in el:
+            if sub.tag in {"ol", "ul"}:
+                # nested list must be separated by blank lines
+                parsed += ["", _parse_html_list(sub, indent_level=indent_level+1), ""]
+            elif sub.tag == "br":
+                parsed.append("<br />")
+            else:
+                parsed.append(line_prefix + _stringify_element(sub))
+                line_prefix = line_prefix_no_number
+            if sub.tail:
+                parsed.append(line_prefix + sub.tail.strip())
+                line_prefix = line_prefix_no_number
+        if el.tail:
+            parsed.append(line_prefix + el.tail)
+
+    parsed += ["", ""]  # nested lists must be separated by blank lines
+    return "\n".join(parsed)
+
+
+def _stringify_element(el: html.HtmlElement) -> str:
+    # .__copy__() fixes bug with text serialisation (tostring otherwise prints the entire document)
+    return html.tostring(el.__copy__(), encoding="unicode").rstrip("\n").strip()
+
+
+def _diff(a, b):
+    import difflib
+    for i, s in enumerate(difflib.ndiff(a, b)):
+        if s[0] == ' ':
+            continue
+        msg = f' "{s[-1]}" from position {i}'
+        if s[0] == '-':
+            print('Delete' + msg)
+        elif s[0] == '+':
+            print('Add' + msg)
+    print()
 
 
 if __name__ == '__main__':
     # from pathlib import Path
     #
-    # from lxml import html
+    #
     # import requests
 
     # Path("overview-raw.txt").write_text(requests.get("https://www.scouts.org.uk/por/").content.decode("utf-8"), encoding="utf-8")
@@ -194,5 +299,5 @@ if __name__ == '__main__':
     with open("ch3-raw.txt", "r", encoding="utf-8") as f:
         ch3_raw = f.read()
     ch3_text = chapter_text(ch3_raw)
-    with open("chapter-3.rst", "w", encoding="utf-8") as f:
+    with open("chapter-3-b.rst", "w", encoding="utf-8") as f:
         f.write(ch3_text)
