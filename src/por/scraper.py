@@ -5,7 +5,7 @@ import re
 
 from lxml import html
 
-BLANK_RULE = "|BLANK RULE DUMMY|"
+BLANK_RULE = "BLANK RULE DUMMY"
 
 ALPHA = "abcdefghijklmnopqrstuvwxyz"
 ROMAN = ("i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x")
@@ -67,11 +67,15 @@ def get_rules(chapter_data: dict) -> list[tuple[str, str]]:
 
 
 def _get_rule_details(item: dict) -> tuple[str, str]:
+    title = item["title"]
+    if not item["content"]:
+        return title, ""  # e.g. chapter 7 intro
     rows = item["content"]["sections"][0]["rows"]
     if not rows:  # intentionally left blank
-        return item["title"], BLANK_RULE
-    # e.g. 3.51 has 2 controls dicts
-    return item["title"], "".join(control["value"] for control in rows[0]["areas"][0]["controls"])
+        return title, BLANK_RULE
+    # e.g. 3.51 has 2 controls dicts, so need to loop & concatenate
+    # e.g. 8.1 has a call to action button to Unity, so need to check stringiness
+    return title, "".join(control["value"] for control in rows[0]["areas"][0]["controls"] if isinstance(control["value"], str))
 
 
 def _emit_chapter_start(title: str, introduction: str) -> str:
@@ -192,13 +196,11 @@ def _stringify_element(el: html.HtmlElement) -> str:
 
 
 if __name__ == '__main__':
-    # from pathlib import Path
-    #
-    #
+    from pathlib import Path
+
     # import requests
 
     # Path("overview-raw.txt").write_text(requests.get("https://www.scouts.org.uk/por/").content.decode("utf-8"), encoding="utf-8")
-    # Path("ch3-raw.txt").write_text(requests.get("https://www.scouts.org.uk/por/3-the-scout-group/").content.decode("utf-8"), encoding="utf-8")
 
     # with open("overview-raw.txt", "r", encoding="utf-8") as f:
     #     r_text = f.read()
@@ -206,11 +208,14 @@ if __name__ == '__main__':
     # por_state = _get_state_data(r_text)
     # por_index = por_state["index"]
     # por_intro = por_state["intro"]
-    #
-    # links = [item["url"] for item in por_index]
 
-    with open("ch3-raw.txt", "r", encoding="utf-8") as f:
-        ch3_raw = f.read()
-    ch3_text = chapter_text(ch3_raw)
-    with open("chapter-3.rst", "w", encoding="utf-8") as f:
-        f.write(ch3_text)
+    # links = [item["url"] for item in por_index]
+    # for i, link in enumerate(links):
+    #     if i == 0 or i == len(links) - 1:
+    #         continue  # skip intro and TAP
+    #     p = Path(f"ch{i}-raw.txt")
+    #     p.write_text(requests.get("https://www.scouts.org.uk" + link).content.decode("utf-8"), encoding="utf-8")
+
+    for i in range(1, 15+1):
+        raw = Path(f"ch{i}-raw.txt").read_text(encoding="utf-8")
+        Path(f"chapter-{i}.rst").write_text(chapter_text(raw), encoding="utf-8")
