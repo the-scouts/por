@@ -5,17 +5,23 @@ import re
 
 from lxml import html
 
-# blank_rule = [{"areas": [{"controls": [{"value": ""}]}]}]
-blank_rule = [{"areas": [{"controls": [{"value": "|BLANK RULE DUMMY|"}]}]}]
+BLANK_RULE = "|BLANK RULE DUMMY|"
 
 ALPHA = "abcdefghijklmnopqrstuvwxyz"
 ROMAN = ("i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x")
 
+TYPES_CHARS = {
+    "alpha": ALPHA,
+    "roman": ROMAN,
+    "disc": "*",
+    "none": " ",
+}
+
 STRONG = re.compile("</?strong>")
 EMPH = re.compile("</?em>")
-LINK = re.compile("""<a .*?href="(.*?)".*?>(.*?)</a>""")
-PARA = re.compile("</?p.*?>")  # needed for e.g. 3.12 with <p style=...>
 LIST_ITEM = re.compile("</?li>")
+PARA = re.compile("</?p.*?>")  # needed for e.g. 3.12 with <p style=...>
+LINK = re.compile("""<a .*?href="(.*?)".*?>(.*?)</a>""")
 
 
 def chapter_text(content: str) -> str:
@@ -62,7 +68,7 @@ def get_rules(chapter_data: dict) -> list[tuple[str, str]]:
 def _get_rule_details(item: dict) -> tuple[str, str]:
     rows = item["content"]["sections"][0]["rows"]
     if not rows:  # intentionally left blank
-        return item["title"], "|BLANK RULE DUMMY|"
+        return item["title"], BLANK_RULE
     # e.g. 3.51 has 2 controls dicts
     return item["title"], "".join(control["value"] for control in rows[0]["areas"][0]["controls"])
 
@@ -82,7 +88,7 @@ def _emit_titled_block(title: str, text: str, page_title: bool = False) -> str:
 
 
 def _html_to_rest(html_text: str) -> str:
-    if html_text == "|BLANK RULE DUMMY|":
+    if html_text == BLANK_RULE:
         return html_text
 
     # assert count <(p|a|ol|ul|li|em|strong|sup) == count <[a-zA-Z]
@@ -113,10 +119,14 @@ def _html_to_rest(html_text: str) -> str:
     text = LIST_ITEM.sub("", text)
 
     # <p> tags
-    text = PARA.sub("\n", text).replace("\n\n", "\n").strip("  \n").replace(" \n*", " *")  # paragraph
+    text = PARA.sub("\n", text)  # paragraph
 
     text = (
         text
+        # clean up from para tags
+        .replace("\n\n", "\n")
+        .strip("\n")
+        .replace(" \n*", " *")
         # deal with newlines
         .replace("<br />", "\n")
         .replace("<br>", "\n")  # lxml 'normalises' br tags to without the closing slash
@@ -130,14 +140,6 @@ def _html_to_rest(html_text: str) -> str:
     )
 
     return text
-
-
-TYPES_CHARS = {
-    "alpha": ALPHA,
-    "roman": ROMAN,
-    "disc": "*",
-    "none": " ",
-}
 
 
 def _parse_html_list(tag: html.HtmlElement, indent_level: int = 0) -> str:
@@ -200,19 +202,6 @@ def _stringify_element(el: html.HtmlElement) -> str:
     return html.tostring(el.__copy__(), encoding="unicode").rstrip("\n").strip()
 
 
-def _diff(a, b):
-    import difflib
-    for i, s in enumerate(difflib.ndiff(a, b)):
-        if s[0] == ' ':
-            continue
-        msg = f' "{s[-1]}" from position {i}'
-        if s[0] == '-':
-            print('Delete' + msg)
-        elif s[0] == '+':
-            print('Add' + msg)
-    print()
-
-
 if __name__ == '__main__':
     # from pathlib import Path
     #
@@ -234,5 +223,5 @@ if __name__ == '__main__':
     with open("ch3-raw.txt", "r", encoding="utf-8") as f:
         ch3_raw = f.read()
     ch3_text = chapter_text(ch3_raw)
-    with open("chapter-3-c.rst", "w", encoding="utf-8") as f:
+    with open("chapter-3-d.rst", "w", encoding="utf-8") as f:
         f.write(ch3_text)
