@@ -15,7 +15,7 @@ STRONG = re.compile("</?strong>")
 EMPH = re.compile("</?em>")
 LINK = re.compile("""<a .*?href="(.*?)".*?>(.*?)</a>""")
 PARA = re.compile("</?p.*?>")  # needed for e.g. 3.12 with <p style=...>
-LIST_ITEM = re.compile("""<li .*?>""")
+LIST_ITEM = re.compile("</?li>")
 
 
 def chapter_text(content: str) -> str:
@@ -105,96 +105,31 @@ def _html_to_rest(html_text: str) -> str:
         .replace("**<br />", "**").replace("<br />**", "**").replace("*<br />", "*").replace("<br />*", "*")
     )
 
-    t = text[:]
-    t = LINK.sub(r"`\2 &lt\1&gt`_", t)  # don't use < and > as we split on these later
-    t = "".join(_parse_html_list(tag) for tag in html.fragments_fromstring(t))
-    LI = re.compile("</?li>")
-    t = LI.sub("", t)
-    t = PARA.sub("\n", t).replace("\n\n", "\n").strip("  \n").replace(" \n*", " *")  # paragraph
-
-    # <a> and <p> tags
+    # hyperlinks
     text = LINK.sub(r"`\2 &lt\1&gt`_", text)  # don't use < and > as we split on these later
-    text = PARA.sub("\n", text).replace("\n\n", "\n").strip("\n")  # paragraph
 
     # lists
-    numbering: list[list[str | None, int | None]] = []  # tuples are ordered true/false and list type
-    parsed = []
-    for tag in text.replace("<", "¦<").replace("\n", "¦").split("¦"):  # split to tags and on newlines
-        # indent level
-        if tag.startswith("<ol"):
-            if "lower-roman" in tag:
-                numbering.append(["i.", 0])
-            else:  # elif "lower-alpha" in tag:
-                numbering.append(["a.", 0])
-            parsed.append("")  # nested lists must be separated by blank lines
-        elif tag.startswith("<ul"):
-            if "none" in tag:
-                numbering.append(["", None])
-            else:
-                numbering.append(["*", None])
-            parsed.append("")  # nested lists must be separated by blank lines
+    text = "\n".join(_parse_html_list(tag) for tag in html.fragments_fromstring(text))
+    text = LIST_ITEM.sub("", text)
 
-        # dedent level
-        elif tag.startswith("</ol"):
-            if (lvl := numbering.pop(-1))[0] not in {"a.", "i."}:
-                raise ValueError(f"list parsing mismatch! {lvl=}")
-            parsed.append("")  # nested lists must be separated by blank lines
-            if remaining := tag.removeprefix("</ol>").strip():
-                indent = "   " * len(numbering)  # three spaces per level
-                parsed.append(indent + remaining)
-        elif tag.startswith("</ul"):
-            if (lvl := numbering.pop(-1))[0] not in {"*", ""}:
-                raise ValueError(f"list parsing mismatch! {lvl=}")
-            parsed.append("")  # nested lists must be separated by blank lines
-            if remaining := tag.removeprefix("</ul>").strip():
-                indent = "   " * len(numbering)  # three spaces per level
-                parsed.append(indent + remaining)
-
-        # item tags
-        elif tag.startswith("<li"):
-            list_type, count = numbering[-1]
-            indent = "   " * len(numbering[1:])  # three spaces per level, ignoring first level
-            list_chars = ALPHA if list_type == "a." else ROMAN
-            if count is not None:
-                list_char = list_chars[count] + "."
-                numbering[-1][1] += 1
-            else:
-                list_char = list_type
-            parsed.append(f"{indent}{list_char: <3}{tag.removeprefix('<li>')}")  # try to remove naive <li> tag
-
-        # just add the text:
-        elif not tag.startswith("</li"):
-            tag = tag.strip()
-            if tag.startswith("<br />"):
-                parsed.append("<br />")
-                tag = tag[6:].lstrip()  # len("<br />") == 6
-            if tag:
-                indent = "   " * len(numbering)  # three spaces per level
-                parsed.append(indent + tag)
+    # <p> tags
+    text = PARA.sub("\n", text).replace("\n\n", "\n").strip("  \n").replace(" \n*", " *")  # paragraph
 
     text = (
-        # clean up left over <li> tags
-        LIST_ITEM.sub("", "\n".join(parsed))
+        text
         # deal with newlines
         .replace("<br />", "\n")
+        .replace("<br>", "\n")  # lxml 'normalises' br tags to without the closing slash
         .replace("\n\n\n\n", "\n\n")
         .replace("\n\n\n", "\n\n")
+        .replace("\n\n\n\n", "\n\n\n")
         .strip("\n")
         # replace with real values
         .replace("&lt", "<").replace("&gt", ">")
         .replace("&amp;", "&")
     )
-    t = t.replace("<br>", "\n").replace("<br />", "\n").replace("\n\n\n\n", "\n\n").replace("\n\n\n", "\n\n").strip("\n").replace("&lt", "<").replace("&gt", ">")
 
-    # a = '"""""""""""' + text.replace("\n\n", "\n")  # .replace("\n", "")
-    # b = '"""""""""""' + t.replace("\n\n", "\n")  # .replace("\n", "")
-    # if a != b:
-    #     if "In the absence of an existing formally adopted Constitution to the contrary" not in text:
-    #         print(a)
-    #         print(b)
-    #         _diff(a, b)
-    #         raise AssertionError
-    return t
+    return text
 
 
 TYPES_CHARS = {
@@ -229,7 +164,7 @@ def _parse_html_list(tag: html.HtmlElement, indent_level: int = 0) -> str:
         raise ValueError("can't have raw li tags!")
 
     count = 0
-    parsed = ["", ""]  # nested lists must be separated by blank lines
+    parsed = [""]  # nested lists must be separated by blank lines
 
     indent = "   " * indent_level  # three spaces per level, ignoring first level
     line_prefix_no_number = indent + "   "
@@ -256,7 +191,7 @@ def _parse_html_list(tag: html.HtmlElement, indent_level: int = 0) -> str:
         if el.tail:
             parsed.append(line_prefix + el.tail)
 
-    parsed += ["", ""]  # nested lists must be separated by blank lines
+    parsed += [""]  # nested lists must be separated by blank lines
     return "\n".join(parsed)
 
 
@@ -299,5 +234,5 @@ if __name__ == '__main__':
     with open("ch3-raw.txt", "r", encoding="utf-8") as f:
         ch3_raw = f.read()
     ch3_text = chapter_text(ch3_raw)
-    with open("chapter-3-b.rst", "w", encoding="utf-8") as f:
+    with open("chapter-3-c.rst", "w", encoding="utf-8") as f:
         f.write(ch3_text)
