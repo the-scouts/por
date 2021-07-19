@@ -22,6 +22,7 @@ EMPH = re.compile("</?em>")
 LIST_ITEM = re.compile("</?li>")
 PARA = re.compile("</?p.*?>")  # needed for e.g. 3.12 with <p style=...>
 LINK = re.compile("""<a .*?href="(.*?)".*?>(.*?)</a>""")
+NEWLINE = re.compile("\n\n+")
 
 
 def chapter_text(content: str) -> str:
@@ -105,11 +106,9 @@ def _html_to_rest(html_text: str) -> str:
     text = text.replace("<strong><br /></strong>", "<br />").replace("<em><br /></em>", "<br />")
     text = STRONG.sub("**", text)
     text = EMPH.sub("*", text)
-    text = (
-        text  # run twice to catch extra tags
-        .replace("**<br />", "**").replace("<br />**", "**").replace("*<br />", "*").replace("<br />*", "*")
-        .replace("**<br />", "**").replace("<br />**", "**").replace("*<br />", "*").replace("<br />*", "*")
-    )
+    text = text.replace("**<br />", "**").replace("<br />**", "**").replace("*<br />", "*").replace("<br />*", "*")
+    # run a second time to catch extra tags
+    text = text.replace("**<br />", "**").replace("<br />**", "**").replace("*<br />", "*").replace("<br />*", "*")
 
     # hyperlinks
     text = LINK.sub(r"`\2 &lt\1&gt`_", text)  # don't use < and > as we split on these later
@@ -118,28 +117,18 @@ def _html_to_rest(html_text: str) -> str:
     text = "\n".join(_parse_html_list(tag) for tag in html.fragments_fromstring(text))
     text = LIST_ITEM.sub("", text)
 
-    # <p> tags
-    text = PARA.sub("\n", text)  # paragraph
-
     text = (
-        text
-        # clean up from para tags
-        .replace("\n\n", "\n")
-        .strip("\n")
+        # <p> tags
+        PARA.sub("\n", text)
         .replace(" \n*", " *")
-        # deal with newlines
-        .replace("<br />", "\n")
-        .replace("<br>", "\n")  # lxml 'normalises' br tags to without the closing slash
-        .replace("\n\n\n\n", "\n\n")
-        .replace("\n\n\n", "\n\n")
-        .replace("\n\n\n\n", "\n\n\n")
-        .strip("\n")
         # replace with real values
         .replace("&lt", "<").replace("&gt", ">")
-        .replace("&amp;", "&")
+        # deal with line breaks
+        .replace("<br />", "\n")
+        .replace("<br>", "\n")  # lxml 'normalises' br tags to without the closing slash
     )
-
-    return text
+    # deal with newlines
+    return NEWLINE.sub("\n\n", text).strip("\n")
 
 
 def _parse_html_list(tag: html.HtmlElement, indent_level: int = 0) -> str:
@@ -223,5 +212,5 @@ if __name__ == '__main__':
     with open("ch3-raw.txt", "r", encoding="utf-8") as f:
         ch3_raw = f.read()
     ch3_text = chapter_text(ch3_raw)
-    with open("chapter-3-d.rst", "w", encoding="utf-8") as f:
+    with open("chapter-3.rst", "w", encoding="utf-8") as f:
         f.write(ch3_text)
