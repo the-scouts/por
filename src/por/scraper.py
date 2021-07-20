@@ -11,28 +11,30 @@ ALPHA = "abcdefghijklmnopqrstuvwxyz"
 ROMAN = ("i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x")
 
 TYPES_CHARS = {
+    "arabic": tuple(str(i) for i in range(1, 26)),  # 100 item list is a bit much
     "alpha": ALPHA,
     "roman": ROMAN,
     "disc": "*",
     "none": " ",
 }
 
-STRONG = re.compile("</?strong>")
-EMPH = re.compile("</?em>")
-LIST_ITEM = re.compile("</?li>")
+STRONG = re.compile("<strong> *| *</strong>")
+EMPH = re.compile("<em> *| *</em>")
+JUNK_TAGS = re.compile("</?(span|div).*?>")
+LIST_ITEM = re.compile("</?li.*?>")
 PARA = re.compile("</?p.*?>")  # needed for e.g. 3.12 with <p style=...>
 LINK = re.compile("""<a .*?href="(.*?)".*?>(.*?)</a>""")
 NEWLINE = re.compile("\n\n+")
 
 
-def chapter_text(content: str) -> str:
+def chapter_text(content: str, tmp_ch: int = -1) -> str:
     chapter_rules = get_rules(_get_chapter_data(content))
 
     chapter_title, chapter_intro = chapter_rules.pop(0)
-    text = [_emit_chapter_start(chapter_title, chapter_intro)]
+    text = [_emit_chapter_start(chapter_title, chapter_intro, tmp_ch=tmp_ch)]
 
-    for rule_title, rule_text in chapter_rules:
-        text.append(_emit_rule(rule_title, rule_text))
+    for i, (rule_title, rule_text) in enumerate(chapter_rules):
+        text.append(_emit_rule(rule_title, rule_text, tmp_ch=tmp_ch, tmp_rl=i+1))
 
     return "\n\n".join(text)
 
@@ -78,21 +80,24 @@ def _get_rule_details(item: dict) -> tuple[str, str]:
     return title, "".join(control["value"] for control in rows[0]["areas"][0]["controls"] if isinstance(control["value"], str))
 
 
-def _emit_chapter_start(title: str, introduction: str) -> str:
-    return _emit_titled_block(title, introduction, page_title=True)
+def _emit_chapter_start(title: str, introduction: str, tmp_ch: int = -1) -> str:
+    return _emit_titled_block(title, introduction, page_title=True, tmp_ch=tmp_ch, tmp_rl=0)
 
 
-def _emit_rule(title: str, text: str) -> str:
-    return _emit_titled_block(title, text, page_title=False)
+def _emit_rule(title: str, text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
+    return _emit_titled_block(title, text, page_title=False, tmp_ch=tmp_ch, tmp_rl=tmp_rl)
 
 
-def _emit_titled_block(title: str, text: str, page_title: bool = False) -> str:
+def _emit_titled_block(title: str, text: str, page_title: bool = False, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
     title = title.replace("’", "'").strip()
     underline = ("=" if page_title else "-") * len(title)
-    return f"{title}\n{underline}\n{_html_to_rest(text)}"
+    return f"{title}\n{underline}\n{_html_to_rest(text, tmp_ch=tmp_ch, tmp_rl=tmp_rl)}"
 
 
-def _html_to_rest(html_text: str) -> str:
+def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
+    loc = (tmp_ch, tmp_rl)
+    if loc >= (2, 11):
+        _a = 1
     if html_text == BLANK_RULE:
         return html_text
 
@@ -106,8 +111,12 @@ def _html_to_rest(html_text: str) -> str:
         .replace("<sup>sv</sup>", ":sup:`sv`")  # scottish variations
     )
 
+    # clear empty elements
+    text = text.replace("<p> </p>", "").replace("<strong> </strong>", "").replace("<em> </em>", "")
+
     # strong and emphasis
     text = text.replace("<strong><br /></strong>", "<br />").replace("<em><br /></em>", "<br />")
+    text = text.replace("</em><em>", "").replace("</strong><strong>", "")
     text = STRONG.sub("**", text)
     text = EMPH.sub("*", text)
     text = text.replace("**<br />", "**").replace("<br />**", "**").replace("*<br />", "*").replace("<br />*", "*")
@@ -117,16 +126,19 @@ def _html_to_rest(html_text: str) -> str:
     # hyperlinks
     text = LINK.sub(r"`\2 &lt\1&gt`_", text)  # don't use < and > as we split on these later
 
+    # all tags to be removed must be explicitly listed
+    text = JUNK_TAGS.sub("", text)
+
     # lists
     text = "\n".join(_parse_html_list(tag) for tag in html.fragments_fromstring(text))
     text = LIST_ITEM.sub("", text)
 
     text = (
         # <p> tags
-        PARA.sub("\n", text)
-        .replace(" \n*", " *")
+        PARA.sub("\n\n", text)
+        .replace(" \n*", " *").replace(" \n\n*", " *")
         # replace with real values
-        .replace("&lt", "<").replace("&gt", ">")
+        .replace("&amp;", "&").replace("&lt", "<").replace("&gt", ">")
         # deal with line breaks
         .replace("<br />", "\n")
         .replace("<br>", "\n")  # lxml 'normalises' br tags to without the closing slash
@@ -143,16 +155,19 @@ def _parse_html_list(tag: html.HtmlElement, indent_level: int = 0) -> str:
     # ordered list
     if name == "ol":
         ordered = True
-        list_type = "alpha"
-        if "lower-roman" in tag.get("style", ""):
+        list_type = "arabic"
+        if "list-style-type: lower-alpha" in tag.get("style", "") or tag.get("type") == "a":
+            list_type = "alpha"
+        elif "list-style-type: lower-roman" in tag.get("style", "") or tag.get("type") == "i":
             list_type = "roman"
 
     # unordered list
     elif name == "ul":
         ordered = False
         list_type = "disc"
-        if "none" in tag.get("style", ""):
+        if "list-style-type: none" in tag.get("style", ""):
             list_type = "none"
+            raise Exception()  # none list doesnt render in rest. flag locations
 
     # list items
     else:
@@ -162,14 +177,15 @@ def _parse_html_list(tag: html.HtmlElement, indent_level: int = 0) -> str:
     parsed = [""]  # nested lists must be separated by blank lines
 
     indent = "   " * indent_level  # three spaces per level, ignoring first level
-    line_prefix_no_number = indent + "   "
+
     for el in tag:
-        list_char = f"{TYPES_CHARS[list_type][count if ordered else 0] + '.' * ordered: <3}"
+        list_char = f"{TYPES_CHARS[list_type][count if ordered else 0] + '.' * ordered + ' ': <3}"
         line_prefix = indent + list_char
+        line_prefix_no_number = " " * len(line_prefix)
         count += 1
 
         if el.text:
-            parsed.append(line_prefix + el.text)
+            parsed.append(line_prefix + el.text.strip())
             line_prefix = line_prefix_no_number
         for sub in el:
             if sub.tag in {"ol", "ul"}:
@@ -192,7 +208,10 @@ def _parse_html_list(tag: html.HtmlElement, indent_level: int = 0) -> str:
 
 def _stringify_element(el: html.HtmlElement) -> str:
     # .__copy__() fixes bug with text serialisation (tostring otherwise prints the entire document)
-    return html.tostring(el.__copy__(), encoding="unicode").rstrip("\n").strip()
+    html_text = html.tostring(el.__copy__(), encoding="unicode").rstrip("\n").strip()
+    if el.tail and html_text.endswith(f"{el.tail}\n{el.tail}"):
+        return html_text.removesuffix(f"\n{el.tail}")
+    return html_text
 
 
 if __name__ == '__main__':
@@ -216,6 +235,35 @@ if __name__ == '__main__':
     #     p = Path(f"ch{i}-raw.txt")
     #     p.write_text(requests.get("https://www.scouts.org.uk" + link).content.decode("utf-8"), encoding="utf-8")
 
-    for i in range(1, 15+1):
+    # chapters = [*range(1, 15+1)]
+    chapters = [1, 2]
+    for i in chapters:
         raw = Path(f"ch{i}-raw.txt").read_text(encoding="utf-8")
-        Path(f"chapter-{i}.rst").write_text(chapter_text(raw), encoding="utf-8")
+        exp = Path(f"chapter-{i}.exp.rst")  # expected
+        out = chapter_text(raw, tmp_ch=i)
+        if exp.is_file():
+            assert exp.read_text(encoding="utf-8") == out
+        Path(f"chapter-{i}.rst").write_text(out, encoding="utf-8")
+
+# TODO POR typos:
+#   ch1 scout promise (extra closing paren)
+#   ch1 1.1 (item b used twice)
+#   ch2 dev pol (between para 1&2 only has one line break)
+#   ch2 dev pol (operations committee)
+#   ch2 eq opps (no space before 3.11b link)
+#   ch2 eq opps (reasonable adjs -> members area is dead)
+#   ch2 eq opps (leaders -> Rule 2 (outdated?))
+#   ch2 2.5 (bold enumerated items aren't a list)
+
+# FIXME not fixable through automatic parser:
+#   --- use line block syntax:
+#   ch1 scout promise (line breaks in promise not showing)
+#   ch1 cub scout promise (line breaks in promise not showing)
+#   ch1 cub scout law (line breaks in promise not showing)
+#   ch1 beaver scout promise (line breaks in promise not showing)
+#   ch1 1.1 (line breaks in promise/laws not showing)
+#   --- add manual line break
+#   ch2 religious (line break after bold)
+
+# TODO snags:
+#   ---
