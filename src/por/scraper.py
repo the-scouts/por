@@ -254,6 +254,16 @@ if __name__ == '__main__':
 #   ch2 eq opps (reasonable adjs -> members area is dead)
 #   ch2 eq opps (leaders -> Rule 2 (outdated?))
 #   ch2 2.5 (bold enumerated items aren't a list)
+#   3.9 (double rule 3.9(l))
+#   3.11/12 (types of group should be a Rule)
+#   3.17(b) (random 'Sponsored Scout Groups.')
+#   3.19(a) (form C2)
+#   3.23(b)(iv)(2,3) (subCommittee)
+#   3.23(3,4) (should be c,d no?)
+#   3.42(a)(i) (maintaining comms - extra line breaks)
+#   3.42(a)(i) (nominating the chair - extra line breaks)
+#   3.42(b)(i) (a deputy - extra line breaks)
+#   3.42(d)(i) (the section leader - extra line breaks)
 
 # FIXME not fixable through automatic parser:
 #   --- use line block syntax:
@@ -264,6 +274,33 @@ if __name__ == '__main__':
 #   ch1 1.1 (line breaks in promise/laws not showing)
 #   --- add manual line break
 #   ch2 religious (line break after bold)
+#   --- make bullets sane
+#   3.23 all the bullets, generally
+
 
 # TODO snags:
 #   ---
+#   3.7 (b/c bold leadership needs a newline)
+#   3.7 (i/j bold age range etc needs a newline)
+#   3.7 (m/n bold min standards needs a newline)
+#   3.8 (b/c bold leadership needs a newline)
+#   3.8 (i/j bold age range etc needs a newline)
+#   3.8 (m/n bold min standards needs a newline)
+#   3.9 (b/c bold leadership needs a newline)
+#   3.9 (i/j bold age range etc needs a newline)
+#   3.9 (l/m bold min standards needs a newline)
+#   3.9 (second rule l not on new line)
+#   3.11/12 (types of group needs a newline)
+#   3.16 (h) (further information needs a newline)
+#   3.23(a) (needs a newline after title)
+#   3.23(a)(i) (needs a newline after title)
+#   3.23(a)(i) (nominated note should be indented)
+#   3.23(b)(ii) (the exec must also needs a newline)
+#   3.23(b)(iii) (ex officio needs a newline)
+#   3.23(b)(iii) (elected needs a newline)
+#   3.23(b)(iii) (nominated needs a newline)
+#   3.23(b)(iii) (co-opted needs a newline)
+#   3.23(b)(iii) (right of needs a newline)
+#   3.43(i) (ongoing learning needs a newline)
+#   3.43(j) (for more information needs a newline)
+#   3.45 (awards and badges needs a newline)
