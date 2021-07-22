@@ -147,7 +147,7 @@ def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
     return NEWLINE.sub("\n\n", text).strip("\n")
 
 
-def _parse_html_list(tag: html.HtmlElement, indent_level: int = 0) -> str:
+def _parse_html_list(tag: html.HtmlElement, indent_by: int = 0) -> str:
     name = tag.tag
     if name not in {"ol", "ul", "li"}:
         return _stringify_element(tag)
@@ -176,12 +176,13 @@ def _parse_html_list(tag: html.HtmlElement, indent_level: int = 0) -> str:
     count = 0
     parsed = [""]  # nested lists must be separated by blank lines
 
-    indent = "   " * indent_level  # three spaces per level, ignoring first level
+    indent = " " * indent_by  # three spaces per level, ignoring first level
 
     for el in tag:
         list_char = f"{TYPES_CHARS[list_type][count if ordered else 0] + '.' * ordered + ' ': <3}"
         line_prefix = indent + list_char
-        line_prefix_no_number = " " * len(line_prefix)
+        new_indent = len(line_prefix)
+        line_prefix_no_number = " " * new_indent
         count += 1
 
         if el.text:
@@ -190,7 +191,7 @@ def _parse_html_list(tag: html.HtmlElement, indent_level: int = 0) -> str:
         for sub in el:
             if sub.tag in {"ol", "ul"}:
                 # nested list must be separated by blank lines
-                parsed += ["", _parse_html_list(sub, indent_level=indent_level+1), ""]
+                parsed += ["", _parse_html_list(sub, indent_by=new_indent), ""]
             elif sub.tag == "br":
                 parsed.append("<br />")
             else:
@@ -236,7 +237,7 @@ if __name__ == '__main__':
     #     p.write_text(requests.get("https://www.scouts.org.uk" + link).content.decode("utf-8"), encoding="utf-8")
 
     # chapters = [*range(1, 15+1)]
-    chapters = [1, 2]
+    chapters = [1, 2, 3]
     for i in chapters:
         raw = Path(f"ch{i}-raw.txt").read_text(encoding="utf-8")
         exp = Path(f"chapter-{i}.exp.rst")  # expected
