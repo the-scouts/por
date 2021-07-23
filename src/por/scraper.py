@@ -23,7 +23,7 @@ EMPH = re.compile("<em> *| *</em>")
 JUNK_TAGS = re.compile("</?(span|div).*?>")
 LIST_ITEM = re.compile("</?li.*?>")
 PARA = re.compile("</?p.*?>")  # needed for e.g. 3.12 with <p style=...>
-LINK = re.compile("""<a .*?href="(.*?)".*?>(.*?)</a>""")
+LINK = re.compile(r"""<a .*?href="(.*?)".*?>(\s*)(.*?)(\s*)</a>""")
 NEWLINE = re.compile("\n\n+")
 
 
@@ -34,7 +34,10 @@ def chapter_text(content: str, tmp_ch: int = -1) -> str:
     text = [_emit_chapter_start(chapter_title, chapter_intro, tmp_ch=tmp_ch)]
 
     for i, (rule_title, rule_text) in enumerate(chapter_rules):
-        text.append(_emit_rule(rule_title, rule_text, tmp_ch=tmp_ch, tmp_rl=i+1))
+        if tmp_ch >= 3:
+            text.append(_emit_rule(f"Rule {tmp_ch}.{i+1} {rule_title}", rule_text, tmp_ch=tmp_ch, tmp_rl=i+1))
+        else:
+            text.append(_emit_rule(rule_title, rule_text, tmp_ch=tmp_ch, tmp_rl=i+1))
 
     return "\n\n".join(text)
 
@@ -96,7 +99,7 @@ def _emit_titled_block(title: str, text: str, page_title: bool = False, tmp_ch: 
 
 def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
     loc = (tmp_ch, tmp_rl)
-    if loc >= (2, 11):
+    if loc >= (3, 23):
         _a = 1
     if html_text == BLANK_RULE:
         return html_text
@@ -115,16 +118,20 @@ def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
     text = text.replace("<p> </p>", "").replace("<strong> </strong>", "").replace("<em> </em>", "")
 
     # strong and emphasis
-    text = text.replace("<strong><br /></strong>", "<br />").replace("<em><br /></em>", "<br />")
-    text = text.replace("</em><em>", "").replace("</strong><strong>", "")
+    text = (
+        text.replace("<strong><br /></strong>", "<br />").replace("<em><br /></em>", "<br />")
+        .replace("</em><em>", "").replace("</strong><strong>", "")
+        .replace("<strong><br />", "<br /><strong>").replace("<br /></strong>", "</strong><br />")
+        .replace("<em><br />", "<br /><em>").replace("<br /></em>", "</em><br />")
+        # run twice to catch extra tags (e.g. 3.6(a,b,c,d,e))
+        .replace("<strong><br />", "<br /><strong>").replace("<br /></strong>", "</strong><br />")
+        .replace("<em><br />", "<br /><em>").replace("<br /></em>", "</em><br />")
+    )
     text = STRONG.sub("**", text)
     text = EMPH.sub("*", text)
-    text = text.replace("**<br />", "**").replace("<br />**", "**").replace("*<br />", "*").replace("<br />*", "*")
-    # run a second time to catch extra tags
-    text = text.replace("**<br />", "**").replace("<br />**", "**").replace("*<br />", "*").replace("<br />*", "*")
 
     # hyperlinks
-    text = LINK.sub(r"`\2 &lt\1&gt`_", text)  # don't use < and > as we split on these later
+    text = LINK.sub(r"\2`\3 &lt\1&gt`_\4", text)  # don't use < and > as we split on these later
 
     # all tags to be removed must be explicitly listed
     text = JUNK_TAGS.sub("", text)
@@ -166,7 +173,7 @@ def _parse_html_list(tag: html.HtmlElement, indent_by: int = 0) -> str:
         ordered = False
         list_type = "disc"
         if "list-style-type: none" in tag.get("style", ""):
-            list_type = "none"
+            # list_type = "none"
             raise Exception()  # none list doesnt render in rest. flag locations
 
     # list items
@@ -194,6 +201,18 @@ def _parse_html_list(tag: html.HtmlElement, indent_by: int = 0) -> str:
                 parsed += ["", _parse_html_list(sub, indent_by=new_indent), ""]
             elif sub.tag == "br":
                 parsed.append("<br />")
+            elif sub.tag == "p":
+                parsed.append("")
+                if sub.text:
+                    parsed.append(line_prefix + sub.text)
+                    line_prefix = line_prefix_no_number
+                if sub_subs := "".join(_stringify_element(sub_sub) for sub_sub in sub):
+                    parsed.append(line_prefix + sub_subs)
+                    line_prefix = line_prefix_no_number
+                if sub.tail:
+                    parsed.append(line_prefix + sub.tail)
+                    line_prefix = line_prefix_no_number
+                parsed.append("")
             else:
                 parsed.append(line_prefix + _stringify_element(sub))
                 line_prefix = line_prefix_no_number
@@ -274,34 +293,11 @@ if __name__ == '__main__':
 #   ch1 beaver scout promise (line breaks in promise not showing)
 #   ch1 1.1 (line breaks in promise/laws not showing)
 #   --- add manual line break
-#   ch2 religious (line break after bold)
+#   ch2 religious (extra line break after bold)
+#   3.23(a)(i) (needs a newline after ex officio)
 #   --- make bullets sane
-#   3.23 all the bullets, generally
+#   3.23 all the bullets, generally. e.g. (a)(i) isn't a new list but a literal `i.`
 
 
 # TODO snags:
 #   ---
-#   3.7 (b/c bold leadership needs a newline)
-#   3.7 (i/j bold age range etc needs a newline)
-#   3.7 (m/n bold min standards needs a newline)
-#   3.8 (b/c bold leadership needs a newline)
-#   3.8 (i/j bold age range etc needs a newline)
-#   3.8 (m/n bold min standards needs a newline)
-#   3.9 (b/c bold leadership needs a newline)
-#   3.9 (i/j bold age range etc needs a newline)
-#   3.9 (l/m bold min standards needs a newline)
-#   3.9 (second rule l not on new line)
-#   3.11/12 (types of group needs a newline)
-#   3.16 (h) (further information needs a newline)
-#   3.23(a) (needs a newline after title)
-#   3.23(a)(i) (needs a newline after title)
-#   3.23(a)(i) (nominated note should be indented)
-#   3.23(b)(ii) (the exec must also needs a newline)
-#   3.23(b)(iii) (ex officio needs a newline)
-#   3.23(b)(iii) (elected needs a newline)
-#   3.23(b)(iii) (nominated needs a newline)
-#   3.23(b)(iii) (co-opted needs a newline)
-#   3.23(b)(iii) (right of needs a newline)
-#   3.43(i) (ongoing learning needs a newline)
-#   3.43(j) (for more information needs a newline)
-#   3.45 (awards and badges needs a newline)

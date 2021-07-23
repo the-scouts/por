@@ -166,9 +166,11 @@ The Scout Movement includes Members of many different faiths and religions as we
 *  consider belonging to some faith or religious body;
 *  carry into daily practice what they profess.
 
-**Attendance at services**If a Scout Group, Explorer Scout Unit or Scout Network is composed of members of several denominations, religions or beliefs, the young people should be encouraged to attend services relevant to their own form of religion or belief.
+**Attendance at services**
+If a Scout Group, Explorer Scout Unit or Scout Network is composed of members of several denominations, religions or beliefs, the young people should be encouraged to attend services relevant to their own form of religion or belief.
 
-**Chaplains**Chaplains may be appointed as Advisers in Scout Groups, Districts, Counties, Countries and Nationally. A Chaplain may be a Minister of Religion or a lay person.
+**Chaplains**
+Chaplains may be appointed as Advisers in Scout Groups, Districts, Counties, Countries and Nationally. A Chaplain may be a Minister of Religion or a lay person.
 
 In a Scout Group sponsored by a religious body the religious leader may be appointed Group Chaplain.
 
