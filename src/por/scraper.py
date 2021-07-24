@@ -19,8 +19,8 @@ TYPES_CHARS = {
     "none": " ",
 }
 
-STRONG = re.compile("<strong> *| *</strong>")
-EMPH = re.compile("<em> *| *</em>")
+STRONG = re.compile("<strong>(?P<open> *)|(?P<close> *)</strong>")
+EMPH = re.compile("<em>(?P<open> *)|(?P<close> *)</em>")
 JUNK_TAGS = re.compile("</?(span|div).*?>")
 LIST_ITEM = re.compile("</?li.*?>")
 PARA = re.compile("</?p.*?>")  # needed for e.g. 3.12 with <p style=...>
@@ -132,8 +132,8 @@ def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
         .replace("<strong><br />", "<br /><strong>").replace("<br /></strong>", "</strong><br />")
         .replace("<em><br />", "<br /><em>").replace("<br /></em>", "</em><br />")
     )
-    text = STRONG.sub("**", text)
-    text = EMPH.sub("*", text)
+    text = STRONG.sub(r"\g<open>**\g<close>", text)
+    text = EMPH.sub(r"\g<open>*\g<close>", text)
     text = text.replace(" :sup:`sv`**", "** :sup:`sv`")  # can't have nested markup :(
 
     # hyperlinks
@@ -262,7 +262,7 @@ if __name__ == '__main__':
     #     p.write_text(requests.get("https://www.scouts.org.uk" + link).content.decode("utf-8"), encoding="utf-8")
 
     # chapters = [*range(1, 15+1)]
-    chapters = (1, 2, 3, 4, 5)
+    chapters = (1, 2, 3, 4, 5, 6)
     for i in chapters:
         raw = Path(f"ch{i}-raw.txt").read_text(encoding="utf-8")
         exp = Path(f"chapter-{i}.exp.rst")  # expected
@@ -324,6 +324,11 @@ if __name__ == '__main__':
 #   ch1 1.1 (line breaks in promise/laws not showing)
 #   --- add manual line break
 #   ch2 religious (extra line break after bold)
+#   ch6 membership council (line breaks nominated, elected)
+#   ch6 membership board (line breaks elected/youth/appointed/attending/right)
+#   ch6 national leaders (extra line break after bold)
+#   ch6 headquarters (extra line break after bold)
+#   ch6 nations (extra line break after bold)
 #   3.23(a)(i) (needs a newline after ex officio)
 #   --- make bullets sane
 #   3.23 all the bullets, generally. e.g. (a)(i) isn't a new list but a literal `i.`
