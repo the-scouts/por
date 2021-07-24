@@ -100,10 +100,10 @@ def _emit_titled_block(title: str, text: str, page_title: bool = False, tmp_ch: 
 
 def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
     loc = (tmp_ch, tmp_rl)
-    if loc >= (3, 23):
+    if loc >= (8, 0):
         _a = 1
-    if tmp_rl > 0 and (not html_text or html_text == BLANK_RULE):
-        return BLANK_RULE
+    if not html_text or html_text == BLANK_RULE:
+        return "" if tmp_rl == 0 else BLANK_RULE
 
     # assert count <(p|a|ol|ul|li|em|strong|sup) == count <[a-zA-Z]
     text = (
@@ -262,7 +262,7 @@ if __name__ == '__main__':
     #     p.write_text(requests.get("https://www.scouts.org.uk" + link).content.decode("utf-8"), encoding="utf-8")
 
     # chapters = [*range(1, 15+1)]
-    chapters = (1, 2, 3, 4, 5, 6, 7)
+    chapters = (1, 2, 3, 4, 5, 6, 7, 8)
     for i in chapters:
         raw = Path(f"ch{i}-raw.txt").read_text(encoding="utf-8")
         exp = Path(f"chapter-{i}.exp.rst")  # expected
@@ -339,6 +339,8 @@ if __name__ == '__main__':
 #   4.1(a) - <p> tags used, don't need them
 #   --- CSS formatting of titles
 #   4.25(e/f/i) can't have nested markup (sup inside bold)
+#   --- add manual unity callout link thing
+#   8.1(e) unity "call to action" box
 
 
 # TODO snags:
