@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import re
 
+from docutils.core import publish_string
 from lxml import html
 
 BLANK_RULE = "BLANK RULE DUMMY"
@@ -267,6 +268,17 @@ if __name__ == '__main__':
         if exp.is_file():
             assert exp.read_text(encoding="utf-8") == out, f"Chapter {i} not equal!"
         Path(f"chapter-{i}.rst").write_text(out, encoding="utf-8")
+        rst_source = out
+        # rst_source = Path(f"chapter-{i}.rst").read_text(encoding="utf-8")
+        Path(f"chapter-{i}.html").write_text(
+            publish_string(
+                source=rst_source,
+                writer_name="html5",
+                settings_overrides={"stylesheet_path": "por.css"},  # , "embed_stylesheet": False
+            ).decode("utf-8"),
+            encoding="utf-8"
+        )
+
 
 # TODO POR typos:
 #   ch1 scout promise (extra closing paren)
