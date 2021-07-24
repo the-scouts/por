@@ -650,7 +650,7 @@ iv. The Group Scout Council must hold an Annual General Meeting within six month
       *  Certain people are disqualified from being Charity Trustees by virtue of the Charities Acts. (See rule `13.1) <https://beta.scouts.org.uk/por/13-trusteeship-property-and-equipment/#13.1#13.1>`__
       *  Charity Trustees are responsible for ensuring compliance with all relevant legislation including the Data Protection Act 2018.
       *  Complete Module 1 Essential Information, Safety, Safeguarding, GDPR and Trustee Introduction training within 5 months of the role start date.
-      *  Some Groups may also need to register as a charity. (See Rule `13.3). <https://beta.scouts.org.uk/por/13-trusteeship-property-and-equipment/#13.3#13.3>`__:sup:`sv`
+      *  Some Groups may also need to register as a charity. (See Rule `13.3). <https://beta.scouts.org.uk/por/13-trusteeship-property-and-equipment/#13.3#13.3>`__\ :sup:`sv`
 
 *  **The Group Leaders' Meeting**
 
