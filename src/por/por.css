@@ -1,0 +1,18 @@
+/* POR Styles */
+
+body {
+    font-family: "Nunito Sans", Arial, sans-serif;
+    max-width: 50rem;
+    width: 75%;
+    margin: auto;
+}
+h1, h2 { border-bottom: solid lightgrey 1px }
+ol.arabic     { list-style-type: decimal }
+ol.loweralpha { list-style-type: lower-alpha }
+ol.lowerroman { list-style-type: lower-roman }
+
+/* Docutils System Messages, Warnings & Errors */
+.system-messages, .system-message-title, .problematic, .error, .admonition-title {
+    color: red;
+    font-weight: bold;
+}
