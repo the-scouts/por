@@ -83,7 +83,7 @@ b. Alternative wording of the Promise that young people and adults may wish to u
 
 **The Scout Promise**
 
-*(for Scouts, Explorer Scouts, the Scout Network and adults)*
+*(for Scouts, Explorer Scouts, the Scout Network and adults)* 
 
 **The Scout Promise for members who are Atheist or of no faith background**
 
@@ -94,7 +94,7 @@ to uphold our Scout values, to do my duty to The Queen,
 to help other people
 and to keep the Scout Law.
 
-**The Scout Promise for members who are Buddhist**
+**The Scout Promise for members who are Buddhist** 
 
 On my honour,
 I promise that I will do my best
@@ -175,7 +175,7 @@ to uphold our Scout values, to do my duty to The Queen,
 to help other people
 and to keep the Cub Scout Law.
 
-**The Cub Scout Promise for members who are Buddhist**
+**The Cub Scout Promise for members who are Buddhist** 
 
 I promise that I will do my best
 to seek refuge in the Triple Gem, to do my duty to The Queen,
@@ -237,7 +237,7 @@ and to keep the Cub Scout Law.
 
 I promise to do my best to be kind and helpful and to love our world.
 
-**The Beaver Scout Promise for members who are Buddhist**
+**The Beaver Scout Promise for members who are Buddhist** 
 
 I promise to do my best to be kind and helpful and to act with love towards everyone.
 
