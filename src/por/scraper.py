@@ -35,7 +35,7 @@ def chapter_text(content: str, tmp_ch: int = -1) -> str:
     text = [_emit_chapter_start(chapter_title, chapter_intro, tmp_ch=tmp_ch)]
 
     for i, (rule_title, rule_text) in enumerate(chapter_rules):
-        if tmp_ch >= 3:
+        if tmp_ch in {3, 4, 5, 7, 9, 10, 11, 12, 13, 14, 15}:  # + POR TAP
             text.append(_emit_rule(f"Rule {tmp_ch}.{i+1} {rule_title}", rule_text, tmp_ch=tmp_ch, tmp_rl=i+1))
         else:
             text.append(_emit_rule(rule_title, rule_text, tmp_ch=tmp_ch, tmp_rl=i+1))
@@ -102,7 +102,7 @@ def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
     loc = (tmp_ch, tmp_rl)
     if loc >= (3, 23):
         _a = 1
-    if html_text == BLANK_RULE or (not html_text and tmp_ch >= 5):  # TODO update exp files and remove ch5+ restriction
+    if tmp_rl > 0 and (not html_text or html_text == BLANK_RULE):
         return BLANK_RULE
 
     # assert count <(p|a|ol|ul|li|em|strong|sup) == count <[a-zA-Z]
