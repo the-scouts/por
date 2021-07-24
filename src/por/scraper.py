@@ -111,7 +111,8 @@ def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
         .replace('“', '"').replace('”', '"')  # curly double quotes
         .replace("–", "--")  # en dash
         .replace("½", " 1/2").replace("¾", " 3/4")  # unicode fractions
-        .replace("<sup>sv</sup>", ":sup:`sv`")  # scottish variations
+        .replace(" <sup>sv</sup>", " :sup:`sv`").replace("<sup>sv</sup>", r"\ :sup:`sv`")  # scottish variations
+        .replace("<sup>th</sup>", "\ :sup:`th`")  # e.g. 4.44(f)(iv)
     )
 
     # clear empty elements
@@ -120,6 +121,7 @@ def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
     # strong and emphasis
     text = (
         text.replace("<strong><br /></strong>", "<br />").replace("<em><br /></em>", "<br />")
+        .replace("<strong>. </strong>", ". ")  # 4.25(f)(v) special case
         .replace("</em><em>", "").replace("</strong><strong>", "")
         .replace("<strong><br />", "<br /><strong>").replace("<br /></strong>", "</strong><br />")
         .replace("<em><br />", "<br /><em>").replace("<br /></em>", "</em><br />")
@@ -129,6 +131,7 @@ def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
     )
     text = STRONG.sub("**", text)
     text = EMPH.sub("*", text)
+    text = text.replace(" :sup:`sv`**", "** :sup:`sv`")  # can't have nested markup :(
 
     # hyperlinks
     text = LINK.sub(r"\2`\3 &lt\1&gt`__\4", text)  # don't use < and > as we split on these later
@@ -256,13 +259,13 @@ if __name__ == '__main__':
     #     p.write_text(requests.get("https://www.scouts.org.uk" + link).content.decode("utf-8"), encoding="utf-8")
 
     # chapters = [*range(1, 15+1)]
-    chapters = [1, 2, 3]
+    chapters = [1, 2, 3, 4]
     for i in chapters:
         raw = Path(f"ch{i}-raw.txt").read_text(encoding="utf-8")
         exp = Path(f"chapter-{i}.exp.rst")  # expected
         out = chapter_text(raw, tmp_ch=i)
         if exp.is_file():
-            assert exp.read_text(encoding="utf-8") == out
+            assert exp.read_text(encoding="utf-8") == out, f"Chapter {i} not equal!"
         Path(f"chapter-{i}.rst").write_text(out, encoding="utf-8")
 
 # TODO POR typos:
@@ -285,6 +288,7 @@ if __name__ == '__main__':
 #   3.42(b)(i) (a deputy - extra line breaks)
 #   3.42(d)(i) (the section leader - extra line breaks)
 #   4.1(q/r) (Associate Members too indented)
+#   4.5(b) extra line break of the annual census
 #   4.9(b) (A, B should be sub-bullets)
 #   4.11(i) (activity should have em dash)
 #   4.25 (bullets & indentation generally)
@@ -310,15 +314,9 @@ if __name__ == '__main__':
 #   4.45(c) the sub list is completely detached
 #   --- update docutils transformer code for compact lists
 #   4.1(a) - <p> tags used, don't need them
+#   --- CSS formatting of titles
+#   4.25(e/f/i) can't have nested markup (sup inside bold)
 
 
 # TODO snags:
 #   ---
-#   4.5(b) extra line break of the annual census
-#   4.25(e) - SV broken
-#   4.25(f) - SV broken
-#   4.25(f)(v) - bold broken
-#   4.25(i) - SV broken
-#   4.26(e) - SV broken
-#   4.26(f) - SV broken
-#   4.44(f)(iv) th superscript broken
