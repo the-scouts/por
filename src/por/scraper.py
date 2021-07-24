@@ -284,6 +284,15 @@ if __name__ == '__main__':
 #   3.42(a)(i) (nominating the chair - extra line breaks)
 #   3.42(b)(i) (a deputy - extra line breaks)
 #   3.42(d)(i) (the section leader - extra line breaks)
+#   4.1(q/r) (Associate Members too indented)
+#   4.9(b) (A, B should be sub-bullets)
+#   4.11(i) (activity should have em dash)
+#   4.25 (bullets & indentation generally)
+#   4.26(c) extra line break (For \n example)
+#   4.37(e) (closing paren before sub list)
+#   4.44(e) (section ADCs don't include the word "support")
+#   4.64(f) extra line break (Committee \n requesting)
+#   4.64(f) extra line break (Membership \n Subscription)
 
 # FIXME not fixable through automatic parser:
 #   --- use line block syntax:
@@ -297,7 +306,19 @@ if __name__ == '__main__':
 #   3.23(a)(i) (needs a newline after ex officio)
 #   --- make bullets sane
 #   3.23 all the bullets, generally. e.g. (a)(i) isn't a new list but a literal `i.`
+#   4.25 ditto
+#   4.45(c) the sub list is completely detached
+#   --- update docutils transformer code for compact lists
+#   4.1(a) - <p> tags used, don't need them
 
 
 # TODO snags:
 #   ---
+#   4.5(b) extra line break of the annual census
+#   4.25(e) - SV broken
+#   4.25(f) - SV broken
+#   4.25(f)(v) - bold broken
+#   4.25(i) - SV broken
+#   4.26(e) - SV broken
+#   4.26(f) - SV broken
+#   4.44(f)(iv) th superscript broken
