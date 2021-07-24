@@ -688,7 +688,7 @@ m. Members of Scout Network are required to undertake a Personal Enquiry without
 
 Rule 4.29  This rule is intentionally left blank
 ------------------------------------------------
-
+BLANK RULE DUMMY
 
 Rule 4.30 This rule is intentionally left blank
 -----------------------------------------------
@@ -696,7 +696,7 @@ BLANK RULE DUMMY
 
 Rule 4.31 This rule is intentionally left blank
 -----------------------------------------------
-
+BLANK RULE DUMMY
 
 Rule 4.32  This rule is intentionally left blank
 ------------------------------------------------
@@ -704,7 +704,7 @@ BLANK RULE DUMMY
 
 Rule 4.33  This rule is intentionally left blank
 ------------------------------------------------
-
+BLANK RULE DUMMY
 
 Rule 4.34 This rule is intentionally left blank
 -----------------------------------------------
@@ -712,11 +712,11 @@ BLANK RULE DUMMY
 
 Rule 4.35 This rule is intentionally left blank
 -----------------------------------------------
-
+BLANK RULE DUMMY
 
 Rule 4.36  This rule is intentionally left blank
 ------------------------------------------------
-
+BLANK RULE DUMMY
 
 Rule 4.37 The Appointment of Explorer Scout Young Leaders
 ---------------------------------------------------------
@@ -753,11 +753,11 @@ e. The procedures for enquiry and the appointment of adults must be followed.
 
 Rule 4.39  This rule is left intentionally blank
 ------------------------------------------------
-
+BLANK RULE DUMMY
 
 Rule 4.40 This rule is left intentionally blank
 -----------------------------------------------
-
+BLANK RULE DUMMY
 
 Rule 4.41  This rule is left intentionally blank
 ------------------------------------------------
