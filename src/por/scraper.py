@@ -272,7 +272,7 @@ if __name__ == '__main__':
     #     p.write_text(requests.get("https://www.scouts.org.uk" + link).content.decode("utf-8"), encoding="utf-8")
 
     # chapters = [*range(1, 15+1)]
-    chapters = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+    chapters = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11)
     for i in chapters:
         raw = Path(f"ch{i}-raw.txt").read_text(encoding="utf-8")
         exp = Path(f"chapter-{i}.exp.rst")  # expected
@@ -356,6 +356,7 @@ if __name__ == '__main__':
 #   --- add manual unity callout link thing
 #   8.1(e) unity "call to action" box
 #   10.20, 10."Uniform Diagrams" -- link to PDF etc, or transclude
+#   11.5(i) good service awards "call to action" box
 
 
 # TODO snags:
