@@ -102,8 +102,8 @@ def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
     loc = (tmp_ch, tmp_rl)
     if loc >= (3, 23):
         _a = 1
-    if html_text == BLANK_RULE:
-        return html_text
+    if html_text == BLANK_RULE or (not html_text and tmp_ch >= 5):  # TODO update exp files and remove ch5+ restriction
+        return BLANK_RULE
 
     # assert count <(p|a|ol|ul|li|em|strong|sup) == count <[a-zA-Z]
     text = (
@@ -113,7 +113,9 @@ def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
         .replace("–", "--")  # en dash
         .replace("½", " 1/2").replace("¾", " 3/4")  # unicode fractions
         .replace(" <sup>sv</sup>", " :sup:`sv`").replace("<sup>sv</sup>", r"\ :sup:`sv`")  # scottish variations
-        .replace("<sup>th</sup>", "\ :sup:`th`")  # e.g. 4.44(f)(iv)
+        .replace(" <sup>SV</sup>", " :sup:`SV`")  # e.g. 5.45(b)
+        .replace("<em><sup>SV</sup></em>", r"\ :sup:`SV`")  # e.g. 5.35(a)(vii)
+        .replace("<sup>th</sup>", r"\ :sup:`th`")  # e.g. 4.44(f)(iv)
     )
 
     # clear empty elements
@@ -260,7 +262,7 @@ if __name__ == '__main__':
     #     p.write_text(requests.get("https://www.scouts.org.uk" + link).content.decode("utf-8"), encoding="utf-8")
 
     # chapters = [*range(1, 15+1)]
-    chapters = [1, 2, 3, 4]
+    chapters = (1, 2, 3, 4, 5)
     for i in chapters:
         raw = Path(f"ch{i}-raw.txt").read_text(encoding="utf-8")
         exp = Path(f"chapter-{i}.exp.rst")  # expected
@@ -309,6 +311,9 @@ if __name__ == '__main__':
 #   4.44(e) (section ADCs don't include the word "support")
 #   4.64(f) extra line break (Committee \n requesting)
 #   4.64(f) extra line break (Membership \n Subscription)
+#   5.1(p/q) (Associate Members too indented)
+#   5.9(i) (activity should have em dash)
+#   5.16 (bullets & indentation generally)
 
 # FIXME not fixable through automatic parser:
 #   --- use line block syntax:
@@ -323,6 +328,7 @@ if __name__ == '__main__':
 #   --- make bullets sane
 #   3.23 all the bullets, generally. e.g. (a)(i) isn't a new list but a literal `i.`
 #   4.25 ditto
+#   5.16 ditto
 #   4.45(c) the sub list is completely detached
 #   --- update docutils transformer code for compact lists
 #   4.1(a) - <p> tags used, don't need them
