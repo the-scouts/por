@@ -56,7 +56,7 @@ All Members of the Movement should seek to practise equality, especially in prom
 
 Reasonable adjustments means actions to enable young people with disabilities to access Scouting and Scouting activities, as far as reasonably possible, to the same level as young people without disabilities. This should involve working in partnership with parents/carers, to identify needs and support strategies.
 
-Reasonable steps should also be taken to identify any young people with disabilities in the Section/Group.(`See Rule 3.11b for further guidance around reasonable adjustments </por/3-the-scout-group/311-section-flexibility/>`_).
+Reasonable steps should also be taken to identify any young people with disabilities in the Section/Group.(`See Rule 3.11b for further guidance around reasonable adjustments </por/3-the-scout-group/311-section-flexibility/>`__).
 
 Further information about equalities legislation and Scouting is available via the members area of the website.
 
@@ -116,7 +116,7 @@ Privacy and Data Protection Policy
 ----------------------------------
 The Scout Association takes the protection of privacy and personal data very seriously and all adults operating within Scouting, whether at National UKHQ or within local Scout units (i.e. Scout Groups, Districts, Counties, Areas, Regions (Scotland) or Countries), must comply with data protection law which includes the EU General Data Protection Regulation "GDPR".
 
-(A copy of The Scout Association's Data Protection Policy which provides key definitions, details of how it protects personal information and also guidance to staff, members and volunteers about how to deal with personal information they handle, can be found `here </about-us/policy/data-protection-policy/>`_).
+(A copy of The Scout Association's Data Protection Policy which provides key definitions, details of how it protects personal information and also guidance to staff, members and volunteers about how to deal with personal information they handle, can be found `here </about-us/policy/data-protection-policy/>`__).
 
 Responsibilities within the Privacy and Data Protection Policy
 --------------------------------------------------------------
@@ -142,7 +142,7 @@ e. In compliance with the 6 key principles of the GDPR (Article 5), personal dat
 
       Clear and accessible information must be provided to individuals about what personal data is collected, how it will be processed and how they can exercise rights over it e.g. the right to request a copy of their personal data by making a Subject Access Request (SAR) or to have incorrect data corrected or deleted.
 
-      This information should be provided both at the initial point of contact in the form of a Privacy Statement or Notice and also be made regularly accessible to the individual. The Scout Association's Privacy Statement as displayed on its website can be found `here. </about-us/policy/cookie-policy/>`_
+      This information should be provided both at the initial point of contact in the form of a Privacy Statement or Notice and also be made regularly accessible to the individual. The Scout Association's Privacy Statement as displayed on its website can be found `here. </about-us/policy/cookie-policy/>`__
    ii. Collected and processed for specified, explicit and legitimate purposes only Personal data should only be collected and used for activities directly relating to Scouting or a person's membership or association with Scouting.
 
        Personal data should only be collected and used for activities directly relating to Scouting or a person's membership or association with Scouting.
@@ -206,7 +206,7 @@ The Safeguarding Policy & Procedures must be adhered to at all times.
 
 All breaches of the policy and procedures will be dealt with within in line with POR and the Safeguarding Processes and Procedures. 
 
-**The Scouts Safeguarding Policy & Procedures, for Young People & Adults at Risk** can be found on our website `here <https://scouts.org.uk/about-us/policy/safeguarding-policy-and-procedures/>`_ 
+**The Scouts Safeguarding Policy & Procedures, for Young People & Adults at Risk** can be found on our website `here <https://scouts.org.uk/about-us/policy/safeguarding-policy-and-procedures/>`__ 
 
 Safeguarding of young people and adults at risk
 -----------------------------------------------
@@ -214,7 +214,7 @@ Safeguarding of young people and adults at risk
 2. The Safeguarding Policy & Procedures must be -adhered to at all times.
 3. All breaches of the policy and procedures will be dealt with within in line with POR and the Safeguarding Processes and Procedures.
 
-**The Scouts Safeguarding Policy & Procedures, for Young People & Adults at Risk** can be found on our website `here. <https://www.scouts.org.uk/about-us/policy/safeguarding-policy-and-procedures/>`_
+**The Scouts Safeguarding Policy & Procedures, for Young People & Adults at Risk** can be found on our website `here. <https://www.scouts.org.uk/about-us/policy/safeguarding-policy-and-procedures/>`__
 
 Safety Policy
 -------------

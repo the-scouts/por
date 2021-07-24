@@ -131,7 +131,7 @@ def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
     text = EMPH.sub("*", text)
 
     # hyperlinks
-    text = LINK.sub(r"\2`\3 &lt\1&gt`_\4", text)  # don't use < and > as we split on these later
+    text = LINK.sub(r"\2`\3 &lt\1&gt`__\4", text)  # don't use < and > as we split on these later
 
     # all tags to be removed must be explicitly listed
     text = JUNK_TAGS.sub("", text)
