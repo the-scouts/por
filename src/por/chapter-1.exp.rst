@@ -273,4 +273,4 @@ d. To meet these circumstances the phrase 'duty to The Queen' should be replaced
 
 e. In the case of young people the decision as to which permitted form of wording should be used rests with them, however in the younger Sections parents should be aware of the Promise chosen before the investiture ceremony.
 
-f. In the case of adults the decision as to which permitted form of wording should be used rests entirely with the adult concerned.` <https://www.lsa.umich.edu/german/hmr/lesen/texte/erlkoenig.htm>`_ 
+f. In the case of adults the decision as to which permitted form of wording should be used rests entirely with the adult concerned.` <https://www.lsa.umich.edu/german/hmr/lesen/texte/erlkoenig.htm>`__ 
