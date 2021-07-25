@@ -82,7 +82,10 @@ def _get_rule_details(item: dict) -> tuple[str, str]:
         return title, BLANK_RULE
     # e.g. 3.51 has 2 controls dicts, so need to loop & concatenate
     # e.g. 8.1 has a call to action button to Unity, so need to check stringiness
-    return title, "".join(control["value"] for control in rows[0]["areas"][0]["controls"] if isinstance(control["value"], str))
+    # e.g. 14.7 has multiple rows
+    row_controls = (row["areas"][0]["controls"] for row in rows)
+    values = (control["value"] for row in row_controls for control in row)
+    return title, "".join(value for value in values if isinstance(value, str))
 
 
 def _emit_chapter_start(title: str, introduction: str, tmp_ch: int = -1) -> str:
@@ -101,7 +104,7 @@ def _emit_titled_block(title: str, text: str, page_title: bool = False, tmp_ch: 
 
 def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
     loc = (tmp_ch, tmp_rl)
-    if loc >= (9, 76):
+    if loc >= (14, 7):
         _a = 1
     if not html_text or html_text == BLANK_RULE:
         return "" if tmp_rl == 0 else BLANK_RULE
@@ -148,6 +151,7 @@ def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
     text = text.replace('<a href="https://members.scouts.org.uk/fs120013"> <span><u><a href="https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/joint-activities-with-other-organisations-except-girlguiding/">FS120013 Joint Activities with other organisations</a></u></span>.</a>', ' <a href="https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/joint-activities-with-other-organisations-except-girlguiding/">FS120013 Joint Activities with other organisations</a>')  # arrrrghhhhh!
     text = NO_TEXT_LINK.sub(r"\1", text)  # orphan links with no visible text
     text = LINK.sub(r"\2`\3 &lt\1&gt`__\4", text)  # don't use < and > as we split on these later
+    text = text.replace("UK00000922043&gt`__", "UK00000922043&gt`__ ")  # 14.7
 
     # all tags to be removed must be explicitly listed
     text = JUNK_TAGS.sub("", text)
@@ -272,7 +276,7 @@ if __name__ == '__main__':
     #     p.write_text(requests.get("https://www.scouts.org.uk" + link).content.decode("utf-8"), encoding="utf-8")
 
     # chapters = [*range(1, 15+1)]
-    chapters = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13)
+    chapters = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14)
     for i in chapters:
         raw = Path(f"ch{i}-raw.txt").read_text(encoding="utf-8")
         exp = Path(f"chapter-{i}.exp.rst")  # expected
@@ -326,6 +330,7 @@ if __name__ == '__main__':
 #   5.16 (bullets & indentation generally)
 #   9.1(f) (please refer to... needs an indent)
 #   9.56(c/d/e) (not part of list)
+#   14.8(a) extra line break (members \n and)
 
 # FIXME not fixable through automatic parser:
 #   --- use line block syntax:
@@ -342,11 +347,13 @@ if __name__ == '__main__':
 #   ch6 headquarters (extra line break after bold)
 #   ch6 nations (extra line break after bold)
 #   3.23(a)(i) (needs a newline after ex officio)
+#   14.7(e) nations email addresses
 #   --- make bullets sane
 #   3.23 all the bullets, generally. e.g. (a)(i) isn't a new list but a literal `i.`
 #   4.25 ditto
 #   5.16 ditto
 #   4.45(c) the sub list is completely detached
+#   14.7(d,e) are numbered as (a,b)
 #   --- update docutils transformer code for compact lists
 #   4.1(a) - <p> tags used, don't need them
 #   --- nested inline markup
@@ -357,6 +364,8 @@ if __name__ == '__main__':
 #   8.1(e) unity "call to action" box
 #   10.20, 10."Uniform Diagrams" -- link to PDF etc, or transclude
 #   11.5(i) good service awards "call to action" box
+#   --- add images
+#   14.7 protected mark images
 
 
 # TODO snags:
