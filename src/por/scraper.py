@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from collections.abc import Iterator
 import json
 import re
 
@@ -207,14 +208,12 @@ def _parse_html_list(tag: html.HtmlElement, indent_by: int = 0) -> str:
 
     for el in tag:
         list_char = f"{TYPES_CHARS[list_type][count if ordered else 0] + '.' * ordered + ' ': <3}"
-        line_prefix = indent + list_char
-        new_indent = len(line_prefix)
-        line_prefix_no_number = " " * new_indent
+        line_prefixes = _line_prefix_generator(indent + list_char)
+        new_indent = indent_by + len(list_char)
         count += 1
 
         if el.text:
-            parsed.append(line_prefix + el.text.strip())
-            line_prefix = line_prefix_no_number
+            parsed.append(next(line_prefixes) + el.text.strip())
         for sub in el:
             if sub.tag in {"ol", "ul"}:
                 # nested list must be separated by blank lines
@@ -224,23 +223,18 @@ def _parse_html_list(tag: html.HtmlElement, indent_by: int = 0) -> str:
             elif sub.tag == "p":
                 parsed.append("")
                 if sub.text:
-                    parsed.append(line_prefix + sub.text)
-                    line_prefix = line_prefix_no_number
+                    parsed.append(next(line_prefixes) + sub.text)
                 if sub_subs := "".join(_stringify_element(sub_sub) for sub_sub in sub):
-                    parsed.append(line_prefix + sub_subs)
-                    line_prefix = line_prefix_no_number
+                    parsed.append(next(line_prefixes) + sub_subs)
                 if sub.tail:
-                    parsed.append(line_prefix + sub.tail)
-                    line_prefix = line_prefix_no_number
+                    parsed.append(next(line_prefixes) + sub.tail)
                 parsed.append("")
             else:
-                parsed.append(line_prefix + _stringify_element(sub))
-                line_prefix = line_prefix_no_number
+                parsed.append(next(line_prefixes) + _stringify_element(sub))
             if sub.tail:
-                parsed.append(line_prefix + sub.tail.strip())
-                line_prefix = line_prefix_no_number
+                parsed.append(next(line_prefixes) + sub.tail.strip())
         if el.tail:
-            parsed.append(line_prefix + el.tail)
+            parsed.append(next(line_prefixes) + el.tail)
 
     parsed += [""]  # nested lists must be separated by blank lines
     return "\n".join(parsed)
@@ -252,6 +246,13 @@ def _stringify_element(el: html.HtmlElement) -> str:
     if el.tail and html_text.endswith(f"{el.tail}\n{el.tail}"):
         return html_text.removesuffix(f"\n{el.tail}")
     return html_text
+
+
+def _line_prefix_generator(line_prefix: str) -> Iterator[str]:
+    line_prefix_no_number = " " * len(line_prefix)
+    yield line_prefix
+    while True:
+        yield line_prefix_no_number
 
 
 if __name__ == '__main__':
