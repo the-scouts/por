@@ -105,7 +105,7 @@ def _emit_titled_block(title: str, text: str, page_title: bool = False, tmp_ch: 
 
 def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
     loc = (tmp_ch, tmp_rl)
-    if loc >= (14, 7):
+    if loc >= (15, 2):
         _a = 1
     if not html_text or html_text == BLANK_RULE:
         return "" if tmp_rl == 0 else BLANK_RULE
@@ -158,7 +158,7 @@ def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
     text = JUNK_TAGS.sub("", text)
 
     # lists
-    text = "\n".join(_parse_html_list(tag) for tag in html.fragments_fromstring(text))
+    text = "\n".join(_parse_html_constructs(tag) for tag in html.fragments_fromstring(text))
     text = LIST_ITEM.sub("", text)
 
     text = (
@@ -175,10 +175,17 @@ def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
     return NEWLINE.sub("\n\n", text).strip("\n")
 
 
+def _parse_html_constructs(tag: html.HtmlElement) -> str:
+    name = tag.tag
+    if name in {"ol", "ul", "li"}:
+        return _parse_html_list(tag)
+    if name == "table":
+        return _parse_html_table(tag)
+    return _stringify_element(tag)
+
+
 def _parse_html_list(tag: html.HtmlElement, indent_by: int = 0) -> str:
     name = tag.tag
-    if name not in {"ol", "ul", "li"}:
-        return _stringify_element(tag)
 
     # ordered list
     if name == "ol":
@@ -199,7 +206,7 @@ def _parse_html_list(tag: html.HtmlElement, indent_by: int = 0) -> str:
 
     # list items
     else:
-        raise ValueError("can't have raw li tags!")
+        raise ValueError(f"can't have raw {name} tags!")
 
     count = 0
     parsed = [""]  # nested lists must be separated by blank lines
@@ -255,6 +262,38 @@ def _line_prefix_generator(line_prefix: str) -> Iterator[str]:
         yield line_prefix_no_number
 
 
+def _parse_html_table(tag: html.HtmlElement) -> str:
+    if len(tag) != 1 or tag[0].tag != "tbody":
+        raise NotImplementedError("only implemented single tbody case")
+
+    tbody = tag[0]
+    rows = [*tbody]
+    header_row = rows[0]
+    body_rows = rows[1:]
+
+    headers = [c.text_content() for c in header_row]
+    result: list[list[str | None]] = [[None] * len(header_row) for _ in range(len(body_rows))]
+    for row_num, row in enumerate(body_rows):
+        for col_num, cell in enumerate(row):
+            cell_text = str(cell.text_content())
+            col_span = int(cell.get("colspan", 1))
+            while result[row_num][col_num] is not None:
+                col_num += 1
+            for i in range(row_num, row_num + int(cell.get("rowspan", 1))):
+                for j in range(col_num, col_num + col_span):
+                    result[i][j] = cell_text
+    column_max_lengths = [max(len(row[col_num]) for row in result) for col_num in range(len(header_row))]
+
+    sep_row = "+" + "+".join("-" * (col_length + 2) for col_length in column_max_lengths) + "+\n"
+    sep_row_header = sep_row.replace("-", "=")
+
+    table_str = sep_row + "|" + "|".join(f" {cell_text: <{col_length}} " for cell_text, col_length in zip(headers, column_max_lengths)) + "|\n" + sep_row_header
+    for row_num, row in enumerate(result):
+        table_str += "|" + "|".join(f" {cell_text: <{col_length}} " for cell_text, col_length in zip(row, column_max_lengths)) + "|\n" + sep_row
+
+    return table_str
+
+
 if __name__ == '__main__':
     from pathlib import Path
 
@@ -277,7 +316,7 @@ if __name__ == '__main__':
     #     p.write_text(requests.get("https://www.scouts.org.uk" + link).content.decode("utf-8"), encoding="utf-8")
 
     # chapters = [*range(1, 15+1)]
-    chapters = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14)
+    chapters = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15)
     for i in chapters:
         raw = Path(f"ch{i}-raw.txt").read_text(encoding="utf-8")
         exp = Path(f"chapter-{i}.exp.rst")  # expected
@@ -355,6 +394,7 @@ if __name__ == '__main__':
 #   5.16 ditto
 #   4.45(c) the sub list is completely detached
 #   14.7(d,e) are numbered as (a,b)
+#   15.2(d-l) are numbered as (a-i)
 #   --- update docutils transformer code for compact lists
 #   4.1(a) - <p> tags used, don't need them
 #   --- nested inline markup
@@ -367,6 +407,8 @@ if __name__ == '__main__':
 #   11.5(i) good service awards "call to action" box
 #   --- add images
 #   14.7 protected mark images
+#   --- backslash escape
+#   15.2 "* Note that the ..." should be a literal asterisk
 
 
 # TODO snags:
