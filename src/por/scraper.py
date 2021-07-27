@@ -368,9 +368,14 @@ if __name__ == '__main__':
 #   5.1(p/q) (Associate Members too indented)
 #   5.9(i) (activity should have em dash)
 #   5.16 (bullets & indentation generally)
+#   6.2(d)(i) (Deputy UKC for Programme (14-25))
 #   9.1(f) (please refer to... needs an indent)
 #   9.56(c/d/e) (not part of list)
 #   14.8(a) extra line break (members \n and)
+#   15.2(c) (Deputy UKC for Programme (14-25))
+#   15.5 (Field Commissioner!!!)
+#   15.12(a/b) (Deputy UKC for Programme (14-25))
+#   TAP (most tables should probably be enumerated lists)
 
 # FIXME not fixable through automatic parser:
 #   --- use line block syntax:
@@ -409,6 +414,9 @@ if __name__ == '__main__':
 #   14.7 protected mark images
 #   --- backslash escape
 #   15.2 "* Note that the ..." should be a literal asterisk
+#   --- fix tables
+#   15.2 rowspans don't propagate
+#   TAP - tables malformed etc - too much heterogeneity for a simple algorithm
 
 
 # TODO snags:
