@@ -10,7 +10,7 @@ from lxml import html
 BLANK_RULE = "BLANK RULE DUMMY"
 
 ALPHA = "abcdefghijklmnopqrstuvwxyz"
-ROMAN = ("i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x")
+ROMAN = ("i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xi", "xii", "xiii", "xiv", "xiv")
 
 TYPES_CHARS = {
     "arabic": tuple(str(i) for i in range(1, 26)),  # 100 item list is a bit much
