@@ -105,7 +105,7 @@ def _emit_titled_block(title: str, text: str, page_title: bool = False, tmp_ch: 
 
 def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
     loc = (tmp_ch, tmp_rl)
-    if loc >= (15, 2):
+    if loc >= (16, 24):
         _a = 1
     if not html_text or html_text == BLANK_RULE:
         return "" if tmp_rl == 0 else BLANK_RULE
@@ -268,11 +268,16 @@ def _parse_html_table(tag: html.HtmlElement) -> str:
 
     tbody = tag[0]
     rows = [*tbody]
-    header_row = rows[0]
-    body_rows = rows[1:]
+    has_headers = rows[0][0].tag == "th"
+    num_columns = len(rows[0])
+    if has_headers:
+        headers = [c.text_content() for c in rows[0]]
+        body_rows = rows[1:]
+    else:
+        headers = []
+        body_rows = rows
 
-    headers = [c.text_content() for c in header_row]
-    result: list[list[str | None]] = [[None] * len(header_row) for _ in range(len(body_rows))]
+    result: list[list[str | None]] = [[None] * num_columns for _ in range(len(body_rows))]
     for row_num, row in enumerate(body_rows):
         for col_num, cell in enumerate(row):
             cell_text = str(cell.text_content())
@@ -282,16 +287,23 @@ def _parse_html_table(tag: html.HtmlElement) -> str:
             for i in range(row_num, row_num + int(cell.get("rowspan", 1))):
                 for j in range(col_num, col_num + col_span):
                     result[i][j] = cell_text
-    column_max_lengths = [max(len(row[col_num]) for row in result) for col_num in range(len(header_row))]
+
+    if has_headers:
+        column_max_lengths = [max(len(row[col_num]) for row in (headers, *result)) for col_num in range(num_columns)]
+    else:
+        column_max_lengths = [max(len(row[col_num]) for row in result) for col_num in range(num_columns)]
 
     sep_row = "+" + "+".join("-" * (col_length + 2) for col_length in column_max_lengths) + "+\n"
-    sep_row_header = sep_row.replace("-", "=")
+    table_str = "\n\n" + sep_row
 
-    table_str = sep_row + "|" + "|".join(f" {cell_text: <{col_length}} " for cell_text, col_length in zip(headers, column_max_lengths)) + "|\n" + sep_row_header
+    if has_headers:
+        sep_row_header = sep_row.replace("-", "=")
+        table_str += "|" + "|".join(f" {cell_text: <{col_length}} " for cell_text, col_length in zip(headers, column_max_lengths)) + "|\n" + sep_row_header
+
     for row_num, row in enumerate(result):
         table_str += "|" + "|".join(f" {cell_text: <{col_length}} " for cell_text, col_length in zip(row, column_max_lengths)) + "|\n" + sep_row
 
-    return table_str
+    return table_str + "\n\n"
 
 
 if __name__ == '__main__':
@@ -310,13 +322,13 @@ if __name__ == '__main__':
 
     # links = [item["url"] for item in por_index]
     # for i, link in enumerate(links):
-    #     if i == 0 or i == len(links) - 1:
-    #         continue  # skip intro and TAP
+    #     if i == 0 :
+    #         continue  # skip intro
     #     p = Path(f"ch{i}-raw.txt")
     #     p.write_text(requests.get("https://www.scouts.org.uk" + link).content.decode("utf-8"), encoding="utf-8")
 
     # chapters = [*range(1, 15+1)]
-    chapters = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15)
+    chapters = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16)
     for i in chapters:
         raw = Path(f"ch{i}-raw.txt").read_text(encoding="utf-8")
         exp = Path(f"chapter-{i}.exp.rst")  # expected
