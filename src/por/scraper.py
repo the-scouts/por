@@ -322,8 +322,6 @@ if __name__ == '__main__':
 
     # links = [item["url"] for item in por_index]
     # for i, link in enumerate(links):
-    #     if i == 0 :
-    #         continue  # skip intro
     #     p = Path(f"ch{i}-raw.txt")
     #     p.write_text(requests.get("https://www.scouts.org.uk" + link).content.decode("utf-8"), encoding="utf-8")
 
