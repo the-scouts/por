@@ -157,6 +157,9 @@ def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
     # all tags to be removed must be explicitly listed
     text = JUNK_TAGS.sub("", text)
 
+    # heading four
+    text = re.sub("<h4>(.*?)</h4>", lambda match: f"{match[1]}\n{'~'*len(match[1])}", text)
+
     # lists
     text = "\n".join(_parse_html_constructs(tag) for tag in html.fragments_fromstring(text))
     text = LIST_ITEM.sub("", text)
@@ -326,7 +329,7 @@ if __name__ == '__main__':
     #     p.write_text(requests.get("https://www.scouts.org.uk" + link).content.decode("utf-8"), encoding="utf-8")
 
     # chapters = [*range(1, 15+1)]
-    chapters = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16)
+    chapters = (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16)
     for i in chapters:
         print(f"Processing Chapter {i}")
         raw = Path(f"ch{i}-raw.txt").read_text(encoding="utf-8")
