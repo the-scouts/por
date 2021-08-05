@@ -175,15 +175,17 @@ def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
         .replace("<br>", "\n")  # lxml 'normalises' br tags to without the closing slash
     )
     if tmp_ch == 16:
-        text = text.replace("in-the-scout-county-sv/>`__ |", "in-the-scout-county-sv/>`__                                     |")
-        text = text.replace(", UK Headquarters respectively). |", ", UK Headquarters respectively).                 |")
-        text = text.replace("both in membership and actions]. |", "both in membership and actions].                     |")
-        text = text.replace(f"policy/>`__.{' '*257}|", f"policy/>`__.{' '*269}|")
-        text = text.replace("#5.19>`__ | Yes", "#5.19>`__             | Yes")
-        text = text.replace("enquiry.**", "enquiry.** ").replace("#5.19>`__ ", "#5.19>`__")
-        text = text.replace("Panel**", "Panel** ").replace("its recommendation. ", "its recommendation.")
-        text = text.replace("`__**)* **EXCLUSION -- NO APPEAL** |", "`__**)* **EXCLUSION -- NO APPEAL**             |")
-        text = text.replace("civil courts.**EXCLUSION -- NO APPEAL** |", "civil courts.**EXCLUSION -- NO APPEAL**     |")
+        text = (
+            text.replace("in-the-scout-county-sv/>`__ |", "in-the-scout-county-sv/>`__                                     |")
+            .replace(", UK Headquarters respectively). |", ", UK Headquarters respectively).                 |")
+            .replace("both in membership and actions]. |", "both in membership and actions].                     |")
+            .replace(f"policy/>`__.{' '*257}|", f"policy/>`__.{' '*269}|")
+            .replace("#5.19>`__ | Yes", "#5.19>`__             | Yes")
+            .replace("enquiry.**", "enquiry.** ").replace("#5.19>`__ ", "#5.19>`__")
+            .replace("Panel**", "Panel** ").replace("its recommendation. ", "its recommendation.")
+            .replace("`__**)* **EXCLUSION -- NO APPEAL** |", "`__**)* **EXCLUSION -- NO APPEAL**             |")
+            .replace("civil courts.**EXCLUSION -- NO APPEAL** |", "civil courts.**EXCLUSION -- NO APPEAL**     |")
+        )
     # deal with newlines
     return NEWLINE.sub("\n\n", text).strip("\n")
 
