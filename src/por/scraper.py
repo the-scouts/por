@@ -402,6 +402,7 @@ if __name__ == '__main__':
 #   15.5 (Field Commissioner!!!)
 #   15.12(a/b) (Deputy UKC for Programme (14-25))
 #   TAP (most tables should probably be enumerated lists)
+#   TAP.2(c)(iv) renders as part of (iii)
 # https://beta.scouts.org.uk/por/3-the-scout-group/#3.26#3.26#3.26#/content/content/edit/4724
 # https://members.scouts.org.uk/supportresources/3265/accounting-and-reporting-requirements
 # https://members.scouts.org.uk/supportresources/3265/accounting-and-reporting-requirements?cat=419,55,261,395
@@ -447,7 +448,6 @@ if __name__ == '__main__':
 #   15.2 "* Note that the ..." should be a literal asterisk
 #   --- fix tables
 #   15.2 rowspans don't propagate
-#   TAP - tables malformed etc - too much heterogeneity for a simple algorithm
 
 
 # TODO snags:
