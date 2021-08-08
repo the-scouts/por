@@ -8,16 +8,22 @@ ch2 eq opps (reasonable adjs -> members area is dead)
 ch2 eq opps (leaders -> Rule 2 (outdated?))
 ch2 2.5 (bold enumerated items aren't a list)
 
+3.8(d) https://beta.scouts.org.uk/por/3-the-scout-group/#3.26#3.26
+3.9(d) https://beta.scouts.org.uk/por/3-the-scout-group/#3.26#3.26
 3.9 (double rule 3.9(l))
+3.10(d) https://beta.scouts.org.uk/por/3-the-scout-group/#3.26#3.26
 3.11/12 (types of group should be a Rule)
 3.17(b) (random 'Sponsored Scout Groups.')
 3.19(a) (form C2)
 3.23(b)(iv)(2,3) (subCommittee)
+3.23(b)(v) https://beta.scouts.org.uk/por/13-trusteeship-property-and-equipment/#13.3#13.3
 3.23(3,4) (should be c,d no?)
 3.42(a)(i) (maintaining comms - extra line breaks)
 3.42(a)(i) (nominating the chair - extra line breaks)
 3.42(b)(i) (a deputy - extra line breaks)
 3.42(d)(i) (the section leader - extra line breaks)
+3.48(l) https://members.scouts.org.uk/supportresources/3265/accounting-and-reporting-requirements?cat=419,55,261,395
+3.48(q) https://members.scouts.org.uk/supportresources/3265/accounting-and-reporting-requirements
 
 4.1(q/r) (Associate Members too indented)
 4.5(b) extra line break of the annual census
@@ -33,6 +39,7 @@ ch2 2.5 (bold enumerated items aren't a list)
 5.1(p/q) (Associate Members too indented)
 5.9(i) (activity should have em dash)
 5.16 (bullets & indentation generally)
+5.47(l) https://members.scouts.org.uk/supportresources/3265/accounting-and-reporting-requirements?cat=419,55,261,395
 
 6.2(d)(i) (Deputy UKC for Programme (14-25))
 
@@ -47,9 +54,4 @@ ch2 2.5 (bold enumerated items aren't a list)
 
 TAP (most tables should probably be enumerated lists)
 TAP.2(c)(iv) renders as part of (iii)
-
-https://beta.scouts.org.uk/por/3-the-scout-group/#3.26#3.26#3.26#/content/content/edit/4724
-https://members.scouts.org.uk/supportresources/3265/accounting-and-reporting-requirements
-https://members.scouts.org.uk/supportresources/3265/accounting-and-reporting-requirements?cat=419,55,261,395
-https://beta.scouts.org.uk/por/13-trusteeship-property-and-equipment/#13.3#13.3
-https://beta.scouts.org.uk/por/3-the-scout-group/#3.26#3.26
+TAP.4.5(f1) https://beta.scouts.org.uk/por/3-the-scout-group/#3.26#3.26#3.26#/content/content/edit/4724
