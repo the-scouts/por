@@ -16,7 +16,6 @@ TYPES_CHARS = {
     "alpha": ALPHA,
     "roman": ROMAN,
     "disc": "*",
-    "none": " ",
 }
 
 STRONG = re.compile("<strong>(?P<open> *)|(?P<close> *)</strong>")
@@ -215,7 +214,6 @@ def _parse_html_list(tag: html.HtmlElement, indent_by: int = 0) -> str:
         ordered = False
         list_type = "disc"
         if "list-style-type: none" in tag.get("style", ""):
-            # list_type = "none"
             raise Exception()  # none list doesnt render in rest. flag locations
 
     # list items
