@@ -32,11 +32,11 @@ The Scout Promise
 -----------------
 *(This promise is for Scouts, Explorer Scouts, the Scout Network and adults; based upon the Scout's three promises created by our Founder, The Scout promise represents a number of different theist faith traditions))*
 
-On my honour,
-I promise that I will do my best 
-to do my duty to God and to The Queen,
-to help other people
-and to keep the Scout Law.
+| On my honour,
+| I promise that I will do my best
+| to do my duty to God and to The Queen,
+| to help other people
+| and to keep the Scout Law.
 
 The Scout Law
 -------------
@@ -52,22 +52,22 @@ The Cub Scout Promise
 ---------------------
 *(based upon the work of our Founder this promise represents a number of different theist faith traditions)*
 
-I promise that I will do my best
-to do my duty to God and to The Queen,
-to help other people
-and to keep the Cub Scout Law.
+| I promise that I will do my best
+| to do my duty to God and to The Queen,
+| to help other people
+| and to keep the Cub Scout Law.
 
 The Cub Scout Law
 -----------------
-Cub Scouts always do their best,
-think of others before themselves
-and do a good turn every day.
+| Cub Scouts always do their best,
+| think of others before themselves
+| and do a good turn every day.
 
 The Beaver Scout Promise
 ------------------------
-I promise to do my best
-to be kind and helpful
-and to love God.
+| I promise to do my best
+| to be kind and helpful
+| and to love God.
 
 The Beaver Scout Law
 --------------------
@@ -83,153 +83,153 @@ b. Alternative wording of the Promise that young people and adults may wish to u
 
 **The Scout Promise**
 
-*(for Scouts, Explorer Scouts, the Scout Network and adults)* 
+*(for Scouts, Explorer Scouts, the Scout Network and adults)*
 
 **The Scout Promise for members who are Atheist or of no faith background**
 
-On my honour, I promise that I will do my best
+| On my honour, I promise that I will do my best
 
-to uphold our Scout values, to do my duty to The Queen,
+| to uphold our Scout values, to do my duty to The Queen,
 
-to help other people
-and to keep the Scout Law.
+| to help other people
+| and to keep the Scout Law.
 
-**The Scout Promise for members who are Buddhist** 
+**The Scout Promise for members who are Buddhist**
 
-On my honour,
-I promise that I will do my best
+| On my honour,
+| I promise that I will do my best
 
-to seek refuge in the Triple Gem, to do my duty to The Queen,
+| to seek refuge in the Triple Gem, to do my duty to The Queen,
 
-to act with compassion towards all life
-and to keep the Scout Law.
+| to act with compassion towards all life
+| and to keep the Scout Law.
 
 **The Scout Promise for members who are Christian**
 
-On my honour,
+| On my honour,
 
-I promise that I will do my best
-to do my duty to God and to The Queen,
+| I promise that I will do my best
+| to do my duty to God and to The Queen,
 
-to help other people
-and to keep the Scout Law.
+| to help other people
+| and to keep the Scout Law.
 
 **The Scout Promise for members who are Hindu**
 
-On my honour,
+| On my honour,
 
-I promise that I will do my best
-to follow my dharma and do my duty to The Queen, 
-to act with compassion towards all life
+| I promise that I will do my best
+| to follow my dharma and do my duty to The Queen,
+| to act with compassion towards all life
 
-and to keep the Scout Law.
+| and to keep the Scout Law.
 
 **The Scout Promise for members who are Humanist**
 
-On my honour,
+| On my honour,
 
-I promise that I will do my best
-to uphold our Scout values, to do my duty to The Queen
+| I promise that I will do my best
+| to uphold our Scout values, to do my duty to The Queen
 
-to help other people
+| to help other people
 
-and to keep the Scout Law.
+| and to keep the Scout Law.
 
 **The Scout Promise for members who are Jewish**
 
-On my honour,
+| On my honour,
 
-I promise that I will do my best
-to do my duty to God and to The Queen,
+| I promise that I will do my best
+| to do my duty to God and to The Queen,
 
-to help other people
-and to keep the Scout Law.
+| to help other people
+| and to keep the Scout Law.
 
 **The Scout Promise for members who are Muslim**
 
-In the name of Allah, the most beneficent and the most merciful,
+| In the name of Allah, the most beneficent and the most merciful,
 
-I promise that I will do my best
-to do my duty to Allah and then to The Queen,
+| I promise that I will do my best
+| to do my duty to Allah and then to The Queen,
 
-to help other people
-and to keep the Scout Law.
+| to help other people
+| and to keep the Scout Law.
 
 **The Scout Promise for members who are Sikh**
 
-On my honour,
+| On my honour,
 
-I promise that I will do my best
-to do my duty to Waheguru and to The Queen,
+| I promise that I will do my best
+| to do my duty to Waheguru and to The Queen,
 
-to help other people
-and to keep the Scout Law.
+| to help other people
+| and to keep the Scout Law.
 
 **The Cub Scout Promise**
 
 **The Cub Scout Promise for members who are Atheist or of no faith background**
 
-I promise that I will do my best
-to uphold our Scout values, to do my duty to The Queen,
+| I promise that I will do my best
+| to uphold our Scout values, to do my duty to The Queen,
 
-to help other people
-and to keep the Cub Scout Law.
+| to help other people
+| and to keep the Cub Scout Law.
 
-**The Cub Scout Promise for members who are Buddhist** 
+**The Cub Scout Promise for members who are Buddhist**
 
-I promise that I will do my best
-to seek refuge in the Triple Gem, to do my duty to The Queen,
+| I promise that I will do my best
+| to seek refuge in the Triple Gem, to do my duty to The Queen,
 
-to act with compassion towards all life
-and to keep the Cub Scout Law.
+| to act with compassion towards all life
+| and to keep the Cub Scout Law.
 
 **The Cub Scout Promise for members who are Christian**
 
-I promise that I will do my best
-to do my duty to God and to The Queen,
+| I promise that I will do my best
+| to do my duty to God and to The Queen,
 
-to help other people
-and to keep the Cub Scout Law.
+| to help other people
+| and to keep the Cub Scout Law.
 
 **The Cub Scout Promise for members who are Hindu**
 
-I promise that I will do my best
-to follow my dharma and do my duty to The Queen,
+| I promise that I will do my best
+| to follow my dharma and do my duty to The Queen,
 
-to act with compassion towards all life
-and to keep the Cub Scout Law.
+| to act with compassion towards all life
+| and to keep the Cub Scout Law.
 
 **The Cub Scout Promise for members who are Humanist**
 
-I promise that I will do my best
-to uphold our Scout values, to do my duty to The Queen
-to help other people
+| I promise that I will do my best
+| to uphold our Scout values, to do my duty to The Queen
+| to help other people
 
-and to keep the Cub Scout Law.
+| and to keep the Cub Scout Law.
 
 **The Cub Scout Promise for members who are Jewish**
 
-I promise that I will do my best
-to do my duty to God and to The Queen,
+| I promise that I will do my best
+| to do my duty to God and to The Queen,
 
-to help other people
-and to keep the Cub Scout Law.
+| to help other people
+| and to keep the Cub Scout Law.
 
 **The Cub Scout Promise for members who are Muslim**
 
-I promise that I will do my best
-to do my duty to Allah and then to The Queen,
+| I promise that I will do my best
+| to do my duty to Allah and then to The Queen,
 
-to help other people
-and to keep the Cub Scout Law.
+| to help other people
+| and to keep the Cub Scout Law.
 
 **The Cub Scout Promise for members who are Sikh**
 
-I promise that I will do my best
-to do my duty to Waheguru and to The Queen,
+| I promise that I will do my best
+| to do my duty to Waheguru and to The Queen,
 
-to help other people
-and to keep the Cub Scout Law.
+| to help other people
+| and to keep the Cub Scout Law.
 
 **The Beaver Scout Promise**
 

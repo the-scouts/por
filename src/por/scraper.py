@@ -172,6 +172,31 @@ def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
         .replace("<br />", "\n")
         .replace("<br>", "\n")  # lxml 'normalises' br tags to without the closing slash
     )
+    if tmp_ch == 1:
+        text = (
+            # scout promise
+            text.replace("On my honour,", "| On my honour,")
+            .replace("\nI promise that", "\n| I promise that")
+            .replace("\nto do", "\n| to do")
+            .replace("\nto help", "\n| to help")
+            .replace("\nand to", "\n| and to")
+            # cub law
+            .replace("Cub Scouts", "| Cub Scouts")
+            .replace("think of", "| think of")
+            .replace("and do a", "| and do a")
+            # beaver promise
+            .replace("I promise to do my best\n", "| I promise to do my best\n")
+            .replace("\nto be", "\n| to be")
+            # atheist scout promise
+            .replace("to uphold", "| to uphold")
+            # buddhist scout promise
+            .replace("to seek", "| to seek")
+            .replace("\nto act ", "\n| to act ")
+            # hindu scout promise
+            .replace("to follow", "| to follow")
+            # muslim scout promise
+            .replace("In the name", "| In the name")
+        )
     if tmp_ch == 16:
         text = (
             text.replace("in-the-scout-county-sv/>`__ |", "in-the-scout-county-sv/>`__                                     |")
@@ -350,12 +375,6 @@ if __name__ == '__main__':
 
 
 # FIXME not fixable through automatic parser:
-#   --- use line block syntax:
-#   ch1 scout promise (line breaks in promise not showing)
-#   ch1 cub scout promise (line breaks in promise not showing)
-#   ch1 cub scout law (line breaks in promise not showing)
-#   ch1 beaver scout promise (line breaks in promise not showing)
-#   ch1 1.1 (line breaks in promise/laws not showing)
 #   --- add manual line break
 #   ch2 religious (extra line break after bold)
 #   ch6 membership council (line breaks nominated, elected)
