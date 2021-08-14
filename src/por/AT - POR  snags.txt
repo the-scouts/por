@@ -1,5 +1,9 @@
 ch1 scout promise (extra closing paren)
-ch1 1.1 (item b used twice)
+ch1 beaver law (has text about promise)
+ch1 beaver promise (missing text about promise)
+1.1 (item b used twice -- at start and below alt texts)
+1.1 atheist scout promise -- needs newline after "On my honour,"
+
 
 ch2 dev pol (between para 1&2 only has one line break)
 ch2 dev pol (operations committee)
