@@ -15,11 +15,18 @@ ch2 eq opps (leaders -> Rule 2 (outdated?))
 3.1(b/c) distinction between subjects and foreign citizens?
 3.1(m) semicolon after Scouts
 3.1(p/s) members' declaration?? does this exist anymore?
+3.2(a) https://members.scouts.org.uk/supportresources/4587/community-sponsorship?cat=55,400&moduleID=10
 3.6(g) duplicate closing bracket after Group
 3.8(c) para 2 - capitalisation of section is inconsistent
 3.8(c) there should be a comma following ASLs
+3.8(c) https://beta.scouts.org.uk/por/3-the-scout-group/#3.23#3.23
 3.8(d) https://beta.scouts.org.uk/por/3-the-scout-group/#3.26#3.26
+3.8(d) https://beta.scouts.org.uk/por/4-the-scout-district/#4.37#4.37
+3.9(c) https://beta.scouts.org.uk/por/3-the-scout-group/#3.23#3.23
 3.9(d) https://beta.scouts.org.uk/por/3-the-scout-group/#3.26#3.26
+3.9(d) https://beta.scouts.org.uk/por/4-the-scout-district/#4.37#4.37
+3.9(j) https://beta.scouts.org.uk/por/3-the-scout-group/#3.11#3.11
+3.9(k) https://beta.scouts.org.uk/por/3-the-scout-group/#3.11#3.11
 3.9 (double rule 3.9(l))
 3.10(d) https://beta.scouts.org.uk/por/3-the-scout-group/#3.26#3.26
 3.10(j/k) `Group Active Support Unit` should be `Group Scout Active Support Unit`
@@ -37,7 +44,8 @@ ch2 eq opps (leaders -> Rule 2 (outdated?))
 3.23(b)(iii)(Ex-officio Members)(bullet 5) there can be multiple DGSLs
 3.23(b)(iii)(Ex-officio Members)(bullet 8) covered in 3.(7/8/9)(c)(para 3) -- reduce duplication
 3.23(b)(iv)(2,3) (subCommittee)
-3.23(b)(v) https://beta.scouts.org.uk/por/13-trusteeship-property-and-equipment/#13.3#13.3
+3.23(b)(v)(bullet 3) https://beta.scouts.org.uk/por/13-trusteeship-property-and-equipment/#13.1#13.1
+3.23(b)(v)(bullet 6) https://beta.scouts.org.uk/por/13-trusteeship-property-and-equipment/#13.3#13.3
 3.23(3,4) (should be c,d no?)
 3.24 naming of the rule is odd, (g,h,i) deal with Administrators and Advisers whereas (a-f) deal with Exec Officers
 3.35 references Young Leaders not ESYLs
@@ -53,10 +61,12 @@ ch2 eq opps (leaders -> Rule 2 (outdated?))
 3.44(a) add ESYLs?
 3.48(l) https://members.scouts.org.uk/supportresources/3265/accounting-and-reporting-requirements?cat=419,55,261,395
 3.48(q) https://members.scouts.org.uk/supportresources/3265/accounting-and-reporting-requirements
+3.58(a) https://beta.scouts.org.uk/por/3-the-scout-group/#3.57#3.57
 
 4.1(q/r) (Associate Members too indented)
 4.5(b) extra line break of the annual census
 4.9(b) (A, B should be sub-bullets)
+4.10 https://members.scouts.org.uk/supportresources/341/scout-information-centre
 4.11(i) (activity should have em dash)
 4.25 (bullets & indentation generally)
 4.26(c) extra line break (For \n example)
