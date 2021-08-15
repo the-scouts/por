@@ -4,28 +4,53 @@ ch1 beaver promise (missing text about promise)
 1.1 (item b used twice -- at start and below alt texts)
 1.1 atheist scout promise -- needs newline after "On my honour,"
 
-
 ch2 dev pol (between para 1&2 only has one line break)
 ch2 dev pol (operations committee)
 ch2 eq opps (no space before 3.11b link)
 ch2 eq opps (reasonable adjs -> members area is dead)
 ch2 eq opps (leaders -> Rule 2 (outdated?))
-ch2 2.5 (bold enumerated items aren't a list)
+2.1(e) "District Executive" should be "District Executive Committee"
+2.5 (bold enumerated items aren't a list)
 
+3.1(b/c) distinction between subjects and foreign citizens?
+3.1(m) semicolon after Scouts
+3.1(p/s) members' declaration?? does this exist anymore?
+3.6(g) duplicate closing bracket after Group
+3.8(c) para 2 - capitalisation of section is inconsistent
+3.8(c) there should be a comma following ASLs
 3.8(d) https://beta.scouts.org.uk/por/3-the-scout-group/#3.26#3.26
 3.9(d) https://beta.scouts.org.uk/por/3-the-scout-group/#3.26#3.26
 3.9 (double rule 3.9(l))
 3.10(d) https://beta.scouts.org.uk/por/3-the-scout-group/#3.26#3.26
+3.10(j/k) `Group Active Support Unit` should be `Group Scout Active Support Unit`
+3.11(b)(vii) (line 5) some sort of article ('a') is needed ("remain in Beaver")
+3.11(b)(vii) (line 6) "Cub Scout Pack Scout Troop" should have a comma
 3.11/12 (types of group should be a Rule)
-3.17(b) (random 'Sponsored Scout Groups.')
+3.17(b)(bullet 4)(sub-bullet 5) (random 'Sponsored Scout Groups.')
 3.19(a) (form C2)
+3.19(c) can be read that the exec and authority together are optional, not that only the authority is optional
+3.20(b) "County Executive" should be "County Executive Committee"
+3.21(a)(bullet 1) replace semicolon with full stop, delete line break.
+3.21(d) Membership will cease? Other appointments? Youth or adult members?
+3.23(b)(ii) inconsistent full stops after bullet points
+3.23(b)(ii)(bullet 11) needs a verb at the start of the item
+3.23(b)(iii)(Ex-officio Members)(bullet 5) there can be multiple DGSLs
+3.23(b)(iii)(Ex-officio Members)(bullet 8) covered in 3.(7/8/9)(c)(para 3) -- reduce duplication
 3.23(b)(iv)(2,3) (subCommittee)
 3.23(b)(v) https://beta.scouts.org.uk/por/13-trusteeship-property-and-equipment/#13.3#13.3
 3.23(3,4) (should be c,d no?)
-3.42(a)(i) (maintaining comms - extra line breaks)
-3.42(a)(i) (nominating the chair - extra line breaks)
-3.42(b)(i) (a deputy - extra line breaks)
-3.42(d)(i) (the section leader - extra line breaks)
+3.24 naming of the rule is odd, (g,h,i) deal with Administrators and Advisers whereas (a-f) deal with Exec Officers
+3.35 references Young Leaders not ESYLs
+3.42(a)(i)(bullet 3)  "Group Executive" should be "Group Executive Committee"
+3.42(a)(i)(bullet 7) (extra line breaks)
+3.42(a)(i)(bullet 10) (extra line breaks)
+3.42(a)(i)(bullet 10) (refers to Scouter -- rephrase)
+3.42(b)(i) (extra line breaks)
+3.42(d)(i) (extra line breaks)
+3.42(d/e) replace with section leadership team?
+3.42 add ESYLs?
+3.44(a) replace with section leadership team?
+3.44(a) add ESYLs?
 3.48(l) https://members.scouts.org.uk/supportresources/3265/accounting-and-reporting-requirements?cat=419,55,261,395
 3.48(q) https://members.scouts.org.uk/supportresources/3265/accounting-and-reporting-requirements
 
@@ -37,12 +62,14 @@ ch2 2.5 (bold enumerated items aren't a list)
 4.26(c) extra line break (For \n example)
 4.37(e) (closing paren before sub list)
 4.44(e) (section ADCs don't include the word "support")
+4.59(c) "Executive" should be "Executive Committee"
 4.64(f) extra line break (Committee \n requesting)
 4.64(f) extra line break (Membership \n Subscription)
 
 5.1(p/q) (Associate Members too indented)
 5.9(i) (activity should have em dash)
 5.16 (bullets & indentation generally)
+5.47(c) "County Executive" should be "County Executive Committee"
 5.47(l) https://members.scouts.org.uk/supportresources/3265/accounting-and-reporting-requirements?cat=419,55,261,395
 
 6.2(d)(i) (Deputy UKC for Programme (14-25))
@@ -59,3 +86,7 @@ ch2 2.5 (bold enumerated items aren't a list)
 TAP (most tables should probably be enumerated lists)
 TAP.2(c)(iv) renders as part of (iii)
 TAP.4.5(f1) https://beta.scouts.org.uk/por/3-the-scout-group/#3.26#3.26#3.26#/content/content/edit/4724
+TAP.5(i) "Executive" should be "Executive Committee"
+TAP.7(a)(x) "Executive" should be "Executive Committee"
+TAP.9(b) "Executive" should be "Executive Committee"
+TAP.9(b)(i) "Executive" should be "Executive Committee"
