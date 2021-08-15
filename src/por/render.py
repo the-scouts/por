@@ -14,7 +14,7 @@ PUBLISH_SETTINGS = {
 if __name__ == '__main__':
     for chapter in (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16):
         print(f"Processing Chapter {chapter}")
-        rst_source = Path(f"expected/chapter-{chapter}.exp.rst").read_text(encoding="utf-8")
+        rst_source = Path(f"sphinx_source/chapter-{chapter}.rst").read_text(encoding="utf-8")
         out_path = Path(f"rendered/chapter-{chapter}.html")
 
         rendered_html = publish_string(source=rst_source, writer_name="html5", settings_overrides=PUBLISH_SETTINGS)
