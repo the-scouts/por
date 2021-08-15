@@ -348,10 +348,9 @@ if __name__ == '__main__':
 
     # import requests
 
-    # Path("overview-raw.txt").write_text(requests.get("https://www.scouts.org.uk/por/").content.decode("utf-8"), encoding="utf-8")
+    # Path("unprocessed/overview-raw.txt").write_text(requests.get("https://www.scouts.org.uk/por/").content.decode("utf-8"), encoding="utf-8")
 
-    # with open("overview-raw.txt", "r", encoding="utf-8") as f:
-    #     r_text = f.read()
+    # Path(f"unprocessed/overview-raw.txt").read_text(encoding="utf-8")
     # pdf_link = html.document_fromstring(r_text).find(".//main")[0][0][0][-1][0].get("href")
     # por_state = _get_state_data(r_text)
     # por_index = por_state["index"]
@@ -359,7 +358,7 @@ if __name__ == '__main__':
 
     # links = [item["url"] for item in por_index]
     # for i, link in enumerate(links):
-    #     p = Path(f"ch{i}-raw.txt")
+    #     p = Path(f"unprocessed/ch{i}-raw.txt")
     #     p.write_text(requests.get("https://www.scouts.org.uk" + link).content.decode("utf-8"), encoding="utf-8")
 
     # chapters = [*range(1, 15+1)]
@@ -367,7 +366,7 @@ if __name__ == '__main__':
     for i in chapters:
         print(f"Processing Chapter {i}")
         raw = Path(f"ch{i}-raw.txt").read_text(encoding="utf-8")
-        exp = Path(f"chapter-{i}.exp.rst")  # expected
+        exp = Path(f"expected/chapter-{i}.exp.rst")  # expected
         out = chapter_text(raw, tmp_ch=i)
         if exp.is_file():
             assert exp.read_text(encoding="utf-8") == out, f"Chapter {i} not equal!"
