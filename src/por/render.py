@@ -3,6 +3,7 @@ from __future__ import annotations
 from pathlib import Path
 
 from docutils.core import publish_string
+from sphinx.application import Sphinx
 
 PUBLISH_SETTINGS = {
     "stylesheet_path": "por.css",
@@ -19,3 +20,28 @@ if __name__ == '__main__':
 
         rendered_html = publish_string(source=rst_source, writer_name="html5", settings_overrides=PUBLISH_SETTINGS)
         out_path.write_text(rendered_html, encoding="utf-8")
+
+    root_directory = Path().absolute()
+    source_directory = root_directory / "sphinx_source"
+    conf_directory = root_directory
+    build_directory = root_directory / "build"  # synchronise with deploy-gh-pages.yaml -> deploy step
+    doctree_directory = build_directory / ".doctrees"
+
+    # builder configuration
+    sphinx_builder = "html"
+    # sphinx_builder = "linkcheck"
+
+    # other configuration
+    config_overrides = {}  # "nitpicky": True}
+
+    app = Sphinx(
+        source_directory,
+        confdir=conf_directory,
+        outdir=build_directory,
+        doctreedir=doctree_directory,
+        buildername=sphinx_builder,
+        confoverrides=config_overrides,
+    )
+    app.builder.copysource = False  # Prevent unneeded source copying - we link direct to GitHub
+    app.builder.search = False  # Disable search
+    app.build()
