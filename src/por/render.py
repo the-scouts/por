@@ -35,10 +35,10 @@ if __name__ == '__main__':
     config_overrides = {}  # "nitpicky": True}
 
     app = Sphinx(
-        source_directory,
-        confdir=conf_directory,
-        outdir=build_directory,
-        doctreedir=doctree_directory,
+        source_directory.as_posix(),
+        confdir=conf_directory.as_posix(),
+        outdir=build_directory.as_posix(),
+        doctreedir=doctree_directory.as_posix(),
         buildername=sphinx_builder,
         confoverrides=config_overrides,
     )
