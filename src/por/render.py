@@ -31,16 +31,12 @@ if __name__ == '__main__':
     sphinx_builder = "html"
     # sphinx_builder = "linkcheck"
 
-    # other configuration
-    config_overrides = {}  # "nitpicky": True}
-
     app = Sphinx(
         source_directory.as_posix(),
         confdir=conf_directory.as_posix(),
         outdir=build_directory.as_posix(),
         doctreedir=doctree_directory.as_posix(),
         buildername=sphinx_builder,
-        confoverrides=config_overrides,
     )
     app.builder.copysource = False  # Prevent unneeded source copying - we link direct to GitHub
     app.builder.search = False  # Disable search
