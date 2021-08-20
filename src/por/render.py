@@ -12,7 +12,8 @@ PUBLISH_SETTINGS = {
     # "embed_stylesheet": False,
 }
 
-if __name__ == '__main__':
+
+def render_docutils() -> None:
     for chapter in (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16):
         print(f"Processing Chapter {chapter}")
         rst_source = Path(f"sphinx_source/chapter-{chapter}.rst").read_text(encoding="utf-8")
@@ -21,6 +22,8 @@ if __name__ == '__main__':
         rendered_html = publish_string(source=rst_source, writer_name="html5", settings_overrides=PUBLISH_SETTINGS)
         out_path.write_text(rendered_html, encoding="utf-8")
 
+
+def render_sphinx() -> None:
     root_directory = Path().absolute()
     source_directory = root_directory / "sphinx_source"
     conf_directory = root_directory
@@ -41,3 +44,8 @@ if __name__ == '__main__':
     app.builder.copysource = False  # Prevent unneeded source copying - we link direct to GitHub
     app.builder.search = False  # Disable search
     app.build()
+
+
+if __name__ == '__main__':
+    render_docutils()
+    render_sphinx()
