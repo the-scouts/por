@@ -47,5 +47,4 @@ def render_sphinx() -> None:
 
 
 if __name__ == '__main__':
-    render_docutils()
     render_sphinx()
