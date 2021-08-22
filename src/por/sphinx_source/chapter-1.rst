@@ -1,6 +1,5 @@
-Fundamentals of Scouting
-========================
-
+:Chapter: 1
+:Title: FUNDAMENTALS OF SCOUTING
 
 The Purpose of Scouting
 -----------------------

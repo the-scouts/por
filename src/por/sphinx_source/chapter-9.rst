@@ -1,5 +1,6 @@
-Activities
-==========
+:Chapter: 9
+:Title: ACTIVITIES
+
 A list of available guidance on activities is contained in the a-z directory of activities available at `Scouts.org.uk/A-Z <https://www.scouts.org.uk/activities/?orderBy=title%20asc&category=Adventure>`__.
 
 *Further advice may be available from District and County Activity Advisers, details of which may be available from your Assistant County Commissioner (Activities). You may also contact Headquarters via the Scout Information Centre. In addition to the factsheets stated, others may be available to provide guidance in activity areas.*

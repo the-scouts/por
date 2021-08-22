@@ -1,6 +1,5 @@
-Other matters
-=============
-
+:Chapter: 14
+:Title: OTHER MATTERS
 
 Rule 14.1 Political Activities
 ------------------------------

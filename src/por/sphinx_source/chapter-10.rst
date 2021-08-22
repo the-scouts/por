@@ -1,6 +1,5 @@
-Uniform, badges and emblems
-===========================
-
+:Chapter: 10
+:Title: UNIFORM, BADGES AND EMBLEMS
 
 Rule 10.1 Protection of Uniforms
 --------------------------------

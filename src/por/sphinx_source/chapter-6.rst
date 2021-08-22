@@ -1,6 +1,5 @@
-The structure of the headquarters of The Scout Association
-==========================================================
-
+:Chapter: 6
+:Title: THE STRUCTURE OF THE HEADQUARTERS OF THE SCOUT ASSOCIATION
 
 The Royal Charter
 -----------------

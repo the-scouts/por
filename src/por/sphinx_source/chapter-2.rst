@@ -1,5 +1,6 @@
-Key Policies
-============
+:Chapter: 2
+:Title: KEY POLICIES
+
 The order of Key Policies in this section is alphabetical and infers no order of importance nor priority; they are all equal.
 
 Development Policy

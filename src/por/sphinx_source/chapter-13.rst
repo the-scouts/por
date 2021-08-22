@@ -1,6 +1,5 @@
-Trusteeship, property and equipment
-===================================
-
+:Chapter: 13
+:Title: TRUSTEESHIP, PROPERTY AND EQUIPMENT
 
 Rule 13.1 Persons not allowed to act as Trustees
 ------------------------------------------------
