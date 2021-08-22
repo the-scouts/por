@@ -43,7 +43,7 @@ def render_sphinx() -> None:
     )
     app.builder.copysource = False  # Prevent unneeded source copying - we link direct to GitHub
     app.builder.search = False  # Disable search
-    app.build()
+    app.build(force_all=True)
 
 
 if __name__ == '__main__':

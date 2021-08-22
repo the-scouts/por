@@ -1,0 +1,186 @@
+@charset "UTF-8";
+
+/* Styles for POR
+
+Colours:
+white:
+    background
+    footnotes/references vertical border
+#333
+    body text
+#888
+    blockquote left line
+    header breadcrumbs separator
+    link underline (hovered/focussed)
+#ccc:
+    scrollbar
+#ddd
+    header bottom border
+    horizontal rule
+    table vertical border
+#eee:
+    link underline
+    table rows & top/bottom border
+    footnotes/references rows
+    admonition note background
+#f8f8f8:
+    inline code background
+
+#0072aa:
+    links
+# fee:
+    admonition warning background
+
+*/
+
+/* Set master rules */
+* {box-sizing: border-box}
+html {
+    overflow-y: scroll;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    line-height: 1.4rem;
+    font-weight: normal;
+    font-size: 1rem;
+    font-family: "Nunito Sans", Arial, sans-serif;
+    color: #333;
+    background-color: white;
+}
+section#page-section {
+    padding: 0.25rem 0.25rem 0;
+    display: table;
+}
+
+/* Reduce margin sizes for body text */
+p {margin: .5rem 0}
+
+/* Header rules */
+h1 {
+    line-height: 2.3rem;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+}
+h2 {
+    font-size: 1.6rem;
+    font-weight: bold;
+    margin-top: 1rem;
+    margin-bottom: .5rem;
+}
+h3 {
+    font-size: 1.4rem;
+    font-weight: normal;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+section#chapter > h1 > span { display: block }
+
+/* Rule underlines */
+section > h2 { border-bottom: solid lightgrey 1px }
+section#contents > h2 { border-bottom: none }
+section > h2 > a { text-decoration: none }
+
+/* Anchor link rules */
+a, a:active, a:visited {
+    color: #0072aa;
+    text-decoration-color: #eee;
+    display: inline;
+}
+a:hover, a:focus {
+    text-decoration-color: #888;
+}
+
+/* Horizontal rule rule */
+hr {
+    border: 0;
+    border-top: 1px solid #ddd;
+    margin: 1.75rem 0;
+}
+
+/* Image rules */
+img {
+    max-width: 100%;
+}
+
+/* List rules */
+ul, ol {
+    padding: 0;
+    margin: 0 0 0 1.5rem;
+}
+ul              { list-style-type: disc }
+ol.arabic       { list-style-type: decimal }
+ol.loweralpha   { list-style-type: lower-alpha }
+ol.lowerroman   { list-style-type: lower-roman }
+
+/* Table rules */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+table tbody tr:nth-of-type(odd) {
+    background-color: #eee;
+}
+table th,
+table td {
+    text-align: left;
+    padding: 0.25rem 0.5rem 0.2rem;
+}
+table td + td {
+    border-left: 1px solid #ddd;
+}
+
+/* Breadcrumbs rules */
+section#page-section > header {
+    border-bottom: 1px solid #ddd;
+}
+section#page-section > header > h1 {
+    font-size: 1.1rem;
+    line-height: 1.4rem;
+    margin: 0;
+    display: inline-block;
+    padding-right: .6rem;
+    border-right: 1px solid #888;
+}
+ul.breadcrumbs {
+    margin: 0;
+    padding: .5rem 0 .5rem .4rem;
+    list-style: none;
+    display: inline-block;
+}
+ul.breadcrumbs li {
+    display: inline;
+}
+ul.breadcrumbs a {
+    text-decoration: none;
+}
+
+/* Docutils System Messages, Warnings & Errors */
+.system-messages, .system-message-title, .problematic, .error, .admonition-title {
+    color: red;
+    font-weight: bold;
+}
+
+/* Sidebar formatting */
+nav#por-sidebar {
+    overflow-y: scroll;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    scrollbar-width: thin;  /* CSS Standards, not *yet* widely supported */
+    scrollbar-color: #ccc transparent;
+}
+nav#por-sidebar::-webkit-scrollbar {width: 6px}
+nav#por-sidebar::-webkit-scrollbar-track {background: transparent}
+nav#por-sidebar::-webkit-scrollbar-thumb {background: #ccc}
+nav#por-sidebar > h2 {
+    font-size: 1.4rem;
+}
+nav#por-sidebar ul {
+    margin-left: 1rem;
+}
+nav#por-sidebar ul a {
+    text-decoration: none;
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ title + " | "|safe + docstitle }}</title>
+    {# <link rel="shortcut icon" href="{{ pathto('_static/tsa-favicon.png', resource=True) }}"/> #}
+    <link rel="stylesheet" href="{{ pathto('_static/style.css', resource=True) }}" type="text/css" />
+    <link rel="stylesheet" href="{{ pathto('_static/mq.css', resource=True) }}" type="text/css" />
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <meta name="description" content="Policy, Organisation and Rules"/>
+</head>
+<body>
+    <section id="page-section">
+        <header>
+            <h1>Policy, Organisation and Rules</h1>
+            <ul class="breadcrumbs">
+                <li><a href="https://www.scouts.org.uk/">The Scouts</a> &raquo; </li>
+                <li><a href="{{ pathto("chapter-0") }}">POR</a> &raquo; </li>
+                <li>{{ title }}</li>
+            </ul>
+        </header>
+        <article>
+            {{ body }}
+        </article>
+        <nav id="por-sidebar">
+            <h2>Contents</h2>
+            {{ toc }}
+        </nav>
+    </section>
+</body>
+</html>
