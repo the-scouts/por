@@ -1,6 +1,5 @@
-Awards and recognition of service
-=================================
-
+:Chapter: 11
+:Title: AWARDS AND RECOGNITION OF SERVICE
 
 Rule 11.1 Award Nominations and Recognition of Service
 ------------------------------------------------------

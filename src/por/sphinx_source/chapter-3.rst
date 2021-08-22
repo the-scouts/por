@@ -1,5 +1,6 @@
-The Scout Group
-===============
+:Chapter: 3
+:Title: THE SCOUT GROUP
+
 Scouting in the United Kingdom is organised in Scout Groups, Scout Districts, Scout Counties and Country Headquarters. These 'units' of Scouting provide:
 
 *  support;

@@ -1,6 +1,5 @@
-Complaints, suspensions and dismissals
-======================================
-
+:Chapter: 15
+:Title: COMPLAINTS, SUSPENSIONS AND DISMISSALS
 
 Rule 15.1 Complaints
 --------------------

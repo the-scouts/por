@@ -1,5 +1,6 @@
-Introduction
-============
+:Chapter: Introduction
+:Title: INTRODUCTION
+
 **The Founder of Scouting had a vision from which a Movement has grown, so that Scouting is found today in every corner of the land.**
 
 Scouting happens principally in Scout Groups, Explorer Scout Units and Scout Networks, wherever boys and girls meet to enjoy the Scout programme. The function of all the other units in the Movement is to enhance the quality of provision of that programme at local level.

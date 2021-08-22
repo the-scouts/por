@@ -1,6 +1,5 @@
-The appointment process
-=======================
-
+:Chapter: The Appointment Process
+:Title: The Appointment Process
 
 Definitions
 -----------

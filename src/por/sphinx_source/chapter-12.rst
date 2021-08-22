@@ -1,6 +1,5 @@
-Flags and ceremonial
-====================
-
+:Chapter: 12
+:Title: FLAGS AND CEREMONIAL
 
 Rule 12.1 Permitted Flags sv
 ----------------------------
