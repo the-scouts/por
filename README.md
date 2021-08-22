@@ -24,3 +24,5 @@ The source code for the project is hosted on GitHub at
 ***por*** is naturally 
 [open source](https://github.com/the-scouts/por) and is 
 licensed under the **[MIT license](https://choosealicense.com/licenses/mit/)**.
+
+The copyright of Policy, Organisation and Rules remains with The Scout Association.
