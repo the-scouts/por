@@ -34,7 +34,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: 🔧 Render with Sphinx
-        run: python src/por/render.py
+        run: python render.py
 
         # remove the .doctrees folder when building for deployment as it takes two thirds of disk space
       - name: 🔥 Clean up files
