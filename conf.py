@@ -1,7 +1,7 @@
 from pathlib import Path
 import sys
 
-sys.path.append(str(Path("por_sphinx_extensions").absolute()))
+sys.path.append(str(Path(__file__).parent / "src" / "por"))
 
 # Project information
 project = "POR"
@@ -9,7 +9,7 @@ master_doc = "contents"
 
 # Sphinx extension modules as fully qualified strings
 extensions = [
-    "por_sphinx_extensions",
+    "por.sphinx_extensions",
     "sphinx.ext.githubpages",
 ]
 
@@ -37,10 +37,10 @@ html_show_sphinx = False
 html_title = "por.scouts.org.uk"  # Set <title/>
 
 # Theme settings
-html_theme_path = ["por_sphinx_extensions"]
+html_theme_path = ["src/por/sphinx_extensions"]
 html_theme = "por_theme"  # The actual theme directory (child of html_theme_path)
 html_use_index = False
 html_style = ""  # must be defined here or in theme.conf, but is unused
 html_permalinks = False  # handled in the Contents transform
 
-templates_path = ['por_sphinx_extensions/por_theme/templates']  # Theme template relative paths from `confdir`
+templates_path = ['src/por/sphinx_extensions/por_theme/templates']  # Theme template relative paths from `confdir`

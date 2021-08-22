@@ -4,8 +4,8 @@ from typing import TYPE_CHECKING
 
 from sphinx import parsers
 
-from por_sphinx_extensions.processor.transforms import contents
-from por_sphinx_extensions.processor.transforms import title
+from por.sphinx_extensions.processor.transforms import contents
+from por.sphinx_extensions.processor.transforms import title
 
 if TYPE_CHECKING:
     from docutils import transforms
