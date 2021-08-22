@@ -6,9 +6,9 @@ from typing import TYPE_CHECKING
 
 from sphinx.environment import BuildEnvironment
 
-from por_sphinx_extensions.processor import html_translator
-from por_sphinx_extensions.processor import parser
-from por_sphinx_extensions.processor import roles
+from por.sphinx_extensions.processor import html_translator
+from por.sphinx_extensions.processor import parser
+from por.sphinx_extensions.processor import roles
 
 if TYPE_CHECKING:
     from sphinx.application import Sphinx
