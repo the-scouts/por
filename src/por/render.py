@@ -24,7 +24,7 @@ def render_docutils() -> None:
 
 
 def render_sphinx() -> None:
-    root_directory = Path(__file__).absolute()
+    root_directory = Path(__file__).parent
     source_directory = root_directory / "sphinx_source"
     conf_directory = root_directory
     build_directory = root_directory.parent.parent / "build"  # synchronise with deploy-pages.yml -> deploy step
