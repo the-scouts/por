@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from collections.abc import Iterator
 import json
+from pathlib import Path
 import re
 
 from lxml import html
@@ -343,24 +344,24 @@ def _parse_html_table(tag: html.HtmlElement) -> str:
     return table_str + "\n\n"
 
 
-if __name__ == '__main__':
-    from pathlib import Path
+def fetch_web_por():
+    import requests
 
-    # import requests
+    r_text = requests.get("https://www.scouts.org.uk/por/").content.decode("utf-8")
+    Path("unprocessed/overview-raw.txt").write_text(r_text, encoding="utf-8")
 
-    # Path("unprocessed/overview-raw.txt").write_text(requests.get("https://www.scouts.org.uk/por/").content.decode("utf-8"), encoding="utf-8")
-
-    # Path(f"unprocessed/overview-raw.txt").read_text(encoding="utf-8")
     # pdf_link = html.document_fromstring(r_text).find(".//main")[0][0][0][-1][0].get("href")
-    # por_state = _get_state_data(r_text)
-    # por_index = por_state["index"]
+    por_state = _get_state_data(r_text)
+    por_index = por_state["index"]
     # por_intro = por_state["intro"]
 
-    # links = [item["url"] for item in por_index]
-    # for i, link in enumerate(links):
-    #     p = Path(f"unprocessed/ch{i}-raw.txt")
-    #     p.write_text(requests.get("https://www.scouts.org.uk" + link).content.decode("utf-8"), encoding="utf-8")
+    links = [item["url"] for item in por_index]
+    for i, link in enumerate(links):
+        p = Path(f"unprocessed/ch{i}-raw.txt")
+        p.write_text(requests.get("https://www.scouts.org.uk" + link).content.decode("utf-8"), encoding="utf-8")
 
+
+if __name__ == '__main__':
     # chapters = [*range(1, 15+1)]
     chapters = (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16)
     for i in chapters:
