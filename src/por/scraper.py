@@ -361,17 +361,19 @@ def fetch_web_por():
         p.write_text(requests.get("https://www.scouts.org.uk" + link).content.decode("utf-8"), encoding="utf-8")
 
 
-if __name__ == '__main__':
-    # chapters = [*range(1, 15+1)]
-    chapters = (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16)
-    for i in chapters:
-        print(f"Processing Chapter {i}")
-        raw = Path(f"ch{i}-raw.txt").read_text(encoding="utf-8")
-        exp = Path(f"expected/chapter-{i}.exp.rst")  # expected
-        out = chapter_text(raw, tmp_ch=i)
+def html_to_rest():
+    for chapter_num in (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16):
+        print(f"Processing Chapter {chapter_num}")
+        raw = Path(f"ch{chapter_num}-raw.txt").read_text(encoding="utf-8")
+        exp = Path(f"expected/chapter-{chapter_num}.exp.rst")  # expected
+        out = chapter_text(raw, tmp_ch=chapter_num)
         if exp.is_file():
-            assert exp.read_text(encoding="utf-8") == out, f"Chapter {i} not equal!"
-        Path(f"chapter-{i}.rst").write_text(out, encoding="utf-8")
+            assert exp.read_text(encoding="utf-8") == out, f"Chapter {chapter_num} not equal!"
+        Path(f"chapter-{chapter_num}.rst").write_text(out, encoding="utf-8")
+
+
+if __name__ == '__main__':
+    html_to_rest()
 
 
 # FIXME not fixable through automatic parser:
