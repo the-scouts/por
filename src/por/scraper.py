@@ -361,14 +361,16 @@ def fetch_web_por():
         p.write_text(requests.get("https://www.scouts.org.uk" + link).content.decode("utf-8"), encoding="utf-8")
 
 
-def html_to_rest():
+def html_to_rest(verify_expected: bool = True):
     for chapter_num in (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16):
         print(f"Processing Chapter {chapter_num}")
         raw = Path(f"ch{chapter_num}-raw.txt").read_text(encoding="utf-8")
-        exp = Path(f"expected/chapter-{chapter_num}.exp.rst")  # expected
         out = chapter_text(raw, tmp_ch=chapter_num)
-        if exp.is_file():
+
+        exp = Path(f"expected/chapter-{chapter_num}.exp.rst")  # expected
+        if verify_expected and exp.is_file():
             assert exp.read_text(encoding="utf-8") == out, f"Chapter {chapter_num} not equal!"
+
         Path(f"chapter-{chapter_num}.rst").write_text(out, encoding="utf-8")
 
 
