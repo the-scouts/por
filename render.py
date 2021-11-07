@@ -27,7 +27,7 @@ def render_sphinx() -> None:
     root_directory = Path(__file__).parent
     source_directory = root_directory / "sphinx_source"
     conf_directory = root_directory
-    build_directory = root_directory / "build"  # synchronise with deploy-pages.yml -> deploy step
+    build_directory = root_directory / "render"  # synchronise with deploy-pages.yml -> deploy step
     doctree_directory = build_directory / ".doctrees"
 
     # builder configuration
