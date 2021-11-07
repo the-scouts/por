@@ -38,11 +38,11 @@ jobs:
 
         # remove the .doctrees folder when building for deployment as it takes two thirds of disk space
       - name: 🔥 Clean up files
-        run: rm -r build/.doctrees/
+        run: rm -r render/.doctrees/
 
       - name: 🚀 Deploy to GitHub pages
         uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
           branch: gh-pages # The branch to deploy to.
-          folder: build # Synchronise with build.py -> build_directory
+          folder: render # Synchronise with build.py -> build_directory
           single-commit: true # Delete existing files
