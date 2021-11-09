@@ -507,8 +507,7 @@ iii. Membership of the District Scout Council ceases upon:
 iv.The District Scout Council must hold an Annual General Meeting within six months of the financial year end to:
 
       *  receive and consider the Trustees' Annual Report prepared by the District Executive Committee, including the annual statement of accounts (after their examination by an appropriate auditor, independent examiner or scrutineer);
-      *  approve the District Commissioner's nomination of the District Chair and nominate
-      *  members of the District Executive Committee;
+      *  approve the District Commissioner's nomination of the District Chair and nominated members of the District Executive Committee;
       *  elect a District Secretary unless the District Secretary is employed by the District Executive Committee;
       *  elect a District Treasurer;
       *  elect members to the District Executive Committee;
