@@ -364,7 +364,7 @@ def fetch_web_por():
 def html_to_rest(verify_expected: bool = True):
     for chapter_num in (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16):
         print(f"Processing Chapter {chapter_num}")
-        raw = Path(f"ch{chapter_num}-raw.txt").read_text(encoding="utf-8")
+        raw = Path(f"unprocessed/ch{chapter_num}-raw.txt").read_text(encoding="utf-8")
         out = chapter_text(raw, tmp_ch=chapter_num)
 
         exp = Path(f"expected/chapter-{chapter_num}.exp.rst")  # expected
@@ -375,7 +375,12 @@ def html_to_rest(verify_expected: bool = True):
 
 
 if __name__ == '__main__':
+    # convert
     html_to_rest()
+
+    # # fetch and convert
+    # fetch_web_por()
+    # html_to_rest(verify_expected=False)
 
 
 # FIXME not fixable through automatic parser:
