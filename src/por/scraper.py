@@ -146,6 +146,7 @@ def _html_to_rest(html_text: str, tmp_ch: int = -1, tmp_rl: int = -1) -> str:
     text = EMPH.sub(r"\g<open>*\g<close>", text)
     text = text.replace(" :sup:`sv`**", "** :sup:`sv`")  # can't have nested markup :(
     text = text.replace("*(*", "(")
+    text = text.replace("*.**", ".***")
 
     # hyperlinks
     text = text.replace('<a href="https://members.scouts.org.uk/fs120013"> <span><u><a href="https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/joint-activities-with-other-organisations-except-girlguiding/">FS120013 Joint Activities with other organisations</a></u></span>.</a>', ' <a href="https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/joint-activities-with-other-organisations-except-girlguiding/">FS120013 Joint Activities with other organisations</a>')  # arrrrghhhhh!
