@@ -70,7 +70,7 @@ c. Further details may be obtained from the Scout Information Centre.
 
 Rule 14.7  Protected Scout logos, names, badges and awards
 ----------------------------------------------------------
-We are proud of our brand and visual identity and encourage all `members <https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00000922043>`__  to use them to increase recognition and understanding of Scouting, as well as to support local fundraising. However it is important that members follow the rules below and keep within `brand guidelines <https://scoutsbrand.org.uk/auth/login>`__ to ensure a consistent approach across the UK.
+We are proud of our brand and visual identity and encourage all `members <https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00000922043>`__  to use them to increase recognition and understanding of Scouting, as well as to support local fundraising. However it is important that members follow the rules below and keep within `brand guidelines <https://www.scouts.org.uk/volunteers/running-things-locally/local-media-and-member-communications/our-brand/>`__ to ensure a consistent approach across the UK.
 
 a. **Definitions**
 
@@ -90,7 +90,7 @@ a. **Definitions**
 
    i. Names:
 
-      *  The names: 'the Scouts' and 'The Scout Association' 'Beavers' 'Cubs' 'Scouts' 'Explorers' 'Scout Network' 'Sea Scouts' 'Air Scouts' and 'Scout Active Support Units'
+      *  The names: 'the Scouts' and 'The Scout Association' 'Squirrels' 'Beavers' 'Cubs' 'Scouts' 'Explorers' 'Scout Network' 'Sea Scouts' 'Air Scouts' and 'Scout Active Support Units'
       *  All names and appointments which incorporate the word 'Scout' or 'Scouts' or an official section of UK Scouting.
 
    ii. Badges and awards:
@@ -116,7 +116,7 @@ b. **Usage**
        *  Use Scout logos without localisation, Scout names, badges or awards for fundraising or commercial purposes without a commercial licence from UK Headquarters
        *  Offer a personalisation service to other Scout Sections/Groups/Districts/Counties without a commercial licence from UK Headquarters
        *  Licence the use of any Scout logo, name, badge or award to any third party
-       *  Alter Scout logos, badges, names or awards in any way except to add personalisation to their logo in line with the Scout brand guidelines
+       *  Alter Scout logos, badges, names or awards in any way except to add personalisation to their logo in line with the Scout `brand guidelines <https://www.scouts.org.uk/volunteers/running-things-locally/local-media-and-member-communications/our-brand/>`__
        *  Use an official UK Programme badges, Scout award or national award on any item of merchandise
        *  Authorise the national head office of any business to use any Scout logos, names, badges and awards. Only UK Headquarters may contact the national head office of a national or UKwide company and authorise them to use Scout logos, names, badges or awards
        *  Apply to register any designs or Trade Marks which are, or may in UK Headquarters' view, be identical or confusingly similar to UK Scout Trade Marks or other protected logos, names, badges or awards.
@@ -141,7 +141,7 @@ If a Section/Group/District/County wishes to use a devolved Nation logo for comm
 
 As a general rule, only Nation headquarters may use the devolved Nation logos (Scouts Scotland, ScoutsCymru and Scouts N.I.) in its communications and marketing materials. 
 
-For local identification, Sections/Groups/Districts/Counties in the Nations must use their name beneath the main Scout logo and follow the advice on colour use given in the brand guidelines. An example is given below:
+For local identification, Sections/Groups/Districts/Counties in the Nations must use their name beneath the main Scout logo and follow the advice on colour use given in the `brand guidelines <https://www.scouts.org.uk/volunteers/running-things-locally/local-media-and-member-communications/our-brand/>`__. An example is given below:
 
 Rule 14.8 Trade Marks
 ---------------------
