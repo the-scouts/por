@@ -1,5 +1,6 @@
-:Chapter: 7
-:Title: EMERGENCY PROCEDURES
+Emergency procedures
+====================
+
 
 Rule 7.1 Communication
 ----------------------

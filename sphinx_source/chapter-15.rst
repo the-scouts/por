@@ -1,5 +1,6 @@
-:Chapter: 15
-:Title: COMPLAINTS, SUSPENSIONS AND DISMISSALS
+Complaints, suspensions and dismissals
+======================================
+
 
 Rule 15.1 Complaints
 --------------------
@@ -115,7 +116,7 @@ f. Suspension in the case of disagreement must be followed as soon as possible b
 
 g. When a person is suspended or the nature of the suspension changes, the appropriate Commissioner must inform the Vetting Team at Headquarters and a Form CS must be completed.
 
-h. The procedures for suspension detailed in this Rule must not be applied to Beaver Scouts, Cub Scouts, Scouts, or Explorer Scouts.
+h. The procedures for suspension detailed in this Rule must not be applied to Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts, or Explorer Scouts.
 i. At the end of a period of suspension the appropriate Commissioner and the appropriate Appointments Advisory Committee (where appropriate consulting the Group Scout Leader and the Sponsoring Authority) must agree a recommendation for action and seek approval for that action from the authority who originally approved the suspension. See table above.i. If the Appointments Advisory Committee and the appropriate Commissioner disagree on the recommendation for action then the final decision lies with the authority who originally approved the suspension.
 
  ii. If the authority who originally approved the suspension disagrees with the recommendation for action following discussion with the Appointments Advisory Committee and the appropriate Commissioner), then the final decision lines with the authority who originally approved the suspension.
@@ -140,7 +141,7 @@ a. Stay-Away is a tool that can be used by the national Safeguarding team only. 
 
 Stay-Away is permitted in the following circumstances:
 
-   1. when an allegation is made that an individual involved in Scouting has behaved in a way that may be considered a breach of the The Scouts Safeguarding Policy Statement and/or the Code of conduct set out in the Yellow Card;
+   1. when an allegation is made that an individual involved in Scouting has behaved in a way that may be considered a breach of the Scouts Safeguarding Policy Statement and/or the Code of conduct set out in the Yellow Card;
    2. When a concern is raised in regards to an individual involved in Scouting that may suggest that they are unsuitable to be in a Position of Trust with young people;
    3. When a concern is raised in regards to an individual that may impact their suitability to work with young people
    4. Where information is received from a statutory agency in regard to concerns raised about an individual involved in Scouting.
@@ -159,8 +160,8 @@ c. In such circumstances the Safeguarding Team in consultation with the relevant
 
 d. At the end of the two week Stay-Away the safeguarding team must make a decision in regard to progressing the enquiry by extending the Stay-Away for a further two weeks or ending the Stay-Away in consultation with the responsible Commissioner. A Stay-Away cannot extend beyond four weeks.
 
-Rule 15.4 Suspension of Beaver Scouts, Cub Scouts, Scouts or Explorer Scouts
-----------------------------------------------------------------------------
+Rule 15.4 Suspension of Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts or Explorer Scouts
+---------------------------------------------------------------------------------------------
 a. Formal suspension of a youth member may be appropriate where they have been accused of a serious criminal offence or of behaviour that put adults or young people at serious risk of harm. See also the factsheet Guidance on the formal suspension of youth members.
 
 b. Suspension is not a disciplinary sanction or an indication of guilt but ensures that no situation can arise that may cause further concern and allows a period where further information may be received and if appropriate the statutory agencies (typically the police or social services) may carry out their duties.
@@ -177,8 +178,8 @@ g. The parents / carers of the youth member must be informed of their suspension
 
 h. They must also be offered an independent Scouting colleague to act as a supporter. The information sheet Supporting a young person under suspension provides relevant guidelines.
 
-Rule 15.5 Ending a period of Suspension of Beaver Scouts, Cub Scouts, Scouts or Explorer Scouts
------------------------------------------------------------------------------------------------
+Rule 15.5 Ending a period of Suspension of Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts or Explorer Scouts
+----------------------------------------------------------------------------------------------------------------
 a. At the end of a period of suspension the District Commissioner and Group Scout Leader/Explorer Scout Leader must determine if a return to Scouting is appropriate. Advice should be sought from the relevant Development Manager or Officer, Field Commissioner or Country HQ and where a statutory authority has been involved, advice must be sought from that body.
 
    Possible outcomes following a period of suspension would include:
@@ -202,7 +203,7 @@ Rule 15.8 Termination of Youth Membership sv
 a. Youth Membership may be terminated by:
 
    *  resignation;
-   *  in the case of Beaver Scouts, Cub Scouts, Scouts, and Explorer Scouts by leaving their Group or Explorer Scout Unit without joining another;
+   *  in the case of Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts, and Explorer Scouts by leaving their Group or Explorer Scout Unit without joining another;
    *  in the case of Scout Network Members by leaving their County provision without joining another County;
    *  failure to pay the Headquarters, Country, County, District and Group Membership Subscriptions;
    *  dismissal.
@@ -225,9 +226,9 @@ Rule 15.10 Dismissal of Explorer Scouts
 ---------------------------------------
 a. No Explorer Scout may be dismissed from an Explorer Scout Unit without the approval of the District Explorer Scout Commissioner.
 
-Rule 15.11 Dismissal of Beaver Scouts, Cub Scouts and Scouts
-------------------------------------------------------------
-a. No Beaver Scout, Cub Scout, or Scout may be dismissed from a Scout Group without the approval of the Group Scout Leader.
+Rule 15.11 Dismissal of Squirrel Scouts, Beaver Scouts, Cub Scouts and Scouts
+-----------------------------------------------------------------------------
+a. No Squirrel Scout, Beaver Scout, Cub Scout, or Scout may be dismissed from a Scout Group without the approval of the Group Scout Leader.
 
 b. In a Sponsored Scout Group, the Sponsoring Authority must be consulted before any such dismissal takes place.
 
@@ -243,9 +244,9 @@ b. If so requested by the person dismissed, the District Commissioner (or equiva
 
 c. Reasonable opportunity must be given for the dismissed person to attend the meeting of such a committee to state a case against dismissal.
 
-Rule 15.14 Appeals against Dismissal of Youth Members (Beaver Scouts, Cub Scouts, Scouts and Explorer Scouts)
--------------------------------------------------------------------------------------------------------------
-a. Any Beaver Scout, Cub Scout, Scout or Explorer Scout who is dismissed has the right of appeal (with the aid of parents or guardians if so desired) to the District Commissioner.
+Rule 15.14 Appeals against Dismissal of Youth Members (Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts and Explorer Scouts)
+------------------------------------------------------------------------------------------------------------------------------
+a. Any Squirrel Scout, Beaver Scout, Cub Scout, Scout or Explorer Scout who is dismissed has the right of appeal (with the aid of parents or guardians if so desired) to the District Commissioner.
 
 b. If so requested by the person dismissed, the District Commissioner may appoint a committee to hear the appeal.
 

@@ -1,11 +1,12 @@
-:Chapter: 11
-:Title: AWARDS AND RECOGNITION OF SERVICE
+Awards and recognition of service
+=================================
+
 
 Rule 11.1 Award Nominations and Recognition of Service
 ------------------------------------------------------
 a. Nominations for Scout Good Service awards as well as Meritorious Conduct, Gallantry, Cornwell Scout Badge and Chief Scouts Personal Award can be initiated by any member. Nominations must be approved and supported by the relevant Commissioner, before being processed.
 
-b. Nomination forms can be found at `www.scouts.org.uk/awards </volunteers/learning-development-and-awards/awards-and-recognition/>`__ Completed Good Service (Chief Scouts Commendation for Good Service, Award for Merit, Bar to the Award for Merit and Silver Acorn) nomination forms should be submitted to the relevant Commissioner for approval and then the HQ Awards Team should be notified by the relevant Commissioner of the award decisions using the `Good Service Award Completion Form <https://app.smartsheet.com/b/form/e1dfb54bf60c475c909fb9a506c6e157>`__. Completed Good Service (Bar to the Silver Acorn & Silver Wolf) nomination forms as well as completed Meritorious Conduct, Gallantry, Cornwell Scout Badge & Chief Scouts Personal Award nomination forms should be submitted by email to `awards@scouts.org.uk <mailto:awards@scouts.org.uk>`__ for approval by the National Awards Advisory Group.
+b. Nomination forms can be found at `https://www.scouts.org.uk/volunteers/learning-development-and-awards/awards-and-recognition/ <https://www.scouts.org.uk/volunteers/learning-development-and-awards/awards-and-recognition/>`__ Completed Good Service (Chief Scouts Commendation for Good Service, Award for Merit, Bar to the Award for Merit and Silver Acorn) nomination forms should be submitted to the relevant Commissioner for approval and then the HQ Awards Team should be notified by the relevant Commissioner of the award decisions using the `Good Service Award Completion Form <https://app.smartsheet.com/b/form/e1dfb54bf60c475c909fb9a506c6e157>`__. Completed Good Service (Bar to the Silver Acorn & Silver Wolf) nomination forms as well as completed Meritorious Conduct, Gallantry, Cornwell Scout Badge & Chief Scouts Personal Award nomination forms should be submitted by email to `awards@scouts.org.uk <mailto:awards@scouts.org.uk>`__ for approval by the National Awards Advisory Group.
 
 c. Before completing an Nomination Form, individuals are advised to consult the relevant guidance notes, at `www.scouts.org.uk/awards <http://www.scouts.org.uk/awards>`__
 
@@ -21,7 +22,7 @@ Rule 11.3 Awards for Gallantry
 ------------------------------
 a. Awards for gallantry are for acts which would normally include an element of personal risk.
 
-b. Awards for gallantry are made by the Chief Scout, who is advised by the National Awards Advisory Group, to Beaver Scouts, Cub Scouts, Scouts, Explorer Scouts, Scout Network Members, adult members and Associate Members as determined by the Appointment Process Table 2: Appointments in POR and to Occasional and other Helpers.
+b. Awards for gallantry are made by the Chief Scout, who is advised by the National Awards Advisory Group, to Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts, Explorer Scouts, Scout Network Members, adult members and Associate Members as determined by the Appointment Process Table 2: Appointments in POR and to Occasional and other Helpers.
 
 c. The Gilt Cross, with a blue and red vertically patterned ribbon and emblems or brooches corresponding to them, is awarded for gallantry in circumstances of moderate risk.
 
@@ -33,7 +34,7 @@ f. A Bar may be awarded to the holder of any gallantry Cross for further acts of
 
 Rule 11.4 Awards for Meritorious Conduct
 ----------------------------------------
-a. Awards for meritorious conduct are made by the Chief Scout, who is advised by the National Awards Advisory Group, to Beaver Scouts, Cub Scouts, Scouts, Explorer Scouts, Scout Network Members, adult Members and Associate Members as determined by the Appointment Process Table 2: Appointments in POR and to Occasional and other Helpers.
+a. Awards for meritorious conduct are made by the Chief Scout, who is advised by the National Awards Advisory Group, to Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts, Explorer Scouts, Scout Network Members, adult Members and Associate Members as determined by the Appointment Process Table 2: Appointments in POR and to Occasional and other Helpers.
 
 b. Awards are made for conduct involving a high degree of courage, endurance, initiative or devotion to duty, often under suffering, without necessarily involving any element of risk.
 
