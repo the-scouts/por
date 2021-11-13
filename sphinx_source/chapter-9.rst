@@ -9,7 +9,7 @@ Rule 9.1 Activity Rules – Application
 -------------------------------------
 a. These Rules apply to all activities carried out anywhere in the world.
 
-b. The District Commissioner is responsible for approving all activities for Beaver Scouts, Cub Scouts, Scouts and Explorer Scouts. This will usually be by means of an informal system agreed between the District Commissioner and each Group Scout Leader or District Explorer Scout Commissioner.
+b. The District Commissioner is responsible for approving all activities for Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts and Explorer Scouts. This will usually be by means of an informal system agreed between the District Commissioner and each Group Scout Leader or District Explorer Scout Commissioner.
 
 c. For Scout Network the relevant Commissioner is responsible for approving all activities for Scout Network Members at that level, i.e. a District Commissioner for District Scout Network Activities and the County Commissioner for County Scout Network Activities. This will usually be by means of an informal system agreed between the District Scout Network Commissioner, Assistant County Commissioner Scout Network or County Commissioner. :sup:`sv`
 
@@ -34,7 +34,7 @@ a. Prior to every activity the Leader must ensure that:
    *  it has been approved by the relevant District/County Commissioner;
    *  if necessary, they - or another member of the party - holds a permit in accordance with the Adventurous Activity Permit Scheme (see `Rule 9.7 <https://www.scouts.org.uk/por/9-activities/#9.7>`__);
    *  it is the leader holding the permit who takes all decisions for the duration of the activity;
-   *  there is additional, responsible supervision as required (including for those in the locality of the activity but not actively involved, see Rules 3.7-3.9), all supervising adults and participants are made aware of who is in charge;
+   *  there is additional, responsible supervision as required (including for those in the locality of the activity but not actively involved, see Rules 3.8-3.10), all supervising adults and participants are made aware of who is in charge;
    *  suitable InTouch arrangements (see *`Rule 9.3 <https://www.scouts.org.uk/por/9-activities/#9.3>`__*) and Emergency Procedures (Chapter 7) are in place;
    *  it is appropriate to the age and abilities of all participants; each participant has received appropriate training;
    *  an appropriate weather forecast is obtained and acted upon in terms of selecting the area in which the activity will operate and that each participant is suitably equipped to tackle predicted/possible extremes;
@@ -56,7 +56,7 @@ a. Leaders must carry out risk assessments before and during every activity.
 
 b. All activities must be undertaken in accordance with the Association's Safety Policy (see Chapter 2) and adhere to the relevant general and specific activity rules set out in Chapter 9 - Activities.
 
-   *Further details are contained in the factsheet* *`FS120000 Activities -- Risk Assessment <https://www.scouts.org.uk/volunteers/staying-safe-and-safeguarding/risk-assessments/>`__* *and at* *`scouts.org.uk/safety <https://www.scouts.org.uk/volunteers/staying-safe-and-safeguarding/safety/>`__*. 
+   *Further details are contained in the factsheet* *`FS120000 Activities -- Risk Assessment <https://www.scouts.org.uk/volunteers/staying-safe-and-safeguarding/risk-assessments/>`__* *and at* *`scouts.org.uk/safety <https://www.scouts.org.uk/volunteers/staying-safe-and-safeguarding/safety/>`__*.
 
 Rule 9.5 Emergency Procedure
 ----------------------------
@@ -124,8 +124,6 @@ i. All groups undertaking adventurous activities must have immediate access to s
       *  or another means of calling help (such as a telephone box)
 
    *  First Response is required for all other adventurous activities.
-
-      NOTE: Rule 9.7 is now for implementation by Counties, existing members will have until September 2021 to comply with the 3 year renewal of mandatory ongoing learning. . During this time, where the revised processes have not been implemented locally, reference should be made to Rule 9.7 October 2018 version of POR.
 
 j. Once holding a permit an activity leader may operate with Members from another District or County (subject to the normal approval of the District/County Commissioner of the Members concerned).
 
@@ -377,7 +375,7 @@ a. Terrain Zero describes terrain which meets one of the following criteria:
 
 b. Activities undertaken in Terrain Zero must follow the guidance in `FS120426 Terrain Zero Activities <https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/hillwalking/terrain-zero-activities/>`__.
 
-Further information and support in defining Terrain Zero can be found in `FS120426 Terrain Zero Activities <https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/hillwalking/terrain-zero-activities/>`__. 
+Further information and support in defining Terrain Zero can be found in `FS120426 Terrain Zero Activities <https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/hillwalking/terrain-zero-activities/>`__.
 
 Rule 9.29 Terrain One Definition
 --------------------------------
@@ -408,7 +406,7 @@ a. Meets any of the following criteria:
 
    *  is over 800 metres above sea level or;
    *  lies more than three hours travelling time from a road which can take an ordinary road-going ambulance or a building which is occupied (such as a farm) or another means of calling help (such as a telephone box), or:
-   *  has steep slopes or rocky terrain, where a slip may result in a fall (routes or areas where the average person would need to regularly use their hands at least for balance if not for actual progress. This excludes the planned use of ropes but ropes may be used to give confidence, or in an emergency situation. This also excludes climbing activities.
+   *  has steep slopes or rocky terrain, where a slip may result in a fall (routes or areas where the average person would need to regularly use their hands at least for balance if not for actual progress). This excludes the planned use of ropes but ropes may be used to give confidence, or in an emergency situation. This also excludes climbing activities.
 
       and
 
@@ -547,7 +545,7 @@ l. Members travelling to Scotland from elsewhere in the UK, and transporting the
 m. Wherever practical, shooting ranges should be out of bounds, except during the specified times for shooting, where the range and surrounding areas must be managed appropriately.
 
    **Supervision**
-n. In every case, shooting must be supervised by a competent and appropriately qualified `Range Conducting Officer </volunteers/running-your-section/programme-guidance/general-activity-guidance/shooting/qualifications/>`__ who must have a knowledge of the correct use of the firearms being used and shall be responsible for ensuring compliance by all persons in the range with the relevant range safety and other rules.
+n. In every case, shooting must be supervised by a competent and appropriately qualified `Range Conducting Officer <https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/shooting/qualifications/>`__ who must have a knowledge of the correct use of the firearms being used and shall be responsible for ensuring compliance by all persons in the range with the relevant range safety and other rules.
 
 o. Members may use firearms for historical re-enactment purposes as a member or guest of a club affiliated to the National Association of Re-enactment Societies and operating in accordance with their standards and codes of practice. Members using firearms under this rule remain subject to Rule 9.37c (which forbids shooting at targets representing human beings or animals).
 
@@ -643,7 +641,7 @@ c. *This rule is intentionally left blank*
 
 Rule 9.45 Activities on Class C Waters
 --------------------------------------
-All water activities on Class C waters (excluding swimming -- see Rules 9.48-9.52, SCUBA and motorised activities) must be approved by the relevant Commissioner and the standards contained in the factsheet `FS120623 Class C Waters <https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/general-water-activities/class-c-waters/>`__ followed.
+All water activities on Class C waters (excluding swimming -- see Rules 9.48-9.52, SCUBA and motorised activities) must be approved by the relevant Commissioner and the standards contained in the factsheet `FS120623 Class C Waters <https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/general-water-activities/class-c-waters/>`__
 
 Rule 9.46 Boats
 ---------------
@@ -674,7 +672,7 @@ d. When taking Members as passengers on hired sailing or powered craft, the lead
 
 Rule 9.48 Activities near the water
 -----------------------------------
-When activities take place near the water the guidance contained within the CCPR Group Safety at Water Margins document should be followed. This can be found at `www.scouts.org.uk/watersafety <http://www.scouts.org.uk/watersafety>`__
+When activities take place near the water the guidance contained within the CCPR Group Safety at Water Margins document should be followed. This can be found `here <https://www.rospa.com/rospaweb/docs/advice-services/leisure-safety/groupsafety-watermargins.pdf>`__
 
 Rule 9.49 Paddling
 ------------------
@@ -757,7 +755,7 @@ b. The District Commissioner is responsible for:
    *  the issue of Nights Away Permits in accordance with the application, assessment and approval process and content of the appropriate factsheet; The Commissioner can only approve the issue of a Permit following the recommendation of a Nights Away Adviser and cannot increase the level of the permit beyond that recommended without a further assessment by an NAA.
    *  suspension or withdrawal of Nights Away Permits as per *`Rule 9.58 <https://www.scouts.org.uk/por/9-activities/#9.58>`__*;
    *  ensuring that all adult members who are present overnight at a nights away activity have current safeguarding and safety training recorded on Compass;
-   *  this rule does not apply to occasional helpers or members of the Scout Network who are attending the event as a participant and are not supporting or delivering activities for members under the age of 18
+   *  this rule does not apply to occasional helpers or to members of the Scout Network who are attending the event as a participant and are not supporting or delivering activities for members under the age of 18
    *  the standards of all camping and residential experiences taking place in the District and may cancel an event, if judged necessary;
    *  appointing one, or more, Nights Away Advisers in accordance with the process and content of the appropriate factsheet.
 
@@ -774,8 +772,6 @@ d. All groups undertaking a nights away event must have immediate access to some
 The permit holder is not required to hold a first aid qualification.
 
 e. The requirement to have completed a First Response course is waived for holders of a valid First Aid qualification, where the syllabus equals or exceeds that of a First Response course, including hypothermia and hyperthermia training.
-
-NOTE: Rule 9.56d is now for implementation by Counties, existing members will have until September 2021 to comply with the 3 year renewal of mandatory ongoing learning. During this time, where the revised processes have not yet been implemented locally, reference should be made to Rule 9.56d in the October 2018 version of POR.
 
 Rule 9.57 Nights Away Permits
 -----------------------------
@@ -850,7 +846,7 @@ d. The permit holder has responsibility for notification (see `Rule 9.57l <https
 
 e. The permit holder must provide support during both the preparation and the event itself and be satisfied that the young person has the required abilities, but is not required to attend the event.
 
-   *Event Passports and guidance are available from Scout Store or can be downloaded from `the print centre <https://scoutsbrand.org.uk/>`__.*
+   *Event Passports and guidance are available from Scout Store or can be downloaded from the `brand centre <https://scoutsbrand.org.uk/home>`__.*
 
 f. Those responsible for running Scout campsites or activity centres who hold a permit may issue site specific Event Passports for an extended period (up to a maximum of 12 months) covering multiple service events for those under 18 years working on projects on their site.
 
@@ -860,7 +856,7 @@ h. When leading a Scout Network residential event a passport or permit is not re
 
 i. As part of the planning process parents must be informed of no leaders being present and of the supervision arrangements for a residential event using an event Passport and be satisfied with them prior to consenting to their child taking part.
 
-   *For adult / Scout ratios on Nights Away activities, see `Rule 3.9 </por/3-the-scout-group/39-the-scout-troop/?cat=767&moduleID=10>`__*
+   *For adult / Scout ratios on Nights Away activities, see Rule 3.10*
 
 Rule 9.62 Family Nights Away
 ----------------------------
@@ -1042,7 +1038,7 @@ Rule 9.79 Permanent High Ropes Activities
 -----------------------------------------
 Permanent high ropes activities are defined in Rule 9.78 High Ropes Activities
 
-a. Construction and maintenance of permanent high ropes structures must follow the guidelines in AAIAC (Adventure Activities Industry Advisory Committee) -- The UK Ropes Course Guide. This can be found at `here <https://www.aaiac.org/#resources-and-guidance>`__
+a. Construction and maintenance of permanent high ropes structures must follow the guidelines in AAIAC (Adventure Activities Industry Advisory Committee) -- The UK Ropes Course Guide. This can be found at `here <https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/roped-activities/high-ropes/>`__
 
 b. Permanent high ropes structures must have a written operating manual which needs to be approved by a Technical Adviser. The minimum qualification of a Technical Adviser is Mountain Instructor Award (MIA) or a European Ropes Course Association (ERCA) qualified high ropes instructor qualified to rescue (or equivalent of higher).
 

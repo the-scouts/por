@@ -83,7 +83,7 @@ b. The retiring Secretaries of the Group, District or County which are amalgamat
 
 c. For further information on amalgamation see:
 
-   *  Group - Rule 3.51
+   *  Group - Rule 3.52
    *  District -- Rule 4.62
    *  County -- Rule 5.50
 
@@ -97,7 +97,7 @@ c. Such property must be treated in the same way as other assets.
 
 d. For further information on closure see
 
-   *  Group - Rule 3.52
+   *  Group - Rule 3.53
    *  District -- Rule 4.64
    *  County -- Rule 5.52.
 

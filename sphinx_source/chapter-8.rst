@@ -1,10 +1,6 @@
 :Chapter: 8
 :Title: INSURANCE
 
-Insurance
-=========
-
-
 Personal Accident and Medical Expenses Policy
 ---------------------------------------------
 This insurance is provided by Headquarters and covers the total Membership as shown on the Annual Census Return together with new Members joining during the year in the British Isles, including British Scouting Overseas.

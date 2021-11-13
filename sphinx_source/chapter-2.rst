@@ -1,11 +1,12 @@
 :Chapter: 2
 :Title: KEY POLICIES
 
-The order of Key Policies in this section is alphabetical and infers no order of importance nor priority; they are all equal.
+***The Key Policies in this Chapter are in alphabetical order. No order of importance or priority is implied - they are all equal.***
 
 Development Policy
 ------------------
 Subject to the Rules governing age ranges and mixed membership the Scout Movement is open to all young people of whatever background.
+
 The Scout Association recognises, however, that access to Scouting is not equally available to all groups and communities across society as a whole.
 
 The Operations sub-Committee of the Trustee Board and the Regional Services Team at Headquarters support the Movement in its work in making Scouting available to all.
@@ -57,11 +58,11 @@ All Members of the Movement should seek to practise equality, especially in prom
 
 Reasonable adjustments means actions to enable young people with disabilities to access Scouting and Scouting activities, as far as reasonably possible, to the same level as young people without disabilities. This should involve working in partnership with parents/carers, to identify needs and support strategies.
 
-Reasonable steps should also be taken to identify any young people with disabilities in the Section/Group.(`See Rule 3.11b for further guidance around reasonable adjustments </por/3-the-scout-group/311-section-flexibility/>`__).
+Reasonable steps should also be taken to identify any young people with disabilities in the Section/Group.(see Rule 3.12b for further guidance around reasonable adjustments).
 
 Further information about equalities legislation and Scouting is available via the members area of the website.
 
-*Note: Membership of the youth Sections of the Association is open to young people of all genders and of the appropriate ages, subject to the rules set out in Chapters 3.6, 4.6 and 5.6 below.*
+*Note: Membership of the youth Sections of the Association is open to young people of all genders and of the appropriate ages, subject to the rules set out in Chapters 3.7, 4.6 and 5.6 below.*
 
 **Leaders and other volunteers**
 
@@ -117,7 +118,7 @@ Privacy and Data Protection Policy
 ----------------------------------
 The Scout Association takes the protection of privacy and personal data very seriously and all adults operating within Scouting, whether at National UKHQ or within local Scout units (i.e. Scout Groups, Districts, Counties, Areas, Regions (Scotland) or Countries), must comply with data protection law which includes the EU General Data Protection Regulation "GDPR".
 
-(A copy of The Scout Association's Data Protection Policy which provides key definitions, details of how it protects personal information and also guidance to staff, members and volunteers about how to deal with personal information they handle, can be found `here </about-us/policy/data-protection-policy/>`__).
+(A copy of The Scout Association's Data Protection Policy which provides key definitions, details of how it protects personal information and also guidance to staff, members and volunteers about how to deal with personal information they handle, can be found `here <https://www.scouts.org.uk/about-us/policy/>`__).
 
 Responsibilities within the Privacy and Data Protection Policy
 --------------------------------------------------------------
@@ -143,7 +144,7 @@ e. In compliance with the 6 key principles of the GDPR (Article 5), personal dat
 
       Clear and accessible information must be provided to individuals about what personal data is collected, how it will be processed and how they can exercise rights over it e.g. the right to request a copy of their personal data by making a Subject Access Request (SAR) or to have incorrect data corrected or deleted.
 
-      This information should be provided both at the initial point of contact in the form of a Privacy Statement or Notice and also be made regularly accessible to the individual. The Scout Association's Privacy Statement as displayed on its website can be found `here. </about-us/policy/cookie-policy/>`__
+      This information should be provided both at the initial point of contact in the form of a Privacy Statement or Notice and also be made regularly accessible to the individual. The Scout Association's Privacy Statement as displayed on its website can be found `here <https://www.scouts.org.uk/about-us/policy/data-protection-policy/>`__`. </about-us/policy/cookie-policy/>`__
    ii. Collected and processed for specified, explicit and legitimate purposes only Personal data should only be collected and used for activities directly relating to Scouting or a person's membership or association with Scouting.
 
        Personal data should only be collected and used for activities directly relating to Scouting or a person's membership or association with Scouting.
@@ -189,7 +190,7 @@ d. Scouts' Own Services may be held for the purpose of spiritual reflection and 
 
 e. Such services must be regarded as supplementary to, rather than a substitute for, formal attendance at the services of the individual's own form of religion.
 
-f. If a Beaver Scout, Cub Scout, Scout, Explorer Scout or Scout Network Member is not allowed, by reasons of the individual's own religious obligations, to attend acts of worship other than that of the individual's own faith, the Leader must make certain that those obligations are not compromised.
+f. If a Squirrel Scout, Beaver Scout, Cub Scout, Scout, Explorer Scout or Scout Network Member is not allowed, by reasons of the individual's own religious obligations, to attend acts of worship other than that of the individual's own faith, the Leader must make certain that those obligations are not compromised.
 
 Safeguarding Policy
 -------------------
@@ -205,9 +206,9 @@ It is the responsibility of all adults involved in Scouting to have read and und
 
 The Safeguarding Policy & Procedures must be adhered to at all times.
 
-All breaches of the policy and procedures will be dealt with within in line with POR and the Safeguarding Processes and Procedures. 
+All breaches of the policy and procedures will be dealt with within in line with POR and the Safeguarding Processes and Procedures.
 
-**The Scouts Safeguarding Policy & Procedures, for Young People & Adults at Risk** can be found on our website `here <https://scouts.org.uk/about-us/policy/safeguarding-policy-and-procedures/>`__ 
+**The Scouts Safeguarding Policy & Procedures, for Young People & Adults at Risk** can be found on our website `here <https://scouts.org.uk/about-us/policy/safeguarding-policy-and-procedures/>`__
 
 Safeguarding of young people and adults at risk
 -----------------------------------------------
@@ -219,11 +220,11 @@ Safeguarding of young people and adults at risk
 
 Safety Policy
 -------------
-The Scouts aim to provide opportunities for young people and adult volunteers to develop and appreciate what risk is and how it is managed. This vital skill for life is developed by providing opportunities to learn and experience activities that are adventurous but where risk is controlled and managed as far as is reasonably practicable. 
+The Scouts aim to provide opportunities for young people and adult volunteers to develop and appreciate what risk is and how it is managed. This vital skill for life is developed by providing opportunities to learn and experience activities that are adventurous but where risk is controlled and managed as far as is reasonably practicable.
 
 The Scouts recognises that life is not risk-free, and in its turn Scouting is not risk-free. As Scouts, we endeavor to manage these risks to wellbeing and safety to be as low as is reasonably practicable. Identifying and proportionately managing risk is a skill for life that we wish to kindle, develop and enhance in all of our members.
 
-In order to do this The Scouts will provide guidance and have a training programme available for its volunteers. 
+In order to do this The Scouts will provide guidance and have a training programme available for its volunteers.
 
 All those involved in Scouting are accountable for and must demonstrate an ability and understanding of the following, (so far as is reasonably practicable and to the extent of their role);
 
@@ -279,7 +280,7 @@ Youth Member Anti-Bullying Policy
 ---------------------------------
 "Children have the right to protection from all forms of violence (physical or mental). They must be kept safe from harm and they must be given proper care by those looking after them." *[The United Nations Convention on the Rights of the Child, Article 19]*
 
-The Scout Association is committed to this ethos and seeks to ensure, as far as is reasonably practicable, the prevention of all forms of bullying among Members. To this end all Scouting activities should have in place rigorous anti-bullying strategies. 
+The Scout Association is committed to this ethos and seeks to ensure, as far as is reasonably practicable, the prevention of all forms of bullying among Members. To this end all Scouting activities should have in place rigorous anti-bullying strategies.
 
 Responsibility within the Youth Member Anti-Bullying Policy
 -----------------------------------------------------------
@@ -294,4 +295,4 @@ Adults in Scouting should:
 *  encourage young people and adults to feel comfortable and caring enough to point out attitudes or behaviour they do not like;
 *  help ensure that their Group/Section has a published anti-bullying code.
 
-*Note: Support material in the form of a guide and poster is available from the Scout Information Centre*
+*Note: Support material in the form of a guide and poster is available from the Scout Information Centre.*

@@ -3,15 +3,21 @@
 
 **The Founder of Scouting had a vision from which a Movement has grown, so that Scouting is found today in every corner of the land.**
 
-Scouting happens principally in Scout Groups, Explorer Scout Units and Scout Networks, wherever boys and girls meet to enjoy the Scout programme. The function of all the other units in the Movement is to enhance the quality of provision of that programme at local level.
+The purpose of Scouting is to actively engage and support young people in their personal development, empowering them to make a positive contribution to society.
 
-With approximately 9,000 Scout Groups in the United Kingdom and its dependent territories, a support structure is clearly necessary. The main purpose of *Policy, Organisation and Rules* is to explain as simply as possible how that structure is organised.
+These skills for life are developed through participation in a programme, underpinned by our method, and delivered principally in Squirrel Dreys, Beaver Colonies, Cub Packs, Scout Troops, Explorer Units and Scout Networks. 
+
+The programme in each of these Sections is delivered by a volunteer Section Leadership Team working in partnership with the young people in their Section. 
+
+The function of all the other volunteers within our Movement is to support the delivery and quality of those programmes in each of our Sections.
+
+With approximately 7,500 Scout Groups in the United Kingdom and its dependent territories, a support structure is clearly necessary. The main purpose of *Policy, Organisation and Rules* is to explain as simply as possible how that structure is organised.
 
 It is impossible to set out in detail rules to cover every eventuality, which means that much depends upon the judgement of responsible people at every level of the Movement.
 
 It is important that everyone concerned strives to exercise that judgement in ways that encourage the development and growth of the Movement.
 
-*Policy, Organisation and Rules (POR*) lays down the structure of Scouting in the United Kingdom, the Channel Islands and the Isle of Man and defines information about its training and management.
+*Policy, Organisation and Rules (POR*) lays down the structure of The Scout Association in the United Kingdom, the Channel Islands, the Isle of Man and Gibraltar. It defines information about training and management.
 
 Each Rule is distinguished by a Rule number, which references the Chapter in which it is located. 
 
@@ -68,15 +74,19 @@ A high quality balanced programme is one that:
 *  Be delivered using a wide variety of methods
 *  Be delivered by adults or young people with the appropriate skills for the planned activities.
 
-To measure the quality of a programme Quality Programme checker tools can be found on this page `https://www.scouts.org.uk/volunteers/growing-scouts/recruiting-retaining-and-re-engaging-young-people/how-to-keep-young-people-engaged/ <https://www.scouts.org.uk/volunteers/growing-scouts/recruiting-retaining-and-re-engaging-young-people/how-to-keep-young-people-engaged/>`__
+To measure the quality of a programme Quality Programme checker tools can be found on this page
+
+`https://www.scouts.org.uk/volunteers/growing-scouts/recruiting-retaining-and-re-engaging-young-people/how-to-keep-young-people-engaged/ <https://www.scouts.org.uk/volunteers/growing-scouts/recruiting-retaining-and-re-engaging-young-people/how-to-keep-young-people-engaged/>`__
 
 **Members of the Scout and Guide Movements** - is taken to mean Members of an Association or Federation recognised by either the World Organisation of the Scout Movement (WOSM) or the World Association of Girl Guides and Girl Scouts (WAGGGS).
+
+**Section** - the word "Section" is used to describe a single unit of Scouting delivering programme to young people, e.g., one Squirrel Drey, one Beaver Colony, one Cub Pack, one Scout Troop, one Explorer Unit, one Scout Network.
+
+Where two or more Squirrel Dreys, Beaver Colonies, Cub Packs, or Scout Troops exist within the same scout Group then each is one Section. Similarly, where two or more Explorer Units and/or Scout Networks exist within the same Scout District each is also one Section.
 
 **County** - although in some parts of the British Isles Scout Counties are known as Areas or Islands - and in one case Bailiwick - for ease of reading POR simply refers to County/Counties.
 
 Where relevant, when the word 'County' is used, it may be read as Area, Island or Bailiwick as appropriate.
-
-'Counties' includes Areas, Islands and Bailiwick when appropriate.
 
 **Country Headquarters** - refers to the headquarters of The Scottish Council of The Scout Association or the Northern Ireland Scout Council and to Headquarters at Gilwell Park in the case of England and Wales and the offshore islands.
 
