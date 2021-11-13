@@ -274,7 +274,7 @@ e. The UK Commissioner for Programme (Delivery) may delegate another national ap
 
 f. Each National Scout Active Support Unit is led by a National Scout Active Support Unit Manager who is responsible for ensuring that the Unit meets its service agreement. One or more National Scout Active Support Co-ordinators may be appointed to assist in the running of the Unit. All appointments of National Scout Active Support Unit Managers and Co-ordinators will take place through arrangements nominated by the UK Commissioner for Programme (Delivery).
 
-g. Subject in all cases to a satisfactory Personal Enquiry (see Rule 3.26), membership of a National Scout Active Support Unit is open to any person aged 18 or over, including:
+g. Subject in all cases to a satisfactory Personal Enquiry (see Rule 3.27), membership of a National Scout Active Support Unit is open to any person aged 18 or over, including:
 
    i. those holding other appointments in Scouting, who will be expected to give priority to the duties of these local appointments;
    ii. Scout Network Members, who will be expected to give priority to their Scout Network.
