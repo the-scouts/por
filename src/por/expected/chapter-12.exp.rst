@@ -71,7 +71,7 @@ a. In the conduct of normal Scouting activities, only those ceremonies described
 
 Rule 12.5 The Scout Sign
 ------------------------
-a. The Scout Sign is made during the making or reaffirming of the Beaver Scout Promise, Cub Scout Promise and the Scout Promise and at no other time
+a. The Scout Sign is made during the making or reaffirming of the Squirrel Scout Promise, the Beaver Scout Promise, the Cub Scout Promise and the Scout Promise and at no other time.
 
 Rule 12.6 The Scout Salute
 --------------------------
