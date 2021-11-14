@@ -23,12 +23,20 @@ def render_docutils() -> None:
         out_path.write_text(rendered_html, encoding="utf-8")
 
 
-def render_sphinx() -> None:
+def render_sphinx(*, clean: bool = False) -> None:
     root_directory = Path(__file__).parent
     source_directory = root_directory / "sphinx_source"
     conf_directory = root_directory
     build_directory = root_directory / "render"  # synchronise with deploy-pages.yml -> deploy step
     doctree_directory = build_directory / ".doctrees"
+
+    if clean:
+        import shutil
+
+        try:
+            shutil.rmtree(build_directory)
+        except FileNotFoundError:
+            pass
 
     # builder configuration
     sphinx_builder = "html"
@@ -47,4 +55,4 @@ def render_sphinx() -> None:
 
 
 if __name__ == '__main__':
-    render_sphinx()
+    render_sphinx(clean=True)
