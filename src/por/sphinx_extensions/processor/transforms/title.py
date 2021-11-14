@@ -2,9 +2,7 @@ from pathlib import Path
 
 from docutils import nodes
 from docutils import transforms
-from docutils import utils
-from docutils.parsers.rst import roles
-from docutils.parsers.rst import states
+from por.sphinx_extensions.processor import custom_nodes
 
 
 class Title(transforms.Transform):
@@ -28,14 +26,12 @@ class Title(transforms.Transform):
         chapter_raw = header_details["Chapter"]
         title_raw = header_details["Title"]
         try:
-            title_text = f"Chapter {int(chapter_raw)} -- {title_raw}"
-            # title_text_nodes = [nodes.inline("", f"Chapter {int(chapter_raw)}"), nodes.inline("", title_raw)]
-        except ValueError:
-            # title_text_nodes = [nodes.inline("", title_raw)]
-            title_text = title_raw
+            title_nodes = nodes.Text(f"Chapter {int(chapter_raw)}"), custom_nodes.newline_marker(), nodes.Text(f"{title_raw}")
+        except ValueError:  # Introduction, The Appointment Process
+            title_nodes = nodes.Text(f"{title_raw}"),
 
         # Generate the title section node and its properties
-        title_node = nodes.section("", nodes.title("", title_text), names=["chapter"])
+        title_node = nodes.section("", nodes.title("", *title_nodes), names=["chapter"])
 
         # Insert the title node as the root element, move children down
         document_children = self.document.children[1:]  # skip field_list

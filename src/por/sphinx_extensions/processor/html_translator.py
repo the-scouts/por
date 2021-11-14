@@ -82,6 +82,14 @@ class PORTranslator(html5.HTML5Translator):
         # Close the def tags
         self.body.append("</dt>\n<dd>")
 
+    def visit_newline_marker(self, node: nodes.Element):
+        # newline_marker is defined in custom_nodes.py
+        if isinstance(node.parent.parent, nodes.section):
+            self.body.append("<br/>")
+        else:
+            self.body.append(" \u2013 ")  # en dash
+        raise nodes.SkipDeparture
+
     def unknown_visit(self, node: nodes.Node) -> None:
         """No processing for unknown node types."""
         pass
