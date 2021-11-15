@@ -63,7 +63,8 @@ def _build_contents(node: nodes.Node | list[nodes.Node]) -> nodes.bullet_list | 
         title = section[0]
         section_anchor_uri = section['ids'][0]
         title["refid"] = section_anchor_uri  # Add a link to self
-        reference = nodes.reference("", "", nodes.Text(title.astext()), refid=section_anchor_uri)
+        ref_children = (node if isinstance(node, nodes.TextElement) else nodes.Text(node.astext()) for node in title)
+        reference = nodes.reference("", "", *ref_children, refid=section_anchor_uri)
 
         item = nodes.list_item("", nodes.paragraph("", "", reference))
         item += _build_contents(section)  # recurse to add sub-sections
