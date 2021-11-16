@@ -31,6 +31,9 @@ exclude_patterns = [
     "output.txt",  # Link-check output
 ]
 
+# General settings
+gettext_auto_build = False
+
 # HTML output settings
 html_show_copyright = False
 html_show_sphinx = False
@@ -42,5 +45,7 @@ html_theme = "por_theme"  # The actual theme directory (child of html_theme_path
 html_use_index = False
 html_style = ""  # must be defined here or in theme.conf, but is unused
 html_permalinks = False  # handled in the Contents transform
+pygments_style = 'none'  # no need for pygments
+html_scaled_image_link = False  # don't link to images
 
 templates_path = ['src/por/sphinx_extensions/por_theme/templates']  # Theme template relative paths from `confdir`

@@ -1,29 +1,14 @@
 from __future__ import annotations
 
+import sys
 from pathlib import Path
 
 from docutils.core import publish_string
 from sphinx.application import Sphinx
-
-PUBLISH_SETTINGS = {
-    "stylesheet_path": "por.css",
-    "input_encoding": "unicode",
-    "output_encoding": "unicode",
-    # "embed_stylesheet": False,
-}
+from sphinx.errors import SphinxError
 
 
-def render_docutils() -> None:
-    for chapter in (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16):
-        print(f"Processing Chapter {chapter}")
-        rst_source = Path(f"sphinx_source/chapter-{chapter}.rst").read_text(encoding="utf-8")
-        out_path = Path(f"rendered/chapter-{chapter}.html")
-
-        rendered_html = publish_string(source=rst_source, writer_name="html5", settings_overrides=PUBLISH_SETTINGS)
-        out_path.write_text(rendered_html, encoding="utf-8")
-
-
-def render_sphinx(*, clean: bool = False) -> None:
+def render_sphinx(*, clean: bool = False, sphinx_builder: str = "html") -> int:
     root_directory = Path(__file__).parent
     source_directory = root_directory / "sphinx_source"
     conf_directory = root_directory
@@ -39,7 +24,6 @@ def render_sphinx(*, clean: bool = False) -> None:
             pass
 
     # builder configuration
-    sphinx_builder = "html"
     # sphinx_builder = "linkcheck"
 
     app = Sphinx(
@@ -49,10 +33,26 @@ def render_sphinx(*, clean: bool = False) -> None:
         doctreedir=doctree_directory.as_posix(),
         buildername=sphinx_builder,
     )
-    app.builder.copysource = False  # Prevent unneeded source copying - we link direct to GitHub
+    app.builder.copysource = False  # Prevent unneeded source copying
     app.builder.search = False  # Disable search
-    app.build(force_all=True)
+
+    try:
+        app.build(force_all=True)
+    except (SphinxError, KeyboardInterrupt) as exception:
+        import sys
+
+        from sphinx.util.console import red  # type: ignore
+
+        if isinstance(exception, KeyboardInterrupt):
+            print("\nInterrupted!", file=sys.stderr)
+        else:
+            print(red(f"\n{exception.category}:") + f"\n{exception}", file=sys.stderr)
+
+        return 2
+    return app.statuscode
 
 
 if __name__ == '__main__':
-    render_sphinx(clean=True)
+    if "ci" in sys.argv[1:]:
+        raise SystemExit(render_sphinx(clean=False, sphinx_builder="dirhtml"))
+    raise SystemExit(render_sphinx(clean=True))
