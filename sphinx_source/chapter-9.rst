@@ -25,7 +25,7 @@ g. There are additional requirements for the District/County Commissioners appro
 
 h. When professional instructors or leaders from outside the Movement are engaged separate rules apply (see `Rule 9.9 <https://www.scouts.org.uk/por/9-activities/#9.9>`__).
 
-i. *This rule is intentionally left blank*
+i. *This rule is intentionally left blank.*
 
 Rule 9.2 Preparations
 ---------------------
@@ -233,7 +233,7 @@ d. Permission must be granted from the owner of the land and/or property that wi
 
    If uncertain about the insurance requirements when operating using UAVs and/or drones please contact Unity (Scout Insurance Services).
 
-Rule 9.15 This rule is intentionally left blank.
+Rule 9.15 This rule is intentionally left blank
 ------------------------------------------------
 
 Rule 9.16 Powered Aircraft Flying
@@ -638,7 +638,7 @@ b. Water class definitions;
    * **Class B3** -- the sea up to three miles from the shore, but excluding more dangerous waters close inshore; busy commercial ports, exposed parts of estuaries; inland waters British Canoe Union Grade 3;
    * **Class A** -- open sea more than three miles from the shore, and other dangerous waters close inshore; inland waters British Canoe Union Grade 4 and above.
 
-c. *This rule is intentionally left blank*
+c. *This rule is intentionally left blank.*
 
 *The National Directory of Waters is available online at* https://www.scouts.org.uk/waterways/
 
@@ -656,7 +656,7 @@ c. All boats should have adequate marine insurance cover.
 
    Note: Craft which are foot or hand propelled, sailing craft or other craft not exceeding 5m in length are covered by TSA main policy. Any other craft will require additional marine cover.
 
-d. This rule is intentionally left blank
+d. *This rule is intentionally left blank.*
 
 e. The person in charge of any water activity must ensure that the craft and associated equipment are fit for purpose and suitable for the activity on each occasion that it is used.
 
@@ -942,7 +942,7 @@ The following activities are not permitted within The Scout Association:
 * Knife throwing
 * Archery Tag and other combat style archery activities
 
-Rule 9.68 This rule is intentionally left blank.
+Rule 9.68 This rule is intentionally left blank
 ------------------------------------------------
 
 Rule 9.69 Martial Arts

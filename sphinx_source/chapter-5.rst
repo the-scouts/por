@@ -117,21 +117,21 @@ c. *This rule is intentionally left blank.*
 
 Rule 5.6 Mixed Membership sv
 ----------------------------
-a. *This rule is intentionally left blank*
+a. *This rule is intentionally left blank.*
 
-b. *This rule is intentionally left blank*
+b. *This rule is intentionally left blank.*
 
-c. *This rule is intentionally left blank*
+c. *This rule is intentionally left blank.*
 
-d. *This rule is intentionally left blank*
+d. *This rule is intentionally left blank.*
 
-e. *This rule is intentionally left blank*
+e. *This rule is intentionally left blank.*
 
-f. *This rule is intentionally left blank*
+f. *This rule is intentionally left blank.*
 
-g. *This rule is intentionally left blank*
+g. *This rule is intentionally left blank.*
 
-h. *This rule is intentionally left blank*
+h. *This rule is intentionally left blank.*
 
 i. All Scout Groups, Explorer Units and Scout Networks will be required to be open to members of all genders, except in special situations. Single sex Sections may exist within a Scout Group provided that membership is available for young people of all genders across all Sections within that Group.
 
@@ -145,10 +145,10 @@ The decision whether Groups or Explorer Scout Units may become an exception to t
 
 The decision whether a County Scout Network may become an exception to the policy is made by the County Commissioner.
 
-Rule 5.7 This rule is intentionally left blank.
+Rule 5.7 This rule is intentionally left blank
 -----------------------------------------------
 
-Rule 5.8 This rule is intentionally left blank.
+Rule 5.8 This rule is intentionally left blank
 -----------------------------------------------
 
 Rule 5.9 County Scout Active Support Units
@@ -212,7 +212,7 @@ Rule 5.12 Suspension of Scout Networks sv
 -----------------------------------------
 a. Suspension is a purely temporary measure.
 
-b. *This rule is intentionally left blank*
+b. *This rule is intentionally left blank.*
 
 c. Suspension may also be a consequence of the suspension of the County. In such a case the County Commissioner may direct that Scout Network Members will not be suspended but attached to a District or neighbouring County as appropriate.
 
@@ -424,7 +424,7 @@ f. **The County Executive Committee** :sup:`sv`
       * Complete Module 1 Essential Information, Safety, Safeguarding, GDPR and Trustee Introduction training within 5 months of the role start date.
       * Some Counties may also need to register as a charity. (See Rule 13.3).\ :sup:`sv`
 
-g. *This rule is left intentionally blank*
+g. *This rule is intentionally left blank.*
 
 h. **Conduct of Meetings in the Scout County** :sup:`sv`
 
@@ -499,28 +499,28 @@ l. Section leaders should ensure that Occasional Helpers who are involved more t
 
 m. Members of Scout Network are required to undertake a Personal Enquiry without a criminal records disclosure check (by being added to Compass as a member of the relevant District Scout Network). If members of Scout Network assist with or supervise members of a younger Section, they must be appointed to an appropriate role (such as an Occasional Helper, Section Assistant or Leader) and undertake the relevant appointment process (including undertaking a criminal records disclosure check).
 
-Rule 5.20 This rule is left intentionally blank
+Rule 5.20 This rule is intentionally left blank
 -----------------------------------------------
 
-Rule 5.21 This rule is left intentionally blank
+Rule 5.21 This rule is intentionally left blank
 -----------------------------------------------
 
-Rule 5.22 This rule is left intentionally blank
+Rule 5.22 This rule is intentionally left blank
 -----------------------------------------------
 
-Rule 5.23 This rule is left intentionally blank
+Rule 5.23 This rule is intentionally left blank
 -----------------------------------------------
 
-Rule 5.24 This rule is left intentionally blank
+Rule 5.24 This rule is intentionally left blank
 -----------------------------------------------
 
-Rule 5.25 This rule is left intentionally blank
+Rule 5.25 This rule is intentionally left blank
 -----------------------------------------------
 
-Rule 5.26 This rule is left intentionally blank
+Rule 5.26 This rule is intentionally left blank
 -----------------------------------------------
 
-Rule 5.27 This rule is left intentionally blank
+Rule 5.27 This rule is intentionally left blank
 -----------------------------------------------
 
 Rule 5.28 The appointment of Employed Staff in the Scout County sv
@@ -537,19 +537,19 @@ d. Professional advice should be sought with regard to pension scheme facilities
 
 e. The procedures for enquiry and the appointment of adults must be followed.
 
-Rule 5.29 This rule is left intentionally blank
+Rule 5.29 This rule is intentionally left blank
 -----------------------------------------------
 
-Rule 5.30 This rule is left intentionally blank
+Rule 5.30 This rule is intentionally left blank
 -----------------------------------------------
 
-Rule 5.31 This rule is left intentionally blank
+Rule 5.31 This rule is intentionally left blank
 -----------------------------------------------
 
-Rule 5.32 This rule is left intentionally blank
+Rule 5.32 This rule is intentionally left blank
 -----------------------------------------------
 
-Rule 5.33 This rule is left intentionally blank
+Rule 5.33 This rule is intentionally left blank
 -----------------------------------------------
 
 Rule 5.34 Limitation of holding more than one Appointment
@@ -614,7 +614,7 @@ b. **The Deputy County Commissioner** :sup:`sv`
 
    ii. The duties of the appointment will be defined by the County Commissioner at the time of appointment.
 
-c. *This rule is intentionally left blank*
+c. *This rule is intentionally left blank.*
 
 d. **County Training Manager** :sup:`sv`
 
@@ -649,7 +649,7 @@ g. **County Leaders**
 
    iii. County Leaders are required to complete training appropriate to their duties.
 
-h. *This rule is intentionally left blank*
+h. *This rule is intentionally left blank.*
 
 i. **Port Commissioners**
 
@@ -710,7 +710,8 @@ a. The acceptance of an appointment involves an obligation to undertake training
 
 b. For roles that require a Wood Badge, a Training Adviser will be assigned to the adult to draw up a *Personal Learning Plan*, support the adult through the scheme and validate the necessary modules.
 
-c. *This rule is intentionally left blank. All adult training requirements are detailed in the Appointments Process chapter of POR.*
+c. *This rule is intentionally left blank.*
+   *All adult training requirements are detailed in the Appointments Process chapter of POR.*
 
 d. *This rule is intentionally left blank.*
 
@@ -798,7 +799,7 @@ a. The Queen's Scout Award is the highest award available to young people. It is
 
 b. On completion of the award, UK headquarters must be notified and the badge and certificate will be sent to the relevant Queen's Scout Award Coordinator for presentation or, if none appointed, the relevant Commissioner :sup:`SV`.
 
-c. *This rule is intentionally left blank*.
+c. *This rule is intentionally left blank.*.
 
 Rule 5.46 Members with Special Needs
 ------------------------------------
