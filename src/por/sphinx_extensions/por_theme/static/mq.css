@@ -31,13 +31,13 @@
     }
     section#page-section > article {
         max-width: 40em;
-        width: 74%;
+        width: 68%;
         float: right;
         margin-right: 0;
         font-size: 1rem;
     }
     nav#por-sidebar {
-        width: 24%;
+        width: 30%;
         float: left;
         margin-right: 2%;
     }
