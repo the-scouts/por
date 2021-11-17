@@ -3,10 +3,10 @@
 
 Scouting in the United Kingdom is organised in Scout Groups, Scout Districts, Scout Counties and Country Headquarters. These 'units' of Scouting provide:
 
-*  support;
-*  channels for communication;
-*  opportunities for youth Members and adults to make decisions and take responsibility;
-*  functional units through which the design and delivery of the youth programme can be best achieved.
+* support;
+* channels for communication;
+* opportunities for youth Members and adults to make decisions and take responsibility;
+* functional units through which the design and delivery of the youth programme can be best achieved.
 
 A Scout Group comprises one or more of any or all of the following: a Squirrel Scout Drey, a Beaver Scout Colony; a Cub Scout Pack or a Scout Troop. Additionally, a Group may also include one or more Group Scout Active Support Units. An Explorer Scout Unit may also be attached to a Scout Group (see Rule 3.17).
 
@@ -14,7 +14,7 @@ Rule 3.1 Membership of the Scout Group
 --------------------------------------
 a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a disclosure as part of the Personal Enquiry process (see the Safeguarding Policy and POR: The Appointment Process).
 
-b. There are two types of membership - Members and Associate Members.
+b. There are two types of membership -- Members and Associate Members.
 
 c. British Subjects who are prepared to follow the Association's principles by making the Promise may become Members or Associate Members of the Scout Movement (subject to the Rules contained within Policy, Organisation and Rules).
 
@@ -36,12 +36,11 @@ k. There are membership options for adults not holding appointments to become Me
 
 l. Members or Associate Members do not have any rights, actual or implied, to take part in the national management of The Scout Association or the World Organisation of the Scout Movement.
 
-   **Members**
-   
+**Members**
 
 m. The following are required to be Members and pay the Headquarters Membership Subscription annually:
 
-   *  Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts;
+   * Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts;
 
 n. Members must also pay any Country, County, District and Group Membership Subscription determined locally.
 
@@ -51,12 +50,11 @@ p. Adults become Members by making the Promise and completing a Members' Declara
 
 q. Members of the Movement may:
 
-   *  wear the approved uniform (see Chapter 10);
-   *  wear the World Membership badge;
-   *  receive benefits provided by any Group, District, and County to which the Member belongs and of The Scout Association and the World Organisation of the Scout Movement;
-   *  wear the World Membership lapel badge.
+   * wear the approved uniform (see Chapter 10);
+   * wear the World Membership badge;
+   * receive benefits provided by any Group, District, and County to which the Member belongs and of The Scout Association and the World Organisation of the Scout Movement;
+   * wear the World Membership lapel badge.
 
-   
 **Associate Members**
 
 r. Associate Members must pay any Country, County, District and Group membership Subscription determined locally.
@@ -67,8 +65,8 @@ t. Associate Members are not required to make the Promise.
 
 u. Associate Members of the Movement may:
 
-   *  wear the approved uniform (see Chapter 10);
-   *  receive benefits provided by any Group, District, and County to which the Member belongs, and of The Scout Association.
+   * wear the approved uniform (see Chapter 10);
+   * receive benefits provided by any Group, District, and County to which the Member belongs, and of The Scout Association.
 
 Rule 3.2 Admission to membership
 --------------------------------
@@ -116,24 +114,23 @@ f. All Scout Groups, Explorer Scout Units and Scout Networks are required to be 
 
 g. Special situations are defined as being where:
 
-   *  there are cultural or religious requirements for single sex working;
-   *  Scouting is offered in a single sex institution (e.g. school, young offenders institute) through a closed Scout Group);
-   *  a specialist single sex provision is required to meet a clearly identified educational need (e.g.Scouting for young mothers).
+   * there are cultural or religious requirements for single sex working;
+   * Scouting is offered in a single sex institution (e.g. school, young offenders institute) through a closed Scout Group);
+   * a specialist single sex provision is required to meet a clearly identified educational need (e.g. Scouting for young mothers).
 
-      The decision whether Groups may become an exception to the policy is made by the District Commissioner in consultation with the County Commissioner.
+   The decision whether Groups may become an exception to the policy is made by the District Commissioner in consultation with the County Commissioner.
 
 Rule 3.7 The Squirrel Scout Drey
 --------------------------------
- **Size of Drey** 
+**Size of Drey**
 
 a. The recommended maximum size for a Drey is 24 Squirrel Scouts.
 
-   
 b. This number may be exceeded with the agreement of the Group Scout Leader.
 
    When deciding on the Drey size, Leaders should take into account the leadership available, the needs of the young people and the capacity of the meeting venue and whether it might be more effective to run more than one Drey.
 
-   **Leadership**
+**Leadership**
 
 c. The operation of the Drey must be overseen by a Leader or team of Leaders.
 
@@ -147,47 +144,39 @@ d. The delivery of the Drey programme is the responsibility of the Drey Leadersh
 
 e. The Section Leader(s) have a responsibility to ensure that at least three adults (aged 18 or over) are present at each Drey meeting, at least one of whom holds a FULL appointment with the Section (normally a Section leader but on occasion may be an Assistant Section Leader or a Section Assistant).
 
-   
 f. In the event of no Leader, Assistant Leader or Section Assistant with a FULL appointment from the Drey Leadership Team being able to attend a Drey meeting, it is possible for another adult member of Scouting, with appropriate youth leadership experience (not necessarily in the same section), to take their place at the meeting or similar event, as long as the Group Scout Leader is consulted as soon as practicable in advance and supports the arrangement. Such adults must have satisfactorily completed the Personal Enquiry process and have a FULL appointment.
 
    It is expected that this situation will only occur infrequently -- if that is not the case the Group Scout Leader must take appropriate action to strengthen the Section Leadership team of the Drey.
 
-g. The recommended minimum ratio for regular indoor Drey meetings is 1 adult to 6 Squirrel Scouts plus the leader in charge. For all meetings and activities Leaders should assess the risk and arrange for sufficient adults (aged 18 or over) to ensure a safe environment for the operation of the Drey, which may vary depending on the programme. 
-   It is good practise to have a mixed leadership team.
+g. The recommended minimum ratio for regular indoor Drey meetings is 1 adult to 6 Squirrel Scouts plus the leader in charge. For all meetings and activities Leaders should assess the risk and arrange for sufficient adults (aged 18 or over) to ensure a safe environment for the operation of the Drey, which may vary depending on the programme.
 
    It is good practise to have a mixed leadership team.
 
 h. The recommended minimum ratio for outdoor activities held away from the usual meeting place is 1 adult to 4 Squirrel Scouts plus the leader in charge.
 
-   Nights away residential experiences are not permitted for the Squirrel Scout section. 
+   Nights away residential experiences are not permitted for the Squirrel Scout section.
 
-i. For all Scouting activities a risk assessment should be carried out as stated in Rule 9.4. This risk assessment cannot override the minimum requirements stated in 3.7(e) and 3.7(h) or those required by the activity rules in POR chapter 9. 
-   
+i. For all Scouting activities a risk assessment should be carried out as stated in Rule 9.4. This risk assessment cannot override the minimum requirements stated in 3.7(e) and 3.7(h) or those required by the activity rules in POR chapter 9.
 
-**Age Range, Uniform and Programme **
+**Age Range, Uniform and Programme**
 
-j. The core age range of the Squirrel Scout Drey is from 4 years to 6 years.  
-   
+j. The core age range of the Squirrel Scout Drey is from 4 years to 6 years.
 
-k. Squirrel Scouts wear the approved uniform with distinguishing badges and scarves as described in Chapter 10. 
+k. Squirrel Scouts wear the approved uniform with distinguishing badges and scarves as described in Chapter 10.
 
 l. All Squirrel Scouts should be offered a high quality balanced Programme, run in accordance with the Association's official publications for the Section.
 
-   **Minimum Standards **
+**Minimum Standards**
 
 m. The minimum standard for a Squirrel Scout Drey is:
 
    - Operation overseen by a Leader (Rule 3.7c)
-
    - Three adults present
-
    - The delivery of a high quality balanced Programme (Rule 3.7k)
-
    - Opportunities for the members to take part in the decision making process.
 
 n. The District Commissioner, with the District Team, is required where necessary to assist Dreys to reach the minimum standards detailed above.
 
-   
 o. If a Drey fails to reach the minimum standard for 2 consecutive years, the District Commissioner, with the approval of the District Executive Committee, may close it. If it fails to reach the minimum standard for 3 consecutive years, it must be closed.
 
 Rule 3.8 The Beaver Scout Colony
@@ -198,7 +187,8 @@ a. The recommended maximum size for a Colony is 24 Beaver Scouts.
 
 b. This number may be exceeded with the agreement of the Group Scout Leader. When deciding on the Colony size, Leaders should take into account the leadership available, the needs of the young people and the capacity of the meeting venue and whether it might be more effective to run more than one Colony.
 
-   **Leadership**
+**Leadership**
+
 c. The operation of a Colony must be overseen by a Leader or team of Leaders.
 
    A Colony Leadership team comprises all Section Leaders, Assistant Section Leaders, Section Assistants, and Explorer Scout Young Leaders working with the Colony. Working with the Colony Leadership team, the Section Leader(s) have responsibility for the planning of the programme and the management of the Colony.
@@ -223,9 +213,9 @@ h. The recommended minimum ratio both for outdoor activities held away from the 
 
 i. For all Scouting activities a risk assessment should be carried out as stated in Rule 9.4. This risk assessment cannot override the minimum requirements stated in 3.8(e) and 3.8(h) or those required by the activity rules in POR chapter 9.
 
-   **Age Range, Uniform and Programme**
+**Age Range, Uniform and Programme**
 
-j. The core age range of the Beaver Scout Colony is from 6 years to 8 years. A young person may join at 5 3/4 years and remain until 8 1/2 years (see also Rule 3.12b).
+j. The core age range of the Beaver Scout Colony is from 6 years to 8 years. A young person may join at 5¾ years and remain until 8½ years (see also Rule 3.12b).
 
 k. Beaver Scouts wear the approved uniform with distinguishing badges and scarves as described in Chapter 10.
 
@@ -233,15 +223,15 @@ l. All Beaver Scouts should be offered a high quality balanced Programme, run in
 
 m. *This rule is left intentionally blank.*
 
-   **Minimum Standards**
+**Minimum Standards**
 
 n. The minimum standard for a Beaver Scout Colony is:
 
-   *  Operation overseen by a Leader (Rule `3.8c) <https://scouts.org.uk/por/3-the-scout-group/#3.7#3.7>`__
-   *  Two adults present (Rule `3.8e) <https://scouts.org.uk/por/3-the-scout-group/#3.7#3.7>`__
-   *  The delivery of a high quality balanced Programme (Rule `3.8l) <https://scouts.org.uk/por/3-the-scout-group/#3.7#3.7>`__
-   *  Opportunities for the members to take part in the decision making process.
-   *  The opportunity for every Beaver Scout to attend at least one nights away experience every year
+   * Operation overseen by a Leader (Rule `3.8c) <https://scouts.org.uk/por/3-the-scout-group/#3.7#3.7>`__
+   * Two adults present (Rule `3.8e) <https://scouts.org.uk/por/3-the-scout-group/#3.7#3.7>`__
+   * The delivery of a high quality balanced Programme (Rule `3.8l) <https://scouts.org.uk/por/3-the-scout-group/#3.7#3.7>`__
+   * Opportunities for the members to take part in the decision making process.
+   * The opportunity for every Beaver Scout to attend at least one nights away experience every year
 
 o. The District Commissioner, with the District Team, is required where necessary to assist Colonies to reach the minimum standards detailed above.
 
@@ -257,7 +247,7 @@ b. This number may be exceeded with the agreement of the Group Scout Leader.
 
    *When deciding on the Pack size, Leaders should take into account the leadership available, the needs of the young people and the capacity of the meeting venue and whether it might be more effective to run more than one Pack.*
 
-   **Leadership**
+**Leadership**
 
 c. The operation of a Pack must be overseen by a Leader or team of Leaders.
 
@@ -283,9 +273,9 @@ h. The recommended minimum ratio both for outdoor activities held away from the 
 
 i. For all Scouting activities a risk assessment should be carried out as stated in Rule 9.4. This risk assessment cannot override the minimum requirements stated in 3.9e and 3.9h or those required by the activity rules in chapter 9.
 
-   **Age Range, Uniform and Programme**
+**Age Range, Uniform and Programme**
 
-j. The core age range of the Cub Scout Pack is from 8 years to 10 1/2 years. A young person may join at 7 1/2 years and remain in the Pack until their 11th birthday. For further flexibility see also Rule 3.12b.
+j. The core age range of the Cub Scout Pack is from 8 years to 10½ years. A young person may join at 7½ years and remain in the Pack until their 11th birthday. For further flexibility see also Rule 3.12b.
 
 k. Cub Scouts wear the approved uniform with distinguishing badges and scarves as described in Chapter 10.
 
@@ -293,15 +283,15 @@ l. All Cub Scouts should be offered a high quality balanced Programme run in acc
 
 m. This rule is intentionally left blank
 
-   **Minimum Standards**
+**Minimum Standards**
 
 n. the minimum standard for a Cub Scout Pack is:
 
-   *  Operation overseen by a Leader.(Rule 3.9c)
-   *  Two adults present (Rule 3.9e)
-   *  The delivery of a high quality balanced Programme (Rule 3.9k)
-   *  Opportunities for the members to take part in the decision making process. Any forum or committee should have both Cub Scouts and Leaders working together.
-   *  The opportunity for every Cub Scout to attend at least one nights away experience every year.
+   * Operation overseen by a Leader. (Rule 3.9c)
+   * Two adults present (Rule 3.9e)
+   * The delivery of a high quality balanced Programme (Rule 3.9k)
+   * Opportunities for the members to take part in the decision making process. Any forum or committee should have both Cub Scouts and Leaders working together.
+   * The opportunity for every Cub Scout to attend at least one nights away experience every year.
 
 o. The District Commissioner, with the District Team is required where necessary to assist Packs to reach the minimum standards detailed above.
 
@@ -317,7 +307,8 @@ b. This rule is intentionally left blank.
 
    *When deciding on the Troop size, Leaders should take into account the leadership available, the needs of the young people and the capacity of the meeting venue and whether it might be more effective to run more than one Troop.*
 
-   **Leadership**
+**Leadership**
+
 c. The operation of a Troop must be overseen by a Leader or team of Leaders.
 
    A Troop Leadership team comprises of all Section Leaders, Assistant Section Leaders, Section Assistants, and Explorer Scout Young Leaders working with the Troop. Working with the Troop Leadership team, the Section Leader(s) have responsibility for the planning of the programme and the management of the Troop.
@@ -342,23 +333,23 @@ h. For outdoor activities held away from the usual meeting place and for Nights 
 
 i. For all Scouting activities a risk assessment should be carried out as stated in Rule 9.4. This risk assessment cannot override the minimum requirements stated in 3.10e and 3.10h or those required by the activity rules in chapter 9.
 
-   **Age Range, Uniform and Programme**
-j. The core age range of the Scout Troop is from 10 1/2 years to 14 years. A young person may join at 10 years and remain until 14 1/2 years. For further flexibility see Rule 3.12b.
+**Age Range, Uniform and Programme**
+
+j. The core age range of the Scout Troop is from 10½ years to 14 years. A young person may join at 10 years and remain until 14½ years. For further flexibility see Rule 3.12b.
 
 k. Scouts wear the approved Scout, Sea Scout or Air Scout uniform as appropriate with distinguishing badges and scarves as described in Chapter 10.
 
 l. All Scouts should be offered a high quality balanced Programme run in accordance with the Association's official publications for the Section.
 
-   *l. This rule is intentionally left blank*
+**Minimum Standards**
 
-   **Minimum Standards**
 m. The minimum standard for a Scout Troop is:
 
-   *  Operation overseen by a Leader. (Rule 3.10b).
-   *  Two adults present (Rule 3.10e).
-   *  The delivery of an appropriate high quality balanced Programme (Rule 3.10k).
-   *  Opportunities for the members to take part in the decision making process. Any forum or committee should have both Scouts and Leaders working together.
-   *  The opportunity for every Scout to attend at least one nights away experience every year.
+   * Operation overseen by a Leader. (Rule 3.10b).
+   * Two adults present (Rule 3.10e).
+   * The delivery of an appropriate high quality balanced Programme (Rule 3.10k).
+   * Opportunities for the members to take part in the decision making process. Any forum or committee should have both Scouts and Leaders working together.
+   * The opportunity for every Scout to attend at least one nights away experience every year.
 
 n. The District Commissioner, with the District Team, is required where necessary to assist Troops to reach the minimum standards detailed above.
 
@@ -374,8 +365,8 @@ c. Further details of the Scout Active Support method of operation are available
 
 d. Subject in all cases to a satisfactory Personal Enquiry (see Rule 3.27), membership of the Group Scout Active Support Unit is open to any person over the age of 18 years, including:
 
-   *  those holding appointments, who will be expected to give priority to the duties of their appointments;
-   *  Scout Network members will be expected to give priority to the duties of their appointments.
+   * those holding appointments, who will be expected to give priority to the duties of their appointments;
+   * Scout Network members will be expected to give priority to the duties of their appointments.
 
 e. The Group Scout Active Support Manager must be a Member, all other members of the Group Scout Active Support Unit must be at least Associate Members. They may also become Members by making the Scout Promise.
 
@@ -385,8 +376,8 @@ g. The Group Scout Active Support Unit is led by the Group Active Support Manage
 
 h. The following minimum standards are laid down for a Group Scout Active Support Unit:
 
-   *  **Leadership** -- there should be an appointed Group Scout Active Support Manager.
-   *  **Activity** -- the Group Scout Active Support Unit should provide active support to Scouting in the group, as detailed in the service agreement
+   * **Leadership** -- there should be an appointed Group Scout Active Support Manager.
+   * **Activity** -- the Group Scout Active Support Unit should provide active support to Scouting in the group, as detailed in the service agreement
 
 i. The Group Scout Leader and the District Commissioner, with the District Team, are required to assist Group Scout Active Support Units to reach the required standards.
 
@@ -400,21 +391,22 @@ a. **Integrated sections**
 
    i. An Integrated Section may consist of one or more:
 
-      *  Squirrel Scouts
-      *  Beaver Scouts
-      *  Cub Scouts
-      *  Scouts
+      * Squirrel Scouts
+      * Beaver Scouts
+      * Cub Scouts
+      * Scouts
 
-The Intergrated Section works together as one Section.
+      The Intergrated Section works together as one Section.
 
-An Integrated Section that includes any of Squirrel Scouts, Beaver Scouts or Cub Scouts should not meet for more than two hours.
+      An Integrated Section that includes any of Squirrel Scouts, Beaver Scouts or Cub Scouts should not meet for more than two hours.
 
-ii. An Integrated Section may only be established with the prior approval of the District Commissioner.
+   ii. An Integrated Section may only be established with the prior approval of the District Commissioner.
 
-iii. Members of Integrated Sections take part in a Balanced Programme, make the Promise and wear the uniform appropriate to their Sectional age group.
-iv. The operation of Integrated Sections must follow the guidelines available from the Scout Information Centre.
+   iii. Members of Integrated Sections take part in a Balanced Programme, make the Promise and wear the uniform appropriate to their Sectional age group.
 
-**b. Flexibility for Individual Members**
+   iv. The operation of Integrated Sections must follow the guidelines available from the Scout Information Centre.
+
+b. **Flexibility for Individual Members**
 
    i. It is important that young people are seen as individuals and that they are regarded equally whatever their abilities or disabilities.
 
@@ -424,9 +416,9 @@ iv. The operation of Integrated Sections must follow the guidelines available fr
 
    iv. Reasonable adjustments should respond to the needs of the individual and aim to remove any barriers or support access, by adapting;
 
-       *  Physical features (eg. the meeting place)
-       *  The way things are done (eg. age ranges, the Programme, routines)
-       *  Support provided (eg. equipment, adapting communication, level of support)
+       * Physical features (eg. the meeting place)
+       * The way things are done (eg. age ranges, the Programme, routines)
+       * Support provided (eg. equipment, adapting communication, level of support)
 
    v. What is reasonable for the Scout Group is dependent upon the effectiveness of the adjustment, whether it can actually be done, the cost and the resources of the Group at that time.
 
@@ -436,8 +428,8 @@ iv. The operation of Integrated Sections must follow the guidelines available fr
 
    viii. Scout Groups, Districts and Counties (or Areas/ Regions) should seek guidance form Headquarters regarding reasonable adjustments disputes and allegations of discrimination.
 
-         *Note: information and guidance on supporting young people with additional needs and disabilities can be found on the Members Area of the website.*
-         
+   *Note: information and guidance on supporting young people with additional needs and disabilities can be found on the Members Area of the website.*
+
 
 Rule 3.13 Joint Units
 ---------------------
@@ -450,6 +442,7 @@ c. Members wear the relevant Scout Association or Girlguiding uniform as appropr
 d. All other requirements and Rules of each Association apply.
 
 **Types of Scout Group**
+
 A Scout Group may be registered as an Open Scout Group, a Sponsored Scout Group, or a Joint Group.
 
 Rule 3.14 The Open Scout Group
@@ -500,8 +493,8 @@ e. Whilst many links will be informal, it is important to have a formal Partners
 
 f. The District Explorer Scout Commissioner should ensure that:
 
-   *  the Partnership Agreement sets out clearly the links between the Unit and the Group and arrangements on liaison, the use of equipment, facilities and resources.
-   *  the Agreement is reviewed regularly to ensure its continuing appropriateness in changing circumstances.
+   * the Partnership Agreement sets out clearly the links between the Unit and the Group and arrangements on liaison, the use of equipment, facilities and resources.
+   * the Agreement is reviewed regularly to ensure its continuing appropriateness in changing circumstances.
 
 g. Partnership Agreements are not intended to be legally binding documents. Each Agreement should include the following sentence: 'This document is not intended to create legal relations'.
 
@@ -513,22 +506,22 @@ Rule 3.18 The Formation and Registration of Scout Groups
 --------------------------------------------------------
 a. Application for the registration of a Scout Group must be made to the District Commissioner by:
 
-   *  the prospective Group Scout Leader, in the case of an Open Scout Group;
-   *  the organisation which proposes to act as sponsor, in the case of a Sponsored Scout Group;
-   *  the prospective Section Leader in the case of a Group which will consist of a single Section.
+   * the prospective Group Scout Leader, in the case of an Open Scout Group;
+   * the organisation which proposes to act as sponsor, in the case of a Sponsored Scout Group;
+   * the prospective Section Leader in the case of a Group which will consist of a single Section.
 
 b. The District Commissioner and the District Executive Committee must be satisfied that:
 
-   *  registration is desirable;
-   *  the proposed Group will be run properly;
-   *  suitable Leaders can be found;
-   *  the prospective Group Scout Leader (or Section Leader in the case of a Group consisting of a single Section):
+   * registration is desirable;
+   * the proposed Group will be run properly;
+   * suitable Leaders can be found;
+   * the prospective Group Scout Leader (or Section Leader in the case of a Group consisting of a single Section):
 
-      *  accepts the Association's policies, rules and procedures;
-      *  undertakes to form a Group Scout Council and a Group Executive Committee as soon as possible but in any case not later than three months after the date of registration;
-      *  will give due emphasis to the key policies of the Association (see Chapter 2);
-      *  will initiate a programme of training in accordance with the training policy of the Association;
-      *  Sponsored Scout Groups.
+     * accepts the Association's policies, rules and procedures;
+     * undertakes to form a Group Scout Council and a Group Executive Committee as soon as possible but in any case not later than three months after the date of registration;
+     * will give due emphasis to the key policies of the Association (see Chapter 2);
+     * will initiate a programme of training in accordance with the training policy of the Association;
+     * Sponsored Scout Groups.
 
 c. If the District Commissioner and the District Executive Committee refuse to recommend the registration of a Group, the District Commissioner must send a full report on the matter to the appropriate Country Headquarters, through the County Commissioner.
 
@@ -584,11 +577,12 @@ Rule 3.22 Cancellation of Registration and the Closure of Sections within a Grou
 ---------------------------------------------------------------------------------
 a. The registration of a Scout Group may be cancelled by Headquarters:
 
-   *  on the recommendation of the District Commissioner and the District Executive Committee, following a meeting specially convened;
+   * on the recommendation of the District Commissioner and the District Executive Committee, following a meeting specially convened;
 
-      At such a meeting, all adults appointed within the Scout Group, the Group Chair and the Sponsoring Authority, if any, are entitled to be heard;
-   *  if registration is not renewed at the time of the required annual renewal of registration;
-   *  if the registration of the District is cancelled.
+     At such a meeting, all adults appointed within the Scout Group, the Group Chair and the Sponsoring Authority, if any, are entitled to be heard;
+
+   * if registration is not renewed at the time of the required annual renewal of registration;
+   * if the registration of the District is cancelled.
 
 b. When the registration of a Scout Group is cancelled the Scout Group ceases to exist and action must be taken as described in Chapter 13 to deal with its property and assets.
 
@@ -626,126 +620,131 @@ a. **The Group Scout Council**
 
    i. Membership of the Group Scout Council is open to:
 
-   **Ex Officio Members**
+      **Ex Officio Members**
 
-   *  All adult members and associate members of the Scout Group (see Group roles listed in The Appointments Process chapter, Table 2: Appointments).
-   *  Patrol Leaders;
-   *  all parents of Squirrel Scouts, Beaver Scouts, Cub Scouts and Scouts;
-   *  the Sponsoring Authority or its nominee;
-   *  District Commissioner
-   *  District Chair
+      * All adult members and associate members of the Scout Group (see Group roles listed in The Appointments Process chapter, Table 2: Appointments).
+      * Patrol Leaders;
+      * all parents of Squirrel Scouts, Beaver Scouts, Cub Scouts and Scouts;
+      * the Sponsoring Authority or its nominee;
+      * District Commissioner
+      * District Chair
 
-   **Nominated members**
+      **Nominated members**
 
-   *  Other supporters of the Group appointed by the Group Scout Council on the recommendation of the Group Scout Leader and the Group Executive Committee.
+      * Other supporters of the Group appointed by the Group Scout Council on the recommendation of the Group Scout Leader and the Group Executive Committee.
 
-The number of Nominated Members must not exceed the number of Ex Officio members. Nominated members must be appointed for a fixed period not exceeding 3 years. Subsequent reappointments are permitted.
+      The number of Nominated Members must not exceed the number of Ex Officio members. Nominated members must be appointed for a fixed period not exceeding 3 years. Subsequent reappointments are permitted.
 
-ii. The District Commissioner and District Chair are ex-officio members of the Group Scout Council.
+   ii. The District Commissioner and District Chair are ex-officio members of the Group Scout Council.
 
-iii. Membership of the Group Scout Council ceases upon:
+   iii. Membership of the Group Scout Council ceases upon:
 
-         *  the resignation of the member;
-         *  the dissolution of the Council;
-         *  the termination of membership by Headquarters following a recommendation by the Group Executive Committee.
+        * the resignation of the member;
+        * the dissolution of the Council;
+        * the termination of membership by Headquarters following a recommendation by the Group Executive Committee.
 
-iv. The Group Scout Council must hold an Annual General Meeting within six months of the financial year end to:
+   iv. The Group Scout Council must hold an Annual General Meeting within six months of the financial year end to:
 
-         *  receive and consider the Trustees' Annual Report and the annual statement of accounts (following completion of their examination by an appropriate auditor, independent examiner, or scrutineer); prepared by the Group Executive Committee,
-         *  approve the Group Scout Leader's nomination of the Group Chair and nominated members of the Group Executive Committee;
-         *  elect a Group Secretary and Group Treasurer;
-         *  elect members to the Group Executive Committee;
-         *  appoint an auditor, independent examiner or scrutineer as required;
-         *  adopt (or reconfirm) certain resolutions:
+       * receive and consider the Trustees' Annual Report and the annual statement of accounts (following completion of their examination by an appropriate auditor, independent examiner, or scrutineer); prepared by the Group Executive Committee,
+       * approve the Group Scout Leader's nomination of the Group Chair and nominated members of the Group Executive Committee;
+       * elect a Group Secretary and Group Treasurer;
+       * elect members to the Group Executive Committee;
+       * appoint an auditor, independent examiner or scrutineer as required;
+       * adopt (or reconfirm) certain resolutions:
 
-               *  agree the quorum for each of meetings of the Group Scout Council, meetings of the Group Executive Committee and meetings of any sub-Committees (see Rule 3.24(d)(iii))
-               *  agree the number of members that may be elected to the Group Executive Committee (see Rule 3.24(b)(iii -- Elected Members)
-               *  adopt (or re-confirm the adoption of) the constitution of the Group Scout Council (See introduction to Rule 3.24)
+         * agree the quorum for each of meetings of the Group Scout Council, meetings of the Group Executive Committee and meetings of any sub-Committees (see Rule 3.24(d)(iii))
+         * agree the number of members that may be elected to the Group Executive Committee (see Rule 3.24(b)(iii -- Elected Members)
+         * adopt (or re-confirm the adoption of) the constitution of the Group Scout Council (See introduction to Rule 3.24)
 
-         *  appoint (or re-appoint) any Group Presidents or Vice Presidents (see Appointment Process: Table 2).
+       * appoint (or re-appoint) any Group Presidents or Vice Presidents (see Appointment Process: Table 2).
 
-**b. The Group Executive Committee**
+b. **The Group Executive Committee**
 
    i. The Executive Committee exists to support the Group Scout Leader in meeting the responsibilities of their appointment.
 
    ii. Members of the Group Executive Committee must act collectively as charity Trustees of the Scout Group, and in the best interests of its members to: :sup:`sv`.
 
-       *  Comply with the Policy, Organisation and Rules of The Scout Association
-       *  Protect and maintain any property and equipment owned by and/or used by the Group.
-       *  Manage the Group finances.
-       *  Provide insurance for people, property and equipment.
-       *  Provide sufficient resources for Scouting to operate. This includes, but is not limited to, supporting recruitment, other adult support, and fundraising activities.
-       *  Promote and support the development of Scouting in the local area.
-       *  Manage and implement the Safety Policy locally.
-       *  Ensure that a positive image of Scouting exists in the local community.
-       *  Appoint and manage the operation of any sub-Committees, including appointing a Chair to lead the sub-Committees.
-       *  Ensure that Young People are meaningfully involved in decision making at all levels within the Group.
-       *  The opening, closure and amalgamation of Sections in the Group as necessary.
+       * Comply with the Policy, Organisation and Rules of The Scout Association
+       * Protect and maintain any property and equipment owned by and/or used by the Group.
+       * Manage the Group finances.
+       * Provide insurance for people, property and equipment.
+       * Provide sufficient resources for Scouting to operate. This includes, but is not limited to, supporting recruitment, other adult support, and fundraising activities.
+       * Promote and support the development of Scouting in the local area.
+       * Manage and implement the Safety Policy locally.
+       * Ensure that a positive image of Scouting exists in the local community.
+       * Appoint and manage the operation of any sub-Committees, including appointing a Chair to lead the sub-Committees.
+       * Ensure that Young People are meaningfully involved in decision making at all levels within the Group.
+       * The opening, closure and amalgamation of Sections in the Group as necessary.
 
-          The Group Executive Committee must also:
-       *  Appoint Administrators, Advisers, and Co-opted members of the Group Executive Committee.
-       *  Prepare and approve the Trustees' Annual Report and Annual Accounts after the examination of the accountsby an appropriate auditor, independent examiner or scrutineer.
-       *  Present the approved Trustees' Annual Report and Annual Accounts to the Group Scout Council at the Annual General Meeting; file a copy with the District Executive Committee; and if a registered charity, to the appropriate charity regulator if the regulator's rules require it. (See Rule 13.3)
-       *  Maintain confidentiality with regard to appropriate Executive Committee business.
-       *  Where staff are employed, act as a responsible employer in accordance with Scouting's values and relevant legislation.
-       *  Ensure line management responsibilities for employed staff are clearly established and communicated.
+       The Group Executive Committee must also:
+
+       * Appoint Administrators, Advisers, and Co-opted members of the Group Executive Committee.
+       * Prepare and approve the Trustees' Annual Report and Annual Accounts after the examination of the accountsby an appropriate auditor, independent examiner or scrutineer.
+       * Present the approved Trustees' Annual Report and Annual Accounts to the Group Scout Council at the Annual General Meeting; file a copy with the District Executive Committee; and if a registered charity, to the appropriate charity regulator if the regulator's rules require it. (See Rule 13.3)
+       * Maintain confidentiality with regard to appropriate Executive Committee business.
+       * Where staff are employed, act as a responsible employer in accordance with Scouting's values and relevant legislation.
+       * Ensure line management responsibilities for employed staff are clearly established and communicated.
 
    iii. The Group Executive Committee consists of: :sup:`sv`
 
         **Ex-officio Members**
 
-        *  The Group Chair;
-        *  The Group Secretary;
-        *  The Group Treasurer;
-        *  The Group Scout Leader;
-        *  The Deputy Group Scout Leader;
-        *  The Explorer Scout Leader (if stated in a Partnership Agreement, and subject to that Explorer Scout Leader expressly indicating to the AGM (in writing or orally at the meeting) that they are willing to perform such a function);
-        *  The Sponsoring Authority or its nominee;
-        *  All Section Leaders (i.e. individuals holding a Squirrel Scout leader, Beaver Scout Leader, Cub Scout Leader or Scout Leader role) subject to that Section Leader expressly indicating to the AGM (in writing or orally at the meeting) that they are willing to perform such a function.
+        * The Group Chair;
+        * The Group Secretary;
+        * The Group Treasurer;
+        * The Group Scout Leader;
+        * The Deputy Group Scout Leader;
+        * The Explorer Scout Leader (if stated in a Partnership Agreement, and subject to that Explorer Scout Leader expressly indicating to the AGM (in writing or orally at the meeting) that they are willing to perform such a function);
+        * The Sponsoring Authority or its nominee;
+        * All Section Leaders (i.e. individuals holding a Squirrel Scout leader, Beaver Scout Leader, Cub Scout Leader or Scout Leader role) subject to that Section Leader expressly indicating to the AGM (in writing or orally at the meeting) that they are willing to perform such a function.
 
-           **Elected Members**
-        *  persons elected at the Group Annual General Meeting;
-        *  these should normally be four to six in number;
-        *  the actual number must be the subject of a resolution by the Group Scout Council.
+        **Elected Members**
 
-           **Nominated Members**
-        *  persons nominated by the Group Scout Leader;
-        *  the nominations must be approved at the Group Annual General Meeting; the number of nominated members must not exceed the number of elected members.
+        * persons elected at the Group Annual General Meeting;
+        * these should normally be four to six in number;
+        * the actual number must be the subject of a resolution by the Group Scout Council.
 
-           **Co-opted Members**
-        *  persons co-opted annually by the Group Executive Committee
-        *  the number of co-opted members must not exceed the number of elected members.
+        **Nominated Members**
 
-           **Right of Attendance**
-        *  the District Commissioner and the District Chair have the right of attendance at meetings of the Group Executive Committee.
+        * persons nominated by the Group Scout Leader;
+        * the nominations must be approved at the Group Annual General Meeting; the number of nominated members must not exceed the number of elected members.
+
+        **Co-opted Members**
+
+        * persons co-opted annually by the Group Executive Committee
+        * the number of co-opted members must not exceed the number of elected members.
+
+        **Right of Attendance**
+
+        * the District Commissioner and the District Chair have the right of attendance at meetings of the Group Executive Committee.
 
    iv. Additional Requirements for sub-Committees:
 
-       *  sub-Committees consist of members nominated by the Committee.
-       *  The Group Scout Leader and the Group Chair will be ex-officio members of any subCommittee of the Group Executive Committee.
-       *  Any fundraising committee must include at least two members of the Group Executive Committee. No Section Leader or Assistant Leader may serve on such a fundraising subCommittee.
+       * sub-Committees consist of members nominated by the Committee.
+       * The Group Scout Leader and the Group Chair will be ex-officio members of any subCommittee of the Group Executive Committee.
+       * Any fundraising committee must include at least two members of the Group Executive Committee. No Section Leader or Assistant Leader may serve on such a fundraising subCommittee.
 
    v. Additional Requirements for Charity Trustees: :sup:`sv`
 
-      *  All ex-officio, elected, nominated and co-opted members of the Group Executive Committee are Charity Trustees of the Scout Group.
-      *  Only persons aged 18 and over may be full voting members of the Group Executive Committee because of their status as Charity Trustees (however the views of young people in the Group must be taken into consideration).
-      *  Certain people are disqualified from being Charity Trustees by virtue of the Charities Acts. (See rule `13.1) <https://beta.scouts.org.uk/por/13-trusteeship-property-and-equipment/#13.1#13.1>`__
-      *  Charity Trustees are responsible for ensuring compliance with all relevant legislation including the Data Protection Act 2018.
-      *  Complete Module 1 Essential Information, Safety, Safeguarding, GDPR and Trustee Introduction training within 5 months of the role start date.
-      *  Some Groups may also need to register as a charity. (See Rule `13.3). <https://beta.scouts.org.uk/por/13-trusteeship-property-and-equipment/#13.3#13.3>`__\ :sup:`sv`
+      * All ex-officio, elected, nominated and co-opted members of the Group Executive Committee are Charity Trustees of the Scout Group.
+      * Only persons aged 18 and over may be full voting members of the Group Executive Committee because of their status as Charity Trustees (however the views of young people in the Group must be taken into consideration).
+      * Certain people are disqualified from being Charity Trustees by virtue of the Charities Acts. (See rule `13.1) <https://beta.scouts.org.uk/por/13-trusteeship-property-and-equipment/#13.1#13.1>`__
+      * Charity Trustees are responsible for ensuring compliance with all relevant legislation including the Data Protection Act 2018.
+      * Complete Module 1 Essential Information, Safety, Safeguarding, GDPR and Trustee Introduction training within 5 months of the role start date.
+      * Some Groups may also need to register as a charity. (See Rule `13.3). <https://beta.scouts.org.uk/por/13-trusteeship-property-and-equipment/#13.3#13.3>`__\ :sup:`sv`
 
-*  **The Group Leaders' Meeting**
+c. **The Group Leaders' Meeting**
 
    i. Membership of the Group Leaders' Meeting consists of the Group Scout Leader as chair, all Section Leaders, Section Assistants and Assistant Leaders and the Group Scout Active Support Manager. Explorer Scout Leaders may be included if stated in the partnership agreement.
 
    ii. The role of the Group Leaders' Meeting is to:
 
-       *  consider the well-being and development of each Member of the Group;
-       *  ensure the progress of each Member through the programme;
-       *  plan and co-ordinate all the Group's activities;
-       *  to keep the Group Executive Committee advised of the financial and other resource requirements of the training programme.
+       * consider the well-being and development of each Member of the Group;
+       * ensure the progress of each Member through the programme;
+       * plan and co-ordinate all the Group's activities;
+       * to keep the Group Executive Committee advised of the financial and other resource requirements of the training programme.
 
-*  **Conduct of Meetings**
+d. **Conduct of Meetings**
 
    i. Only members as defined above may vote in meetings of the Group Scout Council and the Group Executive Committee.
    ii. Decisions are made by a majority of votes cast by those present at the meeting. In the event of an equal number of votes being cast on either side the chair does not have a casting vote and the matter is taken not to have been carried.
@@ -771,10 +770,10 @@ g. Other Administrators and Advisers may be appointed by the Group Executive Com
 
 h. Administrators and Advisers appointments may be terminated by:
 
-   *  the resignation of the holder;
-   *  the unanimous resolution of all other members of the Group Executive Committee;
-   *  the expiry of the period of the appointment;
-   *  confirmation by Headquarters of the termination of the appointment in the event of the cancellation of the registration of the Group.
+   * the resignation of the holder;
+   * the unanimous resolution of all other members of the Group Executive Committee;
+   * the expiry of the period of the appointment;
+   * confirmation by Headquarters of the termination of the appointment in the event of the cancellation of the registration of the Group.
 
 i. The appointment and termination of all Group Administrators and Advisers appointments must be reported to the District Secretary who should maintain a record of such appointments.
 
@@ -788,13 +787,13 @@ a. No individual aged 18 or over may be permitted to undertake any role or respo
 
 b. A Personal Enquiry (including where relevant a criminal records disclosure check) will always be required for any person aged 18 or over who meets any of the following criteria: :sup:`sv`
 
-   *  wishes to become a Member or Associate member (for members of Scout Network - see 3.27m below); or
-   *  will be a member of an Executive Committee; or
-   *  will be assisting with overnight activities (including Nights Away); or
-   *  may be helping out once a week (or on four occasions in a thirty day period) or more frequently; or
-   *  will have unsupervised access to young people.
+   * wishes to become a Member or Associate member (for members of Scout Network -- see 3.27m below); or
+   * will be a member of an Executive Committee; or
+   * will be assisting with overnight activities (including Nights Away); or
+   * may be helping out once a week (or on four occasions in a thirty day period) or more frequently; or
+   * will have unsupervised access to young people.
 
-c. For the purposes of 3.27b above "unsupervised" means not being within sight and hearing of another adult who holds a valid criminal records disclosure check.
+c. For the purposes of 3.27b above 'unsupervised' means not being within sight and hearing of another adult who holds a valid criminal records disclosure check.
 
 d. A person who requires a Personal Enquiry under 3.27(b) above (including where relevant a criminal records disclosure check) and who does not have an active role on Compass must be registered on Compass as an Occasional Helper. Occasional Helpers are not entitled to membership status or member benefits (including certain insurances -- see the Unity web site) and the recording on Compass is only provided to enable the Personal Enquiry and criminal records disclosure checks to be conducted. :sup:`sv`
 
@@ -818,35 +817,27 @@ m. Members of Scout Network are required to undertake a Personal Enquiry without
 
 Rule 3.28 This rule is intentionally left blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 3.29 This rule is intentionally left blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 3.30  This rule is intentionally left blank
 ------------------------------------------------
-BLANK RULE DUMMY
 
 Rule 3.31 This rule is intentionally left blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 3.32 This rule is intentionally left blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 3.33 This rule is intentionally left blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 3.34 This rule is intentionally left blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 3.35 This rule is intentionally left blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 3.36 The Appointment of Young Leaders
 ------------------------------------------
@@ -864,23 +855,18 @@ e. *This rule is intentionally left blank*
 
 Rule 3.37 This rule is intentionally left blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 3.38 This rule is intentionally left blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 3.39 This rule is intentionally left blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 3.40 This rule is intentionally left blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 3.41 This rule is intentionally left blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 3.42 Limitation on the number of Appointments held
 -------------------------------------------------------
@@ -896,33 +882,25 @@ a. **The Group Scout Leader**
 
    i. The Group Scout Leader is responsible to the District Commissioner for:
 
-      *  the development of Scouting in the Group's catchment area;
-      *  promoting and maintaining the Policy of the Association;
-      *  The local management of the Safety Policy together with the Group Executive;
-      *  ensuring that all adults working within the Scout Group (including members of any Group Scout Active Support Unit) are appropriate persons to carry out the tasks given them;
-      *  the continuity and development of training in Sections of the Group;
-      *  ensuring all adults in the Group are appropriately trained;
-      *  maintaining effective communication with the District Commissioner, District Explorer Scout
-
-         Commissioner, Scout Active Support Units, the local authority youth service, and other
-
-         organisations whose advice and support could assist the Group;
-      *  acting as Chair of the Group Leaders' Meeting;
-      *  encouraging co-operation among the adults appointed within the Scout Group;
-      *  nominating the Group Chair. The Group Scout Leader may not hold this appointment, nor
-
-         may a Scouter be nominated;
-      *  matters relating to the admission and membership of Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts and members of the Scout Active Support Unit in the Group;
-      *  agreeing the service agreement of any Group Scout Active Support Units and reviewing them annually;
-      *  building and maintaining a good relationship with the Group's immediate community;
-      *  building and maintaining a good relationship with the Sponsoring Authority in the case of a Sponsored Scout Group and with any community represented by the Sponsoring Authority;
-      *  all other matters specified in these Rules for Group Scout Leaders.
+      * the development of Scouting in the Group's catchment area;
+      * promoting and maintaining the Policy of the Association;
+      * The local management of the Safety Policy together with the Group Executive;
+      * ensuring that all adults working within the Scout Group (including members of any Group Scout Active Support Unit) are appropriate persons to carry out the tasks given them;
+      * the continuity and development of training in Sections of the Group;
+      * ensuring all adults in the Group are appropriately trained;
+      * maintaining effective communication with the District Commissioner, District Explorer Scout Commissioner, Scout Active Support Units, the local authority youth service, and other organisations whose advice and support could assist the Group;
+      * acting as Chair of the Group Leaders' Meeting;
+      * encouraging co-operation among the adults appointed within the Scout Group;
+      * nominating the Group Chair. The Group Scout Leader may not hold this appointment, nor may a Scouter be nominated;
+      * matters relating to the admission and membership of Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts and members of the Scout Active Support Unit in the Group;
+      * agreeing the service agreement of any Group Scout Active Support Units and reviewing them annually;
+      * building and maintaining a good relationship with the Group's immediate community;
+      * building and maintaining a good relationship with the Sponsoring Authority in the case of a Sponsored Scout Group and with any community represented by the Sponsoring Authority;
+      * all other matters specified in these Rules for Group Scout Leaders.
 
 b. **The Deputy Group Scout Leader**
 
-   i. A Deputy Group Scout Leader may be appointed, with responsibilities as defined by the
-
-      Group Scout Leader.
+   i. A Deputy Group Scout Leader may be appointed, with responsibilities as defined by the Group Scout Leader.
    ii. The Group Scout Leader should have regard to the desirability of developing the Deputy Group Scout Leaders' leadership potential.
 
 c. **Acting Group Scout Leader**
@@ -933,9 +911,7 @@ c. **Acting Group Scout Leader**
 
 d. **The Section Leader**
 
-   i. The Section Leader is responsible for planning and implementing a high quality balanced
-
-      Programme for the Section, subject to the general supervision of the Group Scout Leader and with the assistance of Assistant Section Leaders, Section Assistants and Skills Instructors.
+   i. The Section Leader is responsible for planning and implementing a high quality balanced Programme for the Section, subject to the general supervision of the Group Scout Leader and with the assistance of Assistant Section Leaders, Section Assistants and Skills Instructors.
    ii. It is a Leader's responsibility actively to encourage transfer between the Sections.
 
 e. **Assistant Section Leader**
@@ -953,13 +929,15 @@ a. The acceptance of an appointment involves an obligation to undertake training
 
 b. For roles that require a Wood Badge a Training Adviser will be assigned to the adult to draw up a Personal Learning Plan, support the adult through the scheme and validate the necessary modules.
 
-c. *This rule is intentionally left blank. All adult training requirements are detailed in the Appointments Process chapter of POR*.
+c. *This rule is intentionally left blank. All adult training requirements are detailed in the Appointments Process chapter of POR.*
 
 d. *This rule is intentionally left blank*
 
 e. *This rule is intentionally left blank*
 
-f. Validation is necessary for all modules identified on the Personal Learning Plan. Validation is the process of demonstrating to the Training Adviser that the adult can put the objectives of the module into practice in their Scouting role.
+f. Validation is necessary for all modules identified on the Personal Learning Plan.
+
+   *Validation is the process of demonstrating to the Training Adviser that the adult can put the objectives of the module into practice in their Scouting role.*
 
 g. Following the successful validation of the modules on the Personal Learning Plan, a Wood Badge can be awarded.
 
@@ -971,7 +949,7 @@ i. It is the responsibility of the adult's line manager to monitor completion of
 
 j. In exceptional circumstances, Headquarters may prescribe the Ongoing learning requirements during a certain year (or years) for all or certain roles.
 
-   *For more information about Adult Training see the publication 'The Scout Association's Adult Training Scheme' available from the Scout Information Centre.*
+*For more information about Adult Training see the publication 'The Scout Association's Adult Training Scheme' available from the Scout Information Centre.*
 
 Rule 3.45 Adult Responsibility for the Programme
 ------------------------------------------------
@@ -988,15 +966,14 @@ a. Progressive responsibility for planning and decision-making is an important e
 b. There should be effective operation of the Drey, Colony, Pack and Troop Forum, and the Patrol System.
 
 **Awards and Badges**
+
 Requirements of Section awards and badges are found in the Association's official publications for the Section.
 
 Rule 3.47 This rule is intentionally left blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 3.48 This rule is left intentionally blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 3.49 Finance and the Scout Group
 -------------------------------------
@@ -1024,7 +1001,7 @@ j. If the Group is a registered charity a copy of the annual report and accounts
 
 k. The annual statement of accounts must account for all monies received or paid on behalf of the Group, including all Sections, Committees and the Group Scout Active Support Unit.
 
-l. If the annual gross income or expenditure is above the limits laid down in the factsheet Accounting and Audit Requirements for Group, Districts, Counties/Areas and Scottish Regions the statement of accounts must be in the form of a Statement of Financial Activities (SOFA) with balance sheet. The factsheet is available from `www.scouts.org.uk. <https://members.scouts.org.uk/supportresources/3265/accounting-and-reporting-requirements?cat=419,55,261,395>`__
+l. If the annual gross income or expenditure is above the limits laid down in the factsheet Accounting and Audit Requirements for Group, Districts, Counties/Areas and Scottish Regions the statement of accounts must be in the form of a Statement of Financial Activities (SOFA) with balance sheet. The factsheet is available from `www.scouts.org.uk <https://members.scouts.org.uk/supportresources/3265/accounting-and-reporting-requirements?cat=419,55,261,395>`__.
 
 m. If the gross annual income or total income is less than the limits laid down in the factsheet an annual receipts and payments account together with a statement of assets and liabilities may be prepared instead.
 
@@ -1034,14 +1011,14 @@ o. A permanent endowment is an asset, e.g. a property held by the Group, which m
 
 p. The particulars of the trustees in whom such assets are vested also must be shown.
 
-q. The annual statement of accounts must be in the format of one of four model annual statements available for download from `www.scouts.org.uk <https://www.scouts.org.uk/volunteers/running-things-locally/finances-and-insurance/accounting-and-reporting/>`__. These models are suitable for:
+q. The annual statement of accounts must be in the format of one of four model annual statements available for download from https://www.scouts.org.uk/volunteers/running-things-locally/finances-and-insurance/accounting-and-reporting/. These models are suitable for:
 
-   *  receipts and payments accounts for a single fund unit i.e. where there are no special funds whose use is restricted;
-   *  receipts and payments accounts for a multi fund unit i.e. where there are special funds in addition to a general fund;
-   *  accruals (SOFA) accounts for a single fund unit. Guidance and templates available from `www.charitysorp.org <http://www.charitysorp.org/>`__
-   *  accruals (SOFA) accounts for a multi fund unit. Guidance and templates available from `www.charitysorp.org <http://www.charitysorp.org/>`__
+   * receipts and payments accounts for a single fund unit i.e. where there are no special funds whose use is restricted;
+   * receipts and payments accounts for a multi fund unit i.e. where there are special funds in addition to a general fund;
+   * accruals (SOFA) accounts for a single fund unit. Guidance and templates available from https://www.charitysorp.org
+   * accruals (SOFA) accounts for a multi fund unit. Guidance and templates available from https://www.charitysorp.org
 
-      The appropriate model will depend upon the gross annual income in the financial year and whether the Group has any special funds whose use is restricted to particular purposes rather than the general purposes of the Scout Group.
+   The appropriate model will depend upon the gross annual income in the financial year and whether the Group has any special funds whose use is restricted to particular purposes rather than the general purposes of the Scout Group.
 
 r. At each Annual General Meeting of the Group Scout Council an auditor, independent examiner or scrutineer, as appropriate must be appointed.
 
@@ -1049,7 +1026,7 @@ s. Each Group can decide if they need an auditor, independent examiner or scruti
 
 t. The auditor, independent examiner, or scrutineer must carry out an external examination of the accounts in accordance with the requirements of the Charities Act 2011.
 
-u. A report to the trustees (the Group Executive Committee) must be completed in accordance with one of the models in the specimen accounts referred to in the factsheet Accounting and Audit Requirements for Group, Districts, Counties/Areas and Scottish Regions.as appropriate to a scrutineer, an independent examiner or an auditor.
+u. A report to the trustees (the Group Executive Committee) must be completed in accordance with one of the models in the specimen accounts referred to in the factsheet *Accounting and Audit Requirements for Group, Districts, Counties/Areas and Scottish Regions* as appropriate to a scrutineer, an independent examiner or an auditor.
 
 v. A scrutineer, or independent examiner is required to carry out the work programme defined in the factsheet Accounting and Audit Requirements for Group, Districts, Counties/Areas and Scottish Regions.
 
@@ -1100,6 +1077,7 @@ b. The statement, together with all Group assets, must be handed to the District
 c. The District Treasurer will ensure that the statement of account is properly scrutinised, independently examined or audited as appropriate.
 
 d. Subject to Rule `13.7, <https://www.scouts.org.uk/por/13-trusteeship-property-and-equipment/#13.7#13.7>`__ any assets remaining after the closure of a Group will automatically pass to the District Scout Council which shall use or dispose of these assets at its absolute discretion. :sup:`sv`
+
 e. If there is any reasonable prospect of the Group being revived the District Scout Council may delay the disposal of these assets for such a period as it thinks proper with a view to returning them to the revived Group.
 
 f. If the District Executive Committee wishes the assets to pass to some other beneficiary, in the absence of some pre-existing agreement, the District Treasurer must forward a copy of the financial statement to the County Headquarters with the proposals of the Executive Committee requesting instructions.
@@ -1142,14 +1120,14 @@ d. Within the provisions of this policy the methods of fundraising may be chosen
 
 e. Fundraising conducted on behalf of Scouting may be by any means not forbidden by law, and which is acceptable to the local community, provided that:
 
-   *  the proceeds of the activity go wholly to the work of the Group or, in the case of joint activities with other organisations, that part of the proceeds allotted to the Group is wholly applied to the work of the Group;
-   *  it does not encourage the habit of gambling.
+   * the proceeds of the activity go wholly to the work of the Group or, in the case of joint activities with other organisations, that part of the proceeds allotted to the Group is wholly applied to the work of the Group;
+   * it does not encourage the habit of gambling.
 
 f. Public collections of money are allowed provided that the legislation regarding age, action and location of collectors is complied with.
 
 g. Collections may take place even though there is no visible reciprocal effort for the donation. Stickers and flags are appropriate. It is considered that value for the donation has already been given to society by the work of the Scout Movement in and for the community.
 
-h. The Scout association operates a number of National Corporate Partnerships, for a list please visit, `http://scouts.org.uk/what-we-do/become-a-partner/ <http://scouts.org.uk/what-we-do/become-a-partner/>`__. Any fundraising activity that may include a body from this list has to be approved, pre agreement, by TSA HQ. Please submit an enquiry email to `corporate.partnerships@scouts.org.uk <mailto:corporate.partnerships@scouts.org.uk>`__ and a member of the team will reply.
+h. The Scout association operates a number of National Corporate Partnerships, for a list please visit, https://www.scouts.org.uk/what-we-do/become-a-partner/. Any fundraising activity that may include a body from this list has to be approved, pre agreement, by TSA HQ. Please submit an enquiry email to `corporate.partnerships@scouts.org.uk <mailto:corporate.partnerships@scouts.org.uk>`__ and a member of the team will reply.
 
 Rule 3.57 Joint Fundraising Projects
 ------------------------------------

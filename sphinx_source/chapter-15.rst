@@ -4,28 +4,34 @@
 Rule 15.1 Complaints
 --------------------
 a. Complaints, disagreements and disputes should be resolved informally if at all possible.
-b. Where a complaint, disagreement or dispute cannot be resolved informally the Complaints Policy should be followed. `The Complaints Policy is available here </about-us/policy/scouts-complaints-policy/>`__
-c. Where a concern is raised about potential bullying and/or harassment of a volunteer then this should be dealt with in accordance with the Complaints Policy supported by the Volunteer `Anti-Bullying and Harassment Policy available here </about-us/policy/volunteer-anti-bullying-and-harassment-policy-procedures/>`__
-d. Where a concern is raised about potential wrongdoing which is in the public interest, then these disclosures should be dealt with in accordance with the `Whistleblowing Policy available here </about-us/policy/whistleblowing-policy-and-procedures/>`__
+
+b. Where a complaint, disagreement or dispute cannot be resolved informally the Complaints Policy should be followed. `The Complaints Policy is available here <https://www.scouts.org.uk/about-us/policy/scouts-complaints-policy/>`__
+
+c. Where a concern is raised about potential bullying and/or harassment of a volunteer then this should be dealt with in accordance with the Complaints Policy supported by the Volunteer `Anti-Bullying and Harassment Policy available here <https://www.scouts.org.uk/about-us/policy/volunteer-anti-bullying-and-harassment-policy-procedures/>`__
+
+d. Where a concern is raised about potential wrongdoing which is in the public interest, then these disclosures should be dealt with in accordance with the `Whistleblowing Policy available here <https://www.scouts.org.uk/about-us/policy/whistleblowing-policy-and-procedures/>`__
 
 Rule 15.2 Suspension of adult Members, Associate Members and non-Members
 ------------------------------------------------------------------------
 a. The following also applies to Members of the Scout Network.
+
 b. Suspension of any involvement in Scouting by a Member, Associate Member or a non-Member is an act intended to protect all persons involved. It assists to ensure that any investigation or inquiry proceeds in as fair and objective manner as possible by preventing situations arising which could give rise to further concerns/allegations or which could potentially cause further compromise.
 
    Suspension is permitted in the following circumstances:
 
    i. when an allegation is made that an individual involved in Scouting has committed a serious criminal offence. In this case the individual must be suspended until police inquiries and/or any legal proceedings have been concluded;
+
    ii. when a disagreement or dispute between adults remains unresolved for a period of more than 30 days (commencing from when a formal written notification of the dispute is provided to the relevant Executive Committee), suspension in this case is to be for a period of not more than 90 days in the first instance. Suspension for further periods of not more than 90 days may follow and must be communicated to the suspended individual;
+
    iii. if a Member or Associate Member makes a formal, public challenge (to a non-Scouting organisation, body or forum) against the decision or policy of either:
 
-        *  a local Executive Committee of a Scout unit (of which that Member or Associate Member is a member)
+        * a local Executive Committee of a Scout unit (of which that Member or Associate Member is a member)
 
-           and/or
+          and/or
 
-        *  The Scout Association
+        * The Scout Association
 
-           where such public challenge seeks to change, overturn or reverse the said decision or policy or causes adverse publicity about the same.
+          where such public challenge seeks to change, overturn or reverse the said decision or policy or causes adverse publicity about the same.
 
    iv. where the intentional action or inaction of an individual involved in Scouting could seriously harm the reputation of the Movement.
 
@@ -35,90 +41,93 @@ b. Suspension of any involvement in Scouting by a Member, Associate Member or a 
 
 c. In every case Membership may be suspended only by the appropriate authority with approval from the other appropriate authority as defined in the following table:
 
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| .                             | Person whose Membership is to be suspended                                                                                                                                                    | Authority to suspend                       | Authority to approvesuspension             |
-+===============================+===============================================================================================================================================================================================+============================================+============================================+
-| **Headquarters**              | UK Chief Commissioner                                                                                                                                                                         | Chair of Trustees                          | Board of Trustees                          |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **Headquarters**              | Chief Commissioners, UK Commissioners andother direct reports of the UK Chief Commissioner                                                                                                    | UK ChiefCommissioner                       | Chair of Trustees                          |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **Headquarters**              | Team members reporting directly and indirectly tomembers of the UK Chief Commissioner's team.                                                                                                 | Relevant UK ChiefCommissioner's teammember | UK Chief Commissioner                      |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **Headquarters**              | UK Scout Network Member                                                                                                                                                                       | UK Scout NetworkCommissioner               | Deputy UKCommissioner forProgramme (14-25) |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **British Scouting Overseas** | Area Commissioners                                                                                                                                                                            | InternationalCommissioner                  | UK Chief Commissioner                      |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **British Scouting Overseas** | District Commissioners, Area Leaders, AreaScout Network Members, Area Administrators,Advisers, Members, Associate Members and non-members                                                     | Area Commissioner                          | InternationalCommissioner                  |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **British Scouting Overseas** | District and Group Leaders, District ScoutNetwork Members, Section Assistants and SkillsInstructors, District and Group Administrators,Advisers, Members, Associate Members and non-members   | District Commissioner                      | Area Commissioner                          |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **England**                   | Regional Commissioners                                                                                                                                                                        | Chief Commissioner                         | UK Chief Commissioner                      |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **England**                   | County Commissioners                                                                                                                                                                          | RegionalCommissioner                       | Chief Commissioner                         |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **England**                   | District Commissioners, County Leaders, CountyScout Network Members*, County Administrators,Advisers, Members, Associate Members and non-members                                              | County Commissioner                        | Regional Commissioner                      |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **England**                   | District and Group Leaders, District ScoutNetwork Members, Section Assistants and SkillsInstructors, District and Group Administrators,Advisers, Members, Associate Members and nonmembers    | District Commissioner                      | County Commissioner                        |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **Northern Ireland**          | County Commissioners, members of the Northern Ireland team                                                                                                                                    | Chief Commissioner                         | UK Chief Commissioner                      |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **Northern Ireland**          | District Commissioners, County Leaders, CountyScout Network Members*, County Administrators,Advisers, Members, Associate Members and non-members                                              | County Commissioner                        | Chief Commissioner                         |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **Northern Ireland**          | District and Group Leaders, District ScoutNetwork Members, Section Assistants and Skills Instructors, District and Group Administrators,Advisers, Members, Associate Members and non-members  | District Commissioner                      | County Commissioner                        |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **Scotland**                  | Regional Commissioners, members of theScotland team                                                                                                                                           | Chief Commissioner                         | UK Chief Commissioner                      |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **Scotland**                  | District Commissioners, Regional Leaders,Region Scout Network Members*, RegionalAdministrators, Advisers, Members, AssociateMembers and non-members                                           | RegionalCommissioner                       | Chief Commissioner                         |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **Scotland**                  | District and Group Leaders, District ScoutNetwork Members, Section Assistants and Skills Instructors, District and Group Administrators, Advisers, Members, Associate Members and non-members | District Commissioner                      | Regional Commissioner                      |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **Wales**                     | Regional Commissioners, members of the Walesteam                                                                                                                                              | Chief Commissioner                         | UK Chief Commissioner                      |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **Wales**                     | Area Commissioners                                                                                                                                                                            | RegionalCommissioner                       | Chief Commissioner                         |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **Wales**                     | District Commissioners, Area Leaders, AreaScout Network Members*, Area Administrators,Advisers, Members, Associate Members and non-members                                                    | Area Commissioner                          | Regional Commissioner                      |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
-| **Wales**                     | District and Group Leaders, District ScoutNetwork Members, Section Assistants and SkillsInstructors, District and Group Administrators,Advisers, Members, Associate Members and non-members   | District Commissioner                      | Area Commissioner                          |
-+-------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+--------------------------------------------+
++-------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+|                               | Person whose Membership is to be suspended                                                                                                                                                     | Authority to suspend                         | Authority to approve suspension               |
++===============================+================================================================================================================================================================================================+==============================================+===============================================+
+| **Headquarters**              | UK Chief Commissioner                                                                                                                                                                          | Chair of Trustees                            | Board of Trustees                             |
++                               +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+|                               | Chief Commissioners, UK Commissioners and other direct reports of the UK Chief Commissioner                                                                                                    | UK Chief Commissioner                        | Chair of Trustees                             |
++                               +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+|                               | Team members reporting directly and indirectly to members of the UK Chief Commissioner's team.                                                                                                 | Relevant UK Chief Commissioner's team member | UK Chief Commissioner                         |
++                               +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+|                               | UK Scout Network Member                                                                                                                                                                        | UK Scout Network Commissioner                | Deputy UK Commissioner for Programme (14--25) |
++-------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+| **British Scouting Overseas** | Area Commissioners                                                                                                                                                                             | International Commissioner                   | UK Chief Commissioner                         |
++                               +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+|                               | District Commissioners, Area Leaders, Area Scout Network Members, Area Administrators, Advisers, Members, Associate Members and non-members                                                    | Area Commissioner                            | International Commissioner                    |
++                               +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+|                               | District and Group Leaders, District Scout Network Members, Section Assistants and Skills Instructors, District and Group Administrators, Advisers, Members, Associate Members and non-members | District Commissioner                        | Area Commissioner                             |
++-------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+| **England**                   | Regional Commissioners                                                                                                                                                                         | Chief Commissioner                           | UK Chief Commissioner                         |
++                               +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+|                               | County Commissioners                                                                                                                                                                           | RegionalCommissioner                         | Chief Commissioner                            |
++                               +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+|                               | District Commissioners, County Leaders, County Scout Network Members*, County Administrators, Advisers, Members, Associate Members and non-members                                             | County Commissioner                          | Regional Commissioner                         |
++                               +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+|                               | District and Group Leaders, District Scout Network Members, Section Assistants and Skills Instructors, District and Group Administrators, Advisers, Members, Associate Members and nonmembers  | District Commissioner                        | County Commissioner                           |
++-------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+| **Northern Ireland**          | County Commissioners, members of the Northern Ireland team                                                                                                                                     | Chief Commissioner                           | UK Chief Commissioner                         |
++                               +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+|                               | District Commissioners, County Leaders, County Scout Network Members*, County Administrators, Advisers, Members, Associate Members and non-members                                             | County Commissioner                          | Chief Commissioner                            |
++                               +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+|                               | District and Group Leaders, District Scout Network Members, Section Assistants and Skills Instructors, District and Group Administrators, Advisers, Members, Associate Members and non-members | District Commissioner                        | County Commissioner                           |
++-------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+| **Scotland**                  | Regional Commissioners, members of the Scotland team                                                                                                                                           | Chief Commissioner                           | UK Chief Commissioner                         |
++                               +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+|                               | District Commissioners, Regional Leaders, Region Scout Network Members*, Regional Administrators, Advisers, Members, Associate Members and non-members                                         | Regional Commissioner                        | Chief Commissioner                            |
++                               +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+|                               | District and Group Leaders, District Scout Network Members, Section Assistants and Skills Instructors, District and Group Administrators, Advisers, Members, Associate Members and non-members | District Commissioner                        | Regional Commissioner                         |
++-------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+| **Wales**                     | Regional Commissioners, members of the Wales team                                                                                                                                              | Chief Commissioner                           | UK Chief Commissioner                         |
++                               +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+|                               | Area Commissioners                                                                                                                                                                             | Regional Commissioner                        | Chief Commissioner                            |
++                               +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+|                               | District Commissioners, Area Leaders, Area Scout Network Members*, Area Administrators, Advisers, Members, Associate Members and non-members                                                   | Area Commissioner                            | Regional Commissioner                         |
++                               +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
+|                               | District and Group Leaders, District Scout Network Members, Section Assistants and Skills Instructors, District and Group Administrators, Advisers, Members, Associate Members and non-members | District Commissioner                        | Area Commissioner                             |
++-------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------+-----------------------------------------------+
 
-* Note that the inclusion of Scout Network Members at Area (Wales), County (England and Northern Ireland) and Region (Scotland) is to deal with exceptions where provision of Scout Network is provided at a level other than the District.
+\* Note that the inclusion of Scout Network Members at Area (Wales), County (England and Northern Ireland) and Region (Scotland) is to deal with exceptions where provision of Scout Network is provided at a level other than the District.
 
 Note: Where issues of Safeguarding are involved see also Rule 2.4q
 
-a. During a suspension under this Rule, any Appointment Certificate and Appointment Card must be surrendered to the suspending authority on request.
+d. During a suspension under this Rule, any Appointment Certificate and Appointment Card must be surrendered to the suspending authority on request.
 
-b. The suspended person must not:
+e. The suspended person must not:
 
-   *  Participate in any activity connected with the Movement (whether or not young people are present) including administrative activities;
-   *  Contact youth Members of the Association;
-   *  enter Association premises unless specifically given permission by the appropriate Commissioner;
-   *  be present at any place at which Scouting activities are taking place (including all types of activity whether or not young people are present);
-   *  wear the uniform or badges of the Association.
+   * Participate in any activity connected with the Movement (whether or not young people are present) including administrative activities;
+   * Contact youth Members of the Association;
+   * enter Association premises unless specifically given permission by the appropriate Commissioner;
+   * be present at any place at which Scouting activities are taking place (including all types of activity whether or not young people are present);
+   * wear the uniform or badges of the Association.
 
-      The suspending authority is permitted to modify the list of prohibited activities above when the suspended person is a parent or carer of a youth member in Scouting, and must follow the following criteria:
+   The suspending authority is permitted to modify the list of prohibited activities above when the suspended person is a parent or carer of a youth member in Scouting, and must follow the following criteria:
 
-      i. In safeguarding cases the guidance of the Safeguarding Team must be sought and followed.
-      ii. all modifications must be agreed with the authority that approved the suspension as defined in Rule 15.2c.
-      iii. the modifications must be kept to a minimum and are only to enable the suspended person as parent or carer to participate to some extent in Scouting with their child (for example, to attend award presentations or to drop off and pick-up the child).
-      iv. The modifications must not compromise the safety and wellbeing of youth members.
-      v. Where Rule 15.2b (vi) applies, the modifications must not allow the suspended individual to engage in regulated activity.
-      vi. The suspending authority must inform the suspended person in writing with very clear instructions regarding what is permitted.
-      vii. The suspending authority may change or remove the modifications during the period of suspension and must notify the suspended person in writing.
+   i. In safeguarding cases the guidance of the Safeguarding Team must be sought and followed.
+   ii. all modifications must be agreed with the authority that approved the suspension as defined in Rule 15.2c.
+   iii. the modifications must be kept to a minimum and are only to enable the suspended person as parent or carer to participate to some extent in Scouting with their child (for example, to attend award presentations or to drop off and pick-up the child).
+   iv. The modifications must not compromise the safety and wellbeing of youth members.
+   v. Where Rule 15.2b (vi) applies, the modifications must not allow the suspended individual to engage in regulated activity.
+   vi. The suspending authority must inform the suspended person in writing with very clear instructions regarding what is permitted.
+   vii. The suspending authority may change or remove the modifications during the period of suspension and must notify the suspended person in writing.
 
-c. They must be informed of their suspension in writing and given a copy of the information sheet Notes for a person under suspension. (Available from the Scout Information Centre, the Safeguarding Team or Country HQ)
+f. They must be informed of their suspension in writing and given a copy of the information sheet Notes for a person under suspension. (Available from the Scout Information Centre, the Safeguarding Team or Country HQ)
 
-d. They must also be offered an independent Scouting colleague to act as a liaison point. The information sheet Supporting a person under suspension provides relevant guidelines. (Available from the Scout Information Centre, the Safeguarding Team or Country HQ)
+g. They must also be offered an independent Scouting colleague to act as a liaison point. The information sheet Supporting a person under suspension provides relevant guidelines. (Available from the Scout Information Centre, the Safeguarding Team or Country HQ)
 
-e. Any appointment held will be regarded as vacant.
+h. Any appointment held will be regarded as vacant.
 
-f. Suspension in the case of disagreement must be followed as soon as possible by conciliation and such further steps as are necessary.
+i. Suspension in the case of disagreement must be followed as soon as possible by conciliation and such further steps as are necessary.
 
-g. When a person is suspended or the nature of the suspension changes, the appropriate Commissioner must inform the Vetting Team at Headquarters and a Form CS must be completed.
+j. When a person is suspended or the nature of the suspension changes, the appropriate Commissioner must inform the Vetting Team at Headquarters and a Form CS must be completed.
 
-h. The procedures for suspension detailed in this Rule must not be applied to Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts, or Explorer Scouts.
-i. At the end of a period of suspension the appropriate Commissioner and the appropriate Appointments Advisory Committee (where appropriate consulting the Group Scout Leader and the Sponsoring Authority) must agree a recommendation for action and seek approval for that action from the authority who originally approved the suspension. See table above.i. If the Appointments Advisory Committee and the appropriate Commissioner disagree on the recommendation for action then the final decision lies with the authority who originally approved the suspension.
+k. The procedures for suspension detailed in this Rule must not be applied to Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts, or Explorer Scouts.
 
- ii. If the authority who originally approved the suspension disagrees with the recommendation for action following discussion with the Appointments Advisory Committee and the appropriate Commissioner), then the final decision lines with the authority who originally approved the suspension.
+l. At the end of a period of suspension the appropriate Commissioner and the appropriate Appointments Advisory Committee (where appropriate consulting the Group Scout Leader and the Sponsoring Authority) must agree a recommendation for action and seek approval for that action from the authority who originally approved the suspension. See table above.
+
+   i. If the Appointments Advisory Committee and the appropriate Commissioner disagree on the recommendation for action then the final decision lies with the authority who originally approved the suspension.
+
+   ii. If the authority who originally approved the suspension disagrees with the recommendation for action following discussion with the Appointments Advisory Committee and the appropriate Commissioner), then the final decision lines with the authority who originally approved the suspension.
 
 m. The action must include a recommendation to re-instate, modify or revoke the appointment of the adult under suspension. There is no right of appeal against a decision made by an Appointment Advisory Committee or a decision made by the authority who approved the suspension.
 
@@ -183,9 +192,9 @@ a. At the end of a period of suspension the District Commissioner and Group Scou
 
    Possible outcomes following a period of suspension would include:
 
-   *  Reinstatement
-   *  Reinstatement with conditions
-   *  Dismissal
+   * Reinstatement
+   * Reinstatement with conditions
+   * Dismissal
 
 b. The dismissal of a young person (whether following a suspension or not) must follow Rules 15.10 -- 15.11.
 
@@ -201,11 +210,11 @@ Rule 15.8 Termination of Youth Membership sv
 --------------------------------------------
 a. Youth Membership may be terminated by:
 
-   *  resignation;
-   *  in the case of Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts, and Explorer Scouts by leaving their Group or Explorer Scout Unit without joining another;
-   *  in the case of Scout Network Members by leaving their County provision without joining another County;
-   *  failure to pay the Headquarters, Country, County, District and Group Membership Subscriptions;
-   *  dismissal.
+   * resignation;
+   * in the case of Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts, and Explorer Scouts by leaving their Group or Explorer Scout Unit without joining another;
+   * in the case of Scout Network Members by leaving their County provision without joining another County;
+   * failure to pay the Headquarters, Country, County, District and Group Membership Subscriptions;
+   * dismissal.
 
 b. Notwithstanding any other means provided by these rules, Youth Membership may be terminated by resolution of the Board of Trustees of the Association.
 
@@ -233,13 +242,12 @@ b. In a Sponsored Scout Group, the Sponsoring Authority must be consulted before
 
 Rule 15.12 This rule is intentionally left blank
 ------------------------------------------------
-BLANK RULE DUMMY
 
 Rule 15.13 Appeals against the dismissal Scout Network Members
 --------------------------------------------------------------
-a. Any Scout Network Member who is dismissed has the right of appeal (with the aid of a 'friend' if so desired) to the District Commissioner (or equivalent, where an exception to a District Scout Network operates) or Deputy UK Commissioner for Programme (14-25) where the member is a member of the UK Scout Network only.
+a. Any Scout Network Member who is dismissed has the right of appeal (with the aid of a 'friend' if so desired) to the District Commissioner (or equivalent, where an exception to a District Scout Network operates) or Deputy UK Commissioner for Programme (14--25) where the member is a member of the UK Scout Network only.
 
-b. If so requested by the person dismissed, the District Commissioner (or equivalent, where an exception to a District Scout Network operates) or Deputy UK Commissioner for Programme (14-25) where the member is a member of the UK Scout Network only, may appoint a committee to hear the appeal.
+b. If so requested by the person dismissed, the District Commissioner (or equivalent, where an exception to a District Scout Network operates) or Deputy UK Commissioner for Programme (14--25) where the member is a member of the UK Scout Network only, may appoint a committee to hear the appeal.
 
 c. Reasonable opportunity must be given for the dismissed person to attend the meeting of such a committee to state a case against dismissal.
 

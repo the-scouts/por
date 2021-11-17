@@ -5,7 +5,7 @@ Personal Accident and Medical Expenses Policy
 ---------------------------------------------
 This insurance is provided by Headquarters and covers the total Membership as shown on the Annual Census Return together with new Members joining during the year in the British Isles, including British Scouting Overseas.
 
-Details of the current benefits under this policy may be obtained from `Unity. <https://www.unityinsuranceservices.co.uk/scout-insurance>`__
+Details of the current benefits under this policy may be obtained from `Unity <https://www.unityinsuranceservices.co.uk/scout-insurance>`__.
 
 Special travel insurance should be obtained for authorised Scout visits abroad.
 
@@ -39,42 +39,42 @@ It does not fully cover liability for injuries to third parties and/or damage to
 
 The provision of any indemnity given by The Scout Association is subject to the terms and conditions of any legal liability insurance policy which may be in force.
 
-Insurance Cover
----------------
+Rule 8.1 Insurance Cover
+------------------------
 a. Every Scout Group, District and County must maintain insurance cover, to be reviewed annually, in respect of the following risks:
 
-   *  property and equipment, owned, hired or borrowed, including the risk of loss or damage to equipment whilst in transit or at camp or on expeditions;
-   *  minibuses and other motor vehicles, including passenger risk, in the British Isles or abroad;
-   *  marine and boating risks;
-   *  aviation and air activity risks;
+   * property and equipment, owned, hired or borrowed, including the risk of loss or damage to equipment whilst in transit or at camp or on expeditions;
+   * minibuses and other motor vehicles, including passenger risk, in the British Isles or abroad;
+   * marine and boating risks;
+   * aviation and air activity risks;
 
 b. Insurance cover must be taken out in respect of risks incurred when undertaking travel.
 
 c. Insurance cover must be taken out in respect of employers' liability for people a Scout Group, District and County may employ.
 
-d. The Scout Association Legal Liability Policy cover extends to cover every Scout group, District and County, subject to `Rule 8.3 Compliance with Rules </por/8-insurance/rule-83-compliance-with-rules/>`__. There is no requirement to purchase additional Public or Property Owners' Liability policies.
+d. The Scout Association Legal Liability Policy cover extends to cover every Scout group, District and County, subject to `Rule 8.3 Compliance with Rules <https://www.scouts.org.uk/por/8-insurance/rule-83-compliance-with-rules/>`__. There is no requirement to purchase additional Public or Property Owners' Liability policies.
 
 e. `Unity <https://www.unityinsuranceservices.co.uk/scout-insurance>`__ is the official insurance broker of The Scout Association and is one company that can arrange insurance cover that meets the standards described above.
 
-Indemnities
------------
+Rule 8.2 Indemnities
+--------------------
 a. If a Scout Group, District or County is arranging to use land, premises or other facility belonging to another authority, organisation or an individual, and is required to sign an agreement or indemnity, details must be sent to Unity as soon as possible.
 
 b. The acceptability of the agreement or indemnity terms by `Unity <https://www.unityinsuranceservices.co.uk/scout-insurance>`__ and the adequacy of the Association's Legal Liability Policy in relation to them must be confirmed before proceeding with the arrangements or signing any agreement or indemnity.
 
-Compliance with Rules
----------------------
+Rule 8.3 Compliance with Rules
+------------------------------
 a. For insurance cover by Headquarters to be effective, the Rules of the Association must be complied with, particularly those Rules governing the organisation of activities and safety precautions applying to activities.
 
 b. Some adventurous activities carry a potentially larger third party risk than others, and appropriate insurance arrangements have therefore to be made by Unity.
 
 c. For this reason, Groups, Districts or Counties undertaking the following activities are required to notify `Unity <https://www.unityinsuranceservices.co.uk/scout-insurance>`__ beforehand:
 
-   *  `Air activities; </volunteers/running-your-section/programme-guidance/general-activity-guidance/air-activities/>`__
-   *  Karting.
+   * `Air activities; <https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/air-activities/>`__
+   * Karting.
 
-Effecting Insurance and Reporting Claims
-----------------------------------------
+Rule 8.4 Effecting Insurance and Reporting Claims
+-------------------------------------------------
 a. If action is taken in relation to effecting insurance or reporting claims, injuries or fatalities, this action must be taken by the Leader or other adult responsible for the individual's or party's participation in the event or activity.
 
 b. Incident report forms when received, should not be completed by any adult involved in the incident but should be handled by a suitable independent person.

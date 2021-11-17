@@ -382,38 +382,3 @@ if __name__ == '__main__':
     # # fetch and convert
     # fetch_web_por()
     # html_to_rest(verify_expected=False)
-
-
-# FIXME not fixable through automatic parser:
-#   --- add manual line break
-#   ch2 religious (extra line break after bold)
-#   ch6 membership council (line breaks nominated, elected)
-#   ch6 membership board (line breaks elected/youth/appointed/attending/right)
-#   ch6 national leaders (extra line break after bold)
-#   ch6 headquarters (extra line break after bold)
-#   ch6 nations (extra line break after bold)
-#   3.23(a)(i) (needs a newline after ex officio)
-#   14.7(e) nations email addresses
-#   --- make bullets sane
-#   3.23 all the bullets, generally. e.g. (a)(i) isn't a new list but a literal `i.`
-#   4.25 ditto
-#   5.16 ditto
-#   4.45(c) the sub list is completely detached
-#   14.7(d,e) are numbered as (a,b)
-#   15.2(d-l) are numbered as (a-i)
-#   --- update docutils transformer code for compact lists
-#   4.1(a) - <p> tags used, don't need them
-#   --- nested inline markup
-#   4.25(e/f/i) can't have nested markup (sup inside bold)
-#   <u> tags - links etc, chapter 9 (so many (50+) examples in chapter 9)
-#   emphasis inside links / vice versa (lots of examples in chapter 9)
-#   --- add manual unity callout link thing
-#   8.1(e) unity "call to action" box
-#   10.20, 10."Uniform Diagrams" -- link to PDF etc, or transclude
-#   11.5(i) good service awards "call to action" box
-#   --- add images
-#   14.7 protected mark images
-#   --- backslash escape
-#   15.2 "* Note that the ..." should be a literal asterisk
-#   --- fix tables
-#   15.2 rowspans don't propagate

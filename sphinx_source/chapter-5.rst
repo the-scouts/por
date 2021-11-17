@@ -3,10 +3,10 @@
 
 Scouting in the United Kingdom is organised in Scout Groups, Scout Districts, Scout Counties and Country Headquarters. These 'units' of Scouting provide:
 
-*  support;
-*  channels for communication;
-*  opportunities for youth Members and Leaders to make decisions and take responsibility;
-*  functional units through which the design and delivery of the programme can be best achieved;
+* support;
+* channels for communication;
+* opportunities for youth Members and Leaders to make decisions and take responsibility;
+* functional units through which the design and delivery of the programme can be best achieved;
 
 A Scout County normally comprises several Scout Districts. However, some Counties, in effect, have no Districts -- in these cases the County takes on the responsibilities of the District, including the District Executive Committee.
 
@@ -16,7 +16,7 @@ Rule 5.1 Membership of the Scout County
 ---------------------------------------
 a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a disclosure as part of the Personal Enquiry process (see the Safeguarding Policy and POR: The Appointment Process).
 
-b. There are two types of membership - Members and Associate Members.
+b. There are two types of membership -- Members and Associate Members.
 
 c. British Subjects who are prepared to follow the Association's principles by making the Promise may become Members or Associate Members of the Scout Movement (subject to the Rules contained within Policy, Organisation and Rules).
 
@@ -38,13 +38,14 @@ k. There are membership options for adults not holding appointments to become Me
 
 l. Members or Associate Members do not have any rights, actual or implied, to take part in the national management of The Scout Association or the World Organisation of the Scout Movement.
 
-   **Members**
+**Members**
+
 m. The following are required to be Members and pay the Headquarters Membership Subscription annually:
 
-   *  Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts and Explorer Scouts.
-   *  Members of Scout Network are required to be members but are not required to pay the Headquarters membership Subscription.
+   * Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts and Explorer Scouts.
+   * Members of Scout Network are required to be members but are not required to pay the Headquarters membership Subscription.
 
-      Members must also pay any Country, County, District and Group Membership Subscription determined locally.
+   Members must also pay any Country, County, District and Group Membership Subscription determined locally.
 
 n. Young people become Members of the Scout Movement by making the Promise appropriate to the first Section they join. When moving Section, young people will make the Promise appropriate for their new Section.
 
@@ -52,12 +53,12 @@ o. Adults become Members by making the Promise and completing a Members' Declara
 
 p. Members of the Movement may:
 
-   *  wear the approved uniform (see Chapter 10);
-   *  wear the World Membership badge;
-   *  receive benefits provided by any Group, District, and County to which the Member belongs and of The Scout Association and the World Organisation of the Scout Movement;
-   *  wear the World Membership lapel badge.
+   * wear the approved uniform (see Chapter 10);
+   * wear the World Membership badge;
+   * receive benefits provided by any Group, District, and County to which the Member belongs and of The Scout Association and the World Organisation of the Scout Movement;
+   * wear the World Membership lapel badge.
 
-      **Associate Members**
+**Associate Members**
 
 q. Associate members must pay any Country, County, District and Group Membership Subscription determined locally.
 
@@ -67,8 +68,8 @@ s. Associate Members are not required to make the Promise.
 
 t. Associate Members of the Movement may:
 
-   *  wear the approved uniform (see Chapter 10);
-   *  receive benefits provided by any Group, District, and County to which the Member belongs, and of The Scout Association.
+   * wear the approved uniform (see Chapter 10);
+   * receive benefits provided by any Group, District, and County to which the Member belongs, and of The Scout Association.
 
 Rule 5.2 Admission to membership sv
 -----------------------------------
@@ -106,7 +107,7 @@ e. Notification should also be sent to Headquarters in respect of Squirrel Scout
 
 Rule 5.5 Annual Census sv
 -------------------------
-The number of Members and Associate Members must be returned in an annual census of the Group, District or County. 
+The number of Members and Associate Members must be returned in an annual census of the Group, District or County.
 
 a. Whilst it is necessary for Groups to hold accurate records of the names and personal details of its Members and Associate Members and for adults (aged 18 or over) to be accurately recorded on Compass, it is not necessary for these to be passed to the District or County secretary at the date of the annual census.
 
@@ -136,21 +137,19 @@ i. All Scout Groups, Explorer Units and Scout Networks will be required to be op
 
 j. Special situations are defined as being where:
 
-   *  there are cultural or religious requirements for single sex working;
-   *  Scouting is offered in a single sex institution (e.g. school, young offenders institute) through a closed Scout Group;
-   *  a specialist single sex provision is required to meet a clearly identified educational need (e.g. Scouting for young mothers).
+   * there are cultural or religious requirements for single sex working;
+   * Scouting is offered in a single sex institution (e.g. school, young offenders institute) through a closed Scout Group;
+   * a specialist single sex provision is required to meet a clearly identified educational need (e.g. Scouting for young mothers).
 
-      The decision whether Groups or Explorer Scout Units may become an exception to the policy is made by the District Commissioner in consultation with the County Commissioner.
+The decision whether Groups or Explorer Scout Units may become an exception to the policy is made by the District Commissioner in consultation with the County Commissioner.
 
-      The decision whether a County Scout Network may become an exception to the policy is made by the County Commissioner.
+The decision whether a County Scout Network may become an exception to the policy is made by the County Commissioner.
 
 Rule 5.7 This rule is intentionally left blank.
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 5.8 This rule is intentionally left blank.
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 5.9 County Scout Active Support Units
 ------------------------------------------
@@ -162,13 +161,13 @@ c. All adult only support groups linked to Scouting within the County must be re
 
 d. The County Commissioner must ensure that:
 
-   *  County Scout Active Support Units are supported and co-ordinated; and
-   *  County Scout Active Support Managers are provided with line management either directly by the County Commissioner or from a Deputy County Commissioner or other nominee.
+   * County Scout Active Support Units are supported and co-ordinated; and
+   * County Scout Active Support Managers are provided with line management either directly by the County Commissioner or from a Deputy County Commissioner or other nominee.
 
 e. Subject in all cases to a satisfactory Personal Enquiry (see Rule 5.19), membership of the County Scout Active Support Unit is open to any person over the age of 18 years, including:
 
-   *  those holding appointments, who will be expected to give priority to the duties of their appointments;
-   *  Scout Network Members, who will be expected to give priority to their Scout Network;
+   * those holding appointments, who will be expected to give priority to the duties of their appointments;
+   * Scout Network Members, who will be expected to give priority to their Scout Network;
 
 f. All members of a County Scout Active Support Unit must be at least Associate Members. They may also become Members by making the Scout Promise.
 
@@ -178,8 +177,8 @@ h. The County Scout Active Support Unit is led by the County Active Support Mana
 
 i. The following minimum standards are laid down for County Scout Active Support Units:
 
-   *  Leadership -- there must be an appointed County Scout Active Support Manager.
-   *  Activity - The County Scout Active Support Unit must provide active support to Scouting in the County as detailed in the service agreement.
+   * **Leadership** -- there must be an appointed County Scout Active Support Manager.
+   * **Activity** -- The County Scout Active Support Unit must provide active support to Scouting in the County as detailed in the service agreement.
 
 j. The County Commissioner, with the County Team, is required where necessary to assist County Scout Active Support Units to reach the required standards.
 
@@ -227,9 +226,12 @@ Rule 5.13 Cancellation of Registration of the Scout County
 ----------------------------------------------------------
 a. The registration of a Scout County may be cancelled by Headquarters:
 
-   *  on the recommendation of the Chief Commissioner and the most senior Country Committee, following a meeting specially convened. At such a meeting, the County Commissioner and County Chair are entitled to be heard;
-   *  if registration is not renewed at the time of the required annual renewal of registration;
-   *  if the registration of the County is cancelled.
+   * on the recommendation of the Chief Commissioner and the most senior Country Committee, following a meeting specially convened.
+
+     At such a meeting, the County Commissioner and County Chair are entitled to be heard;
+
+   * if registration is not renewed at the time of the required annual renewal of registration;
+   * if the registration of the County is cancelled.
 
 b. When the registration of a Scout County is cancelled the Scout County ceases to exist and action must be taken as described in Chapter 13 to deal with its property and assets.
 
@@ -238,6 +240,7 @@ c. The membership of each Member of the County will cease automatically, unless 
 d. A Scout County cannot exist unless it has a current registration with Headquarters.
 
 e. Charity law does not permit a Scout County to transfer from The Scout Association to any other body whether calling itself a scout organisation or by any other name. :sup:`sv`
+
 f. Individual or several Members of a County may leave and join any other organisation they wish. The County itself and all its assets remain part of The Scout Association whose parent body is incorporated by Royal Charter.
 
 g. In the event of all the Members leaving, the Country Headquarters will close the County and cancel its registration.
@@ -254,15 +257,14 @@ c. A Scout County is led by a County Commissioner and managed by a County Execut
 
 d. The County Commissioner is assisted and supported by:
 
-   *  the County Team, comprising the County Youth Commissioner, Deputy County Commissioners, County Training Manager, all Assistant County Commissioners and County Leaders;
-   *  County Administrators and Advisers;
-   *  the County Scout Council;
-   *  the County Executive Committee;
-   *  the County Scout Active Support Units.\ :sup:`sv`
+   * the County Team, comprising the County Youth Commissioner, Deputy County Commissioners, County Training Manager, all Assistant County Commissioners and County Leaders;
+   * County Administrators and Advisers;
+   * the County Scout Council;
+   * the County Executive Committee;
+   * the County Scout Active Support Units.\ :sup:`sv`
 
 Rule 5.15 This rule is intentionally left blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 5.16 The Constitution of the Scout County
 ----------------------------------------------
@@ -276,14 +278,14 @@ d. This policy as a matter of good practice, should also be applied to any ad ho
 
 e. **The County Scout Council** :sup:`sv`
 
-   *  The County Scout Council is the electoral body which supports Scouting in the County. It is the body to which the County Executive Committee is accountable.
-   *  Membership of the County Scout Council is open to:
+   i. The County Scout Council is the electoral body which supports Scouting in the County. It is the body to which the County Executive Committee is accountable.
+   ii. Membership of the County Scout Council is open to:
 
-      **Ex-officio Members**
+       **Ex-officio Members**
 
-      *  All adult members and associate members of the Scout County (see County roles listed in The Appointments Process chapter, Table 2: Appointments)
-      *  Regional Commissioner (in England and Wales)
-      *  All adults holding the following appointments from the Scout Districts in the County;
+       * All adult members and associate members of the Scout County (see County roles listed in The Appointments Process chapter, Table 2: Appointments)
+       * Regional Commissioner (in England and Wales)
+       * All adults holding the following appointments from the Scout Districts in the County;
 
          i. District Commissioner
          ii. District Youth Commissioner
@@ -292,133 +294,139 @@ e. **The County Scout Council** :sup:`sv`
          v. District Treasurer
          vi. District Scout Active Support Manager
 
-      *  A representative of the County Troop Leadership Forum, selected from amongst the membership of the Forum;
-      *  A representative of the County Explorer Scout Forum, selected from amongst the membership of the Forum;
-      *  A representative of the Scout Network, selected from amongst the membership of the District Scout Networks in the County
+       * A representative of the County Troop Leadership Forum, selected from amongst the membership of the Forum;
+       * A representative of the County Explorer Scout Forum, selected from amongst the membership of the Forum;
+       * A representative of the Scout Network, selected from amongst the membership of the District Scout Networks in the County
 
-**Nominated Members**
+       **Nominated Members**
 
-The number of persons nominated annually to the County Scout Council from each of the following categories is decided by the County Scout Council:
+       The number of persons nominated annually to the County Scout Council from each of the following categories is decided by the County Scout Council:
 
-         *  Members nominated by District Scout Councils
-         *  Explorer Scout members nominated by District Explorer Scout Meetings
-         *  District Scout network members nominated by the District Scout Network
-         *  Other supporters of the County appointed by the County Scout Council on the recommendation of the County Commissioner and the County Executive Committee.
+       * Members nominated by District Scout Councils
+       * Explorer Scout members nominated by District Explorer Scout Meetings
+       * District Scout network members nominated by the District Scout Network
+       * Other supporters of the County appointed by the County Scout Council on the recommendation of the County Commissioner and the County Executive Committee.
 
-The number of Nominated Members must not exceed the number of Ex Officio members.
+       The number of Nominated Members must not exceed the number of Ex Officio members.
 
-Nominated members must be appointed for a fixed period not exceeding 3 years. Subsequent reappointments are permitted.
+       Nominated members must be appointed for a fixed period not exceeding 3 years. Subsequent reappointments are permitted.
 
-**Co-opted Members**
+       **Co-opted Members**
 
-         *  the County Scout Council may co-opt members annually. Such co-opted members may include representatives of organisations with whom it is desired to maintain co-operation eg Girlguiding, religious bodies, other youth organisations and Local Education Authorities.
-         *  Members are nominated by the County Commissioner.
-         *  the number of members co-opted must not exceed the total of Ex-officio and Nominated Members.
+       * the County Scout Council may co-opt members annually. Such co-opted members may include representatives of organisations with whom it is desired to maintain co-operation eg Girlguiding, religious bodies, other youth organisations and Local Education Authorities.
+       * Members are nominated by the County Commissioner.
+       * the number of members co-opted must not exceed the total of Ex-officio and Nominated Members.
 
-viii. Membership of the County Scout Council ceases upon:
+   iii. Membership of the County Scout Council ceases upon:
 
-            *  the resignation of the member;
-            *  the dissolution of the Council:
-            *  the termination of membership by Headquarters following a recommendation by the County Executive Committee.
+        * the resignation of the member;
+        * the dissolution of the Council:
+        * the termination of membership by Headquarters following a recommendation by the County Executive Committee.
 
-iv. The County Scout Council must hold an Annual General Meeting within six months of the financial year end to:
+   iv. The County Scout Council must hold an Annual General Meeting within six months of the financial year end to:
 
-      *  receive and consider the Trustees' Annual Report of the County Executive Committee, including the annual statement of accounts (after their examination by an appropriate auditor, independent examiner or scrutineer); prepared by the County Executive Committee;
-      *  approve the County Commissioner's nomination of the County Chair and nominated members of the County Executive Committee;
-      *  elect a County Secretary unless the County Secretary is employed by the County Executive Committee;
-      *  elect a County Treasurer;
-      *  elect members to the County Executive Committee;
-      *  as appropriate, elect representative(s) of the County Scout Council to serve as Nominated Members of the Council of The Scout Association;
-      *  as appropriate, elect representative(s) of the County Scout Council to serve as Nominated Youth Member on the Council of The Scout Association;
-      *  appoint an auditor or independent examiner or scrutineer as required;
-      *  adopt (or reconfirm) certain resolutions:
+       * receive and consider the Trustees' Annual Report of the County Executive Committee, including the annual statement of accounts (after their examination by an appropriate auditor, independent examiner or scrutineer); prepared by the County Executive Committee;
+       * approve the County Commissioner's nomination of the County Chair and nominated members of the County Executive Committee;
+       * elect a County Secretary unless the County Secretary is employed by the County Executive Committee;
+       * elect a County Treasurer;
+       * elect members to the County Executive Committee;
+       * as appropriate, elect representative(s) of the County Scout Council to serve as Nominated Members of the Council of The Scout Association;
+       * as appropriate, elect representative(s) of the County Scout Council to serve as Nominated Youth Member on the Council of The Scout Association;
+       * appoint an auditor or independent examiner or scrutineer as required;
+       * adopt (or reconfirm) certain resolutions:
 
-         *  agree the quorum for each of:
+         * agree the quorum for each of:
 
-            - meetings of the County Scout Council,
+           - meetings of the County Scout Council,
+           - meetings of the County Executive Committee and
+           - meetings of any sub-Committees
 
-            - meetings of the County Executive Committee and
+           (see Rule 5.16(h)(iii))
 
-            - meetings of any sub-Committees
-
-            (see Rule 5.16(h)(iii))
-         *  agree the number of members that may be elected to the County Executive Committee (see Rule 5.16(f)(iii -- Elected Members)
+         * agree the number of members that may be elected to the County Executive Committee (see Rule 5.16(f)(iii -- Elected Members)
 
 f. **The County Executive Committee** :sup:`sv`
 
-            i. The Executive Committee exists to support the County Commissioner in meeting the responsibilities of their appointment.
-            ii. Members of the County Executive Committee must act collectively as charity Trustees of the Scout County, and in the best interests of its members to:\ :sup:`sv`
+   i. The Executive Committee exists to support the County Commissioner in meeting the responsibilities of their appointment.
 
-                *  Comply with the Policy, Organisation and Rules of The Scout Association
-                *  Protect and maintain any property and equipment owned by and/or used by the County
-                *  Manage the County finances.
-                *  Provide insurance for people, property and equipment.
-                *  Provide sufficient resources for Scouting to operate. This includes, but is not limited to, supporting recruitment, other adult support, and fundraising activities.
-                *  Promote and support the development of Scouting in the local area.
-                *  Manage and implement the Safety Policy locally.
-                *  Ensure that a positive image of Scouting exists in the local community.
-                *  Appoint and manage the operation of any sub-Committees, including appointing a Chair to lead the sub-committees.
-                *  Ensure that Young People are meaningfully involved in decision making at all levels within the County.
-                *  The opening, closure and amalgamation of Districts, the County Scout Network and Scout Active Support Units in the County as necessary.
-                *  Appoint and manage the operation of an Appointments Advisory Committee, including appointing an Appointments Committee Chair to lead it.
+   ii. Members of the County Executive Committee must act collectively as charity Trustees of the Scout County, and in the best interests of its members to:\ :sup:`sv`
 
-                   The Executive Committee must also:
-                *  Appoint Administrators, Advisers, and Co-opted members to the County Executive Committee
-                *  Prepare and approve the Trustees' Annual Report and Annual Accounts after the examination of the accounts by an appropriate auditor, independent examiner or scrutineer.
-                *  Present the approved Trustees' Annual Report and Annual Accounts to the County Scout Council at the Annual General Meeting; file a copy with National Headquarters and if a registered charity, to submit them to the appropriate charity regulator. (See Rule 13.3)
-                *  Maintain confidentiality with regard to appropriate Executive Committee business.
-                *  Where staff are employed, act as a responsible employer in accordance with Scouting's values and relevant legislation.
-                *  Ensure line management responsibilities for employed staff are clearly established and communicated.
+       * Comply with the Policy, Organisation and Rules of The Scout Association
+       * Protect and maintain any property and equipment owned by and/or used by the County
+       * Manage the County finances.
+       * Provide insurance for people, property and equipment.
+       * Provide sufficient resources for Scouting to operate. This includes, but is not limited to, supporting recruitment, other adult support, and fundraising activities.
+       * Promote and support the development of Scouting in the local area.
+       * Manage and implement the Safety Policy locally.
+       * Ensure that a positive image of Scouting exists in the local community.
+       * Appoint and manage the operation of any sub-Committees, including appointing a Chair to lead the sub-committees.
+       * Ensure that Young People are meaningfully involved in decision making at all levels within the County.
+       * The opening, closure and amalgamation of Districts, the County Scout Network and Scout Active Support Units in the County as necessary.
+       * Appoint and manage the operation of an Appointments Advisory Committee, including appointing an Appointments Committee Chair to lead it.
 
-iii. The County Executive Committee consists of:\ :sup:`sv`
+       The Executive Committee must also:
 
-**Ex-officio members**
+       * Appoint Administrators, Advisers, and Co-opted members to the County Executive Committee
+       * Prepare and approve the Trustees' Annual Report and Annual Accounts after the examination of the accounts by an appropriate auditor, independent examiner or scrutineer.
+       * Present the approved Trustees' Annual Report and Annual Accounts to the County Scout Council at the Annual General Meeting; file a copy with National Headquarters and if a registered charity, to submit them to the appropriate charity regulator. (See Rule 13.3)
+       * Maintain confidentiality with regard to appropriate Executive Committee business.
+       * Where staff are employed, act as a responsible employer in accordance with Scouting's values and relevant legislation.
+       * Ensure line management responsibilities for employed staff are clearly established and communicated.
 
-         *  County Chair;
-         *  County Commissioner;
-         *  County Youth Commissioner
-         *  County Secretary;
-         *  County Treasurer.
+   iii. The County Executive Committee consists of:\ :sup:`sv`
 
-            **Elected members**
-         *  members of the County Scout Council elected at the County Annual General Meeting,
-         *  these should normally be four to six in number,
-         *  the actual number must be the subject of a resolution by the County Scout Council.
+        **Ex-officio members**
 
-            **Nominated members**
-         *  persons nominated by the County Commissioner in consultation with the County Chair,
-         *  the nominations must be approved at the County Annual General Meeting,
-         *  persons nominated need not be members of the County Scout Council and their number must not exceed that of the elected members.
+        * County Chair;
+        * County Commissioner;
+        * County Youth Commissioner
+        * County Secretary;
+        * County Treasurer.
 
-            **Co-opted members**
-         *  persons co-opted annually by the County Executive Committee,
-         *  the number of co-opted members must not exceed that of the elected members.
+        **Elected members**
 
-            **Right of Attendance**
-         *  the Regional Commissioner in England; and Wales; or Chief Commissioner in Scotland and Northern Ireland; or the International Commissioner in the case of British Scouts Overseas has the right of attendance at meetings of the County Executive Committee.
+        * members of the County Scout Council elected at the County Annual General Meeting,
+        * these should normally be four to six in number,
+        * the actual number must be the subject of a resolution by the County Scout Council.
 
-            **Invited to attend**
-         *  the County's Nominated Member(s) on the Council of The Scout Association*,
-         *  the County's Nominated Youth Representative on the Council of The Scout Association*
+        **Nominated members**
 
-iv. Additional Requirements for sub-Committees:
+        * persons nominated by the County Commissioner in consultation with the County Chair,
+        * the nominations must be approved at the County Annual General Meeting,
+        * persons nominated need not be members of the County Scout Council and their number must not exceed that of the elected members.
 
-            *  sub-Committees consist of members nominated by the Committee.
-            *  the County Commissioner and the County Chair will be ex-officio members of any subCommittee of the County Executive Committee.
-            *  any fundraising committee must include at least two members of the County Executive Committee. No County Scouter should serve on such a fundraising sub-Committee.
+        **Co-opted members**
 
-v. Additional Requirements for Charity Trustees:\ :sup:`sv`
+        * persons co-opted annually by the County Executive Committee,
+        * the number of co-opted members must not exceed that of the elected members.
 
-               *  All ex-officio, elected, nominated and co-opted members of the County Executive Committee are Charity Trustees of the Scout County
-               *  Only persons aged 18 and over may be full voting members of the County Executive Committee because of their status as Charity Trustees (however the views of young people in the County must be taken into consideration).
-               *  Certain people are disqualified from being Charity Trustees by virtue of the Charities Acts. (See rule 13.1)
-               *  Charity Trustees are responsible for ensuring compliance with all relevant legislation including the Data Protection Act 2018.
-               *  Complete Module 1 Essential Information, Safety, Safeguarding, GDPR and Trustee Introduction training within 5 months of the role start date.
-               *  Some Counties may also need to register as a charity. (See Rule 13.3).\ :sup:`sv`
+        **Right of Attendance**
 
-*g. This rule is left intentionally blank*
+        * the Regional Commissioner in England; and Wales; or Chief Commissioner in Scotland and Northern Ireland; or the International Commissioner in the case of British Scouts Overseas has the right of attendance at meetings of the County Executive Committee.
 
-**h. Conduct of Meetings in the Scout County** :sup:`sv`
+        **Invited to attend**
+
+        * the County's Nominated Member(s) on the Council of The Scout Association*,
+        * the County's Nominated Youth Representative on the Council of The Scout Association*
+
+   iv. Additional Requirements for sub-Committees:
+
+       * sub-Committees consist of members nominated by the Committee.
+       * the County Commissioner and the County Chair will be ex-officio members of any subCommittee of the County Executive Committee.
+       * any fundraising committee must include at least two members of the County Executive Committee. No County Scouter should serve on such a fundraising sub-Committee.
+
+   v. Additional Requirements for Charity Trustees:\ :sup:`sv`
+
+      * All ex-officio, elected, nominated and co-opted members of the County Executive Committee are Charity Trustees of the Scout County
+      * Only persons aged 18 and over may be full voting members of the County Executive Committee because of their status as Charity Trustees (however the views of young people in the County must be taken into consideration).
+      * Certain people are disqualified from being Charity Trustees by virtue of the Charities Acts. (See rule 13.1)
+      * Charity Trustees are responsible for ensuring compliance with all relevant legislation including the Data Protection Act 2018.
+      * Complete Module 1 Essential Information, Safety, Safeguarding, GDPR and Trustee Introduction training within 5 months of the role start date.
+      * Some Counties may also need to register as a charity. (See Rule 13.3).\ :sup:`sv`
+
+g. *This rule is left intentionally blank*
+
+h. **Conduct of Meetings in the Scout County** :sup:`sv`
 
    i. In meetings of the County Scout Council and the County Executive Committee only the members specified may vote.
    ii. Decisions are made by a majority of votes of those present at the meeting. In the event of an equal number of votes being cast on either side in any issue the chair does not have a casting vote and the matter is taken not to have been carried.
@@ -436,7 +444,7 @@ c. The appointment of the County Chair is approved by the County Scout Council a
 
 d. Every effort should be made to find a County Chair. Only in extreme circumstances may the County Commissioner act as County Chair for a short period.
 
-e. The County Secretary - unless employed by the County - is elected by the County Scout Council at the Annual General Meeting every year. The role may not be held by a Leader, Manager or Supporter where that could lead to any real or potential conflict of interest within the charity or directly related charities. For example, a District Secretary should not be the County Secretary in the same Scout County but could be County Secretary in a different Scout County (subject to having the time and skill to undertake both roles).\ :sup:`sv`
+e. The County Secretary---unless employed by the County---is elected by the County Scout Council at the Annual General Meeting every year. The role may not be held by a Leader, Manager or Supporter where that could lead to any real or potential conflict of interest within the charity or directly related charities. For example, a District Secretary should not be the County Secretary in the same Scout County but could be County Secretary in a different Scout County (subject to having the time and skill to undertake both roles).\ :sup:`sv`
 
 f. The County Treasurer is elected by the County Scout Council at the Annual General Meeting every year. The role may not be held by a Leader, Manager or Supporter where that could lead to any real or potential conflict of interest within the charity or directly related charities. For example, a District Treasurer should not be the County Treasurer in the same Scout County but could be County Treasurer in a different Scout County (subject to having the time and skill to undertake both roles).\ :sup:`sv`
 
@@ -446,10 +454,10 @@ h. Other Administrators and Advisers may be appointed by the County Executive Co
 
 i. Administrators and Advisers appointments may be terminated by:
 
-   *  the resignation of the holder;
-   *  the unanimous resolution of all other members of the County Executive Committee;
-   *  the expiry of the period of the appointment;
-   *  confirmation by Headquarters of the termination of the appointment in the event of the cancellation of the registration of the County.
+   * the resignation of the holder;
+   * the unanimous resolution of all other members of the County Executive Committee;
+   * the expiry of the period of the appointment;
+   * confirmation by Headquarters of the termination of the appointment in the event of the cancellation of the registration of the County.
 
 j. The appointment and termination of all County Administrators and Advisers appointments must be reported to the County Secretary who should maintain a record of such appointments.
 
@@ -461,15 +469,15 @@ Rule 5.19 The Appointment of Adults in the Scout County sv
 ----------------------------------------------------------
 a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a criminal records disclosure check as part of the Personal Enquiry process (see the Safeguarding Policy and POR: The Appointment Process).
 
-b. A Personal Enquiry (including where relevant a criminal records disclosure check) will always be required for any person aged 18 or over who meets any of the following criteria: :sup:`sv`
+b. A Personal Enquiry (including where relevant a criminal records disclosure check) will always be required for any person aged 18 or over who meets **any** of the following criteria: :sup:`sv`
 
-   *  wishes to become a Member or Associate member (for members of Scout Network - see 5.19m below); or
-   *  will be a member of an Executive Committee; or
-   *  will be assisting with overnight activities (including Nights Away); or
-   *  may be helping out once a week (or on four occasions in a thirty day period) or more frequently; or
-   *  will have unsupervised access to young people.
+   * wishes to become a Member or Associate member (for members of Scout Network -- see 5.19m below); or
+   * will be a member of an Executive Committee; or
+   * will be assisting with overnight activities (including Nights Away); or
+   * may be helping out once a week (or on four occasions in a thirty day period) or more frequently; or
+   * will have unsupervised access to young people.
 
-c. For the purposes of 5.19b above "unsupervised" means not being within sight and hearing of another adult who holds a valid criminal records disclosure check.
+c. For the purposes of 5.19b above 'unsupervised' means not being within sight and hearing of another adult who holds a valid criminal records disclosure check.
 
 d. A person who requires a Personal Enquiry under 5.19(b) above (including where relevant a criminal records disclosure check) and who does not have an active role on Compass must be registered on Compass as an Occasional Helper. Occasional Helpers are not entitled to membership status or member benefits (including certain insurances -- see the Unity web site) and the recording on Compass is only provided to enable the Personal Enquiry and criminal records disclosure checks to be conducted. :sup:`sv`
 
@@ -485,7 +493,7 @@ i. When completing a Personal enquiry accurate information about the individual 
 
 j. The full rules for the appointment of adults can be found in POR: The Appointment Process.
 
-k. Occasional Helpers (including parents) who are required to undertake a Personal Enquiry (see 5.19a and 5.19b) must either be entered directly into Compass or recorded using the Association's official Adult Information Form and then be transferred accurately into Compass (form available from `https://www.scouts.org.uk/volunteers/running-things-locally/recruiting-and-managing-volunteers/appointing/appointment-forms/ <https://www.scouts.org.uk/volunteers/running-things-locally/recruiting-and-managing-volunteers/appointing/appointment-forms/>`__ ). The appropriate criminal records disclosure check application process must then be followed. :sup:`sv`
+k. Occasional Helpers (including parents) who are required to undertake a Personal Enquiry (see 5.19a and 5.19b) must either be entered directly into Compass or recorded using the Association's official Adult Information Form and then be transferred accurately into Compass (form available from https://www.scouts.org.uk/volunteers/running-things-locally/recruiting-and-managing-volunteers/appointing/appointment-forms/). The appropriate criminal records disclosure check application process must then be followed. :sup:`sv`
 
 l. Section leaders should ensure that Occasional Helpers who are involved more than once a month are aware of the appointment opportunities available to them.
 
@@ -493,35 +501,27 @@ m. Members of Scout Network are required to undertake a Personal Enquiry without
 
 Rule 5.20 This rule is left intentionally blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 5.21 This rule is left intentionally blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 5.22 This rule is left intentionally blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 5.23 This rule is left intentionally blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 5.24 This rule is left intentionally blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 5.25 This rule is left intentionally blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 5.26 This rule is left intentionally blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 5.27 This rule is left intentionally blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 5.28 The appointment of Employed Staff in the Scout County sv
 ------------------------------------------------------------------
@@ -539,23 +539,18 @@ e. The procedures for enquiry and the appointment of adults must be followed.
 
 Rule 5.29 This rule is left intentionally blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 5.30 This rule is left intentionally blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 5.31 This rule is left intentionally blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 5.32 This rule is left intentionally blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 5.33 This rule is left intentionally blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 5.34 Limitation of holding more than one Appointment
 ---------------------------------------------------------
@@ -571,25 +566,25 @@ a. **The County Commissioner** :sup:`sv`
 
    i. The County Commissioner is responsible to the Regional Commissioner for:
 
-      *  the development of Scouting in the County;
-      *  promoting and maintaining the policies of the Association;
-      *  the local management of the Safety Policy together with the County Executive Committee;
-      *  ensuring that all adults working within the Scout County (including members of any County Scout Active Support Units) are appropriate persons to carry out the tasks given them;
-      *  encouraging and facilitating the training of Members of the Movement as appropriate throughout the County;
-      *  promoting the organisation and effective working of the County Scout Council;
-      *  securing the services of persons suitable for appointment as Commissioners;
-      *  promoting the effective working of Scout Districts within the County;
-      *  promoting the effective working of the County Scout Network, if applicable;
-      *  performing all other duties specified in these Rules for County Commissioners, particularly:
+      * the development of Scouting in the County;
+      * promoting and maintaining the policies of the Association;
+      * the local management of the Safety Policy together with the County Executive Committee;
+      * ensuring that all adults working within the Scout County (including members of any County Scout Active Support Units) are appropriate persons to carry out the tasks given them;
+      * encouraging and facilitating the training of Members of the Movement as appropriate throughout the County;
+      * promoting the organisation and effective working of the County Scout Council;
+      * securing the services of persons suitable for appointment as Commissioners;
+      * promoting the effective working of Scout Districts within the County;
+      * promoting the effective working of the County Scout Network, if applicable;
+      * performing all other duties specified in these Rules for County Commissioners, particularly:
 
-         *  making recommendations for conferring decorations and awards;
-         *  arranging to cover the duties of vacant District Commissioners posts;
-         *  giving decisions and, where so provided, reporting to Headquarters as appropriate all matters referred to the County Commissioner, particularly disagreements between District Commissioners and District Scout Councils or any other disputes;
-         *  co-operating with all bodies whose work is relevant to Scouting and ensuring that the Movement's interests are represented on local authority youth committees;
-         *  encouraging the formation, operation and effective working of the County Explorer and Scout Network Forum or similar;
-         *  encouraging the formation, operation and effective working of the County Patrol Leaders' Forum;
-         *  matters relating to the admission of members of County Scout Active Support Units;
-         *  agreeing the service agreement of County Scout Active Support Units and reviewing them at least annually.
+        * making recommendations for conferring decorations and awards;
+        * arranging to cover the duties of vacant District Commissioners posts;
+        * giving decisions and, where so provided, reporting to Headquarters as appropriate all matters referred to the County Commissioner, particularly disagreements between District Commissioners and District Scout Councils or any other disputes;
+        * co-operating with all bodies whose work is relevant to Scouting and ensuring that the Movement's interests are represented on local authority youth committees;
+        * encouraging the formation, operation and effective working of the County Explorer and Scout Network Forum or similar;
+        * encouraging the formation, operation and effective working of the County Patrol Leaders' Forum;
+        * matters relating to the admission of members of County Scout Active Support Units;
+        * agreeing the service agreement of County Scout Active Support Units and reviewing them at least annually.
 
    ii. The County Commissioner may not hold the appointment of County Chair, nor may they nominate any other Manager, Leader or Supporter to that appointment.
 
@@ -627,12 +622,12 @@ d. **County Training Manager** :sup:`sv`
 
    ii. The functions of the appointment are to:
 
-       *  determine, review and maintain the appropriate structure for management and support of learning opportunities in the County;
-       *  appoint and act as line manager for those involved in the management, delivery and administration of training;
-       *  plan and ensure the delivery of the learning provision in the County so that all adults in Scouting completing a 'Personal Learning Plan' have access to suitable learning opportunities using a variety of methods;
-       *  ensure that people involved in training are suitably qualified (that is have attained or are actively working towards the relevant module) and effective;
-       *  ensure that the recommendation of Wood Badges is carried out;
-       *  implement The Scout Association's Adult Training Scheme within the County, in line with the key principles of the scheme.
+       * determine, review and maintain the appropriate structure for management and support of learning opportunities in the County;
+       * appoint and act as line manager for those involved in the management, delivery and administration of training;
+       * plan and ensure the delivery of the learning provision in the County so that all adults in Scouting completing a 'Personal Learning Plan' have access to suitable learning opportunities using a variety of methods;
+       * ensure that people involved in training are suitably qualified (that is have attained or are actively working towards the relevant module) and effective;
+       * ensure that the recommendation of Wood Badges is carried out;
+       * implement The Scout Association's Adult Training Scheme within the County, in line with the key principles of the scheme.
 
    iii. County Training Managers must complete Module 33 Planning a learning provision and Module 34 Managing a learning provision within three years of appointment.
 
@@ -666,7 +661,7 @@ j. **County Youth Commissioner**
 
    ii. the functions of the appointment are:
 
-       As a member of the County/Area Leadership Team the County/Area Youth Commissioner works in partnership with the County/Area Commissioner and Chair of the County/Area Executive Committee. The role is to ensure that young people from 4-25 years are involved and engaged in every decision that shapes their Scouting experience locally and to empower young people to share their ideas and have a meaningful voice in planning, implementing and reviewing their programme and opportunities as well as promoting peer leadership opportunities for young people in all Sections.
+       As a member of the County/Area Leadership Team the County/Area Youth Commissioner works in partnership with the County/Area Commissioner and Chair of the County/Area Executive Committee. The role is to ensure that young people from 4--25 years are involved and engaged in every decision that shapes their Scouting experience locally and to empower young people to share their ideas and have a meaningful voice in planning, implementing and reviewing their programme and opportunities as well as promoting peer leadership opportunities for young people in all Sections.
 
    iii. Deputy County Youth Commissioners may be appointed to support the work of the County Youth Commissioner.
 
@@ -680,10 +675,10 @@ b. The Assistant County Commissioner is usually a Scouter experienced in the par
 
 c. The functions of the appointment are:
 
-   *  to assist the County Commissioner with the running of the Section, including the personal support and encouragement of District Commissioners and Assistants;
-   *  to visit Districts and provide technical advice on their operations;
-   *  to arrange for the organisation of County events;
-   *  to ensure that County Leaders' Meetings are held and to carry out such other duties as may be delegated by the County Commissioner.
+   * to assist the County Commissioner with the running of the Section, including the personal support and encouragement of District Commissioners and Assistants;
+   * to visit Districts and provide technical advice on their operations;
+   * to arrange for the organisation of County events;
+   * to ensure that County Leaders' Meetings are held and to carry out such other duties as may be delegated by the County Commissioner.
 
 Rule 5.37 Responsibility for Specialist Subjects
 ------------------------------------------------
@@ -713,7 +708,7 @@ Rule 5.40 The Training of Adults in the Scout County
 ----------------------------------------------------
 a. The acceptance of an appointment involves an obligation to undertake training appropriate to the appointment.
 
-b. For roles that require a Wood Badge, a Training Adviser will be assigned to the adult to draw up a Personal Learning Plan, support the adult through the scheme and validate the necessary modules.
+b. For roles that require a Wood Badge, a Training Adviser will be assigned to the adult to draw up a *Personal Learning Plan*, support the adult through the scheme and validate the necessary modules.
 
 c. *This rule is intentionally left blank. All adult training requirements are detailed in the Appointments Process chapter of POR.*
 
@@ -721,40 +716,40 @@ d. *This rule is intentionally left blank.*
 
 e. *This rule is intentionally left blank.*
 
-f. Validation is necessary for all modules identified on the Personal Learning Plan.
+f. Validation is necessary for all modules identified on the *Personal Learning Plan*.
 
    Validation is the process of demonstrating to the Training Adviser that the adult can put the objectives of the module into practice in their Scouting role.
 
-g. Following the successful validation of the modules on the Personal Learning Plan a Wood Badge can be awarded.
+g. Following the successful validation of the modules on the *Personal Learning Plan* a Wood Badge can be awarded.
 
-h. Following the award of a Wood Badge, the adult must complete a minimum of five hours Ongoing learning per year, averaged over the length of the appointment.
+h. Following the award of a Wood Badge, the adult must complete a minimum of five hours *Ongoing* learning per year, averaged over the length of the appointment.
 
-i. It is the responsibility of the adult's line manager to monitor completion of Ongoing learning. Ongoing learning is defined as any learning achieved by the adult that can be applied to their Scouting role.
+i. It is the responsibility of the adult's line manager to monitor completion of *Ongoing* learning. Ongoing learning is defined as any learning achieved by the adult that can be applied to their Scouting role.
 
-j. In exceptional circumstances, Headquarters may prescribe the Ongoing learning requirements during a certain year (or years) for all or certain roles.
+j. In exceptional circumstances, Headquarters may prescribe the *Ongoing* learning requirements during a certain year (or years) for all or certain roles.
 
-   *For more information about Adult Training see the publication 'The Scout Association's Adult Training scheme' available from the Scout Information Centre.*
+*For more information about Adult Training see the publication 'The Scout Association's Adult Training scheme' available from the Scout Information Centre.*
 
 Rule 5.41 Minimum Training Standards
 ------------------------------------
 a. In order to provide training and support to adults, County Commissioners will require the assistance of suitably qualified people to perform the following functions:
 
-   *  **Instructing Practical Skills** - helping individuals and small groups acquire practical skills;
-   *  **Presenting** - delivering specific training sessions which form part of the overall training experience;
-   *  **Facilitating** - working face to face with individuals and small groups in a learning environment;
-   *  **Planning a Learning Experience** - designing, planning and preparing a learning or training experience;
-   *  **Delivering a Learning Experience** -- running or directing a learning or training experience;
-   *  **Planning a Learning Provision** -- identifying the learning needs of an area and designing a plan to meet them;
-   *  **Managing a Learning Provision** -- implementing a learning plan, monitoring progress and quality control;
-   *  **Assessing Learning** -- supporting adults through the Adult Training scheme and carrying out validations;
+   * **Instructing Practical Skills** -- helping individuals and small groups acquire practical skills;
+   * **Presenting** -- delivering specific training sessions which form part of the overall training experience;
+   * **Facilitating** -- working face to face with individuals and small groups in a learning environment;
+   * **Planning a Learning Experience** -- designing, planning and preparing a learning or training experience;
+   * **Delivering a Learning Experience** -- running or directing a learning or training experience;
+   * **Planning a Learning Provision** -- identifying the learning needs of an area and designing a plan to meet them;
+   * **Managing a Learning Provision** -- implementing a learning plan, monitoring progress and quality control;
+   * **Assessing Learning** -- supporting adults through the Adult Training scheme and carrying out validations;
 
 b. Before carrying out any of these functions without supervision, an adult should have the relevant validated module from the Adult Training scheme.
 
-   *For more information see the publication 'The Scout Association's Adult Training scheme' available from the Scout Information Centre.*
+*For more information see the publication 'The Scout Association's Adult Training scheme' available from the Scout Information Centre.*
 
-   **Local Education Authority Training**
+**Local Education Authority Training**
 
-   Many Local Education Authorities run basic common element training courses and specialist activity courses for youth leaders. Leaders are encouraged to participate in such courses.
+Many Local Education Authorities run basic common element training courses and specialist activity courses for youth leaders. Leaders are encouraged to participate in such courses.
 
 Rule 5.42 Adult Responsibility for the Scout Network Programme sv
 -----------------------------------------------------------------
@@ -766,7 +761,6 @@ c. In exceptional circumstances where a County Scout Network is required, the Co
 
 Rule 5.43 This rule is intentionally left blank
 -----------------------------------------------
-BLANK RULE DUMMY
 
 Rule 5.44 The Duke of Edinburgh's Award
 ---------------------------------------
@@ -782,11 +776,11 @@ e. The assessors for the various Sections of the Bronze, Silver and Gold Awards 
 
 f. Verifying and Issuing the Awards.
 
-   *  Bronze and Silver Awards may be verified by an appointed verifier within the County or Country as approved by the Licenced Organisation;
-   *  Gold Awards in England, the Channel Islands, the Isle of Man and British Scouting Overseas and Wales (from 1 April 2018) are verified by Headquarters;
-   *  Gold Awards in Northern Ireland are verified by the Northern Ireland Scout Council;
-   *  Gold Awards in Scotland are verified by Scottish Headquarters;
-   *  Gold Awards in Wales are verified by the ScoutsCymru Office (until 31 March 2018).
+   * Bronze and Silver Awards may be verified by an appointed verifier within the County or Country as approved by the Licenced Organisation;
+   * Gold Awards in England, the Channel Islands, the Isle of Man and British Scouting Overseas and Wales (from 1 April 2018) are verified by Headquarters;
+   * Gold Awards in Northern Ireland are verified by the Northern Ireland Scout Council;
+   * Gold Awards in Scotland are verified by Scottish Headquarters;
+   * Gold Awards in Wales are verified by the ScoutsCymru Office (until 31 March 2018).
 
 g. Each award has a cloth badge for wear with uniform, a lapel badge and a certificate.
 
@@ -796,7 +790,7 @@ i. Gold Award Badges are presented locally by the County Commissioner or their n
 
 j. Gold Award Certificates are normally presented at a reception arranged in one of the Royal Palaces.
 
-   Further information about the Duke of Edinburgh's Award can be obtained from `www.scouts.org.uk/dofe <http://www.scouts.org.uk/dofe>`__
+*Further information about the Duke of Edinburgh's Award can be obtained from* https://www.scouts.org.uk/dofe
 
 Rule 5.45 The Queen's Scout Award sv
 ------------------------------------
@@ -840,7 +834,7 @@ j. If the County is a registered charity a copy of the annual report and account
 
 k. The annual statement of accounts must account for all monies received or paid on behalf of the County, including any County Scout Network if applicable, Committees and County Scout Active Support Units.
 
-l. If the annual gross income or expenditure is above the limits laid down in the factsheet Accounting and Audit Requirements for Group, Districts, Counties/Areas and Scottish Regions the statement of accounts must be in the form of a Statement of Financial Activities (SOFA) with balance sheet. More details are available from `https://www.scouts.org.uk/volunteers/running-things-locally/finances-and-insurance/accounting-and-reporting/ <https://www.scouts.org.uk/volunteers/running-things-locally/finances-and-insurance/accounting-and-reporting/>`__
+l. If the annual gross income or expenditure is above the limits laid down in the factsheet *Accounting and Audit Requirements for Group, Districts, Counties/Areas and Scottish Regions* the statement of accounts must be in the form of a Statement of Financial Activities (SOFA) with balance sheet. More details are available from https://www.scouts.org.uk/volunteers/running-things-locally/finances-and-insurance/accounting-and-reporting/
 
 m. If the annual gross income or total income is less than the limits laid down in the factsheet an annual receipts and payments account together with a statement of assets and liabilities may be prepared instead.
 
@@ -850,24 +844,24 @@ o. A permanent endowment is an asset, e.g. a property held by the County, which 
 
 p. The particulars of the trustees in whom such assets are vested must also be shown.
 
-q. The annual statement of accounts must be in the format of one of four model annual statements available for download from `https://www.scouts.org.uk/volunteers/running-things-locally/finances-and-insurance/accounting-and-reporting/ <https://www.scouts.org.uk/volunteers/running-things-locally/finances-and-insurance/accounting-and-reporting/>`__. These models are suitable for;
+q. The annual statement of accounts must be in the format of one of four model annual statements available for download from https://www.scouts.org.uk/volunteers/running-things-locally/finances-and-insurance/accounting-and-reporting/. These models are suitable for;
 
-   *  receipts and payments accounts for a single fund unit i.e. where there are no special funds whose use is restricted;
-   *  receipts and payments accounts for a multi-fund unit i.e. where there are special funds in addition to a general fund;
-   *  accruals (SOFA) accounts for a single fund unit. Guidance and templates from `www.charitysorp.org <http://www.charitysorp.org/>`__
-   *  accruals (SOFA) accounts for a multi-fund unit. Guidance and templates from `www.charitysorp.org <http://www.charitysorp.org/>`__
+   * receipts and payments accounts for a single fund unit i.e. where there are no special funds whose use is restricted;
+   * receipts and payments accounts for a multi-fund unit i.e. where there are special funds in addition to a general fund;
+   * accruals (SOFA) accounts for a single fund unit. Guidance and templates from https://www.charitysorp.org
+   * accruals (SOFA) accounts for a multi-fund unit. Guidance and templates from https://www.charitysorp.org
 
-      The appropriate model will depend upon the gross annual income in the financial year and whether the County has any special funds whose use is restricted to particular purposes rather than the general purposes of the County.
+   The appropriate model will depend upon the gross annual income in the financial year and whether the County has any special funds whose use is restricted to particular purposes rather than the general purposes of the County.
 
 r. At each Annual General Meeting of the County Scout Council a scrutineer, independent examiner or auditor as appropriate must be appointed.
 
-s. Each County can decide if they need an auditor, independent examiner or scrutineer, by reference to the factsheet Accounting and Audit Requirements for Group, Districts, Counties/Areas and Scottish Regions.
+s. Each County can decide if they need an auditor, independent examiner or scrutineer, by reference to the factsheet *Accounting and Audit Requirements for Group, Districts, Counties/Areas and Scottish Regions*.
 
 t. The auditor, independent examiner, or scrutineer must carry out an external examination of the accounts in accordance with the requirements of the Charities Act 2011.
 
-u. A report to the trustees (the County Executive Committee) must be completed in accordance with one of the models in the specimen accounts referred to in the factsheet Accounting and Audit Requirements for Group, Districts, Counties/Areas and Scottish Regions as appropriate to a scrutineer, an independent examiner or an auditor.
+u. A report to the trustees (the County Executive Committee) must be completed in accordance with one of the models in the specimen accounts referred to in the factsheet *Accounting and Audit Requirements for Group, Districts, Counties/Areas and Scottish Regions* as appropriate to a scrutineer, an independent examiner or an auditor.
 
-v. A scrutineer, or independent examiner is required to carry out the work programme defined in the factsheet Accounting and Audit Requirements for Group, Districts, Counties/Areas and Scottish Regions.
+v. A scrutineer, or independent examiner is required to carry out the work programme defined in the factsheet *Accounting and Audit Requirements for Group, Districts, Counties/Areas and Scottish Regions*.
 
 Rule 5.48 Funds administered by the Scout Network, County Scout Active Support Units and other Scout Sections in the County sv
 ------------------------------------------------------------------------------------------------------------------------------
@@ -965,8 +959,8 @@ d. Within the provisions of this policy the methods of fundraising may be chosen
 
 e. Fundraising conducted on behalf of Scouting may be by any means not forbidden by law, and which is acceptable to the local community, provided that:
 
-   *  the proceeds of the activity go wholly to the work of the County or, in the case of joint activities with other organisations, that part of the proceeds allotted to the County is wholly applied to the work of the County;
-   *  it does not encourage the habit of gambling.
+   * the proceeds of the activity go wholly to the work of the County or, in the case of joint activities with other organisations, that part of the proceeds allotted to the County is wholly applied to the work of the County;
+   * it does not encourage the habit of gambling.
 
 f. The public collections of money are allowed provided that the legislation regarding age, action and location of collectors is complied with.
 
@@ -982,7 +976,7 @@ c. When undertaking a joint project it is advisable to agree terms via a Memoran
 
 Rule 5.57 Fundraising and the Law
 ---------------------------------
-a. All fundraising undertaken on behalf of the Movement must be carried out as prescribed by the law. This will include those regulations governing house-to-house collections, street collections, lotteries, gaming, children and young persons. Details can be obtained from the Fundraising section of the Scouts website `https://www.scouts.org.uk/volunteers/running-things-locally/grants-and-funds-for-your-local-group/fundraising-support/ <https://www.scouts.org.uk/volunteers/running-things-locally/grants-and-funds-for-your-local-group/fundraising-support/>`__
+a. All fundraising undertaken on behalf of the Movement must be carried out as prescribed by the law. This will include those regulations governing house-to-house collections, street collections, lotteries, gaming, children and young persons. Details can be obtained from the Fundraising section of the Scouts website https://www.scouts.org.uk/volunteers/running-things-locally/grants-and-funds-for-your-local-group/fundraising-support/
 
 Rule 5.58 Lotteries and Gaming
 ------------------------------

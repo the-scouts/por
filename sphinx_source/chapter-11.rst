@@ -5,9 +5,9 @@ Rule 11.1 Award Nominations and Recognition of Service
 ------------------------------------------------------
 a. Nominations for Scout Good Service awards as well as Meritorious Conduct, Gallantry, Cornwell Scout Badge and Chief Scouts Personal Award can be initiated by any member. Nominations must be approved and supported by the relevant Commissioner, before being processed.
 
-b. Nomination forms can be found at `https://www.scouts.org.uk/volunteers/learning-development-and-awards/awards-and-recognition/ <https://www.scouts.org.uk/volunteers/learning-development-and-awards/awards-and-recognition/>`__ Completed Good Service (Chief Scouts Commendation for Good Service, Award for Merit, Bar to the Award for Merit and Silver Acorn) nomination forms should be submitted to the relevant Commissioner for approval and then the HQ Awards Team should be notified by the relevant Commissioner of the award decisions using the `Good Service Award Completion Form <https://app.smartsheet.com/b/form/e1dfb54bf60c475c909fb9a506c6e157>`__. Completed Good Service (Bar to the Silver Acorn & Silver Wolf) nomination forms as well as completed Meritorious Conduct, Gallantry, Cornwell Scout Badge & Chief Scouts Personal Award nomination forms should be submitted by email to `awards@scouts.org.uk <mailto:awards@scouts.org.uk>`__ for approval by the National Awards Advisory Group.
+b. Nomination forms can be found at https://www.scouts.org.uk/volunteers/learning-development-and-awards/awards-and-recognition/ Completed Good Service (Chief Scouts Commendation for Good Service, Award for Merit, Bar to the Award for Merit and Silver Acorn) nomination forms should be submitted to the relevant Commissioner for approval and then the HQ Awards Team should be notified by the relevant Commissioner of the award decisions using the `Good Service Award Completion Form <https://app.smartsheet.com/b/form/e1dfb54bf60c475c909fb9a506c6e157>`__. Completed Good Service (Bar to the Silver Acorn & Silver Wolf) nomination forms as well as completed Meritorious Conduct, Gallantry, Cornwell Scout Badge & Chief Scouts Personal Award nomination forms should be submitted by email to `awards@scouts.org.uk <mailto:awards@scouts.org.uk>`__ for approval by the National Awards Advisory Group.
 
-c. Before completing an Nomination Form, individuals are advised to consult the relevant guidance notes, at `www.scouts.org.uk/awards <http://www.scouts.org.uk/awards>`__
+c. Before completing an Nomination Form, individuals are advised to consult the relevant guidance notes, at https://www.scouts.org.uk/awards
 
 Rule 11.2 The Cornwell Scout Badge
 ----------------------------------
@@ -103,7 +103,6 @@ b. The metal badge is for wear with ordinary clothes and does not confer Members
 
 Rule 11.11 This rule is intentionally left blank
 ------------------------------------------------
-BLANK RULE DUMMY
 
 Rule 11.12 Method of Wear
 -------------------------

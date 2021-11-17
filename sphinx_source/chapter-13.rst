@@ -15,17 +15,17 @@ e. The Charities Acts apply to England and Wales only. Similar legislation appli
 
 f. Some people are disqualified by law from acting as charity trustees. Subject to regulatory waiver provisions this includes anyone who: :sup:`sv`
 
-   *  has an unspent conviction for an offence involving dishonesty or deception; or
-   *  has unspent convictions for the offences of misconduct in a public office; or
-   *  has unspent convictions for bribery, or money laundering, or perjury or perverting the course of justice or terrorism; or
-   *  is found guilty of attempting, aiding or abetting the above offences; or
-   *  has been found in contempt of court; or
-   *  is designated under terrorist asset-freezing legislation; or
-   *  is on the sex offenders' register; or
-   *  is currently declared bankrupt (or is subject to bankruptcy restrictions or an interim order or sequestration in Scotland) or has an individual voluntary arrangement (IVA) with creditors; or
-   *  is disqualified from being a company director; or
-   *  has previously been removed as a trustee from any charity by any charity regulator in the UK (or a court) due to misconduct or mismanagement; or
-   *  is disqualified from being a trustee by an order of the Charity Commission for England and Wales, the Office of the Scottish Charity Regulator or the Charity Commission for Northern Ireland.
+   * has an unspent conviction for an offence involving dishonesty or deception; or
+   * has unspent convictions for the offences of misconduct in a public office; or
+   * has unspent convictions for bribery, or money laundering, or perjury or perverting the course of justice or terrorism; or
+   * is found guilty of attempting, aiding or abetting the above offences; or
+   * has been found in contempt of court; or
+   * is designated under terrorist asset-freezing legislation; or
+   * is on the sex offenders' register; or
+   * is currently declared bankrupt (or is subject to bankruptcy restrictions or an interim order or sequestration in Scotland) or has an individual voluntary arrangement (IVA) with creditors; or
+   * is disqualified from being a company director; or
+   * has previously been removed as a trustee from any charity by any charity regulator in the UK (or a court) due to misconduct or mismanagement; or
+   * is disqualified from being a trustee by an order of the Charity Commission for England and Wales, the Office of the Scottish Charity Regulator or the Charity Commission for Northern Ireland.
 
 Rule 13.2 Property and Equipment sv
 -----------------------------------
@@ -53,11 +53,11 @@ This Rule applies in England and Wales only.
 
 a. All Scout Units are independent charities. However, those based in England and Wales may not be required to register with the Charity Commission as they have been 'excepted' by a ruling of the Charity Commission who, in their most recent guidance, have confirmed that Scout Units only have to register if:
 
-   *  their income is more than £100,000, or
-   *  they have permanent endowment (a rare interest in land/building or other assets which cannot be spent as 'income') and their income is £5,000 or over; or
-   *  they own land or buildings and their income is £5,000 or over
+   * their income is more than £100,000, or
+   * they have permanent endowment (a rare interest in land/building or other assets which cannot be spent as 'income') and their income is £5,000 or over; or
+   * they own land or buildings and their income is £5,000 or over
 
-      However, it is important to note that even excepted and unregistered charities still remain subject to general charity law and the rules of the Charity Commission which may investigate matters where there is proper cause for concern.
+   However, it is important to note that even excepted and unregistered charities still remain subject to general charity law and the rules of the Charity Commission which may investigate matters where there is proper cause for concern.
 
 b. The Group, District or County Secretary must ensure that all statutory duties and obligations imposed by the Charities Acts are fulfilled.
 
@@ -69,7 +69,7 @@ b. In any event no large amount of capital should be expended on buildings or ot
 
 c. The Group, District or County Treasurer must ensure that all possible relief from rates is obtained.
 
-Rule 13.5 Property - Sponsored Groups
+Rule 13.5 Property -- Sponsored Groups
 -------------------------------------
 a. Agreements with Sponsoring Authorities identify property belonging to the Sponsoring Organisation and that belonging to the Group.
 
@@ -83,9 +83,9 @@ b. The retiring Secretaries of the Group, District or County which are amalgamat
 
 c. For further information on amalgamation see:
 
-   *  Group - Rule 3.52
-   *  District -- Rule 4.62
-   *  County -- Rule 5.50
+   * Group -- Rule 3.52
+   * District -- Rule 4.62
+   * County -- Rule 5.50
 
 Rule 13.7 Disposal of Property at Closure
 -----------------------------------------
@@ -97,9 +97,9 @@ c. Such property must be treated in the same way as other assets.
 
 d. For further information on closure see
 
-   *  Group - Rule 3.53
-   *  District -- Rule 4.64
-   *  County -- Rule 5.52.
+   * Group -- Rule 3.53
+   * District -- Rule 4.64
+   * County -- Rule 5.52.
 
 Rule 13.8 Joint Occupation of Premises by Scout and Guide Units
 ---------------------------------------------------------------
@@ -135,13 +135,13 @@ a. The Group, District or County Secretary must ensure that documents relating t
 
 b. Specific documents that must be safeguarded are:
 
-   *  declarations of trust;
-   *  title deeds to land or buildings;
-   *  stock and share certificates;
-   *  registration documents issued by the Association;
-   *  documents relating to motor vehicles, vessels and aircraft;
-   *  insurance policies;
+   * declarations of trust;
+   * title deeds to land or buildings;
+   * stock and share certificates;
+   * registration documents issued by the Association;
+   * documents relating to motor vehicles, vessels and aircraft;
+   * insurance policies;
 
 c. The first three types of documents listed may be safeguarded by using the Headquarters Deeds Custody Service.
 
-d. The Group, District or County Secretary must keep a register of such documents with details of their location.
+   The Group, District or County Secretary must keep a register of such documents with details of their location.
