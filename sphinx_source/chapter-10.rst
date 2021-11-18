@@ -380,31 +380,31 @@ Rule 10.22 Badges and Emblems -- Method of Wear
 ----------------------------------------------
 a. Beaver Scouts, on entering the Cub Scout Pack, may continue to wear the Chief Scout's Bronze Award. The award must be removed when the Cub Scout gains their Chief Scout's Silver Award. It is to be worn on the right breast (as illustrated in Positions of Badges on Uniform).
 
-b. *This rule is intentionally left blank.*
+b. .. body_blank::
 
-c. *This rule is intentionally left blank.*
+c. .. body_blank::
 
 d. A Cub Scout, on entering the Scout Troop, may continue to wear their Chief Scout's Silver Award.
 
-e. *This rule is intentionally left blank.*
+e. .. body_blank::
 
-f. *This rule is intentionally left blank.*
+f. .. body_blank::
 
-g. *This rule is intentionally left blank.*
+g. .. body_blank::
 
 h. A Scout on entering an Explorer Scout Unit may continue to wear the Chief Scout's Gold Award.
 
-i. *This rule is intentionally left blank.*
+i. .. body_blank::
 
-j. *This rule is intentionally left blank.*
+j. .. body_blank::
 
-k. *This rule is intentionally left blank.*
+k. .. body_blank::
 
 l. An Explorer Scout on entering the Scout Network may continue to wear the Chief Scout's Platinum or Diamond Award or Queen's Scout Award. The Award will be removed when the next Award is gained.
 
-m. *This rule is intentionally left blank.*
+m. .. body_blank::
 
-n. *This rule is intentionally left blank.*
+n. .. body_blank::
 
 o. Cub Scouts, Scouts and Explorer Scouts may also wear the current Joining In / Participation and Moving On Awards.
 
@@ -534,8 +534,8 @@ b. Explorer Scouts, Members of Scout Network and adult members who have gained t
 
 c. Scouts, Explorer Scouts, Scout Network Members and adult Members may wear with uniform the approved proficiency badges of a number of organisations involved with First Aid and the Saving of Life.
 
-d. *This rule is intentionally left blank.*
+d. .. body_blank::
 
 e. Scouts, Explorer Scouts, Scout Network Members and adult Members who hold approved First Aid or Life Saving qualifications for which there is no cloth badge may wear The Scout Association badge(s) as appropriate.
 
-f. *This rule is intentionally left blank.*
+f. .. body_blank::

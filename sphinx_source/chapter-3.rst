@@ -100,15 +100,15 @@ b. Whilst it is necessary for the Group to hold accurate records of the names an
 
 Rule 3.6 Mixed Membership
 -------------------------
-a. *This rule is intentionally left blank.*
+a. .. body_blank::
 
-b. *This rule is intentionally left blank.*
+b. .. body_blank::
 
-c. *This rule is intentionally left blank.*
+c. .. body_blank::
 
-d. *This rule is intentionally left blank.*
+d. .. body_blank::
 
-e. *This rule is intentionally left blank.*
+e. .. body_blank::
 
 f. All Scout Groups, Explorer Scout Units and Scout Networks are required to be open to members of all genders, except in special situations. Single sex Sections may exist within a Scout Group provided that membership is available for young people of all genders across all Sections within that Group.
 
@@ -221,7 +221,7 @@ k. Beaver Scouts wear the approved uniform with distinguishing badges and scarve
 
 l. All Beaver Scouts should be offered a high quality balanced Programme, run in accordance with the Association's official publications for the Section.
 
-m. *This rule is intentionally left blank.*
+m. .. body_blank::
 
 **Minimum Standards**
 
@@ -281,7 +281,7 @@ k. Cub Scouts wear the approved uniform with distinguishing badges and scarves a
 
 l. All Cub Scouts should be offered a high quality balanced Programme run in accordance with the Association's official publications for the Section.
 
-m. *This rule is intentionally left blank.*
+m. .. body_blank::
 
 **Minimum Standards**
 
@@ -303,7 +303,7 @@ Rule 3.10 The Scout Troop
 
 a. There is no recommended maximum size for a Troop.
 
-b. *This rule is intentionally left blank.*
+b. .. body_blank::
 
    *When deciding on the Troop size, Leaders should take into account the leadership available, the needs of the young people and the capacity of the meeting venue and whether it might be more effective to run more than one Troop.*
 
@@ -525,9 +525,9 @@ b. The District Commissioner and the District Executive Committee must be satisf
 
 c. If the District Commissioner and the District Executive Committee refuse to recommend the registration of a Group, the District Commissioner must send a full report on the matter to the appropriate Country Headquarters, through the County Commissioner.
 
-d. *This rule is intentionally left blank.*
+d. .. body_blank::
 
-e. *This rule is intentionally left blank.*
+e. .. body_blank::
 
 f. Groups in which the Scout Troop is a Sea or Air Scout Troop may adopt the title Sea Scout Group or Air Scout Group as appropriate.
 
@@ -845,13 +845,13 @@ Rule 3.36 The Appointment of Young Leaders
 
 a. For rules on the Appointment of Young Leaders see Rule 4.37.
 
-b. *This rule is intentionally left blank.*
+b. .. body_blank::
 
-c. *This rule is intentionally left blank.*
+c. .. body_blank::
 
-d. *This rule is intentionally left blank.*
+d. .. body_blank::
 
-e. *This rule is intentionally left blank.*
+e. .. body_blank::
 
 Rule 3.37 This rule is intentionally left blank
 -----------------------------------------------
@@ -918,10 +918,10 @@ e. **Assistant Section Leader**
 
    i. The responsibilities of an Assistant Section Leader are specified by the Section Leader, who should have regard to the desirability of developing the Assistant's leadership potential.
 
-f. *This rule is intentionally left blank.*
-g. *This rule is intentionally left blank.*
-h. *This rule is intentionally left blank.*
-i. *This rule is intentionally left blank.*
+f. .. body_blank::
+g. .. body_blank::
+h. .. body_blank::
+i. .. body_blank::
 
 Rule 3.44 The Training of Adults
 --------------------------------
@@ -929,12 +929,12 @@ a. The acceptance of an appointment involves an obligation to undertake training
 
 b. For roles that require a Wood Badge a Training Adviser will be assigned to the adult to draw up a Personal Learning Plan, support the adult through the scheme and validate the necessary modules.
 
-c. *This rule is intentionally left blank.*
-   *All adult training requirements are detailed in the Appointments Process chapter of POR.*
+c. .. body_blank::
+      :add_training_note:
 
-d. *This rule is intentionally left blank.*
+d. .. body_blank::
 
-e. *This rule is intentionally left blank.*
+e. .. body_blank::
 
 f. Validation is necessary for all modules identified on the Personal Learning Plan.
 

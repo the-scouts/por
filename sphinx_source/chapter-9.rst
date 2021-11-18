@@ -25,7 +25,7 @@ g. There are additional requirements for the District/County Commissioners appro
 
 h. When professional instructors or leaders from outside the Movement are engaged separate rules apply (see `Rule 9.9 <https://www.scouts.org.uk/por/9-activities/#9.9>`__).
 
-i. *This rule is intentionally left blank.*
+i. .. body_blank::
 
 Rule 9.2 Preparations
 ---------------------
@@ -309,7 +309,7 @@ Rule 9.22 Creative Activities for Public Performance
 ----------------------------------------------------
 a. All forms of creative activities intended for public performance must have the approval of the relevant Commissioner, or their designate. Public performance is defined in the relevant toolkit (`Staged Performances <https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/creative-activities/staged-performances/>`__ or `Musical Performances <https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/creative-activities/musical-performances/>`__).
 
-b. *This rule is intentionally left blank.*
+b. .. body_blank::
 
 c. Scout and Guide joint activities must be approved by both the relevant Scout and Girlguiding Commissioners.
 
@@ -638,7 +638,7 @@ b. Water class definitions;
    * **Class B3** -- the sea up to three miles from the shore, but excluding more dangerous waters close inshore; busy commercial ports, exposed parts of estuaries; inland waters British Canoe Union Grade 3;
    * **Class A** -- open sea more than three miles from the shore, and other dangerous waters close inshore; inland waters British Canoe Union Grade 4 and above.
 
-c. *This rule is intentionally left blank.*
+c. .. body_blank::
 
 *The National Directory of Waters is available online at* https://www.scouts.org.uk/waterways/
 
@@ -656,7 +656,7 @@ c. All boats should have adequate marine insurance cover.
 
    Note: Craft which are foot or hand propelled, sailing craft or other craft not exceeding 5m in length are covered by TSA main policy. Any other craft will require additional marine cover.
 
-d. *This rule is intentionally left blank.*
+d. .. body_blank::
 
 e. The person in charge of any water activity must ensure that the craft and associated equipment are fit for purpose and suitable for the activity on each occasion that it is used.
 
@@ -860,9 +860,9 @@ Rule 9.62 Family Nights Away
 ----------------------------
 a. The permit holder is responsible for the overall camp and must ensure that all Scout Association rules are followed regardless of the presence of parents, carers or other adults.
 
-b. *This rule is intentionally left blank.*
+b. .. body_blank::
 
-c. *This rule is intentionally left blank.*
+c. .. body_blank::
 
 Further information about Family Nights Away can be found `here <https://www.scouts.org.uk/volunteers/running-your-section/nights-away-and-camping/nights-away-resources/family-camps/>`__. Other guidance is given in the publication Nights Away.
 
@@ -902,9 +902,9 @@ e. When overseas, UK members may take part in activities being run by members of
 
 f. UK Members including Members of the British Scouting Overseas under the age of 18 may only take part in group based hosted hospitality experiences (i.e. using group accommodation not private homes), they must not participate in home based hospitality experiences.
 
-g. *This rule is intentionally left blank.*
+g. .. body_blank::
 
-h. *This rule is intentionally left blank.*
+h. .. body_blank::
 
 Rule 9.65 Visits to the United Kingdom
 --------------------------------------

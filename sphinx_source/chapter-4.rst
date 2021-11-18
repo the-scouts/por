@@ -58,7 +58,7 @@ q. Members of the Movement may:
 
 **Associate Members**
 
-r. *This rule is intentionally left blank.*
+r. .. body_blank::
 
 s. Associate Members must pay any Country, County, District and Group Membership Subscription determined locally.
 
@@ -97,9 +97,9 @@ d. Membership is held continuously during the transfer from one Section to the n
 
 Rule 4.4 Transfer of membership
 -------------------------------
-a. *This rule is intentionally left blank.*
+a. .. body_blank::
 
-b. *This rule is intentionally left blank.*
+b. .. body_blank::
 
 c. If a Member leaves a Scout Network due to moving to another locality, the District Scout Network Commissioner should inform the Assistant County Commissioner Scout Network of the County into which the Member is moving. :sup:`sv`
 
@@ -115,23 +115,23 @@ b. Whilst it is necessary for Groups to hold accurate records of the names and p
 
 c. Whilst it is necessary for Districts to hold accurate records of the names and personal details of its Members and Associate Members (including Explorer Scouts and members of the District Scout Network), and for all adults (aged 18 or over) to be accurately recorded on Compass, it is not necessary for these to be passed to the County Secretary at the date of the annual census.
 
-d. *This rule is intentionally left blank.*
+d. .. body_blank::
 
 Rule 4.6 Mixed Membership
 -------------------------
-a. *This rule is intentionally left blank.*
+a. .. body_blank::
 
-b. *This rule is intentionally left blank.*
+b. .. body_blank::
 
-c. *This rule is intentionally left blank.*
+c. .. body_blank::
 
-d. *This rule is intentionally left blank.*
+d. .. body_blank::
 
-e. *This rule is intentionally left blank.*
+e. .. body_blank::
 
-f. *This rule is intentionally left blank.*
+f. .. body_blank::
 
-g. *This rule is intentionally left blank.*
+g. .. body_blank::
 
 h. All Scout Groups, Explorer Scout Units and Scout Networks are required to be open to members of all genders, except in special situations. Single sex Sections may exist within a Scout Group provided that membership is available for young people of all genders across all Sections within that Group.
 
@@ -607,7 +607,7 @@ f. **The District Executive Committee** :sup:`sv`
       * Certain people are disqualified from being Charity Trustees by virtue of the Charities Acts. (See rule 13.1)
       * Charity Trustees are responsible for ensuring compliance with all relevant legislation including the Data Protection Act 2018.
 
-g. *This rule is intentionally left blank.*
+g. .. body_blank::
 
 h. **The District Team Meeting**
 
@@ -921,12 +921,12 @@ a. The acceptance of an appointment involves an obligation to undertake training
 
 b. For roles that require a Wood Badge, a Training Adviser will be assigned to the adult to draw up a Personal Learning Plan, support the adult through the scheme and validate the necessary modules.
 
-c. *This rule is intentionally left blank.*
-   *All adult training requirements are detailed in the Appointments Process chapter of POR.*
+c. .. body_blank::
+      :add_training_note:
 
-d. *This rule is intentionally left blank.*.
+d. .. body_blank::.
 
-e. *This rule is intentionally left blank.*.
+e. .. body_blank::.
 
 f. Validation is necessary for all modules identified on the *Personal Learning Plan*.
 
@@ -982,9 +982,9 @@ Rule 4.55 The Explorer Belt Award
 ---------------------------------
 a. The Explorer Belt award is designed to enable Explorer Scouts, Scout Network Members and members of the Senior Section of Girlguiding aged 16 or over, working as a team to plan, train for and undertake their own expedition abroad. If aged 16--18 years old, you may only participate in an organised expedition supported by an in-country leadership team, rather than being self-led.
 
-b. *This rule is intentionally left blank.*
+b. .. body_blank::
 
-c. *This rule is intentionally left blank.*
+c. .. body_blank::
 
 d. The young person must register with Headquarters to begin working on the award and will then be assigned a mentor locally. On completion of the award, Headquarters must be notified and the badge and certificate will be sent to the relevant Commissioner.
 

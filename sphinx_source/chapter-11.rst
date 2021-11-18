@@ -47,9 +47,9 @@ Rule 11.5 Awards for Good Service
 ---------------------------------
 a. Awards for good service are made by the Chief Scout, who is advised by the National Awards Advisory Group, to adult Members or Associate Members as determined by the Appointment Process Table 2: Appointments in POR and, exceptionally, to others who have given valuable service to Scouting over a considerable period.
 
-b. *This rule is intentionally left blank.*
+b. .. body_blank::
 
-c. *This rule is intentionally left blank.*
+c. .. body_blank::
 
 d. A Chief Scout's Commendation for Good Service, with a white and yellow knot cloth emblem and a brooch of similar design, is awarded for good service while holding adult roles for a period of not less than five years.
 

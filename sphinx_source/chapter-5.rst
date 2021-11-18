@@ -79,7 +79,7 @@ b. The Group Scout Leader will generally delegate responsibility for admissions 
 
 c. The decision to admit anyone to membership of an Explorer Scout Unit rests with the Explorer Scout Leader subject, in the case of a Sponsored Scout Group, to any recruitment policy defined in any sponsorship agreement.
 
-d. *This rule is intentionally left blank.*
+d. .. body_blank::
 
 e. Explorer Scouts who turn 18 years of age will automatically become Members of the District Scout Network. Exceptionally, where there is no District Scout Network but a County Scout Network or equivalent operates, they will automatically become Members of the County Scout Network or equivalent.
 
@@ -113,25 +113,25 @@ a. Whilst it is necessary for Groups to hold accurate records of the names and p
 
 b. Whilst it is necessary for Districts to hold accurate records of the names and personal details of its members and Associate Members (including Explorer Scouts and members of the District Scout Network), and for all adults (aged 18 or over) to be accurately recorded on Compass), it is not necessary for these to be passed to the County Secretary at the date of the annual census.
 
-c. *This rule is intentionally left blank.*
+c. .. body_blank::
 
 Rule 5.6 Mixed Membership sv
 ----------------------------
-a. *This rule is intentionally left blank.*
+a. .. body_blank::
 
-b. *This rule is intentionally left blank.*
+b. .. body_blank::
 
-c. *This rule is intentionally left blank.*
+c. .. body_blank::
 
-d. *This rule is intentionally left blank.*
+d. .. body_blank::
 
-e. *This rule is intentionally left blank.*
+e. .. body_blank::
 
-f. *This rule is intentionally left blank.*
+f. .. body_blank::
 
-g. *This rule is intentionally left blank.*
+g. .. body_blank::
 
-h. *This rule is intentionally left blank.*
+h. .. body_blank::
 
 i. All Scout Groups, Explorer Units and Scout Networks will be required to be open to members of all genders, except in special situations. Single sex Sections may exist within a Scout Group provided that membership is available for young people of all genders across all Sections within that Group.
 
@@ -212,7 +212,7 @@ Rule 5.12 Suspension of Scout Networks sv
 -----------------------------------------
 a. Suspension is a purely temporary measure.
 
-b. *This rule is intentionally left blank.*
+b. .. body_blank::
 
 c. Suspension may also be a consequence of the suspension of the County. In such a case the County Commissioner may direct that Scout Network Members will not be suspended but attached to a District or neighbouring County as appropriate.
 
@@ -424,7 +424,7 @@ f. **The County Executive Committee** :sup:`sv`
       * Complete Module 1 Essential Information, Safety, Safeguarding, GDPR and Trustee Introduction training within 5 months of the role start date.
       * Some Counties may also need to register as a charity. (See Rule 13.3).\ :sup:`sv`
 
-g. *This rule is intentionally left blank.*
+g. .. body_blank::
 
 h. **Conduct of Meetings in the Scout County** :sup:`sv`
 
@@ -614,7 +614,7 @@ b. **The Deputy County Commissioner** :sup:`sv`
 
    ii. The duties of the appointment will be defined by the County Commissioner at the time of appointment.
 
-c. *This rule is intentionally left blank.*
+c. .. body_blank::
 
 d. **County Training Manager** :sup:`sv`
 
@@ -649,7 +649,7 @@ g. **County Leaders**
 
    iii. County Leaders are required to complete training appropriate to their duties.
 
-h. *This rule is intentionally left blank.*
+h. .. body_blank::
 
 i. **Port Commissioners**
 
@@ -710,12 +710,12 @@ a. The acceptance of an appointment involves an obligation to undertake training
 
 b. For roles that require a Wood Badge, a Training Adviser will be assigned to the adult to draw up a *Personal Learning Plan*, support the adult through the scheme and validate the necessary modules.
 
-c. *This rule is intentionally left blank.*
-   *All adult training requirements are detailed in the Appointments Process chapter of POR.*
+c. .. body_blank::
+      :add_training_note:
 
-d. *This rule is intentionally left blank.*
+d. .. body_blank::
 
-e. *This rule is intentionally left blank.*
+e. .. body_blank::
 
 f. Validation is necessary for all modules identified on the *Personal Learning Plan*.
 
@@ -799,7 +799,7 @@ a. The Queen's Scout Award is the highest award available to young people. It is
 
 b. On completion of the award, UK headquarters must be notified and the badge and certificate will be sent to the relevant Queen's Scout Award Coordinator for presentation or, if none appointed, the relevant Commissioner :sup:`SV`.
 
-c. *This rule is intentionally left blank.*.
+c. .. body_blank::.
 
 Rule 5.46 Members with Special Needs
 ------------------------------------
