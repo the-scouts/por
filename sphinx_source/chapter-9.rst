@@ -233,8 +233,8 @@ d. Permission must be granted from the owner of the land and/or property that wi
 
    If uncertain about the insurance requirements when operating using UAVs and/or drones please contact Unity (Scout Insurance Services).
 
-Rule 9.15 This rule is intentionally left blank
-------------------------------------------------
+.. rule:: 9.15
+   :blank:
 
 Rule 9.16 Powered Aircraft Flying
 ---------------------------------
@@ -327,14 +327,14 @@ g. Staged performances assessment is granted for a maximum of five years.
 
 h. The relevant Commissioner, or their designate, can issue an exemption from the assessment to one-off performances. All other guidelines set out in the toolkits must still be followed.
 
-Rule 9.23 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 9.23
+   :blank:
 
-Rule 9.24 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 9.24
+   :blank:
 
-Rule 9.25 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 9.25
+   :blank:
 
 Rule 9.26 Hill Walking and Off Road Cycling Permits
 ---------------------------------------------------
@@ -727,8 +727,8 @@ d. Where an attendant lifeguard is not provided, leaders must ensure appropriate
 
    * Hold a water activity permit (leadership or supervisory); operate within the remit of their permit (i.e. class of waters, group size etc) and meet the requirements for providing safety cover for swimming activities (within `FS120620 -- Swimming <https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/swimming/>`__).
 
-Rule 9.53 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 9.53
+   :blank:
 
 Rule 9.54 Scout Owned Swimming Facilities
 -----------------------------------------
@@ -826,11 +826,11 @@ c. The relevant Commissioner may at any time impose restrictions, suspend, withd
 
 d. A Permit automatically expires if a member leaves the Scout Association
 
-Rule 9.59 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 9.59
+   :blank:
 
-Rule 9.60 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 9.60
+   :blank:
 
 Rule 9.61 Nights Away Passports
 -------------------------------
@@ -929,8 +929,8 @@ e. It is advised that group based hospitality (i.e. accommodating Scouts and/or 
 
 Further information and support can be found in Home and Hosted Hospitality Guidance.
 
-Rule 9.66 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 9.66
+   :blank:
 
 Rule 9.67 Banned Activities
 ---------------------------
@@ -942,8 +942,8 @@ The following activities are not permitted within The Scout Association:
 * Knife throwing
 * Archery Tag and other combat style archery activities
 
-Rule 9.68 This rule is intentionally left blank
-------------------------------------------------
+.. rule:: 9.68
+   :blank:
 
 Rule 9.69 Martial Arts
 ----------------------
@@ -975,14 +975,14 @@ Rule 9.72 Motor Sports
 
 * The maximum speed must be considered based on the age and ability of the participant, the vehicle, the supervision, the terrain and any additional factors including legal restrictions on age e.g. quad biking.
 
-Rule 9.73 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 9.73
+   :blank:
 
-Rule 9.74 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 9.74
+   :blank:
 
-Rule 9.75 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 9.75
+   :blank:
 
 Rule 9.76 Joint Activities or Joint Use of facilities with other Youth Organisations
 ------------------------------------------------------------------------------------

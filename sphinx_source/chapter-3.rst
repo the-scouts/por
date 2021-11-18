@@ -815,29 +815,29 @@ l. Section leaders should ensure that Occasional Helpers who are involved more t
 
 m. Members of Scout Network are required to undertake a Personal Enquiry without a criminal records disclosure check (by being added to Compass as a member of the relevant District Scout Network). If members of Scout Network assist with or supervise members of a younger Section, they must be appointed to an appropriate role (such as an Occasional Helper, Section Assistant or Leader) and undertake the relevant appointment process (including undertaking a criminal records disclosure check).
 
-Rule 3.28 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 3.28
+   :blank:
 
-Rule 3.29 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 3.29
+   :blank:
 
-Rule 3.30 This rule is intentionally left blank
-------------------------------------------------
+.. rule:: 3.30
+   :blank:
 
-Rule 3.31 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 3.31
+   :blank:
 
-Rule 3.32 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 3.32
+   :blank:
 
-Rule 3.33 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 3.33
+   :blank:
 
-Rule 3.34 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 3.34
+   :blank:
 
-Rule 3.35 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 3.35
+   :blank:
 
 Rule 3.36 The Appointment of Young Leaders
 ------------------------------------------
@@ -853,20 +853,20 @@ d. .. body_blank::
 
 e. .. body_blank::
 
-Rule 3.37 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 3.37
+   :blank:
 
-Rule 3.38 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 3.38
+   :blank:
 
-Rule 3.39 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 3.39
+   :blank:
 
-Rule 3.40 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 3.40
+   :blank:
 
-Rule 3.41 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 3.41
+   :blank:
 
 Rule 3.42 Limitation on the number of Appointments held
 -------------------------------------------------------
@@ -970,11 +970,11 @@ b. There should be effective operation of the Drey, Colony, Pack and Troop Forum
 
 Requirements of Section awards and badges are found in the Association's official publications for the Section.
 
-Rule 3.47 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 3.47
+   :blank:
 
-Rule 3.48 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 3.48
+   :blank:
 
 Rule 3.49 Finance and the Scout Group
 -------------------------------------

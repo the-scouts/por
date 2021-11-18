@@ -478,11 +478,11 @@ Rule 10.30 Royal Navy or Royal Air Force Recognition Scheme Badges
 ------------------------------------------------------------------
 a. Scouts, Explorer Scouts, Scout Network Members and Leaders in or associated with a Group, Explorer Scout Unit or Scout Network which is recognised by the Royal Navy or Royal Air Force may wear the appropriate R.N. or R.A.F. Recognition Badge.
 
-Rule 10.31 This rule is intentionally left blank
-------------------------------------------------
+.. rule:: 10.31
+   :blank:
 
-Rule 10.32 This rule is intentionally left blank
-------------------------------------------------
+.. rule:: 10.32
+   :blank:
 
 Rule 10.33 The Duke of Edinburgh's Award Badges
 -----------------------------------------------

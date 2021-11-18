@@ -696,29 +696,29 @@ l. Section leaders should ensure that Occasional Helpers who are involved more t
 
 m. Members of Scout Network are required to undertake a Personal Enquiry without a criminal records disclosure check (by being added to Compass as a member of the relevant District Scout Network). If members of Scout Network assist with or supervise members of a younger Section, they must be appointed to an appropriate role (such as an Occasional Helper, Section Assistant or Leader) and undertake the relevant appointment process (including undertaking a criminal records disclosure check).
 
-Rule 4.29 This rule is intentionally left blank
-------------------------------------------------
+.. rule:: 4.29
+   :blank:
 
-Rule 4.30 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 4.30
+   :blank:
 
-Rule 4.31 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 4.31
+   :blank:
 
-Rule 4.32 This rule is intentionally left blank
-------------------------------------------------
+.. rule:: 4.32
+   :blank:
 
-Rule 4.33 This rule is intentionally left blank
-------------------------------------------------
+.. rule:: 4.33
+   :blank:
 
-Rule 4.34 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 4.34
+   :blank:
 
-Rule 4.35 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 4.35
+   :blank:
 
-Rule 4.36 This rule is intentionally left blank
-------------------------------------------------
+.. rule:: 4.36
+   :blank:
 
 Rule 4.37 The Appointment of Explorer Scout Young Leaders
 ---------------------------------------------------------
@@ -753,17 +753,17 @@ d. Professional advice should be sought with regard to pension scheme facilities
 
 e. The procedures for enquiry and the appointment of adults must be followed.
 
-Rule 4.39 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 4.39
+   :blank:
 
-Rule 4.40 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 4.40
+   :blank:
 
-Rule 4.41 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 4.41
+   :blank:
 
-Rule 4.42 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 4.42
+   :blank:
 
 Rule 4.43 Limitation on holding more than one Appointment
 ---------------------------------------------------------
@@ -1028,8 +1028,8 @@ b. The young person must register with Headquarters to begin working on the awar
 
 c. On completion of the award, Headquarters must be notified and the badge and certificate will be sent to the relevant Queen's Scout Award Coordinator for presentation or, if none appointed, to the relevant Commissioner. :sup:`sv`
 
-Rule 4.58 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 4.58
+   :blank:
 
 Rule 4.59 Finance and the Scout District sv
 -------------------------------------------

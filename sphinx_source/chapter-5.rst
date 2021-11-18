@@ -145,11 +145,11 @@ The decision whether Groups or Explorer Scout Units may become an exception to t
 
 The decision whether a County Scout Network may become an exception to the policy is made by the County Commissioner.
 
-Rule 5.7 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 5.7
+   :blank:
 
-Rule 5.8 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 5.8
+   :blank:
 
 Rule 5.9 County Scout Active Support Units
 ------------------------------------------
@@ -263,8 +263,8 @@ d. The County Commissioner is assisted and supported by:
    * the County Executive Committee;
    * the County Scout Active Support Units.\ :sup:`sv`
 
-Rule 5.15 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 5.15
+   :blank:
 
 Rule 5.16 The Constitution of the Scout County
 ----------------------------------------------
@@ -499,29 +499,29 @@ l. Section leaders should ensure that Occasional Helpers who are involved more t
 
 m. Members of Scout Network are required to undertake a Personal Enquiry without a criminal records disclosure check (by being added to Compass as a member of the relevant District Scout Network). If members of Scout Network assist with or supervise members of a younger Section, they must be appointed to an appropriate role (such as an Occasional Helper, Section Assistant or Leader) and undertake the relevant appointment process (including undertaking a criminal records disclosure check).
 
-Rule 5.20 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 5.20
+   :blank:
 
-Rule 5.21 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 5.21
+   :blank:
 
-Rule 5.22 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 5.22
+   :blank:
 
-Rule 5.23 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 5.23
+   :blank:
 
-Rule 5.24 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 5.24
+   :blank:
 
-Rule 5.25 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 5.25
+   :blank:
 
-Rule 5.26 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 5.26
+   :blank:
 
-Rule 5.27 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 5.27
+   :blank:
 
 Rule 5.28 The appointment of Employed Staff in the Scout County sv
 ------------------------------------------------------------------
@@ -537,20 +537,20 @@ d. Professional advice should be sought with regard to pension scheme facilities
 
 e. The procedures for enquiry and the appointment of adults must be followed.
 
-Rule 5.29 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 5.29
+   :blank:
 
-Rule 5.30 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 5.30
+   :blank:
 
-Rule 5.31 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 5.31
+   :blank:
 
-Rule 5.32 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 5.32
+   :blank:
 
-Rule 5.33 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 5.33
+   :blank:
 
 Rule 5.34 Limitation of holding more than one Appointment
 ---------------------------------------------------------
@@ -760,8 +760,8 @@ b. The Assistant County Commissioner Scout Network is responsible for ensuring t
 
 c. In exceptional circumstances where a County Scout Network is required, the County Scout Network Commissioner is responsible for the detailed programme of the County Scout Network and fulfilling any other duties associated with that of an Assistant County Commissioner Scout Network.
 
-Rule 5.43 This rule is intentionally left blank
------------------------------------------------
+.. rule:: 5.43
+   :blank:
 
 Rule 5.44 The Duke of Edinburgh's Award
 ---------------------------------------

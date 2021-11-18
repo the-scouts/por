@@ -101,8 +101,8 @@ a. The Thanks Badge is the means of expressing the appreciation of the Associati
 
 b. The metal badge is for wear with ordinary clothes and does not confer Membership or Associate Membership of the Association on the recipient.
 
-Rule 11.11 This rule is intentionally left blank
-------------------------------------------------
+.. rule:: 11.11
+   :blank:
 
 Rule 11.12 Method of Wear
 -------------------------

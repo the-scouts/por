@@ -240,8 +240,8 @@ a. No Squirrel Scout, Beaver Scout, Cub Scout, or Scout may be dismissed from a 
 
 b. In a Sponsored Scout Group, the Sponsoring Authority must be consulted before any such dismissal takes place.
 
-Rule 15.12 This rule is intentionally left blank
-------------------------------------------------
+.. rule:: 15.12
+   :blank:
 
 Rule 15.13 Appeals against the dismissal Scout Network Members
 --------------------------------------------------------------
