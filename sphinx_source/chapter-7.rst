@@ -9,7 +9,7 @@ b. Details of what this needs to include are contained in the Factsheet FS120075
 
 Rule 7.2 Emergency Procedures
 -----------------------------
-a. All accidents to individuals or involving damage to property must be reported. (See Rule 7.4).
+a. All accidents to individuals or involving damage to property must be reported. (See :rule:`7.4`).
 
 b. In the case of an accident to an individual, a member of the party or their designate must:
 
@@ -83,4 +83,4 @@ c. On receipt of this information Headquarters will issue the necessary instruct
 
 d. In the event of any injury or fatality, or damage to third party property, no admission of liability must be made unless advised by Headquarters.
 
-   *(See 7.2 above for actions required in the event of an emergency)*
+   *(See* :rule:`7.2` *above for actions required in the event of an emergency)*

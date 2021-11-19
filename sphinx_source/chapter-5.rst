@@ -32,7 +32,7 @@ h. Adult membership of the Scout Movement, whether by appointment or otherwise, 
 
 i. The minimum age limit for membership is 4 years.
 
-j. There is no maximum age limit for membership but all adult appointments are subject to a minimum age limit of 18. There is a maximum age limit for the County Youth Commissioner appointment. Please see Rule 5.35j (iii) for details.
+j. There is no maximum age limit for membership but all adult appointments are subject to a minimum age limit of 18. There is a maximum age limit for the County Youth Commissioner appointment. Please see :rule:`5.35(j)(iii)` for details.
 
 k. There are membership options for adults not holding appointments to become Members or Associate Members on ceasing to hold an appointment.
 
@@ -168,7 +168,7 @@ d. The County Commissioner must ensure that:
    * County Scout Active Support Units are supported and co-ordinated; and
    * County Scout Active Support Managers are provided with line management either directly by the County Commissioner or from a Deputy County Commissioner or other nominee.
 
-e. Subject in all cases to a satisfactory Personal Enquiry (see Rule 5.19), membership of the County Scout Active Support Unit is open to any person over the age of 18 years, including:
+e. Subject in all cases to a satisfactory Personal Enquiry (see :rule:`5.19`), membership of the County Scout Active Support Unit is open to any person over the age of 18 years, including:
 
    * those holding appointments, who will be expected to give priority to the duties of their appointments;
    * Scout Network Members, who will be expected to give priority to their Scout Network;
@@ -346,9 +346,9 @@ e. **The County Scout Council**\ :sv:`#`
            - meetings of the County Executive Committee and
            - meetings of any sub-Committees
 
-           (see Rule 5.16(h)(iii))
+           (see :rule:`5.16(h)(iii)`)
 
-         * agree the number of members that may be elected to the County Executive Committee (see Rule 5.16(f)(iii -- Elected Members)
+         * agree the number of members that may be elected to the County Executive Committee (see :rule:`5.16(f)(iii)(Elected Members)`)
 
 f. **The County Executive Committee**\ :sv:`#`
 
@@ -373,7 +373,7 @@ f. **The County Executive Committee**\ :sv:`#`
 
        * Appoint Administrators, Advisers, and Co-opted members to the County Executive Committee
        * Prepare and approve the Trustees' Annual Report and Annual Accounts after the examination of the accounts by an appropriate auditor, independent examiner or scrutineer.
-       * Present the approved Trustees' Annual Report and Annual Accounts to the County Scout Council at the Annual General Meeting; file a copy with National Headquarters and if a registered charity, to submit them to the appropriate charity regulator. (See Rule 13.3)
+       * Present the approved Trustees' Annual Report and Annual Accounts to the County Scout Council at the Annual General Meeting; file a copy with National Headquarters and if a registered charity, to submit them to the appropriate charity regulator. (See :rule:`13.3`)
        * Maintain confidentiality with regard to appropriate Executive Committee business.
        * Where staff are employed, act as a responsible employer in accordance with Scouting's values and relevant legislation.
        * Ensure line management responsibilities for employed staff are clearly established and communicated.
@@ -424,10 +424,10 @@ f. **The County Executive Committee**\ :sv:`#`
 
       * All ex-officio, elected, nominated and co-opted members of the County Executive Committee are Charity Trustees of the Scout County
       * Only persons aged 18 and over may be full voting members of the County Executive Committee because of their status as Charity Trustees (however the views of young people in the County must be taken into consideration).
-      * Certain people are disqualified from being Charity Trustees by virtue of the Charities Acts. (See rule 13.1)
+      * Certain people are disqualified from being Charity Trustees by virtue of the Charities Acts. (See :rule:`13.1`)
       * Charity Trustees are responsible for ensuring compliance with all relevant legislation including the Data Protection Act 2018.
       * Complete Module 1 Essential Information, Safety, Safeguarding, GDPR and Trustee Introduction training within 5 months of the role start date.
-      * Some Counties may also need to register as a charity. (See Rule 13.3).\ :sv:`#`
+      * Some Counties may also need to register as a charity. (See :rule:`13.3`).\ :sv:`#`
 
 g. .. body_blank::
 
@@ -477,15 +477,15 @@ a. No individual aged 18 or over may be permitted to undertake any role or respo
 
 b. A Personal Enquiry (including where relevant a criminal records disclosure check) will always be required for any person aged 18 or over who meets **any** of the following criteria:\ :sv:`#`
 
-   * wishes to become a Member or Associate member (for members of Scout Network -- see 5.19m below); or
+   * wishes to become a Member or Associate member (for members of Scout Network -- see :rule:`5.19(m)` below); or
    * will be a member of an Executive Committee; or
    * will be assisting with overnight activities (including Nights Away); or
    * may be helping out once a week (or on four occasions in a thirty day period) or more frequently; or
    * will have unsupervised access to young people.
 
-c. For the purposes of 5.19b above 'unsupervised' means not being within sight and hearing of another adult who holds a valid criminal records disclosure check.
+c. For the purposes of :rule:`5.19(b)` above 'unsupervised' means not being within sight and hearing of another adult who holds a valid criminal records disclosure check.
 
-d. A person who requires a Personal Enquiry under 5.19(b) above (including where relevant a criminal records disclosure check) and who does not have an active role on Compass must be registered on Compass as an Occasional Helper. Occasional Helpers are not entitled to membership status or member benefits (including certain insurances -- see the Unity web site) and the recording on Compass is only provided to enable the Personal Enquiry and criminal records disclosure checks to be conducted.\ :sv:`#`
+d. A person who requires a Personal Enquiry under :rule:`5.19(b)` above (including where relevant a criminal records disclosure check) and who does not have an active role on Compass must be registered on Compass as an Occasional Helper. Occasional Helpers are not entitled to membership status or member benefits (including certain insurances -- see the Unity web site) and the recording on Compass is only provided to enable the Personal Enquiry and criminal records disclosure checks to be conducted.\ :sv:`#`
 
 e. Certain roles will require a criminal records disclosure check every five years.
 
@@ -499,7 +499,7 @@ i. When completing a Personal enquiry accurate information about the individual 
 
 j. The full rules for the appointment of adults can be found in POR: The Appointment Process.
 
-k. Occasional Helpers (including parents) who are required to undertake a Personal Enquiry (see 5.19a and 5.19b) must either be entered directly into Compass or recorded using the Association's official Adult Information Form and then be transferred accurately into Compass (form available from https://www.scouts.org.uk/volunteers/running-things-locally/recruiting-and-managing-volunteers/appointing/appointment-forms/). The appropriate criminal records disclosure check application process must then be followed.\ :sv:`#`
+k. Occasional Helpers (including parents) who are required to undertake a Personal Enquiry (see :rule:`5.19(a)` and :rule:`5.19(b)`) must either be entered directly into Compass or recorded using the Association's official Adult Information Form and then be transferred accurately into Compass (form available from https://www.scouts.org.uk/volunteers/running-things-locally/recruiting-and-managing-volunteers/appointing/appointment-forms/). The appropriate criminal records disclosure check application process must then be followed.\ :sv:`#`
 
 l. Section leaders should ensure that Occasional Helpers who are involved more than once a month are aware of the appointment opportunities available to them.
 
@@ -994,7 +994,7 @@ a. All fundraising undertaken on behalf of the Movement must be carried out as p
 
 Rule 5.58 Lotteries and Gaming
 ------------------------------
-a. If a County considers raising funds by means governed by any legislation as detailed in Rule 5.57, the proposed activity must have the approval of the County Executive Committee.
+a. If a County considers raising funds by means governed by any legislation as detailed in :rule:`5.57`, the proposed activity must have the approval of the County Executive Committee.
 
 b. Regard must be paid to the views of parents and to local public opinion. Activities affected by this legislation include raffles, whist drives and similar methods of fundraising involving participation on payment of stakes.
 

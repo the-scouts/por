@@ -84,9 +84,9 @@ b. The retiring Secretaries of the Group, District or County which are amalgamat
 
 c. For further information on amalgamation see:
 
-   * Group -- Rule 3.52
-   * District -- Rule 4.62
-   * County -- Rule 5.50
+   * Group -- :rule:`3.52`
+   * District -- :rule:`4.62`
+   * County -- :rule:`5.50`
 
 Rule 13.7 Disposal of Property at Closure
 -----------------------------------------
@@ -98,9 +98,9 @@ c. Such property must be treated in the same way as other assets.
 
 d. For further information on closure see
 
-   * Group -- Rule 3.53
-   * District -- Rule 4.64
-   * County -- Rule 5.52.
+   * Group -- :rule:`3.53`
+   * District -- :rule:`4.64`
+   * County -- :rule:`5.52`
 
 Rule 13.8 Joint Occupation of Premises by Scout and Guide Units
 ---------------------------------------------------------------

@@ -30,7 +30,7 @@ h. Adult membership of the Scout Movement, whether by appointment or otherwise, 
 
 i. The minimum age limit for youth membership is 4 years. The maximum age limit for youth membership is 25.
 
-j. There is no maximum age limit for membership but all adult appointments are subject to a minimum age limit of 18. There is a maximum age limit for the District Youth Commissioner appointment. `Please see Rule 4.44f (iii) for details. <https://www.scouts.org.uk/por/4-the-scout-district/rule-444-responsibilities-of-appointments-in-the-scout-district-sv/>`__
+j. There is no maximum age limit for membership but all adult appointments are subject to a minimum age limit of 18. There is a maximum age limit for the District Youth Commissioner appointment. Please see :rule:`4.44(f)(iii)` for details.
 
 k. There are membership options for adults not holding appointments to become Members or Associate Members on ceasing to hold an appointment.
 
@@ -159,9 +159,9 @@ f. The operation of a Unit must be overseen by a Leader or team of Leaders.
 
    A Unit Leadership team comprises of all Section Leaders, Assistant Section Leaders and Section/Unit Assistants working with the Unit. Working with the Unit Leadership team, the Section Leader(s) have responsibility for the planning of the programme and the management of the Unit.
 
-   Where there is more than one Section Leader appointed to the Unit, only one of the Section Leaders may opt-in to be an ex officio member of the Group Executive Committee (rule 3.24(b)(iii)).
+   Where there is more than one Section Leader appointed to the Unit, only one of the Section Leaders may opt-in to be an ex officio member of the Group Executive Committee (:rule:`3.24(b)(iii)`).
 
-g. The delivery of the Unit programme is the responsibility of the Section Leadership team, led by the Section Leader. Additional adults (for example parents, subject experts from the community) may be used on a regular or occasional basis to support the programme delivery. All additional adults need to conform to the Personal Enquiry and criminal records disclosures checks requirements detailed in `Rule 4.28(b) <https://www.scouts.org.uk/por/4-the-scout-district/rule-428-the-appointment-of-adults-in-the-scout-district/>`__.
+g. The delivery of the Unit programme is the responsibility of the Section Leadership team, led by the Section Leader. Additional adults (for example parents, subject experts from the community) may be used on a regular or occasional basis to support the programme delivery. All additional adults need to conform to the Personal Enquiry and criminal records disclosures checks requirements detailed in :rule:`4.28(b)`.
 
 h. The Section Leader(s) have a responsibility to ensure at least two adults (aged 18 or over) are present at each Unit meeting, at least one of whom holds a FULL appointment with the Unit (normally a Section Leader but on occasion may be an Assistant Section Leader or a Section/Unit Assistant).
 
@@ -175,7 +175,7 @@ j. Other than two adults being present there is no minimum ratio of adults to Ex
 
 k. There is no recommended minimum ratio for outdoor activities held away from the usual meeting place or nights away experiences. However, as a minimum, for all Nights Away experiences led by a Nights Away Permit Holder at least two adults must be present overnight. Only in the event of an emergency should an adult be alone overnight with young people on a residential experience.
 
-l. For all Scouting activities a risk assessment should be carried out as stated in `Rule 9.4 <https://www.scouts.org.uk/por/9-activities/rule-94-risk-assessment/>`__. This risk assessment cannot override the minimum requirements stated in Rule 4.7h or those required by the activity rules in `chapter 9 <https://www.scouts.org.uk/por/9-activities/>`__.
+l. For all Scouting activities a risk assessment should be carried out as stated in :rule:`9.4`. This risk assessment cannot override the minimum requirements stated in :rule:`4.7(h)` or those required by the activity rules in `chapter 9 <https://www.scouts.org.uk/por/9-activities/>`__.
 
 m. The age range of the Section is from 14 years to 18 years old. The age for moving from the Scout Section is between 13½ and 14½ years and moving to the Scout Network at 18 years. The leaving age is upon reaching the 18th birthday. Under no circumstances can anyone aged 18 years or over, regardless of ability remain in a youth section (i.e. Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts or Explorer Scouts).
 
@@ -187,10 +187,10 @@ o. Explorer Scouts wear the approved Explorer Scout, Sea Scout or Air Scout unif
 
 p. The following minimum standards are laid down for Explorer Scout Units
 
-   * Operation overseen by a leader (`Rule 4.7f <https://www.scouts.org.uk/por/4-the-scout-district/rule-47-explorer-scout-units/>`__).
-   * Two adults present (`Rule 4.7h <https://www.scouts.org.uk/por/4-the-scout-district/rule-47-explorer-scout-units/>`__).
+   * Operation overseen by a leader (:rule:`4.7(f)`).
+   * Two adults present (:rule:`4.7(h)`).
    * The delivery of a high quality balanced Programme run in accordance with the Association's official publications for the Section.
-   * Opportunities for the members to take part in the decision making process. (`Rule 4.7m <https://www.scouts.org.uk/por/4-the-scout-district/rule-47-explorer-scout-units/>`__).
+   * Opportunities for the members to take part in the decision making process. (:rule:`4.7(m)`).
    * The opportunity for every Explorer Scout to attend at least one nights away experience every year.
 
 q. The District Commissioner, with the District Team, is required where necessary to assist Explorer Scout Units to reach the required standard.
@@ -263,7 +263,7 @@ d. The District Commissioner must ensure that
    * District Scout Active Support Units are supported and coordinated; and
    * District Scout Active Support Managers are provided with line management either directly by the District Commissioner or from a Deputy District Commissioner or other nominee.
 
-e. Subject in all cases to a satisfactory Personal Enquiry (see Rule 4.28), membership of the District Scout Active Support Unit is open to any person over the age of 18 years, including:
+e. Subject in all cases to a satisfactory Personal Enquiry (see :rule:`4.28`), membership of the District Scout Active Support Unit is open to any person over the age of 18 years, including:
 
    * those holding appointments, who will be expected to give priority to the duties of their appointments;
    * Scout Network members, who will be expected to give priority to their Scout Network.
@@ -289,7 +289,7 @@ Rule 4.12 Special Groups (Scouting for people in hospital or with severe disabil
 --------------------------------------------------------------------------------------
 a. A special provision may be developed to enable young people with a shared protected characteristic to access Scouting e.g. in a hospice or hospital. Special provisions can be used where it is not possible or appropriate for a young person to access mainstream Scouting;
 
-b. Operations which do not follow the standard age range of Sections must be approved by the District Commissioner in consultation with those providing special scouting provision e.g. hospice. Age range flexibility should meet the required standards outlined in Rule 3.12b.
+b. Operations which do not follow the standard age range of Sections must be approved by the District Commissioner in consultation with those providing special scouting provision e.g. hospice. Age range flexibility should meet the required standards outlined in :rule:`3.12(b)`.
 
 c. Membership is acquired through making the Promise. The Promise needs to be meaningful for each Member and flexibility in expressing the Promise may be required to meet the needs of the individual.
 
@@ -526,10 +526,10 @@ e. **The District Scout Council**\ :sv:`#`
 
            - meetings of the District Scout Council,
            - meetings of the District Executive Committee and
-           - meetings of any sub-Committees (see Rule 4.25(i)(iii))
+           - meetings of any sub-Committees (see :rule:`4.25(i)(iii)`)
 
-         * agree the number of members that may be elected to the District Executive Committee (see Rule 4.25(f)(iii -- Elected Members)
-         * adopt (or re-confirm the adoption of) the constitution of the District Scout Council (see Rule 4.25(a))
+         * agree the number of members that may be elected to the District Executive Committee (see :rule:`4.25(f)(iii)(Elected Members)`
+         * adopt (or re-confirm the adoption of) the constitution of the District Scout Council (see :rule:`4.25(a)`)
 
        * appoint (or re-appoint) any District Presidents or Vice Presidents (see Appointment Process: Table 2).
 
@@ -557,7 +557,7 @@ f. **The District Executive Committee**\ :sv:`#`
 
        * Appoint Administrators, Advisers, and Co-opted members to the District Executive Committee.
        * Prepare and approve the Trustees' Annual Report and Annual Accounts after the examination of the accounts by an appropriate auditor, independent examiner or scrutineer.
-       * Present the approved Trustees' Annual Report and Annual Accounts to the District Scout Council at the Annual General Meeting; file a copy with the County Executive Committee; and if a registered charity, to submit them to the appropriate charity regulator. (See Rule 13.3).
+       * Present the approved Trustees' Annual Report and Annual Accounts to the District Scout Council at the Annual General Meeting; file a copy with the County Executive Committee; and if a registered charity, to submit them to the appropriate charity regulator. (See :rule:`13.3`).
        * Maintain confidentiality with regard to appropriate Executive Committee business.
        * Where staff are employed, act as a responsible employer in accordance with Scouting's values and relevant legislation.
        * Ensure line management responsibilities for employed staff are clearly established and communicated.
@@ -606,7 +606,7 @@ f. **The District Executive Committee**\ :sv:`#`
       * All ex-officio, elected, nominated and co-opted members of the District Executive Committee are Charity Trustees of the Scout District.
       * Only persons aged 18 and over may be full voting members of the District Executive Committee because of their status as Charity Trustees (however the views of young people in the District must be taken into consideration).
       * Complete Module 1 Essential Information, Safety, Safeguarding, GDPR and Trustee Introduction training within 5 months of the role start date.
-      * Certain people are disqualified from being Charity Trustees by virtue of the Charities Acts. (See rule 13.1)
+      * Certain people are disqualified from being Charity Trustees by virtue of the Charities Acts. (See :rule:`13.1`)
       * Charity Trustees are responsible for ensuring compliance with all relevant legislation including the Data Protection Act 2018.
 
 g. .. body_blank::
@@ -671,15 +671,15 @@ a. No individual aged 18 or over may be permitted to undertake any role or respo
 
 b. A Personal Enquiry (including where relevant a criminal records disclosure check) will always be required for any person aged 18 or over who meets **any** of the following criteria:\ :sv:`#`
 
-   * wishes to become a Member or Associate member (for members of Scout Network -- `see 4.28m below <https://www.scouts.org.uk/por/4-the-scout-district/rule-428-the-appointment-of-adults-in-the-scout-district/>`__); or
+   * wishes to become a Member or Associate member (for members of Scout Network -- see :rule:`4.28(m)` below); or
    * will be a member of an Executive Committee; or
    * will be assisting with overnight activities (including Nights Away); or
    * may be helping out once a week (or on four occasions in a thirty day period) or more frequently; or
    * will have unsupervised access to young people.
 
-c. For the purposes of `4.28b <https://www.scouts.org.uk/por/4-the-scout-district/rule-428-the-appointment-of-adults-in-the-scout-district/>`__ above 'unsupervised' means not being within sight and hearing of another adult who holds a valid criminal records disclosure check.
+c. For the purposes of :rule:`4.28(b)` above 'unsupervised' means not being within sight and hearing of another adult who holds a valid criminal records disclosure check.
 
-d. A person who requires a Personal Enquiry under `4.28(b) <https://www.scouts.org.uk/por/4-the-scout-district/rule-428-the-appointment-of-adults-in-the-scout-district/>`__ above (including where relevant a criminal records disclosure check) and who does not have an active role on Compass must be registered on Compass as an Occasional Helper. Occasional Helpers are not entitled to membership status or member benefits (including certain insurances -- see the Unity web site) and the recording on Compass is only provided to enable the Personal Enquiry and criminal records disclosure checks to be conducted.\ :sv:`#`
+d. A person who requires a Personal Enquiry under :rule:`4.28(b)` above (including where relevant a criminal records disclosure check) and who does not have an active role on Compass must be registered on Compass as an Occasional Helper. Occasional Helpers are not entitled to membership status or member benefits (including certain insurances -- see the Unity web site) and the recording on Compass is only provided to enable the Personal Enquiry and criminal records disclosure checks to be conducted.\ :sv:`#`
 
 e. Certain roles will require a criminal records disclosure check every five years.
 
@@ -693,7 +693,7 @@ i. When completing a Personal Enquiry accurate information about the individual 
 
 j. The full rules for the appointment of adults can be found in POR: The Appointment Process.
 
-k. Occasional Helpers (including parents) who are required to undertake a Personal Enquiry (`see 4.28a and 4.28b <https://www.scouts.org.uk/por/4-the-scout-district/rule-428-the-appointment-of-adults-in-the-scout-district/>`__) must either be entered directly into Compass or recorded using the Association's official Joining Forms and then be transferred accurately into Compass (available from https://www.scouts.org.uk/). The appropriate on-line or paper based criminal records disclosure check application process must then be followed.\ :sv:`#`
+k. Occasional Helpers (including parents) who are required to undertake a Personal Enquiry (see :rule:`4.28(a)` and :rule:`4.28(b)`) must either be entered directly into Compass or recorded using the Association's official Joining Forms and then be transferred accurately into Compass (available from https://www.scouts.org.uk/). The appropriate on-line or paper based criminal records disclosure check application process must then be followed.\ :sv:`#`
 
 l. Section leaders should ensure that Occasional Helpers who are involved more than once a month are aware of the appointment opportunities available to them.
 
@@ -1215,7 +1215,7 @@ a. All fundraising undertaken on behalf of the Movement must be carried out as p
 
 Rule 4.70 Lotteries and Gaming
 ------------------------------
-a. If a District considers raising funds by means governed by the legislation detailed at 4.69, the proposed activity must have the approval of the District Executive Committee.
+a. If a District considers raising funds by means governed by the legislation detailed at :rule:`4.69`, the proposed activity must have the approval of the District Executive Committee.
 
 b. Regard must be paid to the views of parents and to local public opinion. Activities affected by this legislation include raffles, whist drives and similar methods of fundraising involving participation on payment of stakes.
 

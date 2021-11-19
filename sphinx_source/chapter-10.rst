@@ -454,7 +454,7 @@ c. A combined District and County badge bearing distinctive identifying emblems 
 
    A manufactured example of all District and County badges should be submitted subsequently to Headquarters.
 
-d. Sponsored Scout Groups may wear, as a Group badge, an appropriate badge produced by organisations approved as Sponsoring Organisations by Headquarters. The decision whether to wear such a Group badge is the responsibility of the Group Scout Leader in consultation with the Group Leaders' Meeting and the Sponsoring Authority. Approval as in Rule 10.26 (a) applies.
+d. Sponsored Scout Groups may wear, as a Group badge, an appropriate badge produced by organisations approved as Sponsoring Organisations by Headquarters. The decision whether to wear such a Group badge is the responsibility of the Group Scout Leader in consultation with the Group Leaders' Meeting and the Sponsoring Authority. Approval as in :rule:`10.26(a)` applies.
 
 Rule 10.28 Identifying Group, Explorer Scout Unit and Scout Network Scarves
 ---------------------------------------------------------------------------
