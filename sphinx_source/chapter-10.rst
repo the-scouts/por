@@ -308,8 +308,9 @@ c. Optional items for activity dress:
    * navy blue sweatshirt;
    * navy blue baseball cap.
 
-Rule 10.18 Marching bands sv
-----------------------------
+.. rule:: 10.18 Marching bands
+   :sv:
+
 a. Uniform:
 
    i. Members of Scout Marching Bands have two options from which the Band as a whole may choose:
@@ -440,8 +441,9 @@ a. The name of the Group, Explorer Scout Unit, Scout Network or Scout Active Sup
 
 b. The name of Sea and Air Scout Groups may appear in the same colours, but on a dark blue background.
 
-Rule 10.27 Identifying Group, District and County Badges sv
------------------------------------------------------------
+.. rule:: 10.27 Identifying Group, District and County Badges
+   :sv:
+
 a. Group, Unit or Network badges bearing distinctive identifying emblems and/or lettering and of any size up to 50 mm deep by 38 mm wide may be worn after approval by the County Commissioner to whom a drawing or specimen of the design must be submitted.
 
 b. District and County badges bearing distinctive identifying emblems and/or lettering and of any size up to 50 mm deep by 38 mm wide may be worn after approval by the County Commissioner to whom a drawing or specimen of the design must be submitted.

@@ -1,8 +1,9 @@
 :Chapter: 12
 :Title: FLAGS AND CEREMONIAL
 
-Rule 12.1 Permitted Flags sv
-----------------------------
+.. rule:: 12.1 Permitted Flags
+   :sv:
+
 a. The following flags may be used:
 
    * The Union Flag on land;
@@ -26,8 +27,9 @@ a. Green camp pennants, Explorer Scout and Scout Network pennants and blue Scout
 
 b. The blue pennant is the burgee to be flown with the Royal Navy Recognised Group Ensign.
 
-Rule 12.3 Scout Flags sv
-------------------------
+.. rule:: 12.3 Scout Flags
+   :sv:
+
 a. Flags used by Scout Groups, Explorer Scout Units, Scout Networks and Scout Active Support Units (except Beaver Scout Colony flags) must be:
 
    * uniform size;

@@ -206,8 +206,9 @@ Rule 15.7 Cancellation or non-renewal of adult Appointments
 -----------------------------------------------------------
 See POR: The Appointment Process
 
-Rule 15.8 Termination of Youth Membership sv
---------------------------------------------
+.. rule:: 15.8 Termination of Youth Membership
+   :sv:
+
 a. Youth Membership may be terminated by:
 
    * resignation;
@@ -220,8 +221,9 @@ b. Notwithstanding any other means provided by these rules, Youth Membership may
 
 c. The Board shall be under no obligation to state its reasons for making such a resolution.
 
-Rule 15.9 Dismissal of Scout Network Members sv
------------------------------------------------
+.. rule:: 15.9 Dismissal of Scout Network Members
+   :sv:
+
 a. No Scout Network Member may be dismissed without the approval of the District Scout Network Commissioner (or equivalent, where an exception to a District Scout Network operates) or UK Scout Network Commissioner where the member is a member of the UK Scout Network only. Where no District Scout Network Commissioner is in post this will fall to the District Commissioner.
 
 b. Where a member of a District Scout Network is dismissed, this will also apply to their membership of other District Scout Networks as well as the UK Scout Network.

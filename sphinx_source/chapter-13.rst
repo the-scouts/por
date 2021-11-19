@@ -11,9 +11,9 @@ c. The appointment of any such person, whether as Ex officio, by nomination, by 
 
 d. It is the responsibility of each person to ensure that they are not disqualified before accepting an appointment as a trustee.
 
-e. The Charities Acts apply to England and Wales only. Similar legislation applies to Scotland. :sup:`sv`
+e. The Charities Acts apply to England and Wales only. Similar legislation applies to Scotland.\ :sv:`#`
 
-f. Some people are disqualified by law from acting as charity trustees. Subject to regulatory waiver provisions this includes anyone who: :sup:`sv`
+f. Some people are disqualified by law from acting as charity trustees. Subject to regulatory waiver provisions this includes anyone who:\ :sv:`#`
 
    * has an unspent conviction for an offence involving dishonesty or deception; or
    * has unspent convictions for the offences of misconduct in a public office; or
@@ -27,8 +27,9 @@ f. Some people are disqualified by law from acting as charity trustees. Subject 
    * has previously been removed as a trustee from any charity by any charity regulator in the UK (or a court) due to misconduct or mismanagement; or
    * is disqualified from being a trustee by an order of the Charity Commission for England and Wales, the Office of the Scottish Charity Regulator or the Charity Commission for Northern Ireland.
 
-Rule 13.2 Property and Equipment sv
------------------------------------
+.. rule:: 13.2 Property and Equipment
+   :sv:
+
 a. Scout Groups must be properly accommodated and equipped in order to carry out their training programmes.
 
 b. The administrators of the Group must concern themselves with all legal requirements relevant to the ownership of all property and equipment or to the leasing or hiring of premises.
@@ -111,7 +112,7 @@ c. A copy of an appropriate model Declaration of Trust can provided by the Assoc
 
 Rule 13.9 Investments
 ---------------------
-a. Unless the powers of investment are specified in the formal Trust Instrument creating or governing any given Group, District or County, such powers of investment are governed by the Trustee Act 2000. Accordingly, The Scout Association's own particular powers of investment are specified by its Royal Charter. These particular powers of investment apply to The Scout Association itself and not to its entire member Groups, Districts or Counties.\ :sup:`sv`
+a. Unless the powers of investment are specified in the formal Trust Instrument creating or governing any given Group, District or County, such powers of investment are governed by the Trustee Act 2000. Accordingly, The Scout Association's own particular powers of investment are specified by its Royal Charter. These particular powers of investment apply to The Scout Association itself and not to its entire member Groups, Districts or Counties.\ :sv:`#`
 
 b. Group, District and County Treasurers must reclaim from H.M. Revenue and Customs any tax deducted at source from investment income.
 
@@ -129,8 +130,9 @@ Rule 13.11 Equipment
 --------------------
 a. The Group, District or County Treasurer must maintain proper inventories of all equipment owned, including furniture, training equipment, musical instruments or equivalent of any other kind.
 
-Rule 13.12 Safe Custody of Documents sv
----------------------------------------
+.. rule:: 13.12 Safe Custody of Documents
+   :sv:
+
 a. The Group, District or County Secretary must ensure that documents relating to the ownership of property and equipment and all other legal and official documents, together with any documents of historical importance or interest are kept in a safe place.
 
 b. Specific documents that must be safeguarded are:

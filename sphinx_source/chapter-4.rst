@@ -101,7 +101,7 @@ a. .. body_blank::
 
 b. .. body_blank::
 
-c. If a Member leaves a Scout Network due to moving to another locality, the District Scout Network Commissioner should inform the Assistant County Commissioner Scout Network of the County into which the Member is moving. :sup:`sv`
+c. If a Member leaves a Scout Network due to moving to another locality, the District Scout Network Commissioner should inform the Assistant County Commissioner Scout Network of the County into which the Member is moving.\ :sv:`#`
 
 d. If the address of the District Secretary is not known, the information should be forwarded to Headquarters.
 
@@ -215,8 +215,9 @@ e. Partnership Agreements are not intended to be legally binding documents. Each
 
 *Further information and examples of Partnership Agreements can be obtained from the Scout Information Centre.*
 
-Rule 4.9 District Scout Networks sv
------------------------------------
+.. rule:: 4.9 District Scout Networks
+   :sv:
+
 a. District Scout Networks are part of a District's provision of Scouting.
 
 b. A District Scout Network consists of all Members aged 18--25 within the District.
@@ -332,7 +333,7 @@ The opening and closing of Explorer Scout Units is the responsibility of the Dis
 
 Rule 4.15 The Formation and Closure of District Scout Networks
 --------------------------------------------------------------
-The opening and closing of the District Scout Network is the responsibility of the District Commissioner in consultation with the District Scout Network Commissioner, District Executive Committee and Assistant County Commissioner Scout Network. :sup:`sv`
+The opening and closing of the District Scout Network is the responsibility of the District Commissioner in consultation with the District Scout Network Commissioner, District Executive Committee and Assistant County Commissioner Scout Network.\ :sv:`#`
 
 Rule 4.16 Annual Renewal of District and Registrations
 ------------------------------------------------------
@@ -376,7 +377,7 @@ a. Suspension is a purely temporary measure.
 
 b. A Explorer Scout Unit may be suspended by the District Commissioner in consultation with the District Executive Committee and District Explorer Scout Commissioner.
 
-c. Suspension may also be a consequence of the suspension of the District. :sup:`sv`
+c. Suspension may also be a consequence of the suspension of the District.\ :sv:`#`
 
    In such a case the County Commissioner may direct that Explorer Scout Units will not be suspended but attached to a neighbouring District or to the County as appropriate.
 
@@ -419,7 +420,7 @@ c. The membership of each Member of the District will cease automatically, unles
 
 d. A Scout District cannot exist unless it has a current registration with Headquarters.
 
-e. Charity law does not permit a Scout District to transfer from The Scout Association to any other body whether calling itself a scout organisation or by any other name. :sup:`sv`
+e. Charity law does not permit a Scout District to transfer from The Scout Association to any other body whether calling itself a scout organisation or by any other name.\ :sv:`#`
 
 f. Individual or several Members of a District may leave and join any other organisation they wish. The District itself and all its assets remain part of The Scout Association whose parent body is incorporated by Royal Charter.
 
@@ -453,8 +454,9 @@ c. An Explorer Scout Unit is led by an Explorer Scout Leader and managed by a co
 
 d. The Explorer Scout Leader is assisted and supported by Assistant Explorer Scout Leaders in the delivery of the programme for young people in the Explorer Scout Unit.
 
-Rule 4.24 Management of the District Scout Network sv
------------------------------------------------------
+.. rule:: 4.24 Management of the District Scout Network
+   :sv:
+
 a. District Scout Networks are not autonomous organisations. They are part of a Scout District, which acts as the District Scout Network's parent body.
 
 b. Scout Districts delegate some authority to the District Scout Network to allow them to hold property and equipment and admit people to membership of the District Scout Network subject to the policy and rules of The Scout Association.
@@ -468,7 +470,7 @@ b. There may be situations where it is impractical to implement the constitution
 c. All elected and constitutional bodies of The Scout Association at Headquarters, County, and District should have, as full voting members, at least two young people between the age of 18 and 25 years old.
 d. This policy as a matter of good practice, should also be applied to any ad hoc, short or long term working groups or committees.
 
-e. **The District Scout Council** :sup:`sv`
+e. **The District Scout Council**\ :sv:`#`
 
    i. The District Scout Council is the electoral body, which supports Scouting in the District. It is the body to which the District Executive Committee is accountable.
 
@@ -531,11 +533,11 @@ e. **The District Scout Council** :sup:`sv`
 
        * appoint (or re-appoint) any District Presidents or Vice Presidents (see Appointment Process: Table 2).
 
-f. **The District Executive Committee** :sup:`sv`
+f. **The District Executive Committee**\ :sv:`#`
 
    i. The Executive Committee exists to support the District Commissioner in meeting the responsibilities of their appointment.
 
-   ii. Members of the District Executive Committee must act collectively as charity Trustees of the Scout District, and in the best interests of its members to: :sup:`sv`
+   ii. Members of the District Executive Committee must act collectively as charity Trustees of the Scout District, and in the best interests of its members to:\ :sv:`#`
 
        * Comply with the Policy, Organisation and Rules of The Scout Association.
        * Protect and maintain any property and equipment owned by and/or used by the District.
@@ -560,7 +562,7 @@ f. **The District Executive Committee** :sup:`sv`
        * Where staff are employed, act as a responsible employer in accordance with Scouting's values and relevant legislation.
        * Ensure line management responsibilities for employed staff are clearly established and communicated.
 
-   iii. The District Executive Committee consists of: :sup:`sv`
+   iii. The District Executive Committee consists of:\ :sv:`#`
 
         **Ex-officio members**
 
@@ -599,7 +601,7 @@ f. **The District Executive Committee** :sup:`sv`
        * The District Commissioner and the District Chair will be ex-officio members of any subcommittee of the District Executive Committee.
        * Any fundraising committee must include at least two members of the District Executive Committee No Section Leader or Assistant Leader should serve on such a fundraising subcommittee.
 
-   v. Additional Requirements for Charity Trustees: :sup:`sv`
+   v. Additional Requirements for Charity Trustees:\ :sv:`#`
 
       * All ex-officio, elected, nominated and co-opted members of the District Executive Committee are Charity Trustees of the Scout District.
       * Only persons aged 18 and over may be full voting members of the District Executive Committee because of their status as Charity Trustees (however the views of young people in the District must be taken into consideration).
@@ -623,7 +625,7 @@ h. **The District Team Meeting**
        * secure the support of District Scout Active Support Units in the work of the District;
        * keep the District Executive Committee advised of the financial requirements of the training programme in the District, including Explorer Scout Units and District Scout Network;
 
-i. **Conduct of Meetings in the Scout District** :sup:`sv`
+i. **Conduct of Meetings in the Scout District**\ :sv:`#`
 
    i. In meetings of the District Scout Council and the District Executive Committee only the members specified may vote.
    ii. Decisions are made by a majority of votes of those present at the meeting. In the event of an equal number of votes being cast on either side in any issue the chair does not have a casting vote and the matter is taken not to have been carried.
@@ -641,9 +643,9 @@ c. The appointment of the District Chair is approved by the District Scout Counc
 
 d. Every effort should be made to find a District Chair. Only in extreme circumstances may the District Commissioner act as District Chair for a short period.
 
-e. The District Secretary---unless employed by the District---is elected by the District Scout Council at the Annual General Meeting every year. The role may not be held by a Leader, Manager or Supporter where that could lead to any real or potential conflict of interest within the charity or directly related charities. For example, a Group Secretary should not be the District Secretary in the same Scout District but could be District Secretary in a different Scout District (subject to having the time and skill to undertake both roles).\ :sup:`sv`
+e. The District Secretary---unless employed by the District---is elected by the District Scout Council at the Annual General Meeting every year. The role may not be held by a Leader, Manager or Supporter where that could lead to any real or potential conflict of interest within the charity or directly related charities. For example, a Group Secretary should not be the District Secretary in the same Scout District but could be District Secretary in a different Scout District (subject to having the time and skill to undertake both roles).\ :sv:`#`
 
-f. The District Treasurer is elected by the District Scout Council at the Annual General Meeting every year. The role may not be held by a Leader, Manager or Supporter where that could lead to any real or potential conflict of interest within the charity or directly related charities. For example, a Group Treasurer should not be the District Treasurer in the same Scout District but could be District Treasurer in a different Scout District (subject to having the time and skill to undertake both roles).\ :sup:`sv`
+f. The District Treasurer is elected by the District Scout Council at the Annual General Meeting every year. The role may not be held by a Leader, Manager or Supporter where that could lead to any real or potential conflict of interest within the charity or directly related charities. For example, a Group Treasurer should not be the District Treasurer in the same Scout District but could be District Treasurer in a different Scout District (subject to having the time and skill to undertake both roles).\ :sv:`#`
 
 g. No individual may hold more than one of the appointments of District Chair, Secretary or Treasurer of the same Executive Committee. Neither may the appointments be combined in anyway.
 
@@ -662,11 +664,12 @@ Rule 4.27 Minimum Age for Appointments
 --------------------------------------
 a. To hold an adult appointment in a Scout District a person must have reached the age of 18.
 
-Rule 4.28 The Appointment of Adults in the Scout District sv
-------------------------------------------------------------
+.. rule:: 4.28 The Appointment of Adults in the Scout District
+   :sv:
+
 a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a criminal records disclosure check as part of the Personal Enquiry process (see the Safeguarding Policy and POR: The Appointment Process).
 
-b. A Personal Enquiry (including where relevant a criminal records disclosure check) will always be required for any person aged 18 or over who meets **any** of the following criteria: :sup:`sv`
+b. A Personal Enquiry (including where relevant a criminal records disclosure check) will always be required for any person aged 18 or over who meets **any** of the following criteria:\ :sv:`#`
 
    * wishes to become a Member or Associate member (for members of Scout Network -- `see 4.28m below <https://www.scouts.org.uk/por/4-the-scout-district/rule-428-the-appointment-of-adults-in-the-scout-district/>`__); or
    * will be a member of an Executive Committee; or
@@ -676,7 +679,7 @@ b. A Personal Enquiry (including where relevant a criminal records disclosure ch
 
 c. For the purposes of `4.28b <https://www.scouts.org.uk/por/4-the-scout-district/rule-428-the-appointment-of-adults-in-the-scout-district/>`__ above 'unsupervised' means not being within sight and hearing of another adult who holds a valid criminal records disclosure check.
 
-d. A person who requires a Personal Enquiry under `4.28(b) <https://www.scouts.org.uk/por/4-the-scout-district/rule-428-the-appointment-of-adults-in-the-scout-district/>`__ above (including where relevant a criminal records disclosure check) and who does not have an active role on Compass must be registered on Compass as an Occasional Helper. Occasional Helpers are not entitled to membership status or member benefits (including certain insurances -- see the Unity web site) and the recording on Compass is only provided to enable the Personal Enquiry and criminal records disclosure checks to be conducted. :sup:`sv`
+d. A person who requires a Personal Enquiry under `4.28(b) <https://www.scouts.org.uk/por/4-the-scout-district/rule-428-the-appointment-of-adults-in-the-scout-district/>`__ above (including where relevant a criminal records disclosure check) and who does not have an active role on Compass must be registered on Compass as an Occasional Helper. Occasional Helpers are not entitled to membership status or member benefits (including certain insurances -- see the Unity web site) and the recording on Compass is only provided to enable the Personal Enquiry and criminal records disclosure checks to be conducted.\ :sv:`#`
 
 e. Certain roles will require a criminal records disclosure check every five years.
 
@@ -690,7 +693,7 @@ i. When completing a Personal Enquiry accurate information about the individual 
 
 j. The full rules for the appointment of adults can be found in POR: The Appointment Process.
 
-k. Occasional Helpers (including parents) who are required to undertake a Personal Enquiry (`see 4.28a and 4.28b <https://www.scouts.org.uk/por/4-the-scout-district/rule-428-the-appointment-of-adults-in-the-scout-district/>`__) must either be entered directly into Compass or recorded using the Association's official Joining Forms and then be transferred accurately into Compass (available from https://www.scouts.org.uk/). The appropriate on-line or paper based criminal records disclosure check application process must then be followed. :sup:`sv`
+k. Occasional Helpers (including parents) who are required to undertake a Personal Enquiry (`see 4.28a and 4.28b <https://www.scouts.org.uk/por/4-the-scout-district/rule-428-the-appointment-of-adults-in-the-scout-district/>`__) must either be entered directly into Compass or recorded using the Association's official Joining Forms and then be transferred accurately into Compass (available from https://www.scouts.org.uk/). The appropriate on-line or paper based criminal records disclosure check application process must then be followed.\ :sv:`#`
 
 l. Section leaders should ensure that Occasional Helpers who are involved more than once a month are aware of the appointment opportunities available to them.
 
@@ -885,7 +888,7 @@ c. The functions of the appointment are:
 
 Rule 4.46 Responsibility for Specialist Subjects
 ------------------------------------------------
-a. Assistant District Commissioners may be appointed to assist the District Commissioner with a variety of special responsibilities, including Air and Water Activities, Inclusion and Media Relations. :sup:`sv`
+a. Assistant District Commissioners may be appointed to assist the District Commissioner with a variety of special responsibilities, including Air and Water Activities, Inclusion and Media Relations.\ :sv:`#`
 
 b. The Assistant District Commissioner will usually, and most importantly, be experienced in the particular subject.
 
@@ -962,8 +965,9 @@ b. There should be effective operation of the Unit Forum, and the District Explo
 
 Requirements of Section awards and badges are found in the Association's official publications for the Section.
 
-Rule 4.53 Responsibility for the Programme in a District Scout Network sv
--------------------------------------------------------------------------
+.. rule:: 4.53 Responsibility for the Programme in a District Scout Network
+   :sv:
+
 a. A District Scout Network Commissioner, working with the Programme Coordinator(s) in a District, is responsible for the detailed programme and projects undertaken by the District Scout Network.
 
 b. Members of the District Scout Network should play a leading role in organising projects to facilitate participation in the programme, and where possible, take responsibility for supporting projects by taking on the position of Programme Coordinator.
@@ -990,8 +994,9 @@ d. The young person must register with Headquarters to begin working on the awar
 
 *Further information is available in the relevant Section handbooks.*
 
-Rule 4.56 The Duke of Edinburgh's Award sv
-------------------------------------------
+.. rule:: 4.56 The Duke of Edinburgh's Award
+   :sv:
+
 a. The Scout Association is a Licenced Organisation for the Duke of Edinburgh's Award.
 
 b. Each Country Headquarters is a separate Licenced Organisation.
@@ -1026,13 +1031,14 @@ a. The Queen's Scout Award is the highest youth Award available. It is available
 
 b. The young person must register with Headquarters to begin working on the award and will then be assigned a mentor locally.
 
-c. On completion of the award, Headquarters must be notified and the badge and certificate will be sent to the relevant Queen's Scout Award Coordinator for presentation or, if none appointed, to the relevant Commissioner. :sup:`sv`
+c. On completion of the award, Headquarters must be notified and the badge and certificate will be sent to the relevant Queen's Scout Award Coordinator for presentation or, if none appointed, to the relevant Commissioner.\ :sv:`#`
 
 .. rule:: 4.58
    :blank:
 
-Rule 4.59 Finance and the Scout District sv
--------------------------------------------
+.. rule:: 4.59 Finance and the Scout District
+   :sv:
+
 Certain Rules in this chapter do not apply, without modification, in parts of the British Isles outside England and Wales.
 
 a. Every Scout District is a separate educational charity and is under a statutory obligation to keep proper books of account.
@@ -1110,7 +1116,7 @@ e. Cash received at a specific activity may only be used to defray expenses of t
 
 f. Funds not immediately required must be transferred into a suitable investment account held in the name of the District.
 
-g. District funds must be invested as specified by the Trustee Act 2000. :sup:`sv`
+g. District funds must be invested as specified by the Trustee Act 2000.\ :sv:`#`
 
 h. District funds may be invested in one of the special schemes run by Headquarters.
 
@@ -1140,7 +1146,7 @@ b. This statement, together with all District assets, must be handed to the Coun
 
 c. The County Treasurer will ensure that the statement of account is properly scrutinised, independently examined or audited as appropriate.
 
-d. Any assets remaining after the closure of a District will automatically pass to the County Scout Council which shall use or dispose of these assets at its absolute discretion. :sup:`sv`
+d. Any assets remaining after the closure of a District will automatically pass to the County Scout Council which shall use or dispose of these assets at its absolute discretion.\ :sv:`#`
 
 e. If there is any reasonable prospect of the District being revived the County Scout Council may delay the disposal of these assets for such a period as it thinks proper with a view to returning them to the revived District.
 
