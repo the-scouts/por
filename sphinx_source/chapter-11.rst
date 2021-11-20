@@ -21,7 +21,7 @@ Rule 11.3 Awards for Gallantry
 ------------------------------
 a. Awards for gallantry are for acts which would normally include an element of personal risk.
 
-b. Awards for gallantry are made by the Chief Scout, who is advised by the National Awards Advisory Group, to Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts, Explorer Scouts, Scout Network Members, adult members and Associate Members as determined by the Appointment Process Table 2: Appointments in POR and to Occasional and other Helpers.
+b. Awards for gallantry are made by the Chief Scout, who is advised by the National Awards Advisory Group, to Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts, Explorer Scouts, Scout Network Members, adult members and Associate Members as determined by :table:`2: Appointments` and to Occasional and other Helpers.
 
 c. The Gilt Cross, with a blue and red vertically patterned ribbon and emblems or brooches corresponding to them, is awarded for gallantry in circumstances of moderate risk.
 
@@ -33,7 +33,7 @@ f. A Bar may be awarded to the holder of any gallantry Cross for further acts of
 
 Rule 11.4 Awards for Meritorious Conduct
 ----------------------------------------
-a. Awards for meritorious conduct are made by the Chief Scout, who is advised by the National Awards Advisory Group, to Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts, Explorer Scouts, Scout Network Members, adult Members and Associate Members as determined by the Appointment Process Table 2: Appointments in POR and to Occasional and other Helpers.
+a. Awards for meritorious conduct are made by the Chief Scout, who is advised by the National Awards Advisory Group, to Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts, Explorer Scouts, Scout Network Members, adult Members and Associate Members as determined by :table:`2: Appointments` and to Occasional and other Helpers.
 
 b. Awards are made for conduct involving a high degree of courage, endurance, initiative or devotion to duty, often under suffering, without necessarily involving any element of risk.
 
@@ -45,7 +45,7 @@ e. A Bar may be awarded to the holder of a Medal of Meritorious Conduct for furt
 
 Rule 11.5 Awards for Good Service
 ---------------------------------
-a. Awards for good service are made by the Chief Scout, who is advised by the National Awards Advisory Group, to adult Members or Associate Members as determined by the Appointment Process Table 2: Appointments in POR and, exceptionally, to others who have given valuable service to Scouting over a considerable period.
+a. Awards for good service are made by the Chief Scout, who is advised by the National Awards Advisory Group, to adult Members or Associate Members as determined by :table:`2: Appointments` and, exceptionally, to others who have given valuable service to Scouting over a considerable period.
 
 b. .. body_blank::
 
@@ -77,7 +77,7 @@ c. The award can be issued locally at any time and does not affect any applicati
 
 Rule 11.8 Chief Scout's Length of Service Awards
 ------------------------------------------------
-a. Service in the Association is recognised by the Chief Scout's Length of Service Award at 5, 10, 15, 20, 25, 30, 40, 50, 60 and 70 year Intervals. A certificate and either a cloth emblem or brooch with a white knot and corresponding green number is available to all Members and Associate Members of the Association as determined by the Appointment Process Table 2: Appointments in POR.
+a. Service in the Association is recognised by the Chief Scout's Length of Service Award at 5, 10, 15, 20, 25, 30, 40, 50, 60 and 70 year Intervals. A certificate and either a cloth emblem or brooch with a white knot and corresponding green number is available to all Members and Associate Members of the Association as determined by :table:`2: Appointments`.
 
 b. Qualifying service for the above awards need not be continuous.
 

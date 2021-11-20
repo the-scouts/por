@@ -288,7 +288,7 @@ e. **The County Scout Council**\ :sv:`#`
 
        **Ex-officio Members**
 
-       * All adult members and associate members of the Scout County (see County roles listed in The Appointments Process chapter, Table 2: Appointments)
+       * All adult members and associate members of the Scout County (see County roles listed in :table:`2: Appointments`)
        * Regional Commissioner (in England and Wales)
        * All adults holding the following appointments from the Scout Districts in the County;
 

@@ -478,7 +478,7 @@ e. **The District Scout Council**\ :sv:`#`
 
        **Ex officio**
 
-       * All adult members and associate members of the Scout District (see District roles listed in The Appointments Process chapter, Table 2: Appointments).
+       * All adult members and associate members of the Scout District (see District roles listed in :table:`2: Appointments`).
        * All adults holding the following appointments from the Scout Groups in the District
 
          i. Group Scout Leader
@@ -531,7 +531,7 @@ e. **The District Scout Council**\ :sv:`#`
          * agree the number of members that may be elected to the District Executive Committee (see :rule:`4.25(f)(iii)(Elected Members)`
          * adopt (or re-confirm the adoption of) the constitution of the District Scout Council (see :rule:`4.25(a)`)
 
-       * appoint (or re-appoint) any District Presidents or Vice Presidents (see Appointment Process: Table 2).
+       * appoint (or re-appoint) any District Presidents or Vice Presidents (see :table:`2`).
 
 f. **The District Executive Committee**\ :sv:`#`
 

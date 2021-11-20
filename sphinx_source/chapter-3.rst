@@ -622,7 +622,7 @@ a. **The Group Scout Council**
 
       **Ex Officio Members**
 
-      * All adult members and associate members of the Scout Group (see Group roles listed in The Appointments Process chapter, Table 2: Appointments).
+      * All adult members and associate members of the Scout Group (see Group roles listed in :table:`2: Appointments`).
       * Patrol Leaders;
       * all parents of Squirrel Scouts, Beaver Scouts, Cub Scouts and Scouts;
       * the Sponsoring Authority or its nominee;
@@ -656,7 +656,7 @@ a. **The Group Scout Council**
          * agree the number of members that may be elected to the Group Executive Committee (see :rule:`3.24(b)(iii)(Elected Members)`
          * adopt (or re-confirm the adoption of) the constitution of the Group Scout Council (See introduction to :rule:`3.24`)
 
-       * appoint (or re-appoint) any Group Presidents or Vice Presidents (see Appointment Process: Table 2).
+       * appoint (or re-appoint) any Group Presidents or Vice Presidents (see :table:`2`).
 
 b. **The Group Executive Committee**
 
