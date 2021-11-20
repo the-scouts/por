@@ -141,7 +141,7 @@ q. Headquarters may directly end a period of suspension by excluding a suspended
 
 r. In the case of individuals suspended under :rule:`15.2(b)(vi)`, suspension may be automatically revoked by headquarters once a valid Criminal Records Check Disclosure has been satisfactorily obtained.
 
-*For further information see POR: The Appointment Process*
+*For further information see* :chapter:`POR-TAP`
 
 Rule 15.3 Safeguarding Stay-Away
 --------------------------------
@@ -200,11 +200,11 @@ b. The dismissal of a young person (whether following a suspension or not) must 
 
 Rule 15.6 Termination of adult Membership and Associate Membership
 ------------------------------------------------------------------
-See POR: The Appointment Process, :rule:`16.7`
+See :chapter:`POR-TAP`, :rule:`16.7`
 
 Rule 15.7 Cancellation or non-renewal of adult Appointments
 -----------------------------------------------------------
-See POR: The Appointment Process
+See :chapter:`POR-TAP`
 
 .. rule:: 15.8 Termination of Youth Membership
    :sv:

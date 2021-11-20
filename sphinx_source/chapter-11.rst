@@ -106,4 +106,4 @@ b. The metal badge is for wear with ordinary clothes and does not confer Members
 
 Rule 11.12 Method of Wear
 -------------------------
-For the method of wear of Scout awards see Chapter 10.
+For the method of wear of Scout awards see :chapter:`10`.

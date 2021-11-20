@@ -35,7 +35,7 @@ a. Prior to every activity the Leader must ensure that:
    * if necessary, they---or another member of the party---holds a permit in accordance with the Adventurous Activity Permit Scheme (see :rule:`9.7`);
    * it is the leader holding the permit who takes all decisions for the duration of the activity;
    * there is additional, responsible supervision as required (including for those in the locality of the activity but not actively involved, see Rules :rule:`3.8`, :rule:`3.9`, and :rule:`3.10`), all supervising adults and participants are made aware of who is in charge;
-   * suitable InTouch arrangements (see :rule:`9.3`) and Emergency Procedures (Chapter 7) are in place;
+   * suitable InTouch arrangements (see :rule:`9.3`) and Emergency Procedures (:chapter:`7`) are in place;
    * it is appropriate to the age and abilities of all participants; each participant has received appropriate training;
    * an appropriate weather forecast is obtained and acted upon in terms of selecting the area in which the activity will operate and that each participant is suitably equipped to tackle predicted/possible extremes;
    * all equipment is appropriate for the activity;
@@ -55,13 +55,13 @@ Rule 9.4 Risk Assessment
 ------------------------
 a. Leaders must carry out risk assessments before and during every activity.
 
-b. All activities must be undertaken in accordance with the Association's Safety Policy (see Chapter 2) and adhere to the relevant general and specific activity rules set out in Chapter 9 -- Activities.
+b. All activities must be undertaken in accordance with the Association's Safety Policy (see :chapter:`2`) and adhere to the relevant general and specific activity rules set out in :chapter:`9 -- Activities`.
 
 *Further details are contained in the factsheet* `FS120000 Activities -- Risk Assessment <https://www.scouts.org.uk/volunteers/staying-safe-and-safeguarding/risk-assessments/>`__ *and at* `scouts.org.uk/safety <https://www.scouts.org.uk/volunteers/staying-safe-and-safeguarding/safety/>`__.
 
 Rule 9.5 Emergency Procedure
 ----------------------------
-*Please refer to* `*Chapter 7 Emergency Procedures* <https://www.scouts.org.uk/por/7-emergency-procedures/>`__.
+*Please refer to* :chapter:`7 Emergency Procedures`.
 
 Rule 9.6 Large Scale Events
 ---------------------------
@@ -145,9 +145,9 @@ o. Where a County is selected for national sampling of their self-moderation the
 
 Rule 9.8 Adult Groups undertaking activities
 --------------------------------------------
-a. Members over the age of 18 participating in activities must follow the rules laid out in Chapter 9, with the exception of :rule:`9.7`, :rule:`9.26`, :rule:`9.33(b)` and :rule:`9.33(c)`, :rule:`9.35`, :rule:`9.36(a)`.
+a. Members over the age of 18 participating in activities must follow the rules laid out in :chapter:`9`, with the exception of :rule:`9.7`, :rule:`9.26`, :rule:`9.33(b)` and :rule:`9.33(c)`, :rule:`9.35`, :rule:`9.36(a)`.
 
-b. Where any participant in the activity group is aged under 18, or any adult with additional needs, disabilities or life-limiting conditions who have additional support to access Scouting, all rules in Chapter 9 apply, including :rule:`9.7+`.
+b. Where any participant in the activity group is aged under 18, or any adult with additional needs, disabilities or life-limiting conditions who have additional support to access Scouting, all rules in :chapter:`9` apply, including :rule:`9.7+`.
 
 c. When members over the age of 18 undertake activities covered by :rule:`9.7`, :rule:`9.26`, :rule:`9.33(b)` and :rule:`9.33(c)`, :rule:`9.35`, :rule:`9.36(a)`, members can chose an appropriate management systems for these activities, members may choose to follow existing systems such as the Adventurous Activity Permit Scheme or may put in place other controls.
 
@@ -171,7 +171,7 @@ b. When using external providers overseas, `the guidance for activities overseas
 
 c. External activity providers must provide evidence of holding a public liability insurance policy which covers their activities to a minimum level of 5 million pounds.
 
-d. Members when using external activity providers are required to follow all rules relevant to the activity as contained within Chapter 9, with the exception of any which explicitly relate to the delivery of Scout-led activity.
+d. Members when using external activity providers are required to follow all rules relevant to the activity as contained within :chapter:`9`, with the exception of any which explicitly relate to the delivery of Scout-led activity.
 
 Rule 9.10 Air Activities -- General
 ----------------------------------
@@ -914,7 +914,7 @@ a. Invitations to Scouts and Scouters or Guides and Guiders from abroad to visit
 
 b. Where, in the activity rules in this chapter, reference is made to 'Members of the Scout and Guide Movements' this is taken to mean Members of an Association or Federation recognised by either the World Organisation of the Scout Movement (WOSM) or the World Association of Girl Guides and Girl Scouts (WAGGGS).
 
-c. The Association's Personal Accident and Medical Expenses Insurance Policy does not cover adequately foreign Scouts and Guides visiting the United Kingdom (see Chapter 8).
+c. The Association's Personal Accident and Medical Expenses Insurance Policy does not cover adequately foreign Scouts and Guides visiting the United Kingdom (see :chapter:`8`).
 
 d. Unity (Scout Insurance Services) should be informed of visiting parties or individuals and will advise whether additional cover is required.
 

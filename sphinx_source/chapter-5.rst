@@ -14,7 +14,7 @@ Additionally, the County may have one or more County Scout Active Support Units.
 
 Rule 5.1 Membership of the Scout County
 ---------------------------------------
-a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a disclosure as part of the Personal Enquiry process (see the Safeguarding Policy and POR: The Appointment Process).
+a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a disclosure as part of the Personal Enquiry process (see the Safeguarding Policy and :chapter:`POR-TAP`).
 
 b. There are two types of membership -- Members and Associate Members.
 
@@ -53,7 +53,7 @@ o. Adults become Members by making the Promise and completing a Members' Declara
 
 p. Members of the Movement may:
 
-   * wear the approved uniform (see Chapter 10);
+   * wear the approved uniform (see :chapter:`10`);
    * wear the World Membership badge;
    * receive benefits provided by any Group, District, and County to which the Member belongs and of The Scout Association and the World Organisation of the Scout Movement;
    * wear the World Membership lapel badge.
@@ -68,7 +68,7 @@ s. Associate Members are not required to make the Promise.
 
 t. Associate Members of the Movement may:
 
-   * wear the approved uniform (see Chapter 10);
+   * wear the approved uniform (see :chapter:`10`);
    * receive benefits provided by any Group, District, and County to which the Member belongs, and of The Scout Association.
 
 .. rule:: 5.2 Admission to membership
@@ -238,7 +238,7 @@ a. The registration of a Scout County may be cancelled by Headquarters:
    * if registration is not renewed at the time of the required annual renewal of registration;
    * if the registration of the County is cancelled.
 
-b. When the registration of a Scout County is cancelled the Scout County ceases to exist and action must be taken as described in Chapter 13 to deal with its property and assets.
+b. When the registration of a Scout County is cancelled the Scout County ceases to exist and action must be taken as described in :chapter:`13` to deal with its property and assets.
 
 c. The membership of each Member of the County will cease automatically, unless membership of another County is arranged as directed by the Chief Commissioner.
 
@@ -455,7 +455,7 @@ f. The County Treasurer is elected by the County Scout Council at the Annual Gen
 
 g. No individual may hold more than one of the appointments of County Chair, Secretary or Treasurer of the same Executive Committee. Neither may the appointments be combined in anyway.
 
-h. Other Administrators and Advisers may be appointed by the County Executive Committee with the approval of the County Commissioner as per POR: The Appointment Process.
+h. Other Administrators and Advisers may be appointed by the County Executive Committee with the approval of the County Commissioner as per :chapter:`POR-TAP`.
 
 i. Administrators and Advisers appointments may be terminated by:
 
@@ -473,7 +473,7 @@ a. To hold an adult appointment (in a Scout County a person must have reached th
 .. rule:: 5.19 The Appointment of Adults in the Scout County
    :sv:
 
-a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a criminal records disclosure check as part of the Personal Enquiry process (see the Safeguarding Policy and POR: The Appointment Process).
+a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a criminal records disclosure check as part of the Personal Enquiry process (see the Safeguarding Policy and :chapter:`POR-TAP`).
 
 b. A Personal Enquiry (including where relevant a criminal records disclosure check) will always be required for any person aged 18 or over who meets **any** of the following criteria:\ :sv:`#`
 
@@ -491,13 +491,13 @@ e. Certain roles will require a criminal records disclosure check every five yea
 
 f. A new criminal records disclosure check is not normally required if the individual is simply moving from one role to another within England and Wales; or within Northern Ireland; or within Scotland, provided the procedures have been followed for the initial role, that they have a valid criminal records disclosure check and the person's service has been continuous. However, depending on the result of previous enquiries a further Personal Enquiry may be required.
 
-g. Where roles requiring a criminal records disclosure check (see POR: The Appointment Process) are held in more than one legal jurisdiction (i.e. England and Wales; Scotland; Northern Ireland) separate criminal records disclosure checks must be carried out in all the jurisdictions in which those roles are held.
+g. Where roles requiring a criminal records disclosure check (see :chapter:`POR-TAP`) are held in more than one legal jurisdiction (i.e. England and Wales; Scotland; Northern Ireland) separate criminal records disclosure checks must be carried out in all the jurisdictions in which those roles are held.
 
 h. A Personal Enquiry is initiated by adding the appropriate role to Compass. This should be done as soon as the individual concerned has agreed to take on a role.
 
 i. When completing a Personal enquiry accurate information about the individual must be given.
 
-j. The full rules for the appointment of adults can be found in POR: The Appointment Process.
+j. The full rules for the appointment of adults can be found in :chapter:`POR-TAP`.
 
 k. Occasional Helpers (including parents) who are required to undertake a Personal Enquiry (see :rule:`5.19(a)` and :rule:`5.19(b)`) must either be entered directly into Compass or recorded using the Association's official Adult Information Form and then be transferred accurately into Compass (form available from https://www.scouts.org.uk/volunteers/running-things-locally/recruiting-and-managing-volunteers/appointing/appointment-forms/). The appropriate criminal records disclosure check application process must then be followed.\ :sv:`#`
 

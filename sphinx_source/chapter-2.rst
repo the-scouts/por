@@ -248,7 +248,7 @@ a. **All members**
    i. Stop any activity if they have concerns over its safety, and must be reminded of this frequently.
    ii. Undertake risk assessments for the activities they undertake, documenting and communicating these with all involved including volunteers, young people and parents.
    iii. Share good practice about how to apply this policy, and making sure that failures to apply this policy are brought to the attention of those involved and resolved through appropriate processes.
-   iv. Implement emergency procedures -- evacuation in case of fire or other significant incident. Report incidents that cause injuries, or incidents that had the potential to cause injuries, at their earliest opportunity through the appropriate channels (in accordance with Chapter 7).
+   iv. Implement emergency procedures -- evacuation in case of fire or other significant incident. Report incidents that cause injuries, or incidents that had the potential to cause injuries, at their earliest opportunity through the appropriate channels (in accordance with :chapter:`7`).
 
 b. **Leader in charge**
 
@@ -259,7 +259,7 @@ c. **Commissioners and line managers**
    i. Take responsibility for assuring that this policy is being implemented in their area of responsibility.
    ii. Have the authority to undertake the requirements outlined above, or tasks required to support the requirements, and can be delegated as necessary.
    iii. Have the responsibility for making sure that the policy is followed -- this can never be delegated.
-   iv. When incidents are reported, managers must make arrangements to complete a proportionate review, and learn and share lessons from incidents. (in accordance with Chapter 7
+   iv. When incidents are reported, managers must make arrangements to complete a proportionate review, and learn and share lessons from incidents. (in accordance with :chapter:`7`
 
 d. **Executive Committees and Trustees**
 

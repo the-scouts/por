@@ -12,7 +12,7 @@ A Scout Group comprises one or more of any or all of the following: a Squirrel S
 
 Rule 3.1 Membership of the Scout Group
 --------------------------------------
-a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a disclosure as part of the Personal Enquiry process (see the Safeguarding Policy and POR: The Appointment Process).
+a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a disclosure as part of the Personal Enquiry process (see the Safeguarding Policy and :chapter:`POR-TAP`).
 
 b. There are two types of membership -- Members and Associate Members.
 
@@ -50,7 +50,7 @@ p. Adults become Members by making the Promise and completing a Members' Declara
 
 q. Members of the Movement may:
 
-   * wear the approved uniform (see Chapter 10);
+   * wear the approved uniform (see :chapter:`10`);
    * wear the World Membership badge;
    * receive benefits provided by any Group, District, and County to which the Member belongs and of The Scout Association and the World Organisation of the Scout Movement;
    * wear the World Membership lapel badge.
@@ -65,7 +65,7 @@ t. Associate Members are not required to make the Promise.
 
 u. Associate Members of the Movement may:
 
-   * wear the approved uniform (see Chapter 10);
+   * wear the approved uniform (see :chapter:`10`);
    * receive benefits provided by any Group, District, and County to which the Member belongs, and of The Scout Association.
 
 Rule 3.2 Admission to membership
@@ -156,13 +156,13 @@ h. The recommended minimum ratio for outdoor activities held away from the usual
 
    Nights away residential experiences are not permitted for the Squirrel Scout section.
 
-i. For all Scouting activities a risk assessment should be carried out as stated in :rule:`9.4`. This risk assessment cannot override the minimum requirements stated in :rule:`3.7(e)` and :rule:`3.7(h)` or those required by the activity rules in POR chapter 9.
+i. For all Scouting activities a risk assessment should be carried out as stated in :rule:`9.4`. This risk assessment cannot override the minimum requirements stated in :rule:`3.7(e)` and :rule:`3.7(h)` or those required by the activity rules in :chapter:`9`.
 
 **Age Range, Uniform and Programme**
 
 j. The core age range of the Squirrel Scout Drey is from 4 years to 6 years.
 
-k. Squirrel Scouts wear the approved uniform with distinguishing badges and scarves as described in Chapter 10.
+k. Squirrel Scouts wear the approved uniform with distinguishing badges and scarves as described in :chapter:`10`.
 
 l. All Squirrel Scouts should be offered a high quality balanced Programme, run in accordance with the Association's official publications for the Section.
 
@@ -211,13 +211,13 @@ g. Other than two adults being present there is no minimum ratio of adults to Be
 
 h. The recommended minimum ratio both for outdoor activities held away from the usual meeting place and for nights away experiences is 1 adult to 6 Beaver Scouts plus the leader in charge. However, as a minimum, at least two adults must be present overnight. Only in the event of an emergency should an adult be alone overnight with young people on a nights away experience.
 
-i. For all Scouting activities a risk assessment should be carried out as stated in :rule:`9.4`. This risk assessment cannot override the minimum requirements stated in :rule:`3.8(e)` and :rule:`3.8(h)` or those required by the activity rules in POR chapter 9.
+i. For all Scouting activities a risk assessment should be carried out as stated in :rule:`9.4`. This risk assessment cannot override the minimum requirements stated in :rule:`3.8(e)` and :rule:`3.8(h)` or those required by the activity rules in :chapter:`9`.
 
 **Age Range, Uniform and Programme**
 
 j. The core age range of the Beaver Scout Colony is from 6 years to 8 years. A young person may join at 5¾ years and remain until 8½ years (see also :rule:`3.12(b)`).
 
-k. Beaver Scouts wear the approved uniform with distinguishing badges and scarves as described in Chapter 10.
+k. Beaver Scouts wear the approved uniform with distinguishing badges and scarves as described in :chapter:`10`.
 
 l. All Beaver Scouts should be offered a high quality balanced Programme, run in accordance with the Association's official publications for the Section.
 
@@ -271,13 +271,13 @@ g. Other than two adults being present there is no minimum ratio of adults to Cu
 
 h. The recommended minimum ratio both for outdoor activities held away from the usual meeting place and for nights away experiences is 1 adult to 8 Cub Scouts plus the leader in charge. However, as a minimum, at least two adults must be present overnight. Only in the event of an emergency should an adult be alone overnight with young people on a nights away experience.
 
-i. For all Scouting activities a risk assessment should be carried out as stated in :rule:`9.4`. This risk assessment cannot override the minimum requirements stated in :rule:`3.9(e)` and :rule:`3.9(h)` or those required by the activity rules in chapter 9.
+i. For all Scouting activities a risk assessment should be carried out as stated in :rule:`9.4`. This risk assessment cannot override the minimum requirements stated in :rule:`3.9(e)` and :rule:`3.9(h)` or those required by the activity rules in :chapter:`9`.
 
 **Age Range, Uniform and Programme**
 
 j. The core age range of the Cub Scout Pack is from 8 years to 10½ years. A young person may join at 7½ years and remain in the Pack until their 11th birthday. For further flexibility see also :rule:`3.12(b)`.
 
-k. Cub Scouts wear the approved uniform with distinguishing badges and scarves as described in Chapter 10.
+k. Cub Scouts wear the approved uniform with distinguishing badges and scarves as described in :chapter:`10`.
 
 l. All Cub Scouts should be offered a high quality balanced Programme run in accordance with the Association's official publications for the Section.
 
@@ -331,13 +331,13 @@ g. Other than two adults being present there is no minimum ratio of adults to Sc
 
 h. For outdoor activities held away from the usual meeting place and for Nights Away experiences led by a Nights Away Permit holder, the recommended minimum ratio is 1 adult to 12 scouts. However, as a minimum, at least two adults must be present overnight. Only in the event of an emergency should an adult be alone overnight with young people on a nights away experience.
 
-i. For all Scouting activities a risk assessment should be carried out as stated in :rule:`9.4`. This risk assessment cannot override the minimum requirements stated in :rule:`3.10(e)` and :rule:`3.10(h)` or those required by the activity rules in chapter 9.
+i. For all Scouting activities a risk assessment should be carried out as stated in :rule:`9.4`. This risk assessment cannot override the minimum requirements stated in :rule:`3.10(e)` and :rule:`3.10(h)` or those required by the activity rules in :chapter:`9`.
 
 **Age Range, Uniform and Programme**
 
 j. The core age range of the Scout Troop is from 10½ years to 14 years. A young person may join at 10 years and remain until 14½ years. For further flexibility see :rule:`3.12(b)`.
 
-k. Scouts wear the approved Scout, Sea Scout or Air Scout uniform as appropriate with distinguishing badges and scarves as described in Chapter 10.
+k. Scouts wear the approved Scout, Sea Scout or Air Scout uniform as appropriate with distinguishing badges and scarves as described in :chapter:`10`.
 
 l. All Scouts should be offered a high quality balanced Programme run in accordance with the Association's official publications for the Section.
 
@@ -465,7 +465,7 @@ f. No restriction on recruitment may be made which contravenes the provisions of
 
 g. The organisation which sponsors the Group shall appoint a person or committee to act as the Sponsoring Authority. The District Commissioner must be informed of this appointment.
 
-h. In the event of a disagreement between the Sponsoring Authority and the Group Scout Leader, the matter must be referred to the District Commissioner. (See Chapter 15 for further information)
+h. In the event of a disagreement between the Sponsoring Authority and the Group Scout Leader, the matter must be referred to the District Commissioner. (See :chapter:`15` for further information)
 
 Rule 3.16 Joint Scout/Guide Groups
 ----------------------------------
@@ -519,7 +519,7 @@ b. The District Commissioner and the District Executive Committee must be satisf
 
      * accepts the Association's policies, rules and procedures;
      * undertakes to form a Group Scout Council and a Group Executive Committee as soon as possible but in any case not later than three months after the date of registration;
-     * will give due emphasis to the key policies of the Association (see Chapter 2);
+     * will give due emphasis to the key policies of the Association (see :chapter:`2`);
      * will initiate a programme of training in accordance with the training policy of the Association;
      * Sponsored Scout Groups.
 
@@ -584,7 +584,7 @@ a. The registration of a Scout Group may be cancelled by Headquarters:
    * if registration is not renewed at the time of the required annual renewal of registration;
    * if the registration of the District is cancelled.
 
-b. When the registration of a Scout Group is cancelled the Scout Group ceases to exist and action must be taken as described in Chapter 13 to deal with its property and assets.
+b. When the registration of a Scout Group is cancelled the Scout Group ceases to exist and action must be taken as described in :chapter:`13` to deal with its property and assets.
 
 c. Any Section within a Group may be closed by the District Commissioner and the District Executive Committee acting together, following consultation with the Sponsoring Authority, if any.
 
@@ -766,7 +766,7 @@ e. The Group Secretary and Group Treasurer are elected by the Group Scout Counci
 
 f. No individual should hold more than one of the appointments of Group Chair, Secretary or Treasurer of the same Executive Committee. Neither can these appointments be combined in anyway.
 
-g. Other Administrators and Advisers may be appointed by the Group Executive Committee with the approval of the Group Scout Leader as per POR: The Appointment Process.
+g. Other Administrators and Advisers may be appointed by the Group Executive Committee with the approval of the Group Scout Leader as per :chapter:`POR-TAP`.
 
 h. Administrators and Advisers appointments may be terminated by:
 
@@ -783,7 +783,7 @@ a. To hold an adult appointment in a Scout Group a person must have reached the 
 
 Rule 3.27 The Appointment of Adults
 -----------------------------------
-a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a disclosure as part of the Personal Enquiry process (see the Safeguarding Policy and POR: The Appointment Process).
+a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a disclosure as part of the Personal Enquiry process (see the Safeguarding Policy and :chapter:`POR-TAP`).
 
 b. A Personal Enquiry (including where relevant a criminal records disclosure check) will always be required for any person aged 18 or over who meets any of the following criteria:\ :sv:`#`
 
@@ -801,13 +801,13 @@ e. Certain roles will require a criminal records disclosure check every five yea
 
 f. A new criminal records disclosure check is not normally required if the individual is simply moving from one role to another within England and Wales; or within Northern Ireland; or within Scotland, provided the procedures have been followed for the initial role, that they have a valid criminal records disclosure check and the person's service has been continuous. However, depending on the result of previous enquiries a further Personal Enquiry may be required.
 
-g. Where roles requiring a criminal records disclosure check (see POR: The Appointment Process) are held in more than one legal jurisdiction (i.e. England and Wales; Scotland; Northern Ireland) separate criminal records disclosure checks must be carried out in all the jurisdictions in which those roles are held.
+g. Where roles requiring a criminal records disclosure check (see :chapter:`POR-TAP`) are held in more than one legal jurisdiction (i.e. England and Wales; Scotland; Northern Ireland) separate criminal records disclosure checks must be carried out in all the jurisdictions in which those roles are held.
 
 h. A Personal Enquiry is initiated by adding the appropriate role to Compass. This should be done as soon as the individual concerned has agreed to take on a role.
 
 i. When completing a Personal Enquiry accurate information about the individual must be given.
 
-j. The full rules for the appointment of adults can be found in POR: The Appointment Process.
+j. The full rules for the appointment of adults can be found in :chapter:`POR-TAP`.
 
 k. Occasional Helpers (including parents) who are required to undertake a Personal enquiry (see :rule:`3.27(a)` and :rule:`3.27(b)`) must either be entered directly into Compass or recorded using the Association's official Joining Forms and then be transferred accurately into Compass (available from www.scouts.org.uk). The appropriate on-line or paper based criminal records disclosure check application process must then be followed.\ :sv:`#`
 

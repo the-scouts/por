@@ -17,7 +17,7 @@ It is impossible to set out in detail rules to cover every eventuality, which me
 
 It is important that everyone concerned strives to exercise that judgement in ways that encourage the development and growth of the Movement.
 
-*Policy, Organisation and Rules (POR*) lays down the structure of The Scout Association in the United Kingdom, the Channel Islands, the Isle of Man and Gibraltar. It defines information about training and management.
+*Policy, Organisation and Rules (POR)* lays down the structure of The Scout Association in the United Kingdom, the Channel Islands, the Isle of Man and Gibraltar. It defines information about training and management.
 
 Each Rule is distinguished by a Rule number, which references the Chapter in which it is located.
 
@@ -110,4 +110,4 @@ The above organisational differences and differences in legislation mean that so
 
 **POR: The Appointment Process** -- provides the rules for the appointing adults in Scouting. The rules form part of Policy, Organisation and Rules and must be adhered to.
 
-**Leaders, Managers and Supporters** -- these groups of roles are defined in *POR: The Appointment Process* and have replaced any reference to those holding Warranted Appointments.
+**Leaders, Managers and Supporters** -- these groups of roles are defined in :chapter:`POR-TAP` and have replaced any reference to those holding Warranted Appointments.

@@ -88,7 +88,7 @@ a. **Definitions**
 
       * All section logos
 
-      * The pre--May 2018 UK fleur de lis/arrowhead, protected under Registered UK Trade Mark `UK00000922043 <https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00000922043>`__ (not to be used on any new item by local Scouting after May 2018, except on flags as specified in Chapter 12 and in the maintenance of Scout archives. It will remain a protected mark)
+      * The pre--May 2018 UK fleur de lis/arrowhead, protected under Registered UK Trade Mark `UK00000922043 <https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00000922043>`__ (not to be used on any new item by local Scouting after May 2018, except on flags as specified in :chapter:`12` and in the maintenance of Scout archives. It will remain a protected mark)
 
       * The pre--May 2018 UK Scout logo, Registered UK Trade Mark `UK00002252954 <https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00002252954>`__ (not to be used by local Scouting after May 2020, but will remain a protected mark.
 

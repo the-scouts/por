@@ -12,7 +12,7 @@ A Scout District comprises several Scout Groups, one or more Explorer Scout Unit
 
 Rule 4.1 Membership of the Scout District
 -----------------------------------------
-a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a disclosure as part of the Personal Enquiry process (see the Safeguarding Policy and `POR: The Appointment Process <https://www.scouts.org.uk/por/the-appointment-process/>`__).
+a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a disclosure as part of the Personal Enquiry process (see the Safeguarding Policy and :chapter:`POR-TAP`).
 
 b. There are two types of membership -- Members and Associate Members.
 
@@ -51,7 +51,7 @@ p. Adults become Members by making the Promise and completing a Members' Declara
 
 q. Members of the Movement may:
 
-   * wear the approved uniform (see Chapter 10);
+   * wear the approved uniform (see :chapter:`10`);
    * wear the World Membership badge;
    * receive benefits provided by any Group, District, and County to which the Member belongs and of The Scout Association and the World Organisation of the Scout Movement;
    * wear the World Membership lapel badge.
@@ -68,7 +68,7 @@ u. Associate Members are not required to make the Promise.
 
 v. Associate Members of the Movement may:
 
-   * wear the approved uniform (see Chapter 10);
+   * wear the approved uniform (see :chapter:`10`);
    * receive benefits provided by any Group, District, and County to which the Member belongs, and of The Scout Association.
 
 Rule 4.2 Admission to membership
@@ -175,7 +175,7 @@ j. Other than two adults being present there is no minimum ratio of adults to Ex
 
 k. There is no recommended minimum ratio for outdoor activities held away from the usual meeting place or nights away experiences. However, as a minimum, for all Nights Away experiences led by a Nights Away Permit Holder at least two adults must be present overnight. Only in the event of an emergency should an adult be alone overnight with young people on a residential experience.
 
-l. For all Scouting activities a risk assessment should be carried out as stated in :rule:`9.4`. This risk assessment cannot override the minimum requirements stated in :rule:`4.7(h)` or those required by the activity rules in `chapter 9 <https://www.scouts.org.uk/por/9-activities/>`__.
+l. For all Scouting activities a risk assessment should be carried out as stated in :rule:`9.4`. This risk assessment cannot override the minimum requirements stated in :rule:`4.7(h)` or those required by the activity rules in :chapter:`9`.
 
 m. The age range of the Section is from 14 years to 18 years old. The age for moving from the Scout Section is between 13½ and 14½ years and moving to the Scout Network at 18 years. The leaving age is upon reaching the 18th birthday. Under no circumstances can anyone aged 18 years or over, regardless of ability remain in a youth section (i.e. Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts or Explorer Scouts).
 
@@ -183,7 +183,7 @@ m. The age range of the Section is from 14 years to 18 years old. The age for mo
 
 n. The Explorer Scout Unit should have opportunities for the members to take part in the decision making process. Any forum or committee should have both Explorer Scouts and Leaders working together.
 
-o. Explorer Scouts wear the approved Explorer Scout, Sea Scout or Air Scout uniform with distinguishing emblems and scarves as described in the Chapter 10.
+o. Explorer Scouts wear the approved Explorer Scout, Sea Scout or Air Scout uniform with distinguishing emblems and scarves as described in the :chapter:`10`.
 
 p. The following minimum standards are laid down for Explorer Scout Units
 
@@ -228,11 +228,11 @@ d. The age range of the Section is from 18 years to 25 years. The age from movin
 
 e. The District Scout Network should provide opportunities for the Members to take part in the decision making process. Any forum or committee should have both Scout Network Members and the District Scout Network Commissioner working together.
 
-f. Scout Network Members wear the approved Scout Network, Sea Scout Network or Air Scout Network uniform with distinguishing emblems and scarves as described in `Chapter 10 <https://www.scouts.org.uk/por/10-uniform-badges-and-emblems/>`__.
+f. Scout Network Members wear the approved Scout Network, Sea Scout Network or Air Scout Network uniform with distinguishing emblems and scarves as described in :chapter:`10`.
 
 g. The following minimum standards are laid down for District Scout Networks:
 
-   * Leadership -- every District Scout Network must have a District Scout Network Commissioner appointed in line with POR: The Appointment Process.
+   * Leadership -- every District Scout Network must have a District Scout Network Commissioner appointed in line with :chapter:`POR-TAP`.
    * Training -- the training of Scout Network Members must be in accordance with the Association's official publications for the Section.
    * Nights Away -- every Scout Network Member must have the opportunity of attending a camp every year.
 
@@ -414,7 +414,7 @@ a. The registration of a Scout District may be cancelled by Headquarters:
    * if registration is not renewed at the time of the required annual renewal of registration;
    * if the registration of the County is cancelled.
 
-b. When the registration of a Scout District is cancelled the Scout District ceases to exist and action must be taken as described in Chapter 13 to deal with its property and assets.
+b. When the registration of a Scout District is cancelled the Scout District ceases to exist and action must be taken as described in :chapter:`13` to deal with its property and assets.
 
 c. The membership of each Member of the District will cease automatically, unless membership of another District is arranged as directed by the County Commissioner.
 
@@ -649,7 +649,7 @@ f. The District Treasurer is elected by the District Scout Council at the Annual
 
 g. No individual may hold more than one of the appointments of District Chair, Secretary or Treasurer of the same Executive Committee. Neither may the appointments be combined in anyway.
 
-h. Other Administrators and Advisers may be appointed by the District Executive Committee with the approval of the District Commissioner as per POR: The Appointment Process.
+h. Other Administrators and Advisers may be appointed by the District Executive Committee with the approval of the District Commissioner as per :chapter:`POR-TAP`.
 
 i. Administrators and Advisers appointments may be terminated by:
 
@@ -667,7 +667,7 @@ a. To hold an adult appointment in a Scout District a person must have reached t
 .. rule:: 4.28 The Appointment of Adults in the Scout District
    :sv:
 
-a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a criminal records disclosure check as part of the Personal Enquiry process (see the Safeguarding Policy and POR: The Appointment Process).
+a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a criminal records disclosure check as part of the Personal Enquiry process (see the Safeguarding Policy and :chapter:`POR-TAP`).
 
 b. A Personal Enquiry (including where relevant a criminal records disclosure check) will always be required for any person aged 18 or over who meets **any** of the following criteria:\ :sv:`#`
 
@@ -685,13 +685,13 @@ e. Certain roles will require a criminal records disclosure check every five yea
 
 f. A new criminal records disclosure check is not normally required if the individual is simply moving from one role to another within England and Wales; or within Northern Ireland; or within Scotland, provided the procedures have been followed for the initial role, that they have a valid criminal records disclosure check and the person's service has been continuous. However, depending on the result of previous enquiries a further Personal Enquiry may be required.
 
-g. Where roles requiring a criminal records disclosure check (`see POR: The Appointment Process <https://www.scouts.org.uk/por/the-appointment-process/>`__) are held in more than one legal jurisdiction (i.e. England and Wales; Scotland; Northern Ireland) separate criminal records disclosure checks must be carried out in all the jurisdictions in which those roles are held.
+g. Where roles requiring a criminal records disclosure check (see :chapter:`POR-TAP`) are held in more than one legal jurisdiction (i.e. England and Wales; Scotland; Northern Ireland) separate criminal records disclosure checks must be carried out in all the jurisdictions in which those roles are held.
 
 h. A Personal Enquiry is initiated by adding the appropriate role to Compass. This should be done as soon as the individual concerned has agreed to take on a role.
 
 i. When completing a Personal Enquiry accurate information about the individual must be given.
 
-j. The full rules for the appointment of adults can be found in POR: The Appointment Process.
+j. The full rules for the appointment of adults can be found in :chapter:`POR-TAP`.
 
 k. Occasional Helpers (including parents) who are required to undertake a Personal Enquiry (see :rule:`4.28(a)` and :rule:`4.28(b)`) must either be entered directly into Compass or recorded using the Association's official Joining Forms and then be transferred accurately into Compass (available from https://www.scouts.org.uk/). The appropriate on-line or paper based criminal records disclosure check application process must then be followed.\ :sv:`#`
 
