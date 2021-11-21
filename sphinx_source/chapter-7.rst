@@ -1,14 +1,18 @@
 :Chapter: 7
 :Title: EMERGENCY PROCEDURES
 
-Rule 7.1 Communication
-----------------------
+
+
+.. rule:: 7.1 Communication
+
 a. For all Scouting activities each party must implement an 'InTouch' system.
 
 b. Details of what this needs to include are contained in the Factsheet FS120075 InTouch.
 
-Rule 7.2 Emergency Procedures
------------------------------
+
+
+.. rule:: 7.2 Emergency Procedures
+
 a. All accidents to individuals or involving damage to property must be reported. (See :rule:`7.4`).
 
 b. In the case of an accident to an individual, a member of the party or their designate must:
@@ -63,12 +67,16 @@ p. In the case of a fatal incident, or an incident that Headquarters considers c
 
 q. Leaders are also required to notify the appropriate Government Agency when accidents occur during Air Activities or during Water Activities in coastal or deep sea waters.
 
-Rule 7.3 Overriding Controls
-----------------------------
+
+
+.. rule:: 7.3 Overriding Controls
+
 a. For safety reasons only, the District or County Commissioner (or their representatives) of the area where the activity takes place has an overriding authority (in consultation with the home Commissioner) to direct that any activity should be postponed, stopped or cancelled.
 
-Rule 7.4 Accident Reporting
----------------------------
+
+
+.. rule:: 7.4 Accident Reporting
+
 a. Headquarters (via the Scout Information Centre) must be informed at the earliest suitable opportunity if any person, whether a Member of the Movement or not:
 
    * suffers personal injury or illness where that injury or illness necessitates medical treatment (i.e. treatment by a doctor, dentist, nurse, paramedic or at a hospital). Minor injuries or illness not requiring such treatment must be recorded locally, with Headquarters being informed if they subsequently receive medical attention;

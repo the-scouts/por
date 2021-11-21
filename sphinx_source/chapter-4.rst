@@ -10,8 +10,10 @@ Scouting in the United Kingdom is organised in Scout Groups, Scout Districts, Sc
 
 A Scout District comprises several Scout Groups, one or more Explorer Scout Units and one District Scout Network. Additionally a District may have one or more District Scout Active Support Units and Special Groups.
 
-Rule 4.1 Membership of the Scout District
------------------------------------------
+
+
+.. rule:: 4.1 Membership of the Scout District
+
 a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a disclosure as part of the Personal Enquiry process (see the Safeguarding Policy and :chapter:`POR-TAP`).
 
 b. There are two types of membership -- Members and Associate Members.
@@ -71,8 +73,10 @@ v. Associate Members of the Movement may:
    * wear the approved uniform (see :chapter:`10`);
    * receive benefits provided by any Group, District, and County to which the Member belongs, and of The Scout Association.
 
-Rule 4.2 Admission to membership
---------------------------------
+
+
+.. rule:: 4.2 Admission to membership
+
 a. The decision to admit anyone to membership of a Scout Group rests with the Group Scout Leader, in accordance with The Scout Association's policies. In the case of a Sponsored Scout Group, this decision should also be subject to any recruitment policy (if any) defined in any sponsorship agreement.
 
 b. The Group Scout Leader will generally delegate responsibility for admissions to the Leader in charge of the Section concerned. This decision must be made in accordance with The Scout Association's policies.
@@ -85,8 +89,10 @@ e. Explorer Scouts who turn 18 years of age will automatically become Members of
 
 f. There may be situations where a Group does not have the capacity or resources to meet the needs of a young person or make the reasonable adjustments necessary. In such instances, the District Commissioner will work with the parents/carer and the young person themselves to find an alternative Scouting provision.
 
-Rule 4.3 Forfeit of membership
-------------------------------
+
+
+.. rule:: 4.3 Forfeit of membership
+
 a. Beaver Scouts, Cub Scouts and Scouts forfeit membership if they leave the Group and do not immediately join another Section.
 
 b. Explorer Scouts forfeit membership if they leave the Explorer Scout Unit and do not immediately join another Section.
@@ -95,8 +101,10 @@ c. Scout Network members who hold no other adult appointment forfeit membership 
 
 d. Membership is held continuously during the transfer from one Section to the next including the transfer from Scouts to Explorer Scouts and Explorer Scouts to Scouts Network.
 
-Rule 4.4 Transfer of membership
--------------------------------
+
+
+.. rule:: 4.4 Transfer of membership
+
 a. .. body_blank::
 
 b. .. body_blank::
@@ -107,8 +115,10 @@ d. If the address of the District Secretary is not known, the information should
 
 e. Notification should also be sent to Headquarters in respect of Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts, Explorer Scouts and members of Scout Network who are going to live abroad.
 
-Rule 4.5 Annual Census
-----------------------
+
+
+.. rule:: 4.5 Annual Census
+
 a. The number of Members and Associate Members must be returned in an annual census of the Group or District.
 
 b. Whilst it is necessary for Groups to hold accurate records of the names and personal details of its Members and Associate Members and for adults (aged 18 or over) to be accurately recorded on Compass it is not necessary for these to be passed to the District or County Secretary at the date of the annual census.
@@ -117,8 +127,10 @@ c. Whilst it is necessary for Districts to hold accurate records of the names an
 
 d. .. body_blank::
 
-Rule 4.6 Mixed Membership
--------------------------
+
+
+.. rule:: 4.6 Mixed Membership
+
 a. .. body_blank::
 
 b. .. body_blank::
@@ -143,8 +155,10 @@ i. Special situations are defined as being where:
 
 The decision whether Groups or Explorer Scout Units may become an exception to the policy is made by the District Commissioner in consultation with the County Commissioner.
 
-Rule 4.7 Explorer Scout Units
------------------------------
+
+
+.. rule:: 4.7 Explorer Scout Units
+
 a. Explorer Scout Units are part of a District's provision of Scouting.
 
 b. Explorer Scout Units may be attached to a Scout Group but are not a formal part of the Group.
@@ -197,8 +211,10 @@ q. The District Commissioner, with the District Team, is required where necessar
 
 r. If an Explorer Scout Unit fails to reach the minimum standard for two consecutive years it may be closed by the District Commissioner with the approval of the District Executive Committee. If an Explorer Scout Unit fails to reach the minimum standard for three years it must be closed.
 
-Rule 4.8 Explorer Scout Unit Partnerships with Groups
------------------------------------------------------
+
+
+.. rule:: 4.8 Explorer Scout Unit Partnerships with Groups
+
 a. An Explorer Scout Unit and a Scout Group wishing to work together should enter into a Partnership Agreement.
 
 b. The purpose of the Partnership Agreement is to help an Explorer Scout Unit and Scout Group to understand the operational relationship between the two.
@@ -214,6 +230,8 @@ d. The District Explorer Scout Commissioner should ensure that:
 e. Partnership Agreements are not intended to be legally binding documents. Each Agreement should include the following sentence: 'This document is not intended to create legal relations'.
 
 *Further information and examples of Partnership Agreements can be obtained from the Scout Information Centre.*
+
+
 
 .. rule:: 4.9 District Scout Networks
    :sv:
@@ -244,14 +262,18 @@ j. If a District Scout Network fails to reach the minimum standard for three yea
 
 k. A District Scout Network should have a link agreement in place with the Explorer Scout provision within the District.
 
-Rule 4.10 Joint Units
----------------------
+
+
+.. rule:: 4.10 Joint Units
+
 Whilst formal Joint Units are not permitted between Explorer Scout Units or Scout Networks and sections of Girlguiding, joint activities are encouraged.
 
 *Further advice and information is available from the Scout Information Centre*.
 
-Rule 4.11 The District Scout Active Support Units
--------------------------------------------------
+
+
+.. rule:: 4.11 The District Scout Active Support Units
+
 a. The District Commissioner, in consultation with the District Executive Committee may form District Scout Active Support Units.
 
 b. The purpose of District Scout Active Support Units is to provide active support to Scouting in the District, as identified in the service agreement.
@@ -285,8 +307,10 @@ k. If a District Scout Active Support Unit fails to reach the minimum standards 
 
 l. If a District Scout Active Support Unit fails to reach the minimum standard for three years it must be closed.
 
-Rule 4.12 Special Groups (Scouting for people in hospital or with severe disabilities)
---------------------------------------------------------------------------------------
+
+
+.. rule:: 4.12 Special Groups (Scouting for people in hospital or with severe disabilities)
+
 a. A special provision may be developed to enable young people with a shared protected characteristic to access Scouting e.g. in a hospice or hospital. Special provisions can be used where it is not possible or appropriate for a young person to access mainstream Scouting;
 
 b. Operations which do not follow the standard age range of Sections must be approved by the District Commissioner in consultation with those providing special scouting provision e.g. hospice. Age range flexibility should meet the required standards outlined in :rule:`3.12(b)`.
@@ -301,8 +325,10 @@ f. The Gateway Award, as an alternative to the Duke of Edinburgh Award, may be a
 
 Further guidance on the formation and operation of Special Groups is available from Headquarters. Guidelines for District Commissioners and sample forms are available from the Scout Information Centre.
 
-Rule 4.13 The Formation and Registration of Scout Districts
------------------------------------------------------------
+
+
+.. rule:: 4.13 The Formation and Registration of Scout Districts
+
 a. Scout Districts are registered by Headquarters on the recommendation of the County Commissioner and of the Country Headquarters, where appropriate.
 
 b. Application for registration must be completed and signed by the prospective District Secretary and District Commissioner.
@@ -327,28 +353,38 @@ f. If registration is recommended, Headquarters will issue a Certificate of Regi
 
 g. Notification of registration will be sent by Headquarters to the Country Headquarters if appropriate.
 
-Rule 4.14 The Formation and Closure of Explorer Scout Units
------------------------------------------------------------
+
+
+.. rule:: 4.14 The Formation and Closure of Explorer Scout Units
+
 The opening and closing of Explorer Scout Units is the responsibility of the District Commissioner in consultation with the District Explorer Scout Commissioner, District Executive Committee and Group Scout Leaders.
 
-Rule 4.15 The Formation and Closure of District Scout Networks
---------------------------------------------------------------
+
+
+.. rule:: 4.15 The Formation and Closure of District Scout Networks
+
 The opening and closing of the District Scout Network is the responsibility of the District Commissioner in consultation with the District Scout Network Commissioner, District Executive Committee and Assistant County Commissioner Scout Network.\ :sv:`#`
 
-Rule 4.16 Annual Renewal of District and Registrations
-------------------------------------------------------
+
+
+.. rule:: 4.16 Annual Renewal of District and Registrations
+
 a. Registration is valid only until the 31 March of the calendar year following the issue of the Certificate of Registration.
 
 b. Registration must be renewed annually by completing and submitting an annual registration and census return as directed by Headquarters. Registration renewal also requires the payment of the Headquarters Membership Subscription and any District, County and Country Membership Subscriptions payable.
 
-Rule 4.17 Changes in District Registration
-------------------------------------------
+
+
+.. rule:: 4.17 Changes in District Registration
+
 a. If it is required to change the registration of a District or to amalgamate it with another District application must be made to Headquarters by the County Secretary.
 
 b. Such changes are made with the approval of the County Commissioner after consultation with the County Executive Committee.
 
-Rule 4.18 Suspension of District Registration
----------------------------------------------
+
+
+.. rule:: 4.18 Suspension of District Registration
+
 a. Suspension is a purely temporary measure.
 
 b. A District may have its registration suspended by the County Commissioner, or the County Executive Committee. The suspension must be approved by the Regional Commissioner.
@@ -371,8 +407,10 @@ i. A County Commissioner or County Executive Committee who suspends a District m
 
 j. The County Commissioner should consult Country Headquarters as to how best to resolve the underlying problem which led to the suspension.
 
-Rule 4.19 Suspension of Explorer Scout Units
---------------------------------------------
+
+
+.. rule:: 4.19 Suspension of Explorer Scout Units
+
 a. Suspension is a purely temporary measure.
 
 b. A Explorer Scout Unit may be suspended by the District Commissioner in consultation with the District Executive Committee and District Explorer Scout Commissioner.
@@ -387,8 +425,10 @@ e. During suspension no member of the Explorer Scout Unit may wear uniform or ba
 
 f. A District Commissioner who suspends a Explorer Scout Unit must report the matter with full details to the County Commissioner.
 
-Rule 4.20 Suspension of District Scout Networks
------------------------------------------------
+
+
+.. rule:: 4.20 Suspension of District Scout Networks
+
 a. Suspension is a purely temporary measure.
 
 b. A District Scout Network may be suspended by the District Commissioner in consultation with the District Executive Committee and the District Scout Network Commissioner and reported to the Assistant County Commissioner Scout Network.
@@ -403,8 +443,10 @@ e. During suspension no member of the District Scout Network may wear uniform or
 
 f. A District Commissioner who suspends a District Scout Network must report the matter with full details to the County Commissioner.
 
-Rule 4.21 Cancellation of Registration of the Scout District
-------------------------------------------------------------
+
+
+.. rule:: 4.21 Cancellation of Registration of the Scout District
+
 a. The registration of a Scout District may be cancelled by Headquarters:
 
    * on the recommendation of the County Commissioner and the County Executive Committee, following a meeting specially convened.
@@ -428,8 +470,10 @@ g. In the event of all the Members leaving, the County will close the District a
 
 h. In the event that not all the Members leave, it will be a decision for the County Commissioner and County Executive Committee as to whether to close the District or try to keep it running with a reduced membership.
 
-Rule 4.22 Management of the Scout District
-------------------------------------------
+
+
+.. rule:: 4.22 Management of the Scout District
+
 a. A Scout District is created and operated as an educational charity.
 
 b. Every Scout District is an autonomous organisation holding its property and equipment and admitting people to membership of the Scout District subject to the policy and rules of The Scout Association.
@@ -444,8 +488,10 @@ d. The District Commissioner is assisted and supported by:
    * the District Executive Committee;
    * the District Scout Active Support Unit.
 
-Rule 4.23 Management of the Explorer Scout Unit
------------------------------------------------
+
+
+.. rule:: 4.23 Management of the Explorer Scout Unit
+
 a. Explorer Scout Units are not autonomous organisations. They are part of a Scout District, which acts as an Explorer Scout Unit's parent body.
 
 b. Scout Districts delegate some authority to Explorer Scout Units to allow them to hold property and equipment and admit people to membership of the Explorer Scout Unit subject to the policy and rules of The Scout Association.
@@ -453,6 +499,8 @@ b. Scout Districts delegate some authority to Explorer Scout Units to allow them
 c. An Explorer Scout Unit is led by an Explorer Scout Leader and managed by a committee of its Members and Leaders acting together. The Committee is accountable to the District Scout Council for the satisfactory running of the Explorer Scout Unit.
 
 d. The Explorer Scout Leader is assisted and supported by Assistant Explorer Scout Leaders in the delivery of the programme for young people in the Explorer Scout Unit.
+
+
 
 .. rule:: 4.24 Management of the District Scout Network
    :sv:
@@ -463,8 +511,10 @@ b. Scout Districts delegate some authority to the District Scout Network to allo
 
 c. The District Scout Network is managed by a team of its Members and a District Scout Network Commissioner acting together. The team is accountable to the District Scout Council for the satisfactory running of the District Scout Network
 
-Rule 4.25 The Constitution of the Scout District
-------------------------------------------------
+
+
+.. rule:: 4.25 The Constitution of the Scout District
+
 a. In the absence of an existing formally adopted Constitution to the contrary, the following represents an ideal Constitution and will apply where the circumstances and the support allow.
 b. There may be situations where it is impractical to implement the constitution in full, such as a District comprising large areas of especially difficult terrain and a small population.
 c. All elected and constitutional bodies of The Scout Association at Headquarters, County, and District should have, as full voting members, at least two young people between the age of 18 and 25 years old.
@@ -633,8 +683,10 @@ i. **Conduct of Meetings in the Scout District**\ :sv:`#`
    iv. Electronic voting (such as email) is allowed for decision making of the District Executive Committee and its sub-Committees when deemed appropriate by the Chair. In such instances at least 75% of committee members must approve the decision.
    v. The District Executive Committee and its sub-Committees can meet by telephone conference, video conference as well as face to face in order to discharge their responsibilities when agreed by the appropriate Chair.
 
-Rule 4.26 Administrators and Advisers
--------------------------------------
+
+
+.. rule:: 4.26 Administrators and Advisers
+
 a. The District Chair and the District Commissioner must be able to work in partnership.
 
 b. To assist the formation of this partnership the District Chair is nominated by the District Commissioner.
@@ -660,9 +712,13 @@ i. Administrators and Advisers appointments may be terminated by:
 
 j. The appointment and termination of all District Administrators and Advisers appointments must be reported to the District Secretary who should maintain a record of such appointments.
 
-Rule 4.27 Minimum Age for Appointments
---------------------------------------
+
+
+.. rule:: 4.27 Minimum Age for Appointments
+
 a. To hold an adult appointment in a Scout District a person must have reached the age of 18.
+
+
 
 .. rule:: 4.28 The Appointment of Adults in the Scout District
    :sv:
@@ -699,32 +755,50 @@ l. Section leaders should ensure that Occasional Helpers who are involved more t
 
 m. Members of Scout Network are required to undertake a Personal Enquiry without a criminal records disclosure check (by being added to Compass as a member of the relevant District Scout Network). If members of Scout Network assist with or supervise members of a younger Section, they must be appointed to an appropriate role (such as an Occasional Helper, Section Assistant or Leader) and undertake the relevant appointment process (including undertaking a criminal records disclosure check).
 
+
+
 .. rule:: 4.29
    :blank:
+
+
 
 .. rule:: 4.30
    :blank:
 
+
+
 .. rule:: 4.31
    :blank:
+
+
 
 .. rule:: 4.32
    :blank:
 
+
+
 .. rule:: 4.33
    :blank:
+
+
 
 .. rule:: 4.34
    :blank:
 
+
+
 .. rule:: 4.35
    :blank:
+
+
 
 .. rule:: 4.36
    :blank:
 
-Rule 4.37 The Appointment of Explorer Scout Young Leaders
----------------------------------------------------------
+
+
+.. rule:: 4.37 The Appointment of Explorer Scout Young Leaders
+
 a. Explorer Scouts can become Young Leaders in the Squirrel Scout, Beaver Scout, Cub Scout and Scout Sections.
 
 b. Explorer Scout Young Leaders should undertake appropriate training as described in the Young Leaders' Scheme. It is compulsory for Explorer Scout Young Leaders to complete Module A within their first three months.
@@ -744,8 +818,10 @@ f. Non-members working with Beaver Scout, Cub Scout or Scout sections are also r
 
 g. Members of Girlguiding and those young people undertaking the Volunteering Section of the Duke of Edinburgh's Award are not members of the Association and do not have access to the wider Explorer Scout provision.
 
-Rule 4.38 Employed District Staff
----------------------------------
+
+
+.. rule:: 4.38 Employed District Staff
+
 a. District Trustees (members of the District Executive Committee) other than the District Secretary may not be paid a salary or remuneration.
 
 b. District Administrators, local Development Officers or other staff may be employed by the District Executive Committee and paid a salary out of District funds.
@@ -756,28 +832,40 @@ d. Professional advice should be sought with regard to pension scheme facilities
 
 e. The procedures for enquiry and the appointment of adults must be followed.
 
+
+
 .. rule:: 4.39
    :blank:
+
+
 
 .. rule:: 4.40
    :blank:
 
+
+
 .. rule:: 4.41
    :blank:
+
+
 
 .. rule:: 4.42
    :blank:
 
-Rule 4.43 Limitation on holding more than one Appointment
----------------------------------------------------------
+
+
+.. rule:: 4.43 Limitation on holding more than one Appointment
+
 a. No Manager, Leader or Supporter may hold more than one appointment unless able to carry out all of the duties of more than one appointment satisfactorily.
 
 b. The District Commissioner must give approval for any person to hold more than one appointment and, if the appointments are to be held in more than one District or County, the approval of all the Commissioners concerned must be obtained.
 
 c. The District Commissioner may not hold any other appointment, other than in a short term 'acting' capacity or as a Training Adviser.
 
-Rule 4.44 Responsibilities of Appointments in the Scout District
-----------------------------------------------------------------
+
+
+.. rule:: 4.44 Responsibilities of Appointments in the Scout District
+
 a. **The District Commissioner:**
 
    i. The District Commissioner is responsible to the County Commissioner and to Headquarters for:
@@ -873,8 +961,10 @@ f. **District Youth Commissioner**
 
    iv. The role start date for a District Youth Commissioner or Deputy District Youth Commissioner must be between their 18\ :sup:`th` and 25\ :sup:`th` birthdays. The initial appointment will be for a period not exceeding three years. Following as Appointment Review, the role can be extended by mutual consent between the role holder and the line manager. No District Youth Commissioner or Deputy District Youth Commissioner may be in role for a total of more than six years (nor beyond their 28\ :sup:`th` birthday if that date would come before the end of the extended term(s)).
 
-Rule 4.45 Responsibility for Sectional Matters
-----------------------------------------------
+
+
+.. rule:: 4.45 Responsibility for Sectional Matters
+
 a. Assistant District Commissioners may be appointed for the Squirrel Scout, Beaver Scout, Cub Scout, or Scout Sections.
 
 b. The Assistant District Commissioner is usually a Leader experienced in the particular Section concerned and will normally have completed Wood Badge Training for that Section.
@@ -886,8 +976,10 @@ c. The functions of the appointment are:
    * to arrange for the organisation of District events;
    * to ensure that District Leaders' Meetings are held and to carry out such other duties as may be delegated by the District Commissioner.
 
-Rule 4.46 Responsibility for Specialist Subjects
-------------------------------------------------
+
+
+.. rule:: 4.46 Responsibility for Specialist Subjects
+
 a. Assistant District Commissioners may be appointed to assist the District Commissioner with a variety of special responsibilities, including Air and Water Activities, Inclusion and Media Relations.\ :sv:`#`
 
 b. The Assistant District Commissioner will usually, and most importantly, be experienced in the particular subject.
@@ -896,30 +988,38 @@ c. The precise role of the specialist Assistant District Commissioner will neces
 
 d. Generally the specialist Assistant District Commissioner will be expected to carry out the functions of the District Commissioner in the particular area of responsibility, ensure that the Association's policies are followed and provide the necessary support and encouragement for Leaders.
 
-Rule 4.47 Responsibility for General Duties
--------------------------------------------
+
+
+.. rule:: 4.47 Responsibility for General Duties
+
 a. One or more Assistant District Commissioners may be appointed for general duties in the District or for a particular part of the District. Possible roles include General Duties, Development or Relationships. Alternatively the geographical area of the appointment may be named.
 
 b. These appointments will normally be filled by experienced Commissioners.
 
 c. The duties will be specified by the District Commissioner on appointment, but are likely to include areas of specially delegated responsibility or deputising generally for the District Commissioner.
 
-Rule 4.48 District Leaders
---------------------------
+
+
+.. rule:: 4.48 District Leaders
+
 a. District Leaders may be appointed to fulfil certain functions in relation to the Sections of Scouting e.g. District Cub Scout Leader. District Explorer Scout Leaders may also be appointed to support the work of the District Explorer Scout Commissioner.
 
 b. The duties of such appointments will be defined by the District Commissioner at the time of the appointment.
 
-Rule 4.49 Explorer Scout Leaders
---------------------------------
+
+
+.. rule:: 4.49 Explorer Scout Leaders
+
 a. The Explorer Scout Leader is responsible, in conjunction with any Explorer Scout committee, for the training of Explorer Scouts, subject to the general supervision of the District Explorer Scout Commissioner and with the assistance of Assistant Explorer Scout Leaders, Section Assistants and Skills Instructors.
 
 b. It is the Leader's responsibility actively to encourage the transfer between Sections, and maintain effective links with local Scout Leaders and Scout Network Co-coordinators.
 
 c. The responsibilities of Assistant Explorer Scout Leaders are specified by the Explorer Scout Leader, who should have regard to the desirability of developing the Assistant's leadership potential.
 
-Rule 4.50 The Training of Adults in the Scout District
-------------------------------------------------------
+
+
+.. rule:: 4.50 The Training of Adults in the Scout District
+
 a. The acceptance of an appointment involves an obligation to undertake training appropriate to the appointment.
 
 b. For roles that require a Wood Badge, a Training Adviser will be assigned to the adult to draw up a Personal Learning Plan, support the adult through the scheme and validate the necessary modules.
@@ -947,16 +1047,20 @@ j. In exceptional circumstances, Headquarters may prescribe the *Ongoing* learni
 
 *For more information about Adult Training see the publication 'The Scout Association's Adult Training scheme' available from the Scout Information Centre.*
 
-Rule 4.51 Adult Responsibility for the Programme
-------------------------------------------------
+
+
+.. rule:: 4.51 Adult Responsibility for the Programme
+
 a. Section Leaders, working with Assistant Leaders and Section Assistants, are responsible for the detailed programme of individual Dreys, Colonies, Packs, Troops and Explorer Scout Units.
 
 b. Leaders should take account of the additional needs of individual Members, the youth programme, badges and awards, and the Section's method as outlined in current Section handbooks.
 
 c. Attention must be paid to the requirements of safety and to any Rules governing activities.
 
-Rule 4.52 Young People's Responsibility for the Programme
----------------------------------------------------------
+
+
+.. rule:: 4.52 Young People's Responsibility for the Programme
+
 a. Progressive responsibility for planning and decision-making is an important element of the Programme.
 
 b. There should be effective operation of the Unit Forum, and the District Explorer Scout Youth Forum.
@@ -965,6 +1069,8 @@ b. There should be effective operation of the Unit Forum, and the District Explo
 
 Requirements of Section awards and badges are found in the Association's official publications for the Section.
 
+
+
 .. rule:: 4.53 Responsibility for the Programme in a District Scout Network
    :sv:
 
@@ -972,8 +1078,10 @@ a. A District Scout Network Commissioner, working with the Programme Coordinator
 
 b. Members of the District Scout Network should play a leading role in organising projects to facilitate participation in the programme, and where possible, take responsibility for supporting projects by taking on the position of Programme Coordinator.
 
-Rule 4.54 The Scouts of the World Award
----------------------------------------
+
+
+.. rule:: 4.54 The Scouts of the World Award
+
 a. The Scouts of the World Award aims to encourage Scout network members with their personal development; development of life skills as well as to support projects within society, locally, nationally and/or globally.
 
 b. Scout Network members must join the project on the Scout Network website.
@@ -982,8 +1090,10 @@ c. On satisfactory completion of the award, UK Headquarters must be notified and
 
 d. The award is delivered by members who have been trained by UKHQ as trainers for the award, according to the requirements set out by WOSM. UKHQ will provide support to those members wishing to become mentors who will support Scout Network members through their award journey.
 
-Rule 4.55 The Explorer Belt Award
----------------------------------
+
+
+.. rule:: 4.55 The Explorer Belt Award
+
 a. The Explorer Belt award is designed to enable Explorer Scouts, Scout Network Members and members of the Senior Section of Girlguiding aged 16 or over, working as a team to plan, train for and undertake their own expedition abroad. If aged 16--18 years old, you may only participate in an organised expedition supported by an in-country leadership team, rather than being self-led.
 
 b. .. body_blank::
@@ -993,6 +1103,8 @@ c. .. body_blank::
 d. The young person must register with Headquarters to begin working on the award and will then be assigned a mentor locally. On completion of the award, Headquarters must be notified and the badge and certificate will be sent to the relevant Commissioner.
 
 *Further information is available in the relevant Section handbooks.*
+
+
 
 .. rule:: 4.56 The Duke of Edinburgh's Award
    :sv:
@@ -1025,16 +1137,22 @@ j. Gold Award Certificates are normally presented at a reception arranged in one
 
 Further information about the Duke of Edinburgh's Award can be obtained from https://www.scouts.org.uk/dofe
 
-Rule 4.57 The Queen's Scout Award
----------------------------------
+
+
+.. rule:: 4.57 The Queen's Scout Award
+
 a. The Queen's Scout Award is the highest youth Award available. It is available for both Explorer Scouts aged 16 or over, and Scout Network Members.
 
 b. The young person must register with Headquarters to begin working on the award and will then be assigned a mentor locally.
 
 c. On completion of the award, Headquarters must be notified and the badge and certificate will be sent to the relevant Queen's Scout Award Coordinator for presentation or, if none appointed, to the relevant Commissioner.\ :sv:`#`
 
+
+
 .. rule:: 4.58
    :blank:
+
+
 
 .. rule:: 4.59 Finance and the Scout District
    :sv:
@@ -1092,8 +1210,10 @@ u. A report to the trustees (the District Executive Committee) must be completed
 
 v. A scrutineer, or independent examiner is required to carry out the work programme defined in the factsheet *Accounting and Audit Requirements for Group, Districts, Counties/Areas and Scottish Regions*
 
-Rule 4.60 Funds administered by a District Scout Network, Explorer Scout Units, District Scout Active Support Units and other Sections in the District
-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+.. rule:: 4.60 Funds administered by a District Scout Network, Explorer Scout Units, District Scout Active Support Units and other Sections in the District
+
 a. Any other District approved activity that is not an independent charity (eg a District Scout Network, an Explorer Scout Unit, a District Scout Active Support Unit, District Scout Show, Campsite, Badge Secretary) must itself administer sums allocated to it by the District Executive Committee.
 
 b. Subscriptions paid by Members of any District Scout Network, Explorer Scout Unit, District Scout Active Support Unit or other activity within a Scout District or on their behalf must be handed to the District Treasurer or their nominee as soon as possible after receipt.
@@ -1102,8 +1222,10 @@ c. The District Treasurer should make the necessary records and pay the money in
 
 d. Each District Scout Network, Explorer Scout Unit, District Scout Active Support Unit or other activity must keep proper cash account(s) which must be produced, together with supporting vouchers and the cash balance, to the District Treasurer at least once in each period of three months.
 
-Rule 4.61 Bank Accounts
------------------------
+
+
+.. rule:: 4.61 Bank Accounts
+
 a. All monies received by or on behalf of the District either directly or via supporters, must be paid into bank account(s) held in the name of the District. The account may, alternatively, be a National Savings Account or a building society account.
 
 b. The account(s) will be operated by the District Treasurer and other persons authorised by the District Executive Committee.
@@ -1122,24 +1244,30 @@ h. District funds may be invested in one of the special schemes run by Headquart
 
 i. The bank(s) at which the District account(s) are held must be instructed to certify the balance(s) at the end of the financial period direct to the scrutineer, independent examiner or auditor as appropriate.
 
-Rule 4.62 Disposal of District Assets at Amalgamation
------------------------------------------------------
+
+
+.. rule:: 4.62 Disposal of District Assets at Amalgamation
+
 a. If two or more Scout Districts amalgamate, the retiring Treasurers must prepare a statement of account dated at the date of the amalgamation.
 
 b. This statement, together with all District assets, supported by all books of account and vouchers, must be handed to the Treasurer of the District formed by the amalgamation.
 
 c. If the District Treasurer considers it necessary after consultation with the District Executive Committee, they may ask the County Executive Committee to appoint an appropriate person to examine the accounts.
 
-Rule 4.63 Disposal of District Assets at Splitting
---------------------------------------------------
+
+
+.. rule:: 4.63 Disposal of District Assets at Splitting
+
 a. If a Scout District is split into two or more separate Districts, or into parts which will be amalgamated with other Districts, the assets of the District should be divided into proportions approximately represented by the Scouting populations of each part after splitting.
 
 b. These proportions of the District assets should then be transferred to the Districts which will in future be responsible for those parts of the old District.
 
 c. This will normally be done under the supervision of the Scout County in which the District is situated, but in the case of difficulties the instructions of the Country Headquarters should be sought.
 
-Rule 4.64 Disposal of District Assets at Closure
-------------------------------------------------
+
+
+.. rule:: 4.64 Disposal of District Assets at Closure
+
 a. If a District ceases to exist, the District Treasurer must prepare a statement of account dated at the effective date of closure.
 
 b. This statement, together with all District assets, must be handed to the County Treasurer as soon as possible after the closure date and must be supported by all books of accounts and vouchers.
@@ -1154,12 +1282,16 @@ f. If the County Executive Committee wishes the assets to pass to some other ben
 
 g. The County Executive Committee is responsible for preserving the statements of account and all accounting records of the District.
 
-Rule 4.65 Preservation of Books of Account
-------------------------------------------
+
+
+.. rule:: 4.65 Preservation of Books of Account
+
 a. Statements of account and all existing accounting records must be preserved for at least six years from the end of the financial year in which they are made, or for such longer period as may be required by H.M. Revenue and Customs.
 
-Rule 4.66 Payment of the Membership Subscription
-------------------------------------------------
+
+
+.. rule:: 4.66 Payment of the Membership Subscription
+
 a. In order to meet the costs of Headquarters services to the Movement and the costs of organising and administering the Association, and to meet the Association's obligations to World Scouting, the Board of Trustees of the Association requires Members to pay a Headquarters Membership Subscription.
 
 b. The amount of the Membership Subscription is decided annually by the Board of Trustees.
@@ -1178,8 +1310,10 @@ h. The amount of the Headquarters Membership Subscription decided by the Board o
 
 i. The Board of Trustees will decide what proportion, if any, is to be retained by the Country Councils of Northern Ireland, Scotland and Wales towards the costs of their own Country Headquarters services.
 
-Rule 4.67 Fundraising
----------------------
+
+
+.. rule:: 4.67 Fundraising
+
 a. In order to maintain its work and to generate all that is needed to implement its training programme, the Scout Movement has to support itself financially.
 
 b. Scout Districts are expected to generate sufficient funds to carry out their own programme of activities.
@@ -1199,22 +1333,28 @@ g. Collections may take place even though there is no visible reciprocal effort 
 
    Stickers and flags are appropriate. It is considered that value for the donation has already been given to society by the work of the Scout Movement in and for the community.
 
-Rule 4.68 Joint Fundraising Projects
-------------------------------------
+
+
+.. rule:: 4.68 Joint Fundraising Projects
+
 a. Joint fundraising projects with other charitable organisations are permitted provided that the part of the proceeds allotted to the other organisation is used wholly for purposes other than those of private gain.
 
 b. Country Headquarters should be consulted if there is the slightest doubt as to the bona fides of the other organisation in respect of the purposes of the fundraising activity.
 
 c. When undertaking a joint project it is advisable to agree terms via a Memorandum of Understanding or non-legal agreement.
 
-Rule 4.69 Fundraising and the Law
----------------------------------
+
+
+.. rule:: 4.69 Fundraising and the Law
+
 a. All fundraising undertaken on behalf of the Movement must be carried out as prescribed by the law. This will include those regulations governing house to house collections, street collections, lotteries, gaming, children and young persons. Details can be
 
    obtained from the Fundraising section of the Scouts website. https://www.scouts.org.uk/volunteers/running-things-locally/grants-and-funds-for-your-local-group/fundraising-support/
 
-Rule 4.70 Lotteries and Gaming
-------------------------------
+
+
+.. rule:: 4.70 Lotteries and Gaming
+
 a. If a District considers raising funds by means governed by the legislation detailed at :rule:`4.69`, the proposed activity must have the approval of the District Executive Committee.
 
 b. Regard must be paid to the views of parents and to local public opinion. Activities affected by this legislation include raffles, whist drives and similar methods of fundraising involving participation on payment of stakes.
@@ -1227,20 +1367,26 @@ e. Any advertising material used must conform with the requirements of the legis
 
 f. If the District is a registered charity, this fact must be stated in any advertising material
 
-Rule 4.71 Appeals for Funds
----------------------------
+
+
+.. rule:: 4.71 Appeals for Funds
+
 a. Districts may not issue general appeals for funds.
 
 b. In exceptional circumstances approval may be sought from the County Executive Committee, who must consult the Country Headquarters.
 
 c. Any permitted appeal must not exceed the boundaries of the District.
 
-Rule 4.72 Professional Fundraisers
-----------------------------------
+
+
+.. rule:: 4.72 Professional Fundraisers
+
 a. Districts may not appoint a professional fundraiser without the approval of the County Executive Committee who will ensure that the requirements of the legislation are fully complied with.
 
-Rule 4.73 Grant Aid and Loans
------------------------------
+
+
+.. rule:: 4.73 Grant Aid and Loans
+
 a. Provided that a District raises a proportion of its own funds, it may accept financial assistance in the form of grant aid or loans.
 
 b. Application for grants or loans from Local Authorities must be approved by the District Chair and County Commissioner before submission.

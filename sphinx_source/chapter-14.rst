@@ -1,14 +1,18 @@
 :Chapter: 14
 :Title: OTHER MATTERS
 
-Rule 14.1 Political Activities
-------------------------------
+
+
+.. rule:: 14.1 Political Activities
+
 a. The Scout Movement is not connected with any political body.
 
 b. Members of the Movement in uniform, or individuals when acting as representatives of the Movement, must not take part in any party political meetings or activities that endorse any particular political party or candidate.
 
-Rule 14.2 Citizenship and Participation
----------------------------------------
+
+
+.. rule:: 14.2 Citizenship and Participation
+
 a. The Association, being concerned to help young people prepare for and take a constructive place in society, encourages, through its programme, the development of a positive attitude to the needs of the community.
 
 b. In pursuance of the Association's Purpose, each Member of the Movement shall, within the bounds of age and mental maturity, be encouraged
@@ -21,18 +25,24 @@ c. It is accepted that this will involve Members of the Movement with current so
 
 d. If a recognised public authority makes a public request for volunteers to take action to avoid grave public danger or inconvenience, whether it arises from an industrial dispute or not, a Group Scout Leader, the Leader of a an Explorer Scout Unit, or a Scout Network Leader may, with the consent of the District Commissioner, offer the services of Scouts provided that each individual participates voluntarily.
 
-Rule 14.3 Expressions of Opinions of the Association's Policy
--------------------------------------------------------------
+
+
+.. rule:: 14.3 Expressions of Opinions of the Association's Policy
+
 a. Members of the Movement may not express opinions on matters of policy or on any matter if it will appear that they are speaking or contributing on behalf of the Association when appearing on television, speaking on the radio or writing for or being interviewed by the Press, unless they have previously obtained permission to do so from Headquarters.
 
 b. Members of the Movement may not address correspondence on matters relating to Scouting or as representatives of the Association to any Royal personage, Department of State, Embassy or Legation at home or abroad, to any Scout Association Headquarters abroad, or to the World Scout Bureau, World Scout Committee or World Scout Conference except after consultation with and through Headquarters.
 
-Rule 14.4 Associate Organisations
----------------------------------
+
+
+.. rule:: 14.4 Associate Organisations
+
 a. Headquarters may designate certain organisations whose aims and purposes relate to those of the Association.
 
-Rule 14.5 Student Scout and Guide Clubs
----------------------------------------
+
+
+.. rule:: 14.5 Student Scout and Guide Clubs
+
 a. A Student Scout and Guide Club may be formed in a higher education or further education institution.
 
 b. A Club is recognised through the local Scout and Guide County after its constitution has been approved by the local Scout and Guide Commissioners.
@@ -64,16 +74,20 @@ l. A member of a Student Scout and Guide Club who is also a Member of the Scout 
 
 m. Further details may be obtained from the Scout Information Centre.
 
-Rule 14.6 Student Scout and Guide Organisation
-----------------------------------------------
+
+
+.. rule:: 14.6 Student Scout and Guide Organisation
+
 a. The aim of the Student Scout and Guide Organisation is to promote Student Scout and Guide Clubs and to provide a forum for discussion on matters that affect such Clubs.
 
 b. The Organisation receives Associate Organisation status of The Scout Association and is officially recognised by Girlguiding.
 
 c. Further details may be obtained from the Scout Information Centre.
 
-Rule 14.7 Protected Scout logos, names, badges and awards
----------------------------------------------------------
+
+
+.. rule:: 14.7 Protected Scout logos, names, badges and awards
+
 We are proud of our brand and visual identity and encourage all members to use them to increase recognition and understanding of Scouting, as well as to support local fundraising. However it is important that members follow the rules below and keep within `brand guidelines <https://www.scouts.org.uk/volunteers/running-things-locally/local-media-and-member-communications/our-brand/>`__ to ensure a consistent approach across the UK.
 
 a. **Definitions**
@@ -202,12 +216,16 @@ e. **Devolved Nation logos**
    .. image:: media/2018-05-local.jpg
       :width: 30%
 
-Rule 14.8 Trade Marks
----------------------
+
+
+.. rule:: 14.8 Trade Marks
+
 a. The Scout Association owns a number of registered Trade Marks, which must not be used by members except as defined within this chapter of POR. Failure to comply with these rules may constitute a breach of Trade Mark law and result in legal action against individuals, members and/or Scout Units. It is therefore the responsibility of all members to ensure that these rules are followed.
 
-Rule 14.9 Copyright
--------------------
+
+
+.. rule:: 14.9 Copyright
+
 The terms 'copyright', 'copyright material' and 'copyright work' includes the entire copyright, moral right, design right, rental right, right to use, authorise, use or lend any written, photographic, video or illustrative work created or owned by the Scouts. The expression 'Copyright Licensee' refers to those
 who have obtained the written permission of UK Headquarters to use the copyright material.
 
@@ -227,6 +245,8 @@ c. **Contact**
 
    To apply for a copyright licence to use any Scout copyright material please email `copyright@scouts.org.uk <mailto:copyright@scouts.org.uk>`__ with a brief description of your requirements. We will then contact you to discuss the possibility of entering a copyright licensing agreement.
 
-Rule 14.10 Transport
---------------------
+
+
+.. rule:: 14.10 Transport
+
 a. When Members or units of the Movement use their personal or unit transport on Scout activities, they should be aware of the current regulations affecting motor transport. Guidance can be obtained from the Scout Information Centre.

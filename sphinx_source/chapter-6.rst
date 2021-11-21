@@ -1,30 +1,45 @@
 :Chapter: 6
 :Title: THE STRUCTURE OF THE HEADQUARTERS OF THE SCOUT ASSOCIATION
 
-The Royal Charter
------------------
+
+
+.. rule:: The Royal Charter
+   :unnumbered:
+
 The Scout Association exists by authority of a Royal Charter, granted by King George V in 1912 and supplemented by further Charters granted by King George VI and Queen Elizabeth II.
 
 These Charters give authority to the Bye Laws of the Association, which are approved by Her Majesty's Privy Council.
 
 The Bye Laws, in turn, authorise the making of rules for the regulation of the Association's affairs, and thereby give authority for the Rules printed in *Policy, Organisation and Rules*.
 
-The Patron
-----------
+
+
+.. rule:: The Patron
+   :unnumbered:
+
 Her Majesty The Queen is the Patron of The Scout Association.
 
-The President
--------------
+
+
+.. rule:: The President
+   :unnumbered:
+
 His Royal Highness The Duke of Kent and Her Royal Highness the Duchess of Cambridge share the joint Presidency of The Scout Association.
 
-The Council of the Scout Association
-------------------------------------
+
+
+.. rule:: The Council of the Scout Association
+   :unnumbered:
+
 The Scout Association is governed by a Council of between 400 and 600 members as determined by the Royal Charter of 1912 and the Supplemental Royal Charters of 1949, 1959, 1967 and 1991.
 
 The Council appoints the Chief Scout, who becomes the Chair of the Council.
 
-Membership of the Council
--------------------------
+
+
+.. rule:: Membership of the Council
+   :unnumbered:
+
 **Membership of the Council**
 
 The Council consists of:
@@ -72,14 +87,20 @@ These Members are elected by the Council at the Annual General Meeting of the Co
 
 Elected Members serve for three years.
 
-The Board of Trustees of The Scout Association
-----------------------------------------------
+
+
+.. rule:: The Board of Trustees of The Scout Association
+   :unnumbered:
+
 The Board of Trustees exists to manage the business of the Association in accordance with the Bye Laws of the Association.
 
 It is the body, which makes the Policy and Rules of the Association as published in Policy, Organisation and Rules and in the various handbooks and other official literature of the Association.
 
-Membership of the Board of Trustees
------------------------------------
+
+
+.. rule:: Membership of the Board of Trustees
+   :unnumbered:
+
 **Membership of the Board of Trustees**
 
 The Board of Trustees consists of:
@@ -109,8 +130,11 @@ The Secretary, who shall not have a vote.
 
 The Chief Scout and any Deputy Chief Scouts [if they are not Trustees], Chief Commissioners [including the International Commissioner], the UK Commissioners for Programme and Adult Support, Regional Commissioners, County Commissioners and County Chairs have the right of attendance without vote at meetings of the Trustee Board and may put forward matters for discussion on giving fourteen days' notice to the Secretary of the Board.
 
-Sub-Committees of the Board of Trustees
----------------------------------------
+
+
+.. rule:: Sub-Committees of the Board of Trustees
+   :unnumbered:
+
 The Board of Trustees delegates certain powers to six sub-Committees:
 
 * Finance Committee;
@@ -124,14 +148,20 @@ The membership and terms of reference of these sub-Committees is determined by t
 
 Chairs of sub-Committees are appointed for a three year term by the Board of Trustees subject to them remaining as trustees and a satisfactory annual performance review.
 
-Other National Groups
----------------------
+
+
+.. rule:: Other National Groups
+   :unnumbered:
+
 The Committees are advised by national groups appointed from time to time with the approval of the Board of Trustees.
 
 The membership and terms of reference of each board or group is determined by the Board of Trustees or by a sub-committee under its delegated powers.
 
-National Leadership
--------------------
+
+
+.. rule:: National Leadership
+   :unnumbered:
+
 **Chief Scout**
 
 The Chief Scout is appointed by the Council of The Scout Association according to the terms laid down by the Council.
@@ -184,8 +214,11 @@ The appointment of UK Commissioners is subject to a formal review by the UK Chie
 
 UK Commissioners are treated as National Commissioners for the purposes of the Bye Laws.
 
-Headquarters
-------------
+
+
+.. rule:: Headquarters
+   :unnumbered:
+
 The Board of Trustees of The Scout Association maintains a Headquarters staff with a departmental structure as required for the implementation of its policy and to provide services and materials necessary for the proper conduct and development of Scouting. (This includes Area Growth and Development Managers and Growth and Development Officers who are appointed by Headquarters and assigned to work in support of the development of Scouting in Counties and Districts in England).
 
 **Chief Executive**
@@ -220,8 +253,11 @@ Further information regarding Scout heritage can be found at https://heritage.sc
 
 Is the official website of the Association and provides regular news updates, general information on Scouting, material for young people, Scouting magazine online and access to a range of online member resources.
 
-The Country Scout Councils of Northern Ireland, Scotland and Wales
-------------------------------------------------------------------
+
+
+.. rule:: The Country Scout Councils of Northern Ireland, Scotland and Wales
+   :unnumbered:
+
 These Scout Councils exist to advise their respective Chief Commissioners in all matters relating to the exercise of the Commissioner's discretionary powers as specified by Headquarters, and to perform such administrative and executive duties as may be delegated to them by Headquarters, which may include management of their financial affairs. Headquarters makes and approves constitutions for Country Scout Councils in order to facilitate the performance of delegated duties.
 
 **Northern Ireland**
@@ -264,8 +300,11 @@ In a number of countries throughout the world there are British Scout Groups, wh
 
 The Area receives appropriate support by Headquarters as agreed by the Area Commissioner
 
-Companies and Trusts associated with The Scout Association
-----------------------------------------------------------
+
+
+.. rule:: Companies and Trusts associated with The Scout Association
+   :unnumbered:
+
 **Scout Store** is a wholly owned subsidiary of the Scout Association. It is primarily involved in supporting the parent charity through the sourcing and distribution of merchandise (such as the supply of uniform, badges, resources, souvenirs and camping equipment). All profits generated are returned to the Association via gift aid.
 
 **World Scout Shop Ltd** is a wholly owned subsidiary of the Scout Association which is operated under licence from World Scouting. Its primary objective is the efficient sourcing and distribution of World Scout branded merchandise to the global Scouting audience. All profits generated are returned to the Association via gift aid.
@@ -280,12 +319,17 @@ Companies and Trusts associated with The Scout Association
 
 **Scout Insurance Services Limited (trading as Unity Insurance Services)** is The Scout Association's dedicated insurance broker providing insurance support to the Association and to the Scout Movement in the UK. Unity arranges liability insurance and personal accident and medical expenses cover for The Scout Association and its Members. Unity provides additional specialist insurance cover that Groups, Districts, Counties and campsites may need. Unity is authorised and regulated by the Financial Conduct Authority, and as a wholly owned subsidiary of The Scout Association all profits generated are returned to the Association via gift aid.
 
-Girlguiding
------------
+
+
+.. rule:: Girlguiding
+   :unnumbered:
+
 The Scout Association and Girlguiding, although separate organisations, share a common Founder and have similar aims, principles and methods. Co-operation between the two organisations is encouraged at all times and at all levels.
 
-Rule 6.1 National Scout Active Support Units
---------------------------------------------
+
+
+.. rule:: 6.1 National Scout Active Support Units
+
 a. The UK Commissioner for Programme (Delivery) may form National Scout Active Support Units.
 
 b. Applications to form a National Scout Active Support Unit are made to the UK Commissioner for Programme (Delivery).
@@ -325,8 +369,10 @@ m. If two or more National Scout Active Support Units are to merge;
    ii. UK Headquarters will examine the accounts and receipts to ensure they are correct.
    iii. Physical resources must be returned to UK Headquarters who will redistribute or dispose of as required in agreement by the UK Commissioner for Programme Delivery.
 
-Rule 6.2 UK Scout Network
--------------------------
+
+
+.. rule:: 6.2 UK Scout Network
+
 a. **Admission to Membership**
 
    i. Explorer Scouts who turn 18 years of age will automatically become Members of the District Scout Network. Exceptionally, where there is no District Scout Network but a County Scout Network or equivalent operates, they will automatically become Members of the County Scout Network or equivalent.

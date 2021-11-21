@@ -1,38 +1,50 @@
 :Chapter: 10
 :Title: UNIFORM, BADGES AND EMBLEMS
 
-Rule 10.1 Protection of Uniforms
---------------------------------
+
+
+.. rule:: 10.1 Protection of Uniforms
+
 a. The Movement's uniforms are protected under the Chartered Associations (Protection of Names and Uniforms) Act 1926.
 
 b. It is unlawful for persons not entitled as Members of the Movement to wear them, except for the purposes of entertainment and then only provided that they are not brought into contempt.
 
-Rule 10.2 Entitlement to Wear Uniform
--------------------------------------
+
+
+.. rule:: 10.2 Entitlement to Wear Uniform
+
 a. The appropriate uniform, as described in the following Rules, may be worn by all Members of the Movement
 
-Rule 10.3 Safety Considerations
--------------------------------
+
+
+.. rule:: 10.3 Safety Considerations
+
 a. In the organisation of all Scouting activities priority is invariably given to considerations of safety in specifying what form of dress is to be worn.
 
 b. Weather conditions and other such considerations must be taken into account. The well-being of Members must take precedence over formality of dress.
 
-Rule 10.4 Cultural Requirements and Religious Needs
----------------------------------------------------
+
+
+.. rule:: 10.4 Cultural Requirements and Religious Needs
+
 a. When cultural requirements or religious needs require, members of recognised faith communities may wear appropriate clothing of a style and fashion in accordance with their beliefs as part of their Scout uniform.
 
 b. Knives may not be worn with uniform except for religious reasons.
 
-Rule 10.5 Squirrel Scout Uniform
---------------------------------
+
+
+.. rule:: 10.5 Squirrel Scout Uniform
+
 a. Squirrel Scout Uniform:
 
    * Squirrels Red crew neck sweatshirt
    * Group scarf
    * Woggle
 
-Rule 10.6 Beaver Scout Uniform
-------------------------------
+
+
+.. rule:: 10.6 Beaver Scout Uniform
+
 a. Items of official uniform:
 
    * turquoise crew neck sweatshirt;
@@ -55,8 +67,10 @@ d. Optional items for activity dress:
    * navy blue activity trousers;
    * turquoise polo shirt.
 
-Rule 10.7 Cub Scout Uniform
----------------------------
+
+
+.. rule:: 10.7 Cub Scout Uniform
+
 a. Items of official uniform:
 
    * dark green crew neck sweatshirt;
@@ -78,8 +92,10 @@ d. Optional items for activity dress:
    * navy blue activity trousers;
    * dark green polo shirt.
 
-Rule 10.8 Scout Uniform
------------------------
+
+
+.. rule:: 10.8 Scout Uniform
+
 a. Items of official uniform:
 
    * teal green long sleeved shirt or blouse;
@@ -100,8 +116,10 @@ c. Optional items for activity dress:
    * teal green polo shirt;
    * navy blue sweatshirt.
 
-Rule 10.9 Sea Scout Uniform
----------------------------
+
+
+.. rule:: 10.9 Sea Scout Uniform
+
 a. Items of official uniform:
 
    * dark blue jersey;
@@ -125,8 +143,10 @@ c. Optional items for activity dress:
    * navy blue baseball cap;
    * navy blue sweatshirt.
 
-Rule 10.10 Air Scout Uniform
-----------------------------
+
+
+.. rule:: 10.10 Air Scout Uniform
+
 a. Items of official uniform:
 
    * light blue long sleeve shirt or blouse;
@@ -148,8 +168,10 @@ c. Optional items for activity dress:
    * navy blue baseball cap;
    * navy blue sweatshirt.
 
-Rule 10.11 Special Groups Uniform
----------------------------------
+
+
+.. rule:: 10.11 Special Groups Uniform
+
 a. Items of official uniform:
 
    * as appropriate to Section.
@@ -166,8 +188,10 @@ d. Optional items for activity dress:
 
    * as appropriate to Section.
 
-Rule 10.12 Explorer Scout Uniform
----------------------------------
+
+
+.. rule:: 10.12 Explorer Scout Uniform
+
 a. Items of official uniform:
 
    * beige long sleeve or short sleeve shirt or blouse;
@@ -188,8 +212,10 @@ c. Optional items for activity dress:
    * beige polo shirt;
    * navy blue sweatshirt.
 
-Rule 10.13 Sea Explorer Scout Uniform
--------------------------------------
+
+
+.. rule:: 10.13 Sea Explorer Scout Uniform
+
 a. Items of official uniform:
 
    * light blue long sleeve shirt or blouse;
@@ -211,8 +237,10 @@ c. Optional items for activity dress:
    * navy blue baseball hat;
    * navy blue sweatshirt.
 
-Rule 10.14 Air Explorer Scout Uniform
--------------------------------------
+
+
+.. rule:: 10.14 Air Explorer Scout Uniform
+
 a. Items of official uniform:
 
    * light blue long sleeve shirt or blouse;
@@ -234,8 +262,10 @@ c. Optional items for activity dress:
    * navy blue baseball hat;
    * navy blue sweatshirt.
 
-Rule 10.15 Scout Network/Adult Member's Uniform
------------------------------------------------
+
+
+.. rule:: 10.15 Scout Network/Adult Member's Uniform
+
 a. Items of official uniform:
 
    * stone long sleeve or short sleeve shirt or blouse;
@@ -260,8 +290,10 @@ d. Optional items a Group / Explorer Scout Unit / Scout Network / Scout Active S
    * navy blue sweatshirt: (please note that this is no longer a current item of stock at Scout Shops)
    * stone polo shirt.
 
-Rule 10.16 Sea Scout Network/Adult Member's Uniform
----------------------------------------------------
+
+
+.. rule:: 10.16 Sea Scout Network/Adult Member's Uniform
+
 a. Items of official uniform:
 
    * light blue long sleeve shirt or blouse;
@@ -285,8 +317,10 @@ c. Optional items for activity dress:
    * navy blue sweatshirt;
    * navy blue baseball cap.
 
-Rule 10.17 Air Scout Network/Adult Member's Uniform
----------------------------------------------------
+
+
+.. rule:: 10.17 Air Scout Network/Adult Member's Uniform
+
 a. Items of official uniform:
 
    * light blue long sleeve shirt or blouse;
@@ -307,6 +341,8 @@ c. Optional items for activity dress:
 
    * navy blue sweatshirt;
    * navy blue baseball cap.
+
+
 
 .. rule:: 10.18 Marching bands
    :sv:
@@ -336,8 +372,10 @@ c. Additional options:
    iii. Berets with the arrowhead badge only, for competitions where the rules necessitate the wearing of headgear;
    iv. Lanyards are not permitted except as part of Sea Scout uniform.
 
-Rule 10.19 The Kilt & Pleated Tartan Skirts
--------------------------------------------
+
+
+.. rule:: 10.19 The Kilt & Pleated Tartan Skirts
+
 a. Kilts and pleated tartan skirts may be worn as part of the appropriate uniform, subject to the following colour:
 
    * in Scotland, male Members who are entitled to wear uniform may wear the tartan kilt of any tartan;
@@ -357,12 +395,16 @@ c. The following items are correct wear with the saffron kilt: plain leather spo
 
 d. Where a Section is wearing saffron, the sock and shoe colours must be the same for the whole Section. This decision is to be taken by the Section Leader after consensus has been sought.
 
-Rule 10.20 Position of Badges on Uniform
-----------------------------------------
+
+
+.. rule:: 10.20 Position of Badges on Uniform
+
 a. See the illustrations '`Positions of Badges on Uniform <https://prod-cms.scouts.org.uk/media/14539/uniform-diagrams-sept-2021.pdf>`__' at the end of in this chapter.
 
-Rule 10.21 Awards and Decorations -- Method of Wear
---------------------------------------------------
+
+
+.. rule:: 10.21 Awards and Decorations -- Method of Wear
+
 a. Scout awards and decorations (except the Silver Wolf, the Silver Acorn and its Bar, Award for Merit and its Bar, which are worn around the neck) and the emblems corresponding to them are worn immediately above the right breast.
 
 b. Awards and decorations are worn in the following order from the wearer's shirt buttons to the wearer's right shirt sleeve: left to right: awards for gallantry, meritorious conduct, good service, the Chief Scout's Personal Award, Commissioner's Commendation, Chief Scout's length of service awards.
@@ -377,8 +419,10 @@ f. Ribbons of decorations conferred by foreign and Commonwealth Scout Associatio
 
 g. The life-saving medals of the Order of St. John and the Royal Humane Society, together with their ribbons, may be worn with uniform.
 
-Rule 10.22 Badges and Emblems -- Method of Wear
-----------------------------------------------
+
+
+.. rule:: 10.22 Badges and Emblems -- Method of Wear
+
 a. Beaver Scouts, on entering the Cub Scout Pack, may continue to wear the Chief Scout's Bronze Award. The award must be removed when the Cub Scout gains their Chief Scout's Silver Award. It is to be worn on the right breast (as illustrated in Positions of Badges on Uniform).
 
 b. .. body_blank::
@@ -415,31 +459,41 @@ p. The Queen's Scout Award / Queen's Guide Award Badge, Explorer Belt Badge, Sco
 
 q. A metal version of the Queen's Scout Award cloth badge is available for wear when out of uniform by those who have gained the award.
 
-Rule 10.23 Badges and Awards -- Supply
--------------------------------------
+
+
+.. rule:: 10.23 Badges and Awards -- Supply
+
 a. Badges and awards must be obtained through County Badge Secretaries; District Badge Secretaries or Scout Store.
 
 b. The exception to (a) above is the initial Queen's Scout Award, the Explorer Belt badge, the Scouts of the World Award, Good Service awards, Length of Service awards as well as Meritorious Conduct and Gallantry awards which are only available from Headquarters. Replacements are available from Scout Store.
 
-Rule 10.24 The World Membership Badge
--------------------------------------
+
+
+.. rule:: 10.24 The World Membership Badge
+
 a. The World Membership Badge is the symbol of Membership of World Scouting and of The Scout Association as a part of World Scouting.
 
 b. It is the property of the World Scout Bureau and it may only be used or worn as permitted in these Rules.
 
 c. A metal form of the World Membership Badge is available for Members of the Movement to wear with ordinary clothes.
 
-Rule 10.25 The Scout Association Arrowhead Badge
-------------------------------------------------
+
+
+.. rule:: 10.25 The Scout Association Arrowhead Badge
+
 a. The Arrowhead Badge is the symbol of The Scout Association and is part of the Association's Armorial Bearings.
 
 b. The Arrowhead Badge may be worn on activity or special garments.
 
-Rule 10.26 Identifying Name Tapes
----------------------------------
+
+
+.. rule:: 10.26 Identifying Name Tapes
+
 a. The name of the Group, Explorer Scout Unit, Scout Network or Scout Active Support Unit may appear in red, green, blue, white or yellow lettering on a single tape no more than 12mm deep on a green background.
 
 b. The name of Sea and Air Scout Groups may appear in the same colours, but on a dark blue background.
+
+
 
 .. rule:: 10.27 Identifying Group, District and County Badges
    :sv:
@@ -456,8 +510,10 @@ c. A combined District and County badge bearing distinctive identifying emblems 
 
 d. Sponsored Scout Groups may wear, as a Group badge, an appropriate badge produced by organisations approved as Sponsoring Organisations by Headquarters. The decision whether to wear such a Group badge is the responsibility of the Group Scout Leader in consultation with the Group Leaders' Meeting and the Sponsoring Authority. Approval as in :rule:`10.26(a)` applies.
 
-Rule 10.28 Identifying Group, Explorer Scout Unit and Scout Network Scarves
----------------------------------------------------------------------------
+
+
+.. rule:: 10.28 Identifying Group, Explorer Scout Unit and Scout Network Scarves
+
 a. Scarves worn by Members of a Scout Group as part of the appropriate uniform must all be of the same colour(s).
 
 b. For Scout Groups, the colour(s) are chosen by the Group Leaders' Meeting, subject to the approval of the District Commissioner and the District Executive Committee.
@@ -470,48 +526,66 @@ e. Explorer Scout Unit scarves may be chosen by the Explorer Scout Unit subject 
 
 f. District Scout Network scarves may be chosen by the Scout Network members with the approval of the District Commissioner and the District Executive Committee.
 
-Rule 10.29 Air Scout Identification Badge
------------------------------------------
+
+
+.. rule:: 10.29 Air Scout Identification Badge
+
 a. An Air Scout identification badge may be worn by any Member of an Air Scout Group.
 
 b. Explorer Scout Members, Scout Network Members or Leaders associated with an Air Scout Group may also wear the badge.
 
-Rule 10.30 Royal Navy or Royal Air Force Recognition Scheme Badges
-------------------------------------------------------------------
+
+
+.. rule:: 10.30 Royal Navy or Royal Air Force Recognition Scheme Badges
+
 a. Scouts, Explorer Scouts, Scout Network Members and Leaders in or associated with a Group, Explorer Scout Unit or Scout Network which is recognised by the Royal Navy or Royal Air Force may wear the appropriate R.N. or R.A.F. Recognition Badge.
+
+
 
 .. rule:: 10.31
    :blank:
 
+
+
 .. rule:: 10.32
    :blank:
 
-Rule 10.33 The Duke of Edinburgh's Award Badges
------------------------------------------------
+
+
+.. rule:: 10.33 The Duke of Edinburgh's Award Badges
+
 a. Cloth badges of The Duke of Edinburgh's Award are worn on uniform by members who are entitled to wear them.
 
 b. Only the badge of the highest Award gained may be worn.
 
 c. In the case of the Gold Award only, the badge may be worn on uniform by adults so entitled.
 
-Rule 10.34 Occasional Badges Worn with Uniform
-----------------------------------------------
+
+
+.. rule:: 10.34 Occasional Badges Worn with Uniform
+
 a. Occasional badges in respect of national programmes, activities or events may be worn as directed and for such periods as decided by Headquarters.
 
 b. Occasional badges for wear by Members of a Group, a District or County in connection with a special gathering, camp, event or anniversary must be approved by the County Commissioner to whom a drawing or specimen of the design must be submitted.
 
 c. Such badges must not be worn after a period of three months from the date of the conclusion of the occasion unless exceptionally authorised by the County Commissioner in respect of special circumstances for a further period not exceeding nine months.
 
-Rule 10.35 The Union Flag Badge
--------------------------------
+
+
+.. rule:: 10.35 The Union Flag Badge
+
 a. The Union Flag badge may be worn on uniform when going overseas on a Scouting activity and indefinitely on return.
 
-Rule 10.36 Mourning
--------------------
+
+
+.. rule:: 10.36 Mourning
+
 a. A black crepe band 50mm wide may be worn on the left arm above the elbow to denote mourning.
 
-Rule 10.37 Adult Training Awards
---------------------------------
+
+
+.. rule:: 10.37 Adult Training Awards
+
 a. On completion of the Getting Started modules, uniformed adults may wear the Gilwell Turks Head woggle.
 
 b. For occasions when uniform is not worn, uniformed adults may wear a metal pin badge depicting the Gilwell log and axe.
@@ -522,14 +596,18 @@ d. The Award for completion of training for Leaders, Managers and Supporters is 
 
 e. Leaders holding the Wood Badge may wear the Gilwell Scarf and woggle.
 
-Rule 10.38 The Scout Active Support Badge
------------------------------------------
+
+
+.. rule:: 10.38 The Scout Active Support Badge
+
 a. The Scout Active Support Badge is an optional item to be worn on the adult uniform.
 
 b. For occasions when uniform is not worn, members may wear a metal Scout Active Support pin badge.
 
-Rule 10.39 Badges of Other Organisations
-----------------------------------------
+
+
+.. rule:: 10.39 Badges of Other Organisations
+
 a. Unless specifically mentioned elsewhere in the Rules of the Association, badges of other organisations are not worn with uniform.
 
 b. Explorer Scouts, Members of Scout Network and adult members who have gained the Queen's Guide Award may wear the badge on their uniform.

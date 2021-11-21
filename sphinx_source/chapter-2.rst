@@ -3,8 +3,11 @@
 
 ***The Key Policies in this Chapter are in alphabetical order. No order of importance or priority is implied -- they are all equal.***
 
-Development Policy
-------------------
+
+
+.. rule:: Development Policy
+   :unnumbered:
+
 Subject to the Rules governing age ranges and mixed membership the Scout Movement is open to all young people of whatever background.
 
 The Scout Association recognises, however, that access to Scouting is not equally available to all groups and communities across society as a whole.
@@ -26,8 +29,11 @@ Those seeking help in this field should contact the Regional Services Team at He
 
 [Whilst Development Managers and Officers support the development of Scouting in England, the National Regional Services Manager works closely with Scottish Headquarters, the ScoutsCymru Office and the Northern Ireland Scout Council on development matters.]
 
-Equal Opportunities Policy
---------------------------
+
+
+.. rule:: Equal Opportunities Policy
+   :unnumbered:
+
 **Young People**
 
 The Scout Association is part of a worldwide educational youth movement. The values, which underpin and inspire its work are embodied in the Scout Promise and Law and in the Purpose of the Association.
@@ -98,8 +104,10 @@ no person volunteering their services should receive less favourable treatment o
 * religion, belief or faith (including the absence of religion, belief or faith)
 * sex
 
-Rule 2.1 Responsibilities within the Equal Opportunities Policy
----------------------------------------------------------------
+
+
+.. rule:: 2.1 Responsibilities within the Equal Opportunities Policy
+
 All adults in Scouting have a responsibility for the operation of the Association's Equal Opportunities Policy. All Scout Groups, as independent charities have a duty to comply with relevant equalities legislation.
 
 a. The District Commissioner or the County Commissioner, as appropriate, must be satisfied that all applicants for Leader or Commissioner appointments are fully aware that they will be required by their personal example to operate the Association's Equal Opportunities Policy and support Groups to comply with relevant equalities legislation.
@@ -114,14 +122,19 @@ e. The District Executive or the County Executive Committee, as appropriate, mus
 
    Further information about equalities legislation and Scouting is available via the members area of the website.
 
-Privacy and Data Protection Policy
-----------------------------------
+
+
+.. rule:: Privacy and Data Protection Policy
+   :unnumbered:
+
 The Scout Association takes the protection of privacy and personal data very seriously and all adults operating within Scouting, whether at National UKHQ or within local Scout units (i.e. Scout Groups, Districts, Counties, Areas, Regions (Scotland) or Countries), must comply with data protection law which includes the EU General Data Protection Regulation 'GDPR'.
 
 (A copy of The Scout Association's Data Protection Policy which provides key definitions, details of how it protects personal information and also guidance to staff, members and volunteers about how to deal with personal information they handle, can be found `here <https://www.scouts.org.uk/about-us/policy/>`__).
 
-Rule 2.2 Responsibilities within the Privacy and Data Protection Policy
------------------------------------------------------------------------
+
+
+.. rule:: 2.2 Responsibilities within the Privacy and Data Protection Policy
+
 a. The Scout Association at national UKHQ level and each local Scout unit operate as separate, independent charities in their own right. Each collects and handles personal data and is responsible, as a separate data controller, for the personal data it collects and uses.
 
 b. As a larger organisation, The Scout Association is registered with the Information Commissioners Office (ICO) as a data controller. However, data protection law applies to all data controllers (whether registered with the ICO or not) and therefore applies to each local Scout unit.
@@ -160,8 +173,11 @@ e. In compliance with the 6 key principles of the GDPR (Article 5), personal dat
 
 f. As data controllers, the relevant Charity Trustees and Executive Committees are responsible for demonstrating compliance with the above principles.
 
-Religious Policy
-----------------
+
+
+.. rule:: Religious Policy
+   :unnumbered:
+
 The Scout Movement includes Members of many different faiths and religions as well as those with no formal religion. The following policy has received the approval of the heads of the leading religious bodies in the United Kingdom. All Members of the Movement are encouraged to:
 
 * make every effort to progress in the understanding and observance of the Promise to do their best to do their duty to God or to uphold Scouting's values as appropriate;
@@ -181,8 +197,10 @@ In a Scout Group sponsored by a religious body the religious leader may be appoi
 
 National Chaplains may be appointed for religious bodies represented in Scouting.
 
-Rule 2.3 Responsibilities within the Religious Policy
------------------------------------------------------
+
+
+.. rule:: 2.3 Responsibilities within the Religious Policy
+
 a. The District Commissioner or the County Commissioner, as appropriate, must be satisfied that all applicants for Leader or Commissioner appointments are fully aware that they will be required by their personal example to implement the Association's religious policy.
 
 b. If a Sponsored Group has a policy of recruitment restricted to members of one particular form of religion or denomination, the Sponsoring Authority is responsible for the religious training of all young people in the Group.
@@ -195,8 +213,11 @@ e. Such services must be regarded as supplementary to, rather than a substitute 
 
 f. If a Squirrel Scout, Beaver Scout, Cub Scout, Scout, Explorer Scout or Scout Network Member is not allowed, by reasons of the individual's own religious obligations, to attend acts of worship other than that of the individual's own faith, the Leader must make certain that those obligations are not compromised.
 
-Safeguarding Policy
--------------------
+
+
+.. rule:: Safeguarding Policy
+   :unnumbered:
+
 It is the Policy of The Scouts to safeguard the welfare of all children, young people and adults at risk by protecting them from neglect and from physical, sexual and emotional harm. The Scouts understand that individuals thrive in safe surroundings so we are committed to ensuring that Scouting is safe and enjoyable for everyone involved and that safeguarding practice reflects statutory responsibilities, government guidance and complies with best practice and The Charity Commission requirements.
 
 This policy:
@@ -213,16 +234,21 @@ All breaches of the policy and procedures will be dealt with within in line with
 
 **The Scouts Safeguarding Policy & Procedures, for Young People & Adults at Risk** can be found on our website `here <https://www.scouts.org.uk/about-us/policy/safeguarding-policy-and-procedures/>`__
 
-Rule 2.4 Safeguarding of young people and adults at risk
---------------------------------------------------------
+
+
+.. rule:: 2.4 Safeguarding of young people and adults at risk
+
 1. It is the responsibility of all adults involved in Scouting to have read and understood the Safeguarding Policy & Procedures.
 2. The Safeguarding Policy & Procedures must be adhered to at all times.
 3. All breaches of the policy and procedures will be dealt with within in line with POR and the Safeguarding Processes and Procedures.
 
 **The Scouts Safeguarding Policy & Procedures, for Young People & Adults at Risk** can be found on our website `here <https://www.scouts.org.uk/about-us/policy/safeguarding-policy-and-procedures/>`__.
 
-Safety Policy
--------------
+
+
+.. rule:: Safety Policy
+   :unnumbered:
+
 The Scouts aim to provide opportunities for young people and adult volunteers to develop and appreciate what risk is and how it is managed. This vital skill for life is developed by providing opportunities to learn and experience activities that are adventurous but where risk is controlled and managed as far as is reasonably practicable.
 
 The Scouts recognises that life is not risk-free, and in its turn Scouting is not risk-free. As Scouts, we endeavor to manage these risks to wellbeing and safety to be as low as is reasonably practicable. Identifying and proportionately managing risk is a skill for life that we wish to kindle, develop and enhance in all of our members.
@@ -239,8 +265,10 @@ All those involved in Scouting are accountable for and must demonstrate an abili
 * Review risk assessments as often as necessary when circumstances, environment or conditions change.
 * Feel and be empowered to never be afraid to change or stop an activity if risk increases.
 
-Rule 2.5 Responsibilities within the Safety Policy
---------------------------------------------------
+
+
+.. rule:: 2.5 Responsibilities within the Safety Policy
+
 All those involved in Scouting are accountable for and must demonstrate an ability and understanding of the following (so far as is reasonably practicable within the extent of their role);
 
 a. **All members**
@@ -266,8 +294,11 @@ d. **Executive Committees and Trustees**
    i. Satisfy itself through appropriate assurance and monitoring activities that this policy is being put into effective use and to engage and consult with members on day-to-day health and safety conditions and ensure it is on the agenda at all meetings.
    ii. Take responsibility for making sure that these requirements are met for every premises or location operated by a Scouting concern, and therefore deemed to be the Managing Controller of the premises.
 
-Vetting Policy
---------------
+
+
+.. rule:: Vetting Policy
+   :unnumbered:
+
 It is the policy of The Scout Association to check all adult volunteers to ensure that: only adults appropriate for a role are permitted to undertake responsibilities in Scouting; and that regular reviews are undertaken of adult volunteers to ensure their continued suitability.
 
 Accordingly The Scout Association is committed to:
@@ -279,14 +310,19 @@ Accordingly The Scout Association is committed to:
 
 As part of the vetting arrangements, The Scout Association will undertake a **Personal Enquiry** which involves a check made against records at Headquarters for all adult volunteers and for certain roles a Criminal Record Disclosure Check. For foreign nationals or British Overseas Territory citizens operating abroad in British Scouting Overseas and Overseas Branches, checks must be made according to arrangements authorised by the Chief Safeguarding Officer at Headquarters.
 
-Youth Member Anti-Bullying Policy
----------------------------------
+
+
+.. rule:: Youth Member Anti-Bullying Policy
+   :unnumbered:
+
 'Children have the right to protection from all forms of violence (physical or mental). They must be kept safe from harm and they must be given proper care by those looking after them.' *[The United Nations Convention on the Rights of the Child, Article 19]*
 
 The Scout Association is committed to this ethos and seeks to ensure, as far as is reasonably practicable, the prevention of all forms of bullying among Members. To this end all Scouting activities should have in place rigorous anti-bullying strategies.
 
-Rule 2.6 Responsibility within the Youth Member Anti-Bullying Policy
---------------------------------------------------------------------
+
+
+.. rule:: 2.6 Responsibility within the Youth Member Anti-Bullying Policy
+
 It is the responsibility of all adults in Scouting to help develop a caring and supportive atmosphere, where bullying in any form is unacceptable.
 
 Adults in Scouting should:

@@ -1,12 +1,18 @@
 :Chapter: 1
 :Title: FUNDAMENTALS OF SCOUTING
 
-The Purpose of Scouting
------------------------
+
+
+.. rule:: The Purpose of Scouting
+   :unnumbered:
+
 Scouting exists to actively engage and support young people in their personal development, empowering them to make a positive contribution to society.
 
-The Values of Scouting
-----------------------
+
+
+.. rule:: The Values of Scouting
+   :unnumbered:
+
 As Scouts we are guided by these values:
 
 * **Integrity -- We act with integrity; we are honest, trustworthy and loyal.**
@@ -15,8 +21,11 @@ As Scouts we are guided by these values:
 * **Belief -- We explore our faiths, beliefs and attitudes.**
 * **Co-operation -- We make a positive difference; we co-operate with others and make friends.**
 
-The Scout Method
-----------------
+
+
+.. rule:: The Scout Method
+   :unnumbered:
+
 Scouting takes place when young people, in partnership with adults, work together based on the values of Scouting and:
 
 * enjoy what they are doing and have fun
@@ -27,8 +36,11 @@ Scouting takes place when young people, in partnership with adults, work togethe
 * undertake new and challenging activities
 * make and live by their Promise.
 
-The Scout Promise
------------------
+
+
+.. rule:: The Scout Promise
+   :unnumbered:
+
 *(This promise is for Scouts, Explorer Scouts, the Scout Network and adults; based upon the Scout's three promises created by our Founder, The Scout promise represents a number of different theist faith traditions))*
 
 | On my honour,
@@ -37,8 +49,11 @@ The Scout Promise
 | to help other people
 | and to keep the Scout Law.
 
-The Scout Law
--------------
+
+
+.. rule:: The Scout Law
+   :unnumbered:
+
 1. A Scout is to be trusted.
 2. A Scout is loyal.
 3. A Scout is friendly and considerate.
@@ -47,8 +62,11 @@ The Scout Law
 6. A Scout makes good use of time and is careful of possessions and property.
 7. A Scout has self-respect and respect for others.
 
-The Cub Scout Promise
----------------------
+
+
+.. rule:: The Cub Scout Promise
+   :unnumbered:
+
 *(based upon the work of our Founder this promise represents a number of different theist faith traditions)*
 
 | I promise that I will do my best
@@ -56,32 +74,48 @@ The Cub Scout Promise
 | to help other people
 | and to keep the Cub Scout Law.
 
-The Cub Scout Law
------------------
+
+
+.. rule:: The Cub Scout Law
+   :unnumbered:
+
 | Cub Scouts always do their best,
 | think of others before themselves
 | and do a good turn every day.
 
-The Beaver Scout Promise
-------------------------
+
+
+.. rule:: The Beaver Scout Promise
+   :unnumbered:
+
 | I promise to do my best
 | to be kind and helpful
 | and to love God.
 
-The Beaver Scout Law
---------------------
+
+
+.. rule:: The Beaver Scout Law
+   :unnumbered:
+
 *(based upon the work of our Founder this promise represents a number of different theist faith traditions)*
 
 There is no formal Beaver Scout Law. The concepts expressed in the Scout Law are to be presented to Beaver Scouts through games, storytelling and other informal activities.
 
-The Squirrel Scout Promise
---------------------------
 
-The Squirrel Scout law
-----------------------
 
-Variations to the wording of the Promises
------------------------------------------
+.. rule:: The Squirrel Scout Promise
+   :unnumbered:
+
+
+
+.. rule:: The Squirrel Scout law
+   :unnumbered:
+
+
+
+.. rule:: Variations to the wording of the Promises
+   :unnumbered:
+
 a. Scouting is open to people of all faiths and of none and must therefore take account of the different religious obligations of its Members while upholding the essential spirit of the Promise.
 
 b. Alternative wording of the Promise that young people and adults may wish to use to best reflect their own beliefs is included below, reflecting the diversity of our UK Scout Community:

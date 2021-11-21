@@ -1,6 +1,8 @@
 :Chapter: 12
 :Title: FLAGS AND CEREMONIAL
 
+
+
 .. rule:: 12.1 Permitted Flags
    :sv:
 
@@ -21,11 +23,15 @@ e. Groups may use the flags of the constituent countries of the United Kingdom, 
 
 f. The use of these flags is in addition to the Union Flag rather than in place of it
 
-Rule 12.2 Pennants
-------------------
+
+
+.. rule:: 12.2 Pennants
+
 a. Green camp pennants, Explorer Scout and Scout Network pennants and blue Scout pennants may be used as appropriate to suitable occasions.
 
 b. The blue pennant is the burgee to be flown with the Royal Navy Recognised Group Ensign.
+
+
 
 .. rule:: 12.3 Scout Flags
    :sv:
@@ -68,18 +74,26 @@ i. The colours on flags in Scotland are:
    * Scout Networks: white lettering on a warm grey background;
    * Scout Active Support Units: white lettering on purple background.
 
-Rule 12.4 Ceremonial
---------------------
+
+
+.. rule:: 12.4 Ceremonial
+
 a. In the conduct of normal Scouting activities, only those ceremonies described in the Association's handbooks should be used.
 
-Rule 12.5 The Scout Sign
-------------------------
+
+
+.. rule:: 12.5 The Scout Sign
+
 a. The Scout Sign is made during the making or reaffirming of the Squirrel Scout Promise, the Beaver Scout Promise, the Cub Scout Promise and the Scout Promise and at no other time.
 
-Rule 12.6 The Scout Salute
---------------------------
+
+
+.. rule:: 12.6 The Scout Salute
+
 a. The Scout Salute is made only by Members of the Movement in uniform on formal Scout occasions, as a mark of respect at the hoisting of National flags, at the playing of National Anthems, to uncased Colours, Scout flags and to funerals.
 
-Rule 12.7 Parades
------------------
+
+
+.. rule:: 12.7 Parades
+
 On all parades of a public nature, other than in a place of worship, the Leader calls the party to the alert and the Leader alone salutes.
