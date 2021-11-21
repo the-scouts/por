@@ -84,13 +84,48 @@ a. **Definitions**
 
       * The Scout logo (in all brand colours and in both the stack and horizontal versions) protected under Registered UK Trade Mark `UK00003310891 <https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00003310891>`__
 
+        .. image:: media/2018-05-stacked.png
+           :scale: 50%
+
+        .. image:: media/2018-05-linear.png
+           :scale: 50%
+
       * The UK Scout fleur de lis/arrowhead protected under Registered UK Trade Mark `UK00003276645 <https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00003276645>`__
+
+        .. image:: media/2018-05-fleur-de-lis.png
+           :scale: 50%
 
       * All section logos
 
+        \
+
+        .. image:: media/2021-09-squirrels.png
+           :width: 30%
+
+        .. image:: media/2018-05-beavers.png
+           :width: 30%
+
+        .. image:: media/2018-05-cubs.png
+           :width: 30%
+
+        .. image:: media/2018-05-scouts.png
+           :width: 30%
+
+        .. image:: media/2018-05-explorers.png
+           :width: 30%
+
+        .. image:: media/2018-05-network.png
+           :width: 30%
+
       * The pre--May 2018 UK fleur de lis/arrowhead, protected under Registered UK Trade Mark `UK00000922043 <https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00000922043>`__ (not to be used on any new item by local Scouting after May 2018, except on flags as specified in :chapter:`12` and in the maintenance of Scout archives. It will remain a protected mark)
 
+        .. image:: media/2001-fleur-de-lis.png
+           :scale: 50%
+
       * The pre--May 2018 UK Scout logo, Registered UK Trade Mark `UK00002252954 <https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00002252954>`__ (not to be used by local Scouting after May 2020, but will remain a protected mark.
+
+        .. image:: media/2010-swoosh.jpg
+           :scale: 30%
 
    ii. Names:
 
@@ -129,11 +164,26 @@ c. **The World Scout Membership Badge and Logo**
 
    The World Membership Badge and logos are owned by the World Organization of the Scout Movement (WOSM). They may only be used or reproduced by permission of The Scout Association, acting as sole UK licensee on behalf of WOSM. They may not be used as a substitute for the UK Scout logo on local communications, signage or merchandise.
 
+   .. image:: media/1955-world-membership.jpg
+      :scale: 40%
+
+   .. image:: media/2006-04-world-logo.jpg
+      :scale: 40%
+
 d. **Contact**
 
    To apply for a commercial licence to use a Scout logo or name please email licensing@scoutshops.com with a brief summary of your proposition. We will then contact you to discuss the possibility of entering into a commercial licensing agreement.
 
 e. **Devolved Nation logos**
+
+   .. image:: media/2018-05-wales.jpg
+      :width: 30%
+
+   .. image:: media/2018-05-ni.jpg
+      :width: 30%
+
+   .. image:: media/2018-05-scotland.jpg
+      :width: 30%
 
    Devolved Nation logos may only be used by written permission of the devolved Nation headquarters (for **non-commercial** use) or permission from the Scout licensing team in consultation with Devolved Nation headquarters (for commercial use). If a Section/Group/District/County wishes to use a devolved Nation logo for non-commercial use in print, online use, or for event branding, they should contact the relevant devolved Nation headquarters with details of the intended use, seeking written permission:
 
@@ -148,6 +198,9 @@ e. **Devolved Nation logos**
    As a general rule, only Nation headquarters may use the devolved Nation logos (Scouts Scotland, ScoutsCymru and Scouts N.I.) in its communications and marketing materials.
 
    For local identification, Sections/Groups/Districts/Counties in the Nations must use their name beneath the main Scout logo and follow the advice on colour use given in the `brand guidelines <https://www.scouts.org.uk/volunteers/running-things-locally/local-media-and-member-communications/our-brand/>`__. An example is given below:
+
+   .. image:: media/2018-05-local.jpg
+      :width: 30%
 
 Rule 14.8 Trade Marks
 ---------------------
