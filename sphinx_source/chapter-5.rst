@@ -14,7 +14,7 @@ Additionally, the County may have one or more County Scout Active Support Units.
 
 
 
-.. rule:: 5.1 Membership of the Scout County
+.. rule:: Membership of the Scout County
 
 a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a disclosure as part of the Personal Enquiry process (see the Safeguarding Policy and :chapter:`POR-TAP`).
 
@@ -75,7 +75,7 @@ t. Associate Members of the Movement may:
 
 
 
-.. rule:: 5.2 Admission to membership
+.. rule:: Admission to membership
    :sv:
 
 a. The decision to admit anyone to membership of a Scout Group rests with the Group Scout Leader subject, in the case of a Sponsored Scout Group, to any recruitment policy defined in any sponsorship agreement.
@@ -90,7 +90,7 @@ e. Explorer Scouts who turn 18 years of age will automatically become Members of
 
 
 
-.. rule:: 5.3 Forfeit of membership
+.. rule:: Forfeit of membership
 
 a. Squirrel Scouts, Beaver Scouts, Cub Scouts and Scouts forfeit membership if they leave the Group and do not immediately join another Section.
 
@@ -102,7 +102,7 @@ d. Membership is held continuously during the transfer from one Section to the n
 
 
 
-.. rule:: 5.4 Transfer of membership
+.. rule:: Transfer of membership
    :sv:
 
 a. If a Member leaves a Group due to moving to another locality, the Group Scout Leader should inform the District Secretary of the District into which the Member is moving.
@@ -117,7 +117,7 @@ e. Notification should also be sent to Headquarters in respect of Squirrel Scout
 
 
 
-.. rule:: 5.5 Annual Census
+.. rule:: Annual Census
    :sv:
 
 The number of Members and Associate Members must be returned in an annual census of the Group, District or County.
@@ -130,7 +130,7 @@ c. .. body_blank::
 
 
 
-.. rule:: 5.6 Mixed Membership
+.. rule:: Mixed Membership
    :sv:
 
 a. .. body_blank::
@@ -163,17 +163,17 @@ The decision whether a County Scout Network may become an exception to the polic
 
 
 
-.. rule:: 5.7
+.. rule::
    :blank:
 
 
 
-.. rule:: 5.8
+.. rule::
    :blank:
 
 
 
-.. rule:: 5.9 County Scout Active Support Units
+.. rule:: County Scout Active Support Units
 
 a. The County Commissioner, in consultation with the County Executive Committee may form County Scout Active Support Units.
 
@@ -210,13 +210,13 @@ l. If a County Scout Active Support Unit fails to reach the minimum standard for
 
 
 
-.. rule:: 5.10 The Formation and Registration of Scout Counties
+.. rule:: The Formation and Registration of Scout Counties
 
 a. The registration, suspension and cancellation of Scout Counties are matters for the Country Headquarters. This includes their amalgamation and changes in boundary.
 
 
 
-.. rule:: 5.11 Suspension of County Registration
+.. rule:: Suspension of County Registration
 
 a. Suspension is a purely temporary measure.
 
@@ -236,7 +236,7 @@ h. The Chief Commissioner should consult Headquarters as to how best to resolve 
 
 
 
-.. rule:: 5.12 Suspension of Scout Networks
+.. rule:: Suspension of Scout Networks
    :sv:
 
 a. Suspension is a purely temporary measure.
@@ -253,7 +253,7 @@ f. A County Commissioner who suspends a County Scout Network must report the mat
 
 
 
-.. rule:: 5.13 Cancellation of Registration of the Scout County
+.. rule:: Cancellation of Registration of the Scout County
 
 a. The registration of a Scout County may be cancelled by Headquarters:
 
@@ -280,7 +280,7 @@ h. In the event that not all the Members leave, it will be a decision for the Ch
 
 
 
-.. rule:: 5.14 Management of the Scout County
+.. rule:: Management of the Scout County
 
 a. A Scout County is created and operated as an educational charity
 
@@ -298,12 +298,12 @@ d. The County Commissioner is assisted and supported by:
 
 
 
-.. rule:: 5.15
+.. rule::
    :blank:
 
 
 
-.. rule:: 5.16 The Constitution of the Scout County
+.. rule:: The Constitution of the Scout County
 
 a. In the absence of an existing formally adopted Constitution to the contrary, the following represents an ideal Constitution and will apply where the circumstances and the support allow.
 
@@ -473,7 +473,7 @@ h. **Conduct of Meetings in the Scout County**\ :sv:`#`
 
 
 
-.. rule:: 5.17 Administrators and Advisers
+.. rule:: Administrators and Advisers
 
 a. The County Chair and the County Commissioner must be able to work in partnership.
 
@@ -502,13 +502,13 @@ j. The appointment and termination of all County Administrators and Advisers app
 
 
 
-.. rule:: 5.18 Minimum Age for Appointments
+.. rule:: Minimum Age for Appointments
 
 a. To hold an adult appointment (in a Scout County a person must have reached the age of 18).
 
 
 
-.. rule:: 5.19 The Appointment of Adults in the Scout County
+.. rule:: The Appointment of Adults in the Scout County
    :sv:
 
 a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a criminal records disclosure check as part of the Personal Enquiry process (see the Safeguarding Policy and :chapter:`POR-TAP`).
@@ -545,47 +545,47 @@ m. Members of Scout Network are required to undertake a Personal Enquiry without
 
 
 
-.. rule:: 5.20
+.. rule::
    :blank:
 
 
 
-.. rule:: 5.21
+.. rule::
    :blank:
 
 
 
-.. rule:: 5.22
+.. rule::
    :blank:
 
 
 
-.. rule:: 5.23
+.. rule::
    :blank:
 
 
 
-.. rule:: 5.24
+.. rule::
    :blank:
 
 
 
-.. rule:: 5.25
+.. rule::
    :blank:
 
 
 
-.. rule:: 5.26
+.. rule::
    :blank:
 
 
 
-.. rule:: 5.27
+.. rule::
    :blank:
 
 
 
-.. rule:: 5.28 The appointment of Employed Staff in the Scout County
+.. rule:: The appointment of Employed Staff in the Scout County
    :sv:
 
 **Employed County Staff**
@@ -602,32 +602,32 @@ e. The procedures for enquiry and the appointment of adults must be followed.
 
 
 
-.. rule:: 5.29
+.. rule::
    :blank:
 
 
 
-.. rule:: 5.30
+.. rule::
    :blank:
 
 
 
-.. rule:: 5.31
+.. rule::
    :blank:
 
 
 
-.. rule:: 5.32
+.. rule::
    :blank:
 
 
 
-.. rule:: 5.33
+.. rule::
    :blank:
 
 
 
-.. rule:: 5.34 Limitation of holding more than one Appointment
+.. rule:: Limitation of holding more than one Appointment
 
 a. No Scouter may hold more than one appointment unless able to carry out all the duties of more than one appointment satisfactorily.
 
@@ -637,7 +637,7 @@ c. A County Commissioner may not hold any other appointment other than in a shor
 
 
 
-.. rule:: 5.35 Responsibilities of Appointments in the Scout County
+.. rule:: Responsibilities of Appointments in the Scout County
 
 a. **The County Commissioner**\ :sv:`#`
 
@@ -746,7 +746,7 @@ j. **County Youth Commissioner**
 
 
 
-.. rule:: 5.36 Responsibility for Sectional Matters
+.. rule:: Responsibility for Sectional Matters
    :sv:
 
 a. Assistant County Commissioners may be appointed for the Squirrel Scout, Beaver Scout, Cub Scout, Scout, Explorer Scout and Scout Network Sections.
@@ -762,7 +762,7 @@ c. The functions of the appointment are:
 
 
 
-.. rule:: 5.37 Responsibility for Specialist Subjects
+.. rule:: Responsibility for Specialist Subjects
 
 a. Assistant County Commissioners may be appointed to assist the County Commissioner with a variety of special responsibilities, including Air and Water Activities, Inclusion and Media Relations.\ :sv:`#`
 
@@ -774,7 +774,7 @@ d. Generally the specialist Assistant County Commissioner will be expected to ca
 
 
 
-.. rule:: 5.38 Responsibility for General Duties
+.. rule:: Responsibility for General Duties
    :sv:
 
 a. One or more Assistant County Commissioners may be appointed for general duties in the County or for a particular part of the County. Possible roles include General Duties, Development or Relationships. Alternatively the geographical area of the appointment may be named.
@@ -785,7 +785,7 @@ c. The duties will be specified by the County Commissioner on appointment, but a
 
 
 
-.. rule:: 5.39 County Leaders
+.. rule:: County Leaders
 
 a. County Leaders may be appointed to fulfil certain functions in relation to the Sections of Scouting e.g. County Cub Scout Leader.
 
@@ -793,7 +793,7 @@ b. The duties of such appointments will be defined by the County Commissioner at
 
 
 
-.. rule:: 5.40 The Training of Adults in the Scout County
+.. rule:: The Training of Adults in the Scout County
 
 a. The acceptance of an appointment involves an obligation to undertake training appropriate to the appointment.
 
@@ -822,7 +822,7 @@ j. In exceptional circumstances, Headquarters may prescribe the *Ongoing* learni
 
 
 
-.. rule:: 5.41 Minimum Training Standards
+.. rule:: Minimum Training Standards
 
 a. In order to provide training and support to adults, County Commissioners will require the assistance of suitably qualified people to perform the following functions:
 
@@ -845,7 +845,7 @@ Many Local Education Authorities run basic common element training courses and s
 
 
 
-.. rule:: 5.42 Adult Responsibility for the Scout Network Programme
+.. rule:: Adult Responsibility for the Scout Network Programme
    :sv:
 
 a. The Assistant County Commissioner Scout Network is responsible for supporting District Scout Network Commissioners and suggesting County projects and programme opportunities for Members of all District Scout Networks in that County.
@@ -856,12 +856,12 @@ c. In exceptional circumstances where a County Scout Network is required, the Co
 
 
 
-.. rule:: 5.43
+.. rule::
    :blank:
 
 
 
-.. rule:: 5.44 The Duke of Edinburgh's Award
+.. rule:: The Duke of Edinburgh's Award
 
 a. The Scout Association is a Licenced Organisation for the Duke of Edinburgh's Award.
 
@@ -893,7 +893,7 @@ j. Gold Award Certificates are normally presented at a reception arranged in one
 
 
 
-.. rule:: 5.45 The Queen's Scout Award
+.. rule:: The Queen's Scout Award
    :sv:
 
 a. The Queen's Scout Award is the highest award available to young people. It is possible for both Explorer Scouts aged 16 or over and Scout Network Members to achieve this award.
@@ -904,7 +904,7 @@ c. .. body_blank::.
 
 
 
-.. rule:: 5.46 Members with Special Needs
+.. rule:: Members with Special Needs
 
 a. It is important that young people are seen as individuals and that they are regarded equally as Members of the Movement, whatever their abilities or disabilities.
 
@@ -914,7 +914,7 @@ c. Leaders with Members with special needs can request support and guidance from
 
 
 
-.. rule:: 5.47 Finance and the Scout County
+.. rule:: Finance and the Scout County
    :sv:
 
 Certain Rules in this chapter do not apply, without modification, in parts of the British Isles outside England and Wales.
@@ -972,7 +972,7 @@ v. A scrutineer, or independent examiner is required to carry out the work progr
 
 
 
-.. rule:: 5.48 Funds administered by the Scout Network, County Scout Active Support Units and other Scout Sections in the County
+.. rule:: Funds administered by the Scout Network, County Scout Active Support Units and other Scout Sections in the County
    :sv:
 
 a. Any other County approved activity that is not an independent charity (e.g. any County Scout Network, a County Scout Active Support Units, Campsite, Badge Secretary) must itself administer sums allocated to it by the County Executive Committee.
@@ -985,7 +985,7 @@ d. Any County Scout Network, County Scout Active Support Unit or other activity 
 
 
 
-.. rule:: 5.49 Bank Accounts
+.. rule:: Bank Accounts
 
 a. All monies received by or on behalf of the County either directly or via supporters, must be paid into a bank account held in the name of the County. This account(s) may, alternatively, be a National Savings Account or a building society account(s).
 
@@ -1007,7 +1007,7 @@ i. The bank(s) at which the County account(s) are held must be instructed to cer
 
 
 
-.. rule:: 5.50 Disposal of County Assets at Amalgamation
+.. rule:: Disposal of County Assets at Amalgamation
 
 a. If two or more Scout Counties amalgamate, the retiring Treasurers must prepare a statement of account dated at the date of the amalgamation.
 
@@ -1017,7 +1017,7 @@ c. If the County Treasurer considers it necessary after consultation with the Co
 
 
 
-.. rule:: 5.51 Disposal of County Assets at Splitting
+.. rule:: Disposal of County Assets at Splitting
 
 a. If a Scout County is split into two or more separate Counties, or into parts, which will be amalgamated with other Counties, the assets of the County should be divided into proportions approximately represented by the Scout populations of each part after splitting.
 
@@ -1027,7 +1027,7 @@ c. This will normally be done under the supervision of Headquarters.
 
 
 
-.. rule:: 5.52 Disposal of County Assets at Closure
+.. rule:: Disposal of County Assets at Closure
 
 a. If a County ceases to exist, the County Treasurer must prepare a statement of account dated at the effective date of closure.
 
@@ -1043,13 +1043,13 @@ f. Headquarters is responsible for preserving the statements of account and all 
 
 
 
-.. rule:: 5.53 Preservation of Books of Account
+.. rule:: Preservation of Books of Account
 
 a. Statements of account and all existing accounting records must be preserved for at least six years from the end of the financial year in which they are made, or for such longer period as may be required by H.M. Revenue and Customs.
 
 
 
-.. rule:: 5.54 Payment of the Membership Subscription
+.. rule:: Payment of the Membership Subscription
 
 a. In order to meet the costs of Headquarters services to the Movement and the costs of organising and administering the Association, and to meet the Association's obligations to World Scouting, the Board of Trustees of the Association requires Members to pay a Headquarters Membership Subscription.
 
@@ -1071,7 +1071,7 @@ i. The Board of Trustees will decide what proportion, if any, is to be retained 
 
 
 
-.. rule:: 5.55 Fundraising
+.. rule:: Fundraising
 
 a. In order to maintain its work and to generate all that is needed to implement its training programme, the Scout Movement has to support itself financially.
 
@@ -1092,7 +1092,7 @@ g. Collections may take place even though there is no visible reciprocal effort 
 
 
 
-.. rule:: 5.56 Joint Fundraising Projects
+.. rule:: Joint Fundraising Projects
 
 a. Joint fundraising projects with other charitable organisations are permitted provided that the part of the proceeds allotted to the other organisation is used wholly for purposes other than those of private gain.
 
@@ -1102,13 +1102,13 @@ c. When undertaking a joint project it is advisable to agree terms via a Memoran
 
 
 
-.. rule:: 5.57 Fundraising and the Law
+.. rule:: Fundraising and the Law
 
 a. All fundraising undertaken on behalf of the Movement must be carried out as prescribed by the law. This will include those regulations governing house-to-house collections, street collections, lotteries, gaming, children and young persons. Details can be obtained from the Fundraising section of the Scouts website https://www.scouts.org.uk/volunteers/running-things-locally/grants-and-funds-for-your-local-group/fundraising-support/
 
 
 
-.. rule:: 5.58 Lotteries and Gaming
+.. rule:: Lotteries and Gaming
 
 a. If a County considers raising funds by means governed by any legislation as detailed in :rule:`5.57`, the proposed activity must have the approval of the County Executive Committee.
 
@@ -1124,7 +1124,7 @@ f. If the County is a registered charity, this fact must be stated in any advert
 
 
 
-.. rule:: 5.59 Appeals for Funds
+.. rule:: Appeals for Funds
 
 a. Counties may not issue general appeals for funds.
 
@@ -1134,7 +1134,7 @@ c. Any permitted appeal must not exceed the boundaries of the County.
 
 
 
-.. rule:: 5.60 Professional Fundraisers
+.. rule:: Professional Fundraisers
 
 a. Counties may appoint a professional fundraiser.
 
@@ -1142,7 +1142,7 @@ b. All legislation associated with fundraising must be fully complied with.
 
 
 
-.. rule:: 5.61 Grant Aid and Loans
+.. rule:: Grant Aid and Loans
 
 a. Provided that a County raises a proportion of its own funds, it may accept financial assistance in the form of grant aid or loans.
 

@@ -106,7 +106,7 @@ no person volunteering their services should receive less favourable treatment o
 
 
 
-.. rule:: 2.1 Responsibilities within the Equal Opportunities Policy
+.. rule:: Responsibilities within the Equal Opportunities Policy
 
 All adults in Scouting have a responsibility for the operation of the Association's Equal Opportunities Policy. All Scout Groups, as independent charities have a duty to comply with relevant equalities legislation.
 
@@ -133,7 +133,7 @@ The Scout Association takes the protection of privacy and personal data very ser
 
 
 
-.. rule:: 2.2 Responsibilities within the Privacy and Data Protection Policy
+.. rule:: Responsibilities within the Privacy and Data Protection Policy
 
 a. The Scout Association at national UKHQ level and each local Scout unit operate as separate, independent charities in their own right. Each collects and handles personal data and is responsible, as a separate data controller, for the personal data it collects and uses.
 
@@ -199,7 +199,7 @@ National Chaplains may be appointed for religious bodies represented in Scouting
 
 
 
-.. rule:: 2.3 Responsibilities within the Religious Policy
+.. rule:: Responsibilities within the Religious Policy
 
 a. The District Commissioner or the County Commissioner, as appropriate, must be satisfied that all applicants for Leader or Commissioner appointments are fully aware that they will be required by their personal example to implement the Association's religious policy.
 
@@ -236,7 +236,7 @@ All breaches of the policy and procedures will be dealt with within in line with
 
 
 
-.. rule:: 2.4 Safeguarding of young people and adults at risk
+.. rule:: Safeguarding of young people and adults at risk
 
 1. It is the responsibility of all adults involved in Scouting to have read and understood the Safeguarding Policy & Procedures.
 2. The Safeguarding Policy & Procedures must be adhered to at all times.
@@ -267,7 +267,7 @@ All those involved in Scouting are accountable for and must demonstrate an abili
 
 
 
-.. rule:: 2.5 Responsibilities within the Safety Policy
+.. rule:: Responsibilities within the Safety Policy
 
 All those involved in Scouting are accountable for and must demonstrate an ability and understanding of the following (so far as is reasonably practicable within the extent of their role);
 
@@ -321,7 +321,7 @@ The Scout Association is committed to this ethos and seeks to ensure, as far as 
 
 
 
-.. rule:: 2.6 Responsibility within the Youth Member Anti-Bullying Policy
+.. rule:: Responsibility within the Youth Member Anti-Bullying Policy
 
 It is the responsibility of all adults in Scouting to help develop a caring and supportive atmosphere, where bullying in any form is unacceptable.
 

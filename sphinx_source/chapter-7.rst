@@ -3,7 +3,7 @@
 
 
 
-.. rule:: 7.1 Communication
+.. rule:: Communication
 
 a. For all Scouting activities each party must implement an 'InTouch' system.
 
@@ -11,7 +11,7 @@ b. Details of what this needs to include are contained in the Factsheet FS120075
 
 
 
-.. rule:: 7.2 Emergency Procedures
+.. rule:: Emergency Procedures
 
 a. All accidents to individuals or involving damage to property must be reported. (See :rule:`7.4`).
 
@@ -69,13 +69,13 @@ q. Leaders are also required to notify the appropriate Government Agency when ac
 
 
 
-.. rule:: 7.3 Overriding Controls
+.. rule:: Overriding Controls
 
 a. For safety reasons only, the District or County Commissioner (or their representatives) of the area where the activity takes place has an overriding authority (in consultation with the home Commissioner) to direct that any activity should be postponed, stopped or cancelled.
 
 
 
-.. rule:: 7.4 Accident Reporting
+.. rule:: Accident Reporting
 
 a. Headquarters (via the Scout Information Centre) must be informed at the earliest suitable opportunity if any person, whether a Member of the Movement or not:
 

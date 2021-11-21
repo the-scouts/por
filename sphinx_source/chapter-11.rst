@@ -3,7 +3,7 @@
 
 
 
-.. rule:: 11.1 Award Nominations and Recognition of Service
+.. rule:: Award Nominations and Recognition of Service
 
 a. Nominations for Scout Good Service awards as well as Meritorious Conduct, Gallantry, Cornwell Scout Badge and Chief Scouts Personal Award can be initiated by any member. Nominations must be approved and supported by the relevant Commissioner, before being processed.
 
@@ -13,7 +13,7 @@ c. Before completing an Nomination Form, individuals are advised to consult the 
 
 
 
-.. rule:: 11.2 The Cornwell Scout Badge
+.. rule:: The Cornwell Scout Badge
 
 a. The Cornwell Scout Badge is awarded in respect of pre-eminently high character and devotion to duty, together with great courage and endurance.
 
@@ -23,7 +23,7 @@ c. Both the bronze badge and the cloth emblem of the same design may be worn.
 
 
 
-.. rule:: 11.3 Awards for Gallantry
+.. rule:: Awards for Gallantry
 
 a. Awards for gallantry are for acts which would normally include an element of personal risk.
 
@@ -39,7 +39,7 @@ f. A Bar may be awarded to the holder of any gallantry Cross for further acts of
 
 
 
-.. rule:: 11.4 Awards for Meritorious Conduct
+.. rule:: Awards for Meritorious Conduct
 
 a. Awards for meritorious conduct are made by the Chief Scout, who is advised by the National Awards Advisory Group, to Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts, Explorer Scouts, Scout Network Members, adult Members and Associate Members as determined by :table:`2: Appointments` and to Occasional and other Helpers.
 
@@ -53,7 +53,7 @@ e. A Bar may be awarded to the holder of a Medal of Meritorious Conduct for furt
 
 
 
-.. rule:: 11.5 Awards for Good Service
+.. rule:: Awards for Good Service
 
 a. Awards for good service are made by the Chief Scout, who is advised by the National Awards Advisory Group, to adult Members or Associate Members as determined by :table:`2: Appointments` and, exceptionally, to others who have given valuable service to Scouting over a considerable period.
 
@@ -75,13 +75,13 @@ i. The Silver Wolf, worn on a green and yellow ribbon around the neck, and emble
 
 
 
-.. rule:: 11.6 Chief Scout's Personal Award
+.. rule:: Chief Scout's Personal Award
 
 The Chief Scout's Personal Award, with a green arrowhead badge superimposed on a gold circular background on a dark green cloth emblem or brooch, is awarded by the Chief Scout, in consultation with the National Awards Advisory Group to recognise achievement not covered by the criteria for any other awards. It may be accompanied, where appropriate, with a suitable commemorative item.
 
 
 
-.. rule:: 11.7 Commissioner's Commendation Award
+.. rule:: Commissioner's Commendation Award
 
 a. The Commissioner's Commendation Award is indicated on a cloth emblem or brooch with a purple knot. The award can be issued to adults or youth Members, Members or Associate Members or non-members and supporters by the UK Chief Commissioner, Chief Commissioners, UK Commissioners, International, Regional and County/Area/Island/Region (Scotland) Commissioners and District Commissioners at their discretion. There are no set criteria for this award.
 
@@ -91,7 +91,7 @@ c. The award can be issued locally at any time and does not affect any applicati
 
 
 
-.. rule:: 11.8 Chief Scout's Length of Service Awards
+.. rule:: Chief Scout's Length of Service Awards
 
 a. Service in the Association is recognised by the Chief Scout's Length of Service Award at 5, 10, 15, 20, 25, 30, 40, 50, 60 and 70 year Intervals. A certificate and either a cloth emblem or brooch with a white knot and corresponding green number is available to all Members and Associate Members of the Association as determined by :table:`2: Appointments`.
 
@@ -103,7 +103,7 @@ d. Overseas service with another Scout Association does not count towards servic
 
 
 
-.. rule:: 11.9 Emblems and Certificates of Awards
+.. rule:: Emblems and Certificates of Awards
 
 a. When the insignia of a Scout award is not worn with uniform, it is represented by a brooch with the same design as the cloth emblem.
 
@@ -115,7 +115,7 @@ d. All awards are accompanied by a certificate.
 
 
 
-.. rule:: 11.10 Thanks Badge
+.. rule:: Thanks Badge
 
 a. The Thanks Badge is the means of expressing the appreciation of the Association to those who are not Members or Associate Members but who have been of service to Scouting.
 
@@ -123,11 +123,11 @@ b. The metal badge is for wear with ordinary clothes and does not confer Members
 
 
 
-.. rule:: 11.11
+.. rule::
    :blank:
 
 
 
-.. rule:: 11.12 Method of Wear
+.. rule:: Method of Wear
 
 For the method of wear of Scout awards see :chapter:`10`.

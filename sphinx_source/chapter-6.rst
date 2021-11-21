@@ -328,7 +328,7 @@ The Scout Association and Girlguiding, although separate organisations, share a 
 
 
 
-.. rule:: 6.1 National Scout Active Support Units
+.. rule:: National Scout Active Support Units
 
 a. The UK Commissioner for Programme (Delivery) may form National Scout Active Support Units.
 
@@ -371,7 +371,7 @@ m. If two or more National Scout Active Support Units are to merge;
 
 
 
-.. rule:: 6.2 UK Scout Network
+.. rule:: UK Scout Network
 
 a. **Admission to Membership**
 

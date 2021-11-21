@@ -50,7 +50,7 @@ The provision of any indemnity given by The Scout Association is subject to the 
 
 
 
-.. rule:: 8.1 Insurance Cover
+.. rule:: Insurance Cover
 
 a. Every Scout Group, District and County must maintain insurance cover, to be reviewed annually, in respect of the following risks:
 
@@ -70,7 +70,7 @@ e. `Unity <https://www.unityinsuranceservices.co.uk/scout-insurance>`__ is the o
 
 
 
-.. rule:: 8.2 Indemnities
+.. rule:: Indemnities
 
 a. If a Scout Group, District or County is arranging to use land, premises or other facility belonging to another authority, organisation or an individual, and is required to sign an agreement or indemnity, details must be sent to Unity as soon as possible.
 
@@ -78,7 +78,7 @@ b. The acceptability of the agreement or indemnity terms by `Unity <https://www.
 
 
 
-.. rule:: 8.3 Compliance with Rules
+.. rule:: Compliance with Rules
 
 a. For insurance cover by Headquarters to be effective, the Rules of the Association must be complied with, particularly those Rules governing the organisation of activities and safety precautions applying to activities.
 
@@ -91,7 +91,7 @@ c. For this reason, Groups, Districts or Counties undertaking the following acti
 
 
 
-.. rule:: 8.4 Effecting Insurance and Reporting Claims
+.. rule:: Effecting Insurance and Reporting Claims
 
 a. If action is taken in relation to effecting insurance or reporting claims, injuries or fatalities, this action must be taken by the Leader or other adult responsible for the individual's or party's participation in the event or activity.
 

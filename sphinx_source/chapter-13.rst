@@ -3,7 +3,7 @@
 
 
 
-.. rule:: 13.1 Persons not allowed to act as Trustees
+.. rule:: Persons not allowed to act as Trustees
 
 a. Members of the Group, District and County Executive Committees are the 'charity trustees' of the Group, District or County.
 
@@ -31,7 +31,7 @@ f. Some people are disqualified by law from acting as charity trustees. Subject 
 
 
 
-.. rule:: 13.2 Property and Equipment
+.. rule:: Property and Equipment
    :sv:
 
 a. Scout Groups must be properly accommodated and equipped in order to carry out their training programmes.
@@ -54,7 +54,7 @@ i. A suggested template for a Declaration of Trust suitable for local Trustees t
 
 
 
-.. rule:: 13.3 The Charities Acts
+.. rule:: The Charities Acts
 
 This Rule applies in England and Wales only.
 
@@ -70,7 +70,7 @@ b. The Group, District or County Secretary must ensure that all statutory duties
 
 
 
-.. rule:: 13.4 Land
+.. rule:: Land
 
 a. The Group, District or County Executive Committee should obtain at least a formal written licence and preferably a lease of any land, with or without buildings, which they do not own and which is to be occupied for a substantial period.
 
@@ -80,7 +80,7 @@ c. The Group, District or County Treasurer must ensure that all possible relief 
 
 
 
-.. rule:: 13.5 Property -- Sponsored Groups
+.. rule:: Property -- Sponsored Groups
 
 a. Agreements with Sponsoring Authorities identify property belonging to the Sponsoring Organisation and that belonging to the Group.
 
@@ -88,7 +88,7 @@ b. Property owned by the Group as recorded in such agreements must be administer
 
 
 
-.. rule:: 13.6 Disposal of Property at Amalgamation
+.. rule:: Disposal of Property at Amalgamation
 
 a. The Model 'Declarations of Trust' referred to, contain certain provisions for the amalgamation of Groups, Districts and Counties.
 
@@ -102,7 +102,7 @@ c. For further information on amalgamation see:
 
 
 
-.. rule:: 13.7 Disposal of Property at Closure
+.. rule:: Disposal of Property at Closure
 
 a. The property of a Group, District or County which ceases to exist will automatically pass to the District Scout Council, County Scout Council or Headquarters as appropriate unless there is some pre-existing arrangement by which the property passes to another beneficiary.
 
@@ -118,7 +118,7 @@ d. For further information on closure see
 
 
 
-.. rule:: 13.8 Joint Occupation of Premises by Scout and Guide Units
+.. rule:: Joint Occupation of Premises by Scout and Guide Units
 
 a. A special Declaration of Trust, which must provide for the formation of a joint management committee, must be drawn up if the premises are to be owned and occupied jointly by Scout and Guide units.
 
@@ -128,7 +128,7 @@ c. A copy of an appropriate model Declaration of Trust can provided by the Assoc
 
 
 
-.. rule:: 13.9 Investments
+.. rule:: Investments
 
 a. Unless the powers of investment are specified in the formal Trust Instrument creating or governing any given Group, District or County, such powers of investment are governed by the Trustee Act 2000. Accordingly, The Scout Association's own particular powers of investment are specified by its Royal Charter. These particular powers of investment apply to The Scout Association itself and not to its entire member Groups, Districts or Counties.\ :sv:`#`
 
@@ -140,7 +140,7 @@ d. Investments held on behalf of Groups, Districts or Counties must be registere
 
 
 
-.. rule:: 13.10 Motor Vehicles, Vessels and Aircraft
+.. rule:: Motor Vehicles, Vessels and Aircraft
 
 a. The Group, District or County Treasurer must ensure that motor vehicles, vessels and aircraft owned by the Group, District or County are properly registered, licensed and insured as necessary and that all requirements as to their condition, testing or any other matters are fulfilled.
 
@@ -148,13 +148,13 @@ b. Motor vehicles must be registered either in the name of the Group, District o
 
 
 
-.. rule:: 13.11 Equipment
+.. rule:: Equipment
 
 a. The Group, District or County Treasurer must maintain proper inventories of all equipment owned, including furniture, training equipment, musical instruments or equivalent of any other kind.
 
 
 
-.. rule:: 13.12 Safe Custody of Documents
+.. rule:: Safe Custody of Documents
    :sv:
 
 a. The Group, District or County Secretary must ensure that documents relating to the ownership of property and equipment and all other legal and official documents, together with any documents of historical importance or interest are kept in a safe place.

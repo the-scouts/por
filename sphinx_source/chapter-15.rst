@@ -3,7 +3,7 @@
 
 
 
-.. rule:: 15.1 Complaints
+.. rule:: Complaints
 
 a. Complaints, disagreements and disputes should be resolved informally if at all possible.
 
@@ -15,7 +15,7 @@ d. Where a concern is raised about potential wrongdoing which is in the public i
 
 
 
-.. rule:: 15.2 Suspension of adult Members, Associate Members and non-Members
+.. rule:: Suspension of adult Members, Associate Members and non-Members
 
 a. The following also applies to Members of the Scout Network.
 
@@ -149,7 +149,7 @@ r. In the case of individuals suspended under :rule:`15.2(b)(vi)`, suspension ma
 
 
 
-.. rule:: 15.3 Safeguarding Stay-Away
+.. rule:: Safeguarding Stay-Away
 
 a. Stay-Away is a tool that can be used by the national Safeguarding team only. Stay-Away of any involvement in Scouting by a Member (including Scout Network), Associate Member or a non-Member is an act intended to protect all persons involved. It exists to ensure that any investigation or inquiry proceeds in as fair and objective manner as possible by preventing situations arising which could give rise to further concerns/allegations or which could potentially cause further compromise.
 
@@ -176,7 +176,7 @@ d. At the end of the two week Stay-Away the safeguarding team must make a decisi
 
 
 
-.. rule:: 15.4 Suspension of Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts or Explorer Scouts
+.. rule:: Suspension of Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts or Explorer Scouts
 
 a. Formal suspension of a youth member may be appropriate where they have been accused of a serious criminal offence or of behaviour that put adults or young people at serious risk of harm. See also the factsheet Guidance on the formal suspension of youth members.
 
@@ -196,7 +196,7 @@ h. They must also be offered an independent Scouting colleague to act as a suppo
 
 
 
-.. rule:: 15.5 Ending a period of Suspension of Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts or Explorer Scouts
+.. rule:: Ending a period of Suspension of Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts or Explorer Scouts
 
 a. At the end of a period of suspension the District Commissioner and Group Scout Leader/Explorer Scout Leader must determine if a return to Scouting is appropriate. Advice should be sought from the relevant Development Manager or Officer, Field Commissioner or Country HQ and where a statutory authority has been involved, advice must be sought from that body.
 
@@ -210,19 +210,19 @@ b. The dismissal of a young person (whether following a suspension or not) must 
 
 
 
-.. rule:: 15.6 Termination of adult Membership and Associate Membership
+.. rule:: Termination of adult Membership and Associate Membership
 
 See :chapter:`POR-TAP`, :rule:`16.7`
 
 
 
-.. rule:: 15.7 Cancellation or non-renewal of adult Appointments
+.. rule:: Cancellation or non-renewal of adult Appointments
 
 See :chapter:`POR-TAP`
 
 
 
-.. rule:: 15.8 Termination of Youth Membership
+.. rule:: Termination of Youth Membership
    :sv:
 
 a. Youth Membership may be terminated by:
@@ -239,7 +239,7 @@ c. The Board shall be under no obligation to state its reasons for making such a
 
 
 
-.. rule:: 15.9 Dismissal of Scout Network Members
+.. rule:: Dismissal of Scout Network Members
    :sv:
 
 a. No Scout Network Member may be dismissed without the approval of the District Scout Network Commissioner (or equivalent, where an exception to a District Scout Network operates) or UK Scout Network Commissioner where the member is a member of the UK Scout Network only. Where no District Scout Network Commissioner is in post this will fall to the District Commissioner.
@@ -252,13 +252,13 @@ d. Consideration should be given to the impact of dismissal on any other adult r
 
 
 
-.. rule:: 15.10 Dismissal of Explorer Scouts
+.. rule:: Dismissal of Explorer Scouts
 
 a. No Explorer Scout may be dismissed from an Explorer Scout Unit without the approval of the District Explorer Scout Commissioner.
 
 
 
-.. rule:: 15.11 Dismissal of Squirrel Scouts, Beaver Scouts, Cub Scouts and Scouts
+.. rule:: Dismissal of Squirrel Scouts, Beaver Scouts, Cub Scouts and Scouts
 
 a. No Squirrel Scout, Beaver Scout, Cub Scout, or Scout may be dismissed from a Scout Group without the approval of the Group Scout Leader.
 
@@ -266,12 +266,12 @@ b. In a Sponsored Scout Group, the Sponsoring Authority must be consulted before
 
 
 
-.. rule:: 15.12
+.. rule::
    :blank:
 
 
 
-.. rule:: 15.13 Appeals against the dismissal Scout Network Members
+.. rule:: Appeals against the dismissal Scout Network Members
 
 a. Any Scout Network Member who is dismissed has the right of appeal (with the aid of a 'friend' if so desired) to the District Commissioner (or equivalent, where an exception to a District Scout Network operates) or Deputy UK Commissioner for Programme (14--25) where the member is a member of the UK Scout Network only.
 
@@ -281,7 +281,7 @@ c. Reasonable opportunity must be given for the dismissed person to attend the m
 
 
 
-.. rule:: 15.14 Appeals against Dismissal of Youth Members (Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts and Explorer Scouts)
+.. rule:: Appeals against Dismissal of Youth Members (Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts and Explorer Scouts)
 
 a. Any Squirrel Scout, Beaver Scout, Cub Scout, Scout or Explorer Scout who is dismissed has the right of appeal (with the aid of parents or guardians if so desired) to the District Commissioner.
 
