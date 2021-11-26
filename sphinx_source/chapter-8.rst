@@ -52,7 +52,8 @@ b. Insurance cover must be taken out in respect of risks incurred when undertaki
 
 c. Insurance cover must be taken out in respect of employers' liability for people a Scout Group, District and County may employ.
 
-d. The Scout Association Legal Liability Policy cover extends to cover every Scout group, District and County, subject to :rule:`8.3 Compliance with Rules`. There is no requirement to purchase additional Public or Property Owners' Liability policies.
+d. The Scout Association Legal Liability Policy cover extends to cover every Scout group, District and County, subject to :rule:`8.3+`.
+   There is no requirement to purchase additional Public or Property Owners' Liability policies.
 
 e. `Unity <https://www.unityinsuranceservices.co.uk/scout-insurance>`__ is the official insurance broker of The Scout Association and is one company that can arrange insurance cover that meets the standards described above.
 

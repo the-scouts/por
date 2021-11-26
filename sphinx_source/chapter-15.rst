@@ -200,7 +200,7 @@ b. The dismissal of a young person (whether following a suspension or not) must 
 
 Rule 15.6 Termination of adult Membership and Associate Membership
 ------------------------------------------------------------------
-See POR: The Appointment Process, :rule:`7`
+See POR: The Appointment Process, :rule:`16.7`
 
 Rule 15.7 Cancellation or non-renewal of adult Appointments
 -----------------------------------------------------------

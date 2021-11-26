@@ -41,7 +41,8 @@ a. Prior to every activity the Leader must ensure that:
    * all equipment is appropriate for the activity;
    * any other requirements of The Scout Association, including the Safeguarding Policy and Safety Policy, have been complied with;
    * any legal requirements for the activity have been complied with;
-   * a risk assessment is carried out in accordance with :rule:`9.4 Risk Assessment` and safety instructions are communicated to all supervising adults and participants;
+   * a risk assessment is carried out in accordance with :rule:`9.4+`
+     and safety instructions are communicated to all supervising adults and participants;
    * suitable first aid materials are available.
 
 Rule 9.3 InTouch
@@ -100,7 +101,7 @@ a. These rules apply to all adventurous activities.
    * all water activities, except swimming, on class B1, B2, B3 or A waters;
    * all motorised water activities and SCUBA activities on class C waters.
 
-b. Members or associate members of Scouting wishing to run any adventurous activity must hold the appropriate activity permit where any member of the activity group is under the age of 18 or those Scout Network members with additional needs that places their mental capacity and understanding as below the age of 18. For joint activities with under and over 18 members the activity permit scheme applies. Where these activities are being run by non-members, see :rule:`9.9 Use of External Centres and Instructors`.
+b. Members or associate members of Scouting wishing to run any adventurous activity must hold the appropriate activity permit where any member of the activity group is under the age of 18 or those Scout Network members with additional needs that places their mental capacity and understanding as below the age of 18. For joint activities with under and over 18 members the activity permit scheme applies. Where these activities are being run by non-members, see :rule:`9.9+`.
 
    Note: This rule also applies to staff and employees operating on behalf of The Scout Association (or any Group, District, County or Country thereof).
 
@@ -146,7 +147,7 @@ Rule 9.8 Adult Groups undertaking activities
 --------------------------------------------
 a. Members over the age of 18 participating in activities must follow the rules laid out in Chapter 9, with the exception of :rule:`9.7`, :rule:`9.26`, :rule:`9.33(b)` and :rule:`9.33(c)`, :rule:`9.35`, :rule:`9.36(a)`.
 
-b. Where any participant in the activity group is aged under 18, or any adult with additional needs, disabilities or life-limiting conditions who have additional support to access Scouting, all rules in Chapter 9 apply, including :rule:`9.7 Adventurous Activity Permit Scheme`.
+b. Where any participant in the activity group is aged under 18, or any adult with additional needs, disabilities or life-limiting conditions who have additional support to access Scouting, all rules in Chapter 9 apply, including :rule:`9.7+`.
 
 c. When members over the age of 18 undertake activities covered by :rule:`9.7`, :rule:`9.26`, :rule:`9.33(b)` and :rule:`9.33(c)`, :rule:`9.35`, :rule:`9.36(a)`, members can chose an appropriate management systems for these activities, members may choose to follow existing systems such as the Adventurous Activity Permit Scheme or may put in place other controls.
 
@@ -263,7 +264,7 @@ Rule 9.17 Gliding
 -----------------
 a. The flight must be under the supervision of a British Gliding Association Flying Instructor at a British Gliding Association registered club. Age, weight and maturity of the Scout Member under training must be considered by the Chief Flying Instructor (or their delegated representative) of the club.
 
-NOTE: For motor / self-launching glider requirements please see :rule:`9.16(c) Powered Aircraft Flying`.
+NOTE: For motor / self-launching glider requirements please see :rule:`9.16(c)+`.
 
 Rule 9.18 Ballooning
 --------------------
@@ -508,7 +509,7 @@ a. Archery must be run as specified in :rule:`9.7` or the `externally led archer
 
 b. Shooting at targets representing human beings or animals is not permitted as a part of any Scout activity, nor on property owned or leased by, or used in the name of, the Scout Movement (including Archery Tag and other combat style archery activities as per :rule:`9.67`).
 
-c. The use of crossbows as a Scouting activity can be found in :rule:`9.37 Shooting`.
+c. The use of crossbows as a Scouting activity can be found in :rule:`9.37+`.
 
 Rule 9.37 Shooting
 ------------------
@@ -579,7 +580,7 @@ a. The throwing of tomahawks and small hawks must follow the guidance in the `To
 
 b. Throwing at targets representing human beings or animals is not permitted as a part of any Scout activity, nor on property owned or leased by, or used in the name of, the Scout Movement.
 
-c. Throwing knives is not permitted within The Scout Association (see :rule:`9.67 Banned Activities`).
+c. Throwing knives is not permitted within The Scout Association (see :rule:`9.67+`).
 
 Rule 9.39 Paintball Games
 -------------------------
@@ -1030,7 +1031,7 @@ c. Permanent high ropes structures are:
 
 Rule 9.79 Permanent High Ropes Activities
 -----------------------------------------
-Permanent high ropes activities are defined in :rule:`9.78 High Ropes Activities`
+Permanent high ropes activities are defined in :rule:`9.78+`
 
 a. Construction and maintenance of permanent high ropes structures must follow the guidelines in AAIAC (Adventure Activities Industry Advisory Committee) -- The UK Ropes Course Guide. This can be found at `here <https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/roped-activities/high-ropes/>`__
 
@@ -1040,7 +1041,7 @@ Further details of what should be included within the operating manual and how t
 
 Rule 9.80 Temporary High Ropes Activities
 -----------------------------------------
-Temporary high ropes activities are defined in :rule:`9.78 High Ropes Activities`
+Temporary high ropes activities are defined in :rule:`9.78+`
 
 a. Construction of temporary high ropes activities must follow the guidelines contained in `FS120423 High Ropes <https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/roped-activities/high-ropes/>`__.
 
