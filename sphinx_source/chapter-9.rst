@@ -8,6 +8,7 @@
 
 
 .. rule:: Activity Rules -- Application
+
 a. These Rules apply to all activities carried out anywhere in the world.
 
 b. The District Commissioner is responsible for approving all activities for Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts and Explorer Scouts. This will usually be by means of an informal system agreed between the District Commissioner and each Group Scout Leader or District Explorer Scout Commissioner.
@@ -20,11 +21,11 @@ e. For special events and activities approval must be granted by a County, Regio
 
 f. For safety reasons **only**, the District or County Commissioner (or their representatives) of the area where the activity takes place has an overriding authority (in consultation with the home Commissioner) to direct that any activity should be postponed, stopped or cancelled.
 
-*Please refer to* :rule:`7.3`
+*Please refer to* :rule:`7!Overriding Controls`
 
 g. There are additional requirements for the District/County Commissioners approval for thoseactivities which fall within the scope of the Association's Adventurous Activity Permit Scheme.
 
-h. When professional instructors or leaders from outside the Movement are engaged separate rules apply (see :rule:`9.9`).
+h. When professional instructors or leaders from outside the Movement are engaged separate rules apply (see :rule:`9!Use of External Centres and Instructors`).
 
 i. .. body_blank::
 
@@ -35,16 +36,16 @@ i. .. body_blank::
 a. Prior to every activity the Leader must ensure that:
 
    * it has been approved by the relevant District/County Commissioner;
-   * if necessary, they---or another member of the party---holds a permit in accordance with the Adventurous Activity Permit Scheme (see :rule:`9.7`);
+   * if necessary, they---or another member of the party---holds a permit in accordance with the Adventurous Activity Permit Scheme (see :rule:`9!Adventurous Activities Permit Scheme`);
    * it is the leader holding the permit who takes all decisions for the duration of the activity;
-   * there is additional, responsible supervision as required (including for those in the locality of the activity but not actively involved, see Rules :rule:`3.8`, :rule:`3.9`, and :rule:`3.10`), all supervising adults and participants are made aware of who is in charge;
-   * suitable InTouch arrangements (see :rule:`9.3`) and Emergency Procedures (:chapter:`7`) are in place;
+   * there is additional, responsible supervision as required (including for those in the locality of the activity but not actively involved, see Rules :rule:`3!The Beaver Scout Colony`, :rule:`3!The Cub Scout Pack`, and :rule:`3!The Scout Troop`), all supervising adults and participants are made aware of who is in charge;
+   * suitable InTouch arrangements (see :rule:`9!InTouch`) and Emergency Procedures (:chapter:`7`) are in place;
    * it is appropriate to the age and abilities of all participants; each participant has received appropriate training;
    * an appropriate weather forecast is obtained and acted upon in terms of selecting the area in which the activity will operate and that each participant is suitably equipped to tackle predicted/possible extremes;
    * all equipment is appropriate for the activity;
    * any other requirements of The Scout Association, including the Safeguarding Policy and Safety Policy, have been complied with;
    * any legal requirements for the activity have been complied with;
-   * a risk assessment is carried out in accordance with :rule:`9.4+`
+   * a risk assessment is carried out in accordance with :rule:`9!Risk Assessment!+`
      and safety instructions are communicated to all supervising adults and participants;
    * suitable first aid materials are available.
 
@@ -114,7 +115,7 @@ a. These rules apply to all adventurous activities.
    * all water activities, except swimming, on class B1, B2, B3 or A waters;
    * all motorised water activities and SCUBA activities on class C waters.
 
-b. Members or associate members of Scouting wishing to run any adventurous activity must hold the appropriate activity permit where any member of the activity group is under the age of 18 or those Scout Network members with additional needs that places their mental capacity and understanding as below the age of 18. For joint activities with under and over 18 members the activity permit scheme applies. Where these activities are being run by non-members, see :rule:`9.9+`.
+b. Members or associate members of Scouting wishing to run any adventurous activity must hold the appropriate activity permit where any member of the activity group is under the age of 18 or those Scout Network members with additional needs that places their mental capacity and understanding as below the age of 18. For joint activities with under and over 18 members the activity permit scheme applies. Where these activities are being run by non-members, see :rule:`9!Use of External Centres and Instructors!+`.
 
    Note: This rule also applies to staff and employees operating on behalf of The Scout Association (or any Group, District, County or Country thereof).
 
@@ -160,11 +161,11 @@ o. Where a County is selected for national sampling of their self-moderation the
 
 .. rule:: Adult Groups undertaking activities
 
-a. Members over the age of 18 participating in activities must follow the rules laid out in :chapter:`9`, with the exception of :rule:`9.7`, :rule:`9.26`, :rule:`9.33(b)` and :rule:`9.33(c)`, :rule:`9.35`, :rule:`9.36(a)`.
+a. Members over the age of 18 participating in activities must follow the rules laid out in :chapter:`9`, with the exception of :rule:`9!Adventurous Activities Permit Scheme`, :rule:`9!Hill Walking and Off Road Cycling Permits`, :rule:`9!Snowsports!(b)` and :rule:`9!Snowsports!(c)`, :rule:`9!Caving and Mine Exploration`, :rule:`9!Archery!(a)`.
 
-b. Where any participant in the activity group is aged under 18, or any adult with additional needs, disabilities or life-limiting conditions who have additional support to access Scouting, all rules in :chapter:`9` apply, including :rule:`9.7+`.
+b. Where any participant in the activity group is aged under 18, or any adult with additional needs, disabilities or life-limiting conditions who have additional support to access Scouting, all rules in :chapter:`9` apply, including :rule:`9!Adventurous Activities Permit Scheme!+`.
 
-c. When members over the age of 18 undertake activities covered by :rule:`9.7`, :rule:`9.26`, :rule:`9.33(b)` and :rule:`9.33(c)`, :rule:`9.35`, :rule:`9.36(a)`, members can chose an appropriate management systems for these activities, members may choose to follow existing systems such as the Adventurous Activity Permit Scheme or may put in place other controls.
+c. When members over the age of 18 undertake activities covered by :rule:`9!Adventurous Activities Permit Scheme`, :rule:`9!Hill Walking and Off Road Cycling Permits`, :rule:`9!Snowsports!(b)` and :rule:`9!Snowsports!(c)`, :rule:`9!Caving and Mine Exploration`, :rule:`9!Archery!(a)`, members can chose an appropriate management systems for these activities, members may choose to follow existing systems such as the Adventurous Activity Permit Scheme or may put in place other controls.
 
 d. Any activity that is banned applies to all age groups.
 
@@ -194,7 +195,7 @@ d. Members when using external activity providers are required to follow all rul
 
 .. rule:: Air Activities -- General
 
-a. Rules :rule:`9.11`, :rule:`9.12`, and :rule:`9.13` apply to all forms of air experience flying and flying instruction undertaken by Members of the Movement.
+a. Rules :rule:`9!Access to Airfields`, :rule:`9!Air Activities -- Public Liability Insurance and Pilot and Aircraft Requirements`, and :rule:`9!Flight Briefings` apply to all forms of air experience flying and flying instruction undertaken by Members of the Movement.
 
 
 
@@ -297,7 +298,7 @@ d. Microlighting must be under the supervision of a holder of the National Priva
 
 a. The flight must be under the supervision of a British Gliding Association Flying Instructor at a British Gliding Association registered club. Age, weight and maturity of the Scout Member under training must be considered by the Chief Flying Instructor (or their delegated representative) of the club.
 
-NOTE: For motor / self-launching glider requirements please see :rule:`9.16(c)+`.
+NOTE: For motor / self-launching glider requirements please see :rule:`9!Powered Aircraft Flying!(c)+`.
 
 
 
@@ -337,7 +338,7 @@ f. The flying of powered hang gliders and powered paragliders must fully comply 
 
 .. rule:: Hovercrafting
 
-a. Helmets must be worn by all those taking part in all organised Scout hovercrafting events, except in the case of :rule:`9.21(b)`.
+a. Helmets must be worn by all those taking part in all organised Scout hovercrafting events, except in the case of :rule:`9!Hovercrafting!(b)`.
 
 b. A Sikh wearing a Turban may choose not to wear a helmet (ensuring there is no loose fabric which could be drawn into the fan). This does not apply to a Sikh wearing a Top Knot.
 
@@ -345,7 +346,7 @@ c. Buoyancy aids must be worn at all times when on board a hovercraft.
 
 d. A remote cut off device must be fitted to any craft being used for solo training.
 
-e. Hovercrafting over water may only take place on inland waters of Class C, B1 or B2 waters (as defined in :rule:`9.44(b)`).
+e. Hovercrafting over water may only take place on inland waters of Class C, B1 or B2 waters (as defined in :rule:`9!Classification of Waters!(b)`).
 
 
 
@@ -390,15 +391,15 @@ h. The relevant Commissioner, or their designate, can issue an exemption from th
 
 .. rule:: Hill Walking and Off Road Cycling Permits
 
-a. All activities in Terrain 1 or Terrain 2 must be under the direct control of, or supervised by, a person holding the appropriate permit (see :rule:`9.7`).
+a. All activities in Terrain 1 or Terrain 2 must be under the direct control of, or supervised by, a person holding the appropriate permit (see :rule:`9!Adventurous Activities Permit Scheme`).
 
-b. All activities in Terrain Zero must be approved by the relevant Commissioner (see :rule:`9.1(b)`)
+b. All activities in Terrain Zero must be approved by the relevant Commissioner (see :rule:`9!Activity Rules -- Application!(b)`)
 
 
 
 .. rule:: Hill Walking and Off Road Cycling -- Safety
 
-For activities in Terrain One and Two as defined in :rule:`9.29` & :rule:`9.30`:
+For activities in Terrain One and Two as defined in :rule:`9!Terrain One Definition` & :rule:`9!Terrain Two Definition`:
 
 a. A detailed route plan must always be left with a responsible person not taking part in the activity.
 
@@ -453,7 +454,7 @@ b. Is not a road, or path adjacent to a road, on which you would expect to see t
 
    and
 
-c. Is not Terrain Two as defined by :rule:`9.30`
+c. Is not Terrain Two as defined by :rule:`9!Terrain Two Definition`
 
 
 
@@ -481,9 +482,9 @@ When in terrain or using skills that have not been assessed for a terrain 2 hill
 
 .. rule:: Party Size
 
-For activities in Terrain One and Two as defined in :rule:`9.29` & :rule:`9.30`:
+For activities in Terrain One and Two as defined in :rule:`9!Terrain One Definition` & :rule:`9!Terrain Two Definition`:
 
-a. Parties must consist of no more than eight, but no less than four people, except as provided for in :rule:`9.32(d)` below.
+a. Parties must consist of no more than eight, but no less than four people, except as provided for in :rule:`9!Party Size!(d)` below.
 
 b. Each party must have a leader holding a permit or a designated party leader.
 
@@ -510,7 +511,7 @@ b. Short term personal permit exemptions can be granted by appropriately qualifi
 
 c. For off piste snowsports, the relevant Terrain 1 or Terrain 2 Hillwalking Winter permit is also required.
 
-d. Helmets must be worn by all those taking part in snowsports activities, except in the case of cross country skiing, ski touring when in walk mode or :rule:`9.33(e)`.
+d. Helmets must be worn by all those taking part in snowsports activities, except in the case of cross country skiing, ski touring when in walk mode or :rule:`9!Snowsports!(e)`.
 
 e. A Sikh wearing a Turban may choose to take part in snowsports activities without a helmet. This does not apply to a Sikh wearing a top knot.
 
@@ -520,9 +521,9 @@ NOTE: More information regarding these rules can be found at in `FS120424 Winter
 
 .. rule:: Climbing and Abseiling
 
-a. Climbing helmets must always be worn by all those climbing or abseiling on natural features, except in the case of :rule:`9.34(c)`.
+a. Climbing helmets must always be worn by all those climbing or abseiling on natural features, except in the case of :rule:`9!Climbing and Abseiling!(c)`.
 
-b. Climbing helmets need not be worn by those climbing or abseiling on artificial walls provided the activity leader is satisfied that the climber or abseiler has sufficient skill not to react unpredictably. Novices must always wear helmets, except in the case of :rule:`9.34(c)`. The use of helmets for climbing using auto belay systems must be determined by the activity risk assessment.
+b. Climbing helmets need not be worn by those climbing or abseiling on artificial walls provided the activity leader is satisfied that the climber or abseiler has sufficient skill not to react unpredictably. Novices must always wear helmets, except in the case of :rule:`9!Climbing and Abseiling!(c)`. The use of helmets for climbing using auto belay systems must be determined by the activity risk assessment.
 
 c. A Sikh wearing a Turban may choose to climb or abseil on natural features and artificial climbing walls without a helmet. This does not apply to a Sikh wearing a Top Knot.
 
@@ -576,11 +577,11 @@ h. All mines used for mine exploration must have a current inspection report cov
 
 .. rule:: Archery
 
-a. Archery must be run as specified in :rule:`9.7` or the `externally led archery page of scouts.org.uk <https://www.scouts.org.uk/activities/archery/>`__
+a. Archery must be run as specified in :rule:`9!Adventurous Activities Permit Scheme` or the `externally led archery page of scouts.org.uk <https://www.scouts.org.uk/activities/archery/>`__
 
-b. Shooting at targets representing human beings or animals is not permitted as a part of any Scout activity, nor on property owned or leased by, or used in the name of, the Scout Movement (including Archery Tag and other combat style archery activities as per :rule:`9.67`).
+b. Shooting at targets representing human beings or animals is not permitted as a part of any Scout activity, nor on property owned or leased by, or used in the name of, the Scout Movement (including Archery Tag and other combat style archery activities as per :rule:`9!Banned Activities`).
 
-c. The use of crossbows as a Scouting activity can be found in :rule:`9.37+`.
+c. The use of crossbows as a Scouting activity can be found in :rule:`9!Shooting!+`.
 
 
 
@@ -624,7 +625,7 @@ m. Wherever practical, shooting ranges should be out of bounds, except during th
 
 n. In every case, shooting must be supervised by a competent and appropriately qualified `Range Conducting Officer <https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/shooting/qualifications/>`__ who must have a knowledge of the correct use of the firearms being used and shall be responsible for ensuring compliance by all persons in the range with the relevant range safety and other rules.
 
-o. Members may use firearms for historical re-enactment purposes as a member or guest of a club affiliated to the National Association of Re-enactment Societies and operating in accordance with their standards and codes of practice. Members using firearms under this rule remain subject to :rule:`9.37(c)` (which forbids shooting at targets representing human beings or animals).
+o. Members may use firearms for historical re-enactment purposes as a member or guest of a club affiliated to the National Association of Re-enactment Societies and operating in accordance with their standards and codes of practice. Members using firearms under this rule remain subject to :rule:`9!Shooting!(c)` (which forbids shooting at targets representing human beings or animals).
 
 p. The person in charge of crossbow activities where the crossbow has a draw weight in excess of 1.4kg must hold a minimum of YPS Tutor Sport Crossbow qualification from the National SmallBore Rifle Association (NSRA). Where members taking part in the activity are under the age of 18, the Range Officer or another person supervising participants in the activity must be aged not less than 21.
 
@@ -655,7 +656,7 @@ a. The throwing of tomahawks and small hawks must follow the guidance in the `To
 
 b. Throwing at targets representing human beings or animals is not permitted as a part of any Scout activity, nor on property owned or leased by, or used in the name of, the Scout Movement.
 
-c. Throwing knives is not permitted within The Scout Association (see :rule:`9.67+`).
+c. Throwing knives is not permitted within The Scout Association (see :rule:`9!Banned Activities!+`).
 
 
 
@@ -693,14 +694,14 @@ d. The only persons who may use an aerial runway constructed by Members of the S
 
 .. rule:: Water Activities -- General
 
-a. Members taking part in any water activity (those which take place on or in the water) must be able to demonstrate to a suitable person their ability to swim 50 metres in clothing and equipment appropriate to the activity (where a buoyancy aid or life jacket is worn for the activity this may be used for the demonstration) and keep afloat for five minutes. Anyone unable to meet these requirements is classified as a non-swimmer and must follow :rule:`9.42(b)`.
+a. Members taking part in any water activity (those which take place on or in the water) must be able to demonstrate to a suitable person their ability to swim 50 metres in clothing and equipment appropriate to the activity (where a buoyancy aid or life jacket is worn for the activity this may be used for the demonstration) and keep afloat for five minutes. Anyone unable to meet these requirements is classified as a non-swimmer and must follow :rule:`9!Water Activities -- General!(b)`.
 
 b. A non-swimmer may take part in water activities, at the discretion of the person in charge, only if certain precautions are taken;
 
    * any non-swimmer must wear a lifejacket or buoyancy aid of approved design and be in the charge of an adult (this does not apply for swimming, paddling or activities near water).
    * there must be no more than one non-swimmer in any craft, unless a one-to-one ratio is maintained (one competent adult to one non-swimmer).
-   * in the case of single-handed craft this should only be on C or B1 Waters (see :rule:`9.44(b)`) with supervision on a one-to-one basis (one competent adult to one non-swimmer).
-   * Where non-swimmers are taking part in swimming activities (as defined in :rule:`9.50`) they must be under the direct supervision of an adult in the water. This must not exceed two nonswimmers to one adult.
+   * in the case of single-handed craft this should only be on C or B1 Waters (see :rule:`9!Classification of Waters!(b)`) with supervision on a one-to-one basis (one competent adult to one non-swimmer).
+   * Where non-swimmers are taking part in swimming activities (as defined in :rule:`9!Swimming -- General`) they must be under the direct supervision of an adult in the water. This must not exceed two nonswimmers to one adult.
 
 c. The above conditions do not apply when below decks, protected in larger vessels or when using recognised forms of public transport.
 
@@ -708,7 +709,7 @@ c. The above conditions do not apply when below decks, protected in larger vesse
 
 .. rule:: Life Jackets and Buoyancy Aids
 
-a. All members taking part in water activities (excluding scuba diving, snorkelling, surfing, swimming and paddling (as defined in :rule:`9.49`)) must wear an EC approved buoyancy aid or lifejacket appropriate to the activity, weather conditions, size of the participant. This does not apply when below decks. Further guidance can be found in `FS120603 Water Safety (incorporating Lifejackets and Buoyancy Aids) <https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/general-water-activities/water-safety-incorporating-lifejackets-and-buoyancy-aids/>`__.
+a. All members taking part in water activities (excluding scuba diving, snorkelling, surfing, swimming and paddling (as defined in :rule:`9!Paddling`)) must wear an EC approved buoyancy aid or lifejacket appropriate to the activity, weather conditions, size of the participant. This does not apply when below decks. Further guidance can be found in `FS120603 Water Safety (incorporating Lifejackets and Buoyancy Aids) <https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/general-water-activities/water-safety-incorporating-lifejackets-and-buoyancy-aids/>`__.
 
 b. The person in charge of any water activity must ensure that the lifejackets and buoyancy aids being used are fit for purpose and suitable for the activity on each occasion that it is used.
 
@@ -716,7 +717,7 @@ b. The person in charge of any water activity must ensure that the lifejackets a
 
 .. rule:: Classification of Waters
 
-a. All waters used for Scouting activities must be classified as C, B1, B2, B3 or A in accordance :rule:`9.44(b)`.
+a. All waters used for Scouting activities must be classified as C, B1, B2, B3 or A in accordance :rule:`9!Classification of Waters!(b)`.
 
 b. Water class definitions;
 
@@ -734,7 +735,7 @@ c. .. body_blank::
 
 .. rule:: Activities on Class C Waters
 
-All water activities on Class C waters (excluding swimming -- see :rule:`9.48` -- :rule:`9.52`,
+All water activities on Class C waters (excluding swimming -- see :rule:`9!Activities near the water` -- :rule:`9!Swimming Activities -- All other open waters`,
 SCUBA and motorised activities) must be approved by the relevant Commissioner and the standards contained in the factsheet `FS120623 Class C Waters <https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/general-water-activities/class-c-waters/>`__
 
 
@@ -759,7 +760,7 @@ e. The person in charge of any water activity must ensure that the craft and ass
 
 a. When vessels are hired or chartered the activity rules of the Association apply.
 
-b. Before entering into a hire agreement which includes an indemnity clause (i.e. where it is assumed that the hirer will be responsible for damage, injury or loss) the agreement must be referred to Headquarters (see :rule:`9.9(e)`).
+b. Before entering into a hire agreement which includes an indemnity clause (i.e. where it is assumed that the hirer will be responsible for damage, injury or loss) the agreement must be referred to Headquarters (see :rule:`9!Use of External Centres and Instructors!(e)`).
 
 c. Where the vessel is chartered to be under the command of professional staff, the rules relating to permits do not apply.
 
@@ -789,7 +790,7 @@ When in water that is, for the individual taking part, below waist height (or kn
 
 .. rule:: Swimming -- General
 
-When in water that is, for the individual taking part, above waist height (or knee height in moving water) when standing, leaders must follow the rules on swimming (:rule:`9.51` and :rule:`9.52`) except where:
+When in water that is, for the individual taking part, above waist height (or knee height in moving water) when standing, leaders must follow the rules on swimming (:rule:`9!Swimming Activities -- Class C waters (including swimming pools)` and :rule:`9!Swimming Activities -- All other open waters`) except where:
 
 * taking part in scuba diving or snorkelling
 * it is a river crossing during hillwalking under the leadership of someone holding a hillwalking permit
@@ -798,6 +799,7 @@ When in water that is, for the individual taking part, above waist height (or kn
 
 
 .. rule:: Swimming Activities -- Class C waters (including swimming pools)
+
 a. When members of The Movement take part in a swimming activity in Class C waters there must be one responsible person in overall control.
 
 b. This person must meet the requirements of any written operating procedure and carry out a risk assessment for the location and activity.
@@ -810,6 +812,7 @@ c. Where there are no operating procedures, the leader must ensure that:
 
 
 .. rule:: Swimming Activities -- All other open waters
+
 a. When members of The Movement take part in a swimming activity in open waters of Class B1 or higher, there must be one responsible person in overall control.
 
 b. This person must meet the requirements of any written operating procedure and carry out a risk assessment for the location and activity.
@@ -845,11 +848,11 @@ a. Management Committees of Scout property with a swimming pool must operate the
 
 .. rule:: Nights Away Permit Scheme
 
-a. All camping and residential experiences within the United Kingdom are subject to :rule:`9.55` -- :rule:`9.63`.
+a. All camping and residential experiences within the United Kingdom are subject to :rule:`9!Nights Away Permit Scheme` -- :rule:`9!Expeditions and Events in Adventurous Country or Onboard Craft`.
 
 b. This includes all events where it is intended that young people will sleep overnight and arrangements are put in place for this purpose, such as sleepovers, camps, Pack Holidays and expeditions.
 
-c. Nights away abroad are subject to :rule:`9.64`
+c. Nights away abroad are subject to :rule:`9!Visits Abroad`
 
 
 
@@ -861,12 +864,12 @@ a. A Leader or other adult leading a camp or residential experience involving yo
    * have the prior agreement of the young person's Section Leader;
    * have parental consent (method to be determined by the leader) in which parents are informed of key information about the event including which leaders are present;
    * as a minimum, attend the event during the time that provision is made for young people to be sleeping overnight. They remain responsible for the event at all times;
-   * ensure the relevant notification is made, as per :rule:`9.57(l)`.
+   * ensure the relevant notification is made, as per :rule:`9!Nights Away Permits!(l)`.
 
 b. The District Commissioner is responsible for:
 
    * the issue of Nights Away Permits in accordance with the application, assessment and approval process and content of the appropriate factsheet; The Commissioner can only approve the issue of a Permit following the recommendation of a Nights Away Adviser and cannot increase the level of the permit beyond that recommended without a further assessment by an NAA.
-   * suspension or withdrawal of Nights Away Permits as per :rule:`9.58`;
+   * suspension or withdrawal of Nights Away Permits as per :rule:`9!Renewal, Restriction, Suspension or Withdrawal of Nights Away Permits`;
    * ensuring that all adult members who are present overnight at a nights away activity have current safeguarding and safety training recorded on Compass;
    * this rule does not apply to occasional helpers or to members of the Scout Network who are attending the event as a participant and are not supporting or delivering activities for members under the age of 18
    * the standards of all camping and residential experiences taking place in the District and may cancel an event, if judged necessary;
@@ -874,7 +877,7 @@ b. The District Commissioner is responsible for:
 
 County Commissioners have these responsibilities for events and permits issued by the County.
 
-c. For large scale events there needs to be a permit holder responsible for each residential group. There is no limit to the number of groups that a permit holder can be responsible for, but they remain responsible for the standard of the event for each group. In addition the permit holder must ensure the home Commissioner is notified (:rule:`9.57(m)`) and inform them of the total number of groups they are responsible for during the event.
+c. For large scale events there needs to be a permit holder responsible for each residential group. There is no limit to the number of groups that a permit holder can be responsible for, but they remain responsible for the standard of the event for each group. In addition the permit holder must ensure the home Commissioner is notified (:rule:`9!Nights Away Permits!(m)`) and inform them of the total number of groups they are responsible for during the event.
 
 d. All groups undertaking a nights away event must have immediate access to someone who has a current First Aid qualification, minimum First Response. The level of First Aid competence required for each event will be determined by the event risk assessment. However a full first aid certificate as defined in `FS120052 <https://www.scouts.org.uk/volunteers/learning-development-and-awards/training/learners/modules/ongoing-training-for-all/10-first-aid/>`__ is required for those operating in remote environments, where travelling time is 3 hours or more (in the method of travel being used) to a point of refuge, including;
 
@@ -961,7 +964,7 @@ b. Each Event Passport is issued for one event only by a permit holder experienc
 
 c. Event Passports cannot be given to anyone aged over 18 and cannot be used for joint explorer Scout/Scout Network events.
 
-d. The permit holder has responsibility for notification (see :rule:`9.57(l)`).
+d. The permit holder has responsibility for notification (see :rule:`9!Nights Away Permits!(l)`).
 
 e. The permit holder must provide support during both the preparation and the event itself and be satisfied that the young person has the required abilities, but is not required to attend the event.
 
@@ -971,11 +974,11 @@ f. Those responsible for running Scout campsites or activity centres who hold a 
 
 g. The home Commissioner must be informed of those under 18 years working on service team projects at Scout campsites and activity centres, but a separate NAN form for each occasion need not be completed if a range of dates is specified.
 
-h. When leading a Scout Network residential event a passport or permit is not required, but notification (:rule:`9.57(l)`) is, and the event Leader must have first hand experience of camping or residential events and be familiar with the Association's appropriate resource material.
+h. When leading a Scout Network residential event a passport or permit is not required, but notification (:rule:`9!Nights Away Permits!(l)`) is, and the event Leader must have first hand experience of camping or residential events and be familiar with the Association's appropriate resource material.
 
 i. As part of the planning process parents must be informed of no leaders being present and of the supervision arrangements for a residential event using an event Passport and be satisfied with them prior to consenting to their child taking part.
 
-*For adult / Scout ratios on Nights Away activities, see* :rule:`3.10`
+*For adult / Scout ratios on Nights Away activities, see* :rule:`3!The Scout Troop`
 
 
 
@@ -993,7 +996,7 @@ Further information about Family Nights Away can be found `here <https://www.sco
 
 .. rule:: Expeditions and Events in Adventurous Country or Onboard Craft
 
-a. All expeditions within the United Kingdom are covered by this Rule. Prior notification to relevant Commissioners of expeditions involving nights away must be given as described in :rule:`9.57(l)`.
+a. All expeditions within the United Kingdom are covered by this Rule. Prior notification to relevant Commissioners of expeditions involving nights away must be given as described in :rule:`9!Nights Away Permits!(l)`.
 
 b. Some events will require the leader to hold an appropriate Adventurous Activity Permit. (Terrain One and above or on board watercraft). There is no additional requirement to gain a Nights Away Permit if the Activity Permit included an assessment of the skills needed to supervise camping or other residential experiences.
 
@@ -1007,7 +1010,7 @@ A Visit Abroad is defined as: 'Any visit outside the United Kingdom, the Channel
 
 **NOTE**: For NI Scouts travelling to the Republic of Ireland it is no longer a requirement to take out additional travel insurance, providing the trip is for no longer than 48 hours. If you feel that you require cover for emergency medical expenses, personal possession or cancellation then it is strongly advised that you should buy travel insurance. All members should carry a valid EHIC card for travelling within many European Countries including the Republic of Ireland. EHIC cards are obtainable from the NHS website.
 
-a. A camp or residential experience abroad which includes Beaver Scouts, Cub Scouts, Scouts, or Explorer Scouts, must be led by an adult holding a relevant Nights Away Permit. For Scout Network visits abroad see :rule:`9.61(h)`.
+a. A camp or residential experience abroad which includes Beaver Scouts, Cub Scouts, Scouts, or Explorer Scouts, must be led by an adult holding a relevant Nights Away Permit. For Scout Network visits abroad see :rule:`9!Nights Away Passports!(h)`.
 
 b. All visits abroad must follow the VA Process and be approved at planning stage by the relevant Commissioner to the designation of the trip:
 
@@ -1021,11 +1024,11 @@ b. All visits abroad must follow the VA Process and be approved at planning stag
 
      *The VA Form and guidance on the process can be found* `online <https://www.scouts.org.uk/volunteers/running-your-section/international-scouts-and-events/going-abroad-with-scouting/>`__ *or through notifying your Assistant County Commissioner (International) or County International Adviser (or equivalent) of your planned visit.*
 
-c. The UK Leader in Charge of a visit abroad must ensure that adequate travel insurance has been arranged for all members of the party, and that suitable InTouch arrangements are in place (:rule:`9.3`)
+c. The UK Leader in Charge of a visit abroad must ensure that adequate travel insurance has been arranged for all members of the party, and that suitable InTouch arrangements are in place (:rule:`9!InTouch`)
 
-d. The UK Leader in Charge of any adventurous activities abroad must apply the appropriate rules and hold the appropriate adventurous activity permits, classifying the hills/mountains or waters as defined in :rule:`9.28`, :rule:`9.29`, :rule:`9.30` and :rule:`9.44`, although the altitude criteria for hills/mountains may not apply in some areas. In case of doubt, the Assistant County Commissioner (Activities) or Adviser should be consulted.
+d. The UK Leader in Charge of any adventurous activities abroad must apply the appropriate rules and hold the appropriate adventurous activity permits, classifying the hills/mountains or waters as defined in :rule:`9!Terrain Zero Definition`, :rule:`9!Terrain One Definition`, :rule:`9!Terrain Two Definition` and :rule:`9!Classification of Waters`, although the altitude criteria for hills/mountains may not apply in some areas. In case of doubt, the Assistant County Commissioner (Activities) or Adviser should be consulted.
 
-e. When overseas, UK members may take part in activities being run by members of the host Scout organisation following the host organisation's guidance and rules. In this context, Kandersteg International Scout Centre is deemed an independent Scout organisation. There must be a Leader from the UK present who is able to halt the activity if they have safety concerns at any point. Activities forbidden by UK Scouting remain forbidden even when overseas. If using external providers overseas please see :rule:`9.9(b)` for further guidance.
+e. When overseas, UK members may take part in activities being run by members of the host Scout organisation following the host organisation's guidance and rules. In this context, Kandersteg International Scout Centre is deemed an independent Scout organisation. There must be a Leader from the UK present who is able to halt the activity if they have safety concerns at any point. Activities forbidden by UK Scouting remain forbidden even when overseas. If using external providers overseas please see :rule:`9!Use of External Centres and Instructors!(b)` for further guidance.
 
 f. UK Members including Members of the British Scouting Overseas under the age of 18 may only take part in group based hosted hospitality experiences (i.e. using group accommodation not private homes), they must not participate in home based hospitality experiences.
 
@@ -1092,7 +1095,7 @@ a. All martial arts must be carried out using the standards and controls laid do
 
 a. Activities involving horse riding or pony trekking must be carried out using a British equestrian Federation member body approved centre or club.
 
-b. Horse riding helmets must be worn by all riders in all Scout riding activities, except in the case of :rule:`9.70(c)`.
+b. Horse riding helmets must be worn by all riders in all Scout riding activities, except in the case of :rule:`9!Horse Riding and Pony Trekking!(c)`.
 
 c. A Sikh wearing a Turban may choose not to wear a horse riding helmet. This does not apply to a Sikh wearing a Top Knot.
 
@@ -1100,7 +1103,7 @@ c. A Sikh wearing a Turban may choose not to wear a horse riding helmet. This do
 
 .. rule:: Cycling
 
-a. Cycle safety helmets must be worn by all cyclists in all organised Scout cycling events, except in the case of :rule:`9.71(b)`.
+a. Cycle safety helmets must be worn by all cyclists in all organised Scout cycling events, except in the case of :rule:`9!Cycling!(b)`.
 
 b. A Sikh wearing a Turban may choose not to wear a cycle helmet. This does not apply to a Sikh wearing a Top Knot.
 
@@ -1186,7 +1189,7 @@ c. Permanent high ropes structures are:
 
 .. rule:: Permanent High Ropes Activities
 
-Permanent high ropes activities are defined in :rule:`9.78+`
+Permanent high ropes activities are defined in :rule:`9!High Ropes Activities!+`
 
 a. Construction and maintenance of permanent high ropes structures must follow the guidelines in AAIAC (Adventure Activities Industry Advisory Committee) -- The UK Ropes Course Guide. This can be found at `here <https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/roped-activities/high-ropes/>`__
 
@@ -1198,7 +1201,7 @@ Further details of what should be included within the operating manual and how t
 
 .. rule:: Temporary High Ropes Activities
 
-Temporary high ropes activities are defined in :rule:`9.78+`
+Temporary high ropes activities are defined in :rule:`9!High Ropes Activities!+`
 
 a. Construction of temporary high ropes activities must follow the guidelines contained in `FS120423 High Ropes <https://www.scouts.org.uk/volunteers/running-your-section/programme-guidance/general-activity-guidance/roped-activities/high-ropes/>`__.
 

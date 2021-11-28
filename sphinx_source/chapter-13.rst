@@ -96,9 +96,9 @@ b. The retiring Secretaries of the Group, District or County which are amalgamat
 
 c. For further information on amalgamation see:
 
-   * Group -- :rule:`3.52`
-   * District -- :rule:`4.62`
-   * County -- :rule:`5.50`
+   * Group -- :rule:`3!Disposal of Group Assets at Amalgamation`
+   * District -- :rule:`4!Disposal of District Assets at Amalgamation`
+   * County -- :rule:`5!Disposal of County Assets at Amalgamation`
 
 
 
@@ -112,9 +112,9 @@ c. Such property must be treated in the same way as other assets.
 
 d. For further information on closure see
 
-   * Group -- :rule:`3.53`
-   * District -- :rule:`4.64`
-   * County -- :rule:`5.52`
+   * Group -- :rule:`3!Disposal of Group Assets at Closure`
+   * District -- :rule:`4!Disposal of District Assets at Closure`
+   * County -- :rule:`5!Disposal of County Assets at Closure`
 
 
 

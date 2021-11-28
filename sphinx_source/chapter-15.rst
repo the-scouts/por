@@ -93,7 +93,7 @@ c. In every case Membership may be suspended only by the appropriate authority w
 
 \* Note that the inclusion of Scout Network Members at Area (Wales), County (England and Northern Ireland) and Region (Scotland) is to deal with exceptions where provision of Scout Network is provided at a level other than the District.
 
-Note: Where issues of Safeguarding are involved see also :rule:`2.4(q)`
+Note: Where issues of Safeguarding are involved see also :rule:`2!Safeguarding of young people and adults at risk!(q)`
 
 d. During a suspension under this Rule, any Appointment Certificate and Appointment Card must be surrendered to the suspending authority on request.
 
@@ -108,10 +108,10 @@ e. The suspended person must not:
    The suspending authority is permitted to modify the list of prohibited activities above when the suspended person is a parent or carer of a youth member in Scouting, and must follow the following criteria:
 
    i. In safeguarding cases the guidance of the Safeguarding Team must be sought and followed.
-   ii. all modifications must be agreed with the authority that approved the suspension as defined in :rule:`15.2(c)`.
+   ii. all modifications must be agreed with the authority that approved the suspension as defined in :rule:`15!Suspension of adult Members, Associate Members and non-Members!(c)`.
    iii. the modifications must be kept to a minimum and are only to enable the suspended person as parent or carer to participate to some extent in Scouting with their child (for example, to attend award presentations or to drop off and pick-up the child).
    iv. The modifications must not compromise the safety and wellbeing of youth members.
-   v. Where :rule:`15.2(b)(vi)` applies, the modifications must not allow the suspended individual to engage in regulated activity.
+   v. Where :rule:`15!Suspension of adult Members, Associate Members and non-Members!(b)(vi)` applies, the modifications must not allow the suspended individual to engage in regulated activity.
    vi. The suspending authority must inform the suspended person in writing with very clear instructions regarding what is permitted.
    vii. The suspending authority may change or remove the modifications during the period of suspension and must notify the suspended person in writing.
 
@@ -143,7 +143,7 @@ p. In exceptional circumstances Headquarters may, in consultation with the respo
 
 q. Headquarters may directly end a period of suspension by excluding a suspended person from Scouting if the individual is unsuitable to participate in Scouting.
 
-r. In the case of individuals suspended under :rule:`15.2(b)(vi)`, suspension may be automatically revoked by headquarters once a valid Criminal Records Check Disclosure has been satisfactorily obtained.
+r. In the case of individuals suspended under :rule:`15!Suspension of adult Members, Associate Members and non-Members!(b)(vi)`, suspension may be automatically revoked by headquarters once a valid Criminal Records Check Disclosure has been satisfactorily obtained.
 
 *For further information see* :chapter:`POR-TAP`
 
@@ -206,13 +206,13 @@ a. At the end of a period of suspension the District Commissioner and Group Scou
    * Reinstatement with conditions
    * Dismissal
 
-b. The dismissal of a young person (whether following a suspension or not) must follow :rule:`15.10` -- :rule:`15.11`.
+b. The dismissal of a young person (whether following a suspension or not) must follow :rule:`15!Dismissal of Explorer Scouts` -- :rule:`15!Dismissal of Squirrel Scouts, Beaver Scouts, Cub Scouts and Scouts`.
 
 
 
 .. rule:: Termination of adult Membership and Associate Membership
 
-See :chapter:`POR-TAP`, :rule:`16.7`
+See :chapter:`POR-TAP`, :rule:`16!Cancellation of Membership or Ending of Appointments`
 
 
 

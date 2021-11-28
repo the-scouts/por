@@ -64,11 +64,11 @@ All Members of the Movement should seek to practise equality, especially in prom
 
 Reasonable adjustments means actions to enable young people with disabilities to access Scouting and Scouting activities, as far as reasonably possible, to the same level as young people without disabilities. This should involve working in partnership with parents/carers, to identify needs and support strategies.
 
-Reasonable steps should also be taken to identify any young people with disabilities in the Section/Group. (see :rule:`3.12(b)` for further guidance around reasonable adjustments).
+Reasonable steps should also be taken to identify any young people with disabilities in the Section/Group. (see :rule:`3!Section Flexibility!(b)` for further guidance around reasonable adjustments).
 
 Further information about equalities legislation and Scouting is available via the members area of the website.
 
-*Note: Membership of the youth Sections of the Association is open to young people of all genders and of the appropriate ages, subject to the rules set out in Chapters* :rule:`3.7`\ *,* :rule:`4.6` *and* :rule:`5.6` *below.*
+*Note: Membership of the youth Sections of the Association is open to young people of all genders and of the appropriate ages, subject to the rules set out in Chapters* :rule:`3!Mixed Membership`\ *,* :rule:`4!Mixed Membership` *and* :rule:`5!Mixed Membership` *below.*
 
 **Leaders and other volunteers**
 
@@ -82,7 +82,7 @@ In recruitment and appointments processes, volunteers should make clear that rol
 
 It may, in limited circumstances, be appropriate to consider the gender or protected characteristics of a potential appointee. This is only the case where there is a genuine occupational requirement, for example, in order to ensure that a support team on a trip includes adult volunteers of different genders.
 
-The ability of all appointees and volunteers to understand and implement Scouts' safeguarding policies and procedures, as set out in :rule:`2.4`, is an essential requirement.
+The ability of all appointees and volunteers to understand and implement Scouts' safeguarding policies and procedures, as set out in :rule:`2!Safeguarding of young people and adults at risk`, is an essential requirement.
 
 Within these constraints, and those imposed by the need to ensure:
 

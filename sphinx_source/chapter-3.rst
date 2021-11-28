@@ -8,7 +8,7 @@ Scouting in the United Kingdom is organised in Scout Groups, Scout Districts, Sc
 * opportunities for youth Members and adults to make decisions and take responsibility;
 * functional units through which the design and delivery of the youth programme can be best achieved.
 
-A Scout Group comprises one or more of any or all of the following: a Squirrel Scout Drey, a Beaver Scout Colony; a Cub Scout Pack or a Scout Troop. Additionally, a Group may also include one or more Group Scout Active Support Units. An Explorer Scout Unit may also be attached to a Scout Group (see :rule:`3.17`).
+A Scout Group comprises one or more of any or all of the following: a Squirrel Scout Drey, a Beaver Scout Colony; a Cub Scout Pack or a Scout Troop. Additionally, a Group may also include one or more Group Scout Active Support Units. An Explorer Scout Unit may also be attached to a Scout Group (see :rule:`3!Partnerships with Explorer Scout Units`).
 
 
 
@@ -150,11 +150,11 @@ c. The operation of the Drey must be overseen by a Leader or team of Leaders.
 
    A Drey Leadership team comprises all Section Leaders, Assistant Section Leaders, Section Assistants, and Explorer Scout Young Leaders working with the Drey. Working with the Drey Leadership team, the Section Leader(s) have responsibility for the planning of the programme and the management of the Drey.
 
-   Where there is more than one Section Leader appointed to the Drey, only one of the Section Leaders may opt-in to be an ex officio member of the Group Executive Committee (:rule:`3.23(b)(iii)`).
+   Where there is more than one Section Leader appointed to the Drey, only one of the Section Leaders may opt-in to be an ex officio member of the Group Executive Committee (:rule:`3!The Constitution of the Scout Group!(b)(iii)`).
 
-d. The delivery of the Drey programme is the responsibility of the Drey Leadership team, led by the Section Leader(s). Additional adults (for example parents, subject experts from the community) may be used on a regular or occasional basis to support the programme delivery. All additional adults need to conform to the Personal Enquiry and criminal records disclosures checks requirements detailed in :rule:`3.26(b)`.
+d. The delivery of the Drey programme is the responsibility of the Drey Leadership team, led by the Section Leader(s). Additional adults (for example parents, subject experts from the community) may be used on a regular or occasional basis to support the programme delivery. All additional adults need to conform to the Personal Enquiry and criminal records disclosures checks requirements detailed in :rule:`3!The Appointment of Adults!(b)`.
 
-   Explorer Scout Young Leaders are part of the Drey Leadership team but remain the responsibility of the Section Leader and must adhere to :rule:`4.37`.
+   Explorer Scout Young Leaders are part of the Drey Leadership team but remain the responsibility of the Section Leader and must adhere to :rule:`4!The Appointment of Explorer Scout Young Leaders`.
 
 e. The Section Leader(s) have a responsibility to ensure that at least three adults (aged 18 or over) are present at each Drey meeting, at least one of whom holds a FULL appointment with the Section (normally a Section leader but on occasion may be an Assistant Section Leader or a Section Assistant).
 
@@ -170,7 +170,7 @@ h. The recommended minimum ratio for outdoor activities held away from the usual
 
    Nights away residential experiences are not permitted for the Squirrel Scout section.
 
-i. For all Scouting activities a risk assessment should be carried out as stated in :rule:`9.4`. This risk assessment cannot override the minimum requirements stated in :rule:`3.7(e)` and :rule:`3.7(h)` or those required by the activity rules in :chapter:`9`.
+i. For all Scouting activities a risk assessment should be carried out as stated in :rule:`9!Risk Assessment`. This risk assessment cannot override the minimum requirements stated in :rule:`3!The Squirrel Scout Drey!(e)` and :rule:`3!The Squirrel Scout Drey!(h)` or those required by the activity rules in :chapter:`9`.
 
 **Age Range, Uniform and Programme**
 
@@ -184,9 +184,9 @@ l. All Squirrel Scouts should be offered a high quality balanced Programme, run 
 
 m. The minimum standard for a Squirrel Scout Drey is:
 
-   - Operation overseen by a Leader (:rule:`3.7(c)`)
+   - Operation overseen by a Leader (:rule:`3!The Squirrel Scout Drey!(c)`)
    - Three adults present
-   - The delivery of a high quality balanced Programme (:rule:`3.7(k)`)
+   - The delivery of a high quality balanced Programme (:rule:`3!The Squirrel Scout Drey!(k)`)
    - Opportunities for the members to take part in the decision making process.
 
 n. The District Commissioner, with the District Team, is required where necessary to assist Dreys to reach the minimum standards detailed above.
@@ -209,11 +209,11 @@ c. The operation of a Colony must be overseen by a Leader or team of Leaders.
 
    A Colony Leadership team comprises all Section Leaders, Assistant Section Leaders, Section Assistants, and Explorer Scout Young Leaders working with the Colony. Working with the Colony Leadership team, the Section Leader(s) have responsibility for the planning of the programme and the management of the Colony.
 
-   Where there is more than one Section Leader appointed to the Colony, only one of the Section Leaders may opt-in to be an ex officio member of the Group Executive Committee (:rule:`3.24(b)(iii)`).
+   Where there is more than one Section Leader appointed to the Colony, only one of the Section Leaders may opt-in to be an ex officio member of the Group Executive Committee (:rule:`3!The Constitution of the Scout Group!(b)(iii)`).
 
-d. The delivery of the Colony programme is the responsibility of the Colony Leadership team, led by the Section Leader(s). Additional adults (for example parents, subject experts from the community) may be used on a regular or occasional basis to support the programme delivery. All additional adults need to conform to the Personal Enquiry and criminal records disclosures checks requirements detailed in :rule:`3.27(b)`.
+d. The delivery of the Colony programme is the responsibility of the Colony Leadership team, led by the Section Leader(s). Additional adults (for example parents, subject experts from the community) may be used on a regular or occasional basis to support the programme delivery. All additional adults need to conform to the Personal Enquiry and criminal records disclosures checks requirements detailed in :rule:`3!The Appointment of Adults!(b)`.
 
-   Explorer Scout Young Leaders are part of the Colony Leadership team but remain the responsibility of the Section Leader and must adhere to :rule:`4.37`.
+   Explorer Scout Young Leaders are part of the Colony Leadership team but remain the responsibility of the Section Leader and must adhere to :rule:`4!The Appointment of Explorer Scout Young Leaders`.
 
 e. The Section Leader(s) have a responsibility to ensure that at least two adults (aged 18 or over) are present at each Colony meeting, at least one of whom holds a FULL appointment with the Section (normally a Section leader but on occasion may be an Assistant Section Leader or a Section Assistant).
 
@@ -227,11 +227,11 @@ g. Other than two adults being present there is no minimum ratio of adults to Be
 
 h. The recommended minimum ratio both for outdoor activities held away from the usual meeting place and for nights away experiences is 1 adult to 6 Beaver Scouts plus the leader in charge. However, as a minimum, at least two adults must be present overnight. Only in the event of an emergency should an adult be alone overnight with young people on a nights away experience.
 
-i. For all Scouting activities a risk assessment should be carried out as stated in :rule:`9.4`. This risk assessment cannot override the minimum requirements stated in :rule:`3.8(e)` and :rule:`3.8(h)` or those required by the activity rules in :chapter:`9`.
+i. For all Scouting activities a risk assessment should be carried out as stated in :rule:`9!Risk Assessment`. This risk assessment cannot override the minimum requirements stated in :rule:`3!The Beaver Scout Colony!(e)` and :rule:`3!The Beaver Scout Colony!(h)` or those required by the activity rules in :chapter:`9`.
 
 **Age Range, Uniform and Programme**
 
-j. The core age range of the Beaver Scout Colony is from 6 years to 8 years. A young person may join at 5¾ years and remain until 8½ years (see also :rule:`3.12(b)`).
+j. The core age range of the Beaver Scout Colony is from 6 years to 8 years. A young person may join at 5¾ years and remain until 8½ years (see also :rule:`3!Section Flexibility!(b)`).
 
 k. Beaver Scouts wear the approved uniform with distinguishing badges and scarves as described in :chapter:`10`.
 
@@ -243,9 +243,9 @@ m. .. body_blank::
 
 n. The minimum standard for a Beaver Scout Colony is:
 
-   * Operation overseen by a Leader (:rule:`3.8(c)`)
-   * Two adults present (:rule:`3.8(e)`)
-   * The delivery of a high quality balanced Programme (:rule:`3.8(l)`)
+   * Operation overseen by a Leader (:rule:`3!The Beaver Scout Colony!(c)`)
+   * Two adults present (:rule:`3!The Beaver Scout Colony!(e)`)
+   * The delivery of a high quality balanced Programme (:rule:`3!The Beaver Scout Colony!(l)`)
    * Opportunities for the members to take part in the decision making process.
    * The opportunity for every Beaver Scout to attend at least one nights away experience every year
 
@@ -271,11 +271,11 @@ c. The operation of a Pack must be overseen by a Leader or team of Leaders.
 
    A Pack Leadership team comprises all section Leaders, Assistant Section leaders Section Assistants, and Explorer Scout Young Leaders working with the Pack. Working with the Pack Leadership team, the Section Leader(s) have responsibility for the planning of the programme and the management of the Pack.
 
-   Where there is more than one Section Leader appointed to the Pack, only one of the Section Leaders may opt-in to be an ex-officio member of the Group Executive Committee (:rule:`3.24(b)(iii)`).
+   Where there is more than one Section Leader appointed to the Pack, only one of the Section Leaders may opt-in to be an ex-officio member of the Group Executive Committee (:rule:`3!The Constitution of the Scout Group!(b)(iii)`).
 
-d. The delivery of the Pack programme is the responsibility of the Pack Leadership team, led by the Section Leader(s). Additional adults (for example parents, subject experts from the community) may be used on a regular or occasional basis to support the programme delivery. All additional adults need to conform to the Personal Enquiry and criminal records disclosures checks requirements detailed in :rule:`3.27(b)`.
+d. The delivery of the Pack programme is the responsibility of the Pack Leadership team, led by the Section Leader(s). Additional adults (for example parents, subject experts from the community) may be used on a regular or occasional basis to support the programme delivery. All additional adults need to conform to the Personal Enquiry and criminal records disclosures checks requirements detailed in :rule:`3!The Appointment of Adults!(b)`.
 
-   Explorer Scout Young Leader(s) are part of the Pack Leadership team but remain the responsibility of the Section Leader and must adhere to :rule:`4.37`.
+   Explorer Scout Young Leader(s) are part of the Pack Leadership team but remain the responsibility of the Section Leader and must adhere to :rule:`4!The Appointment of Explorer Scout Young Leaders`.
 
 e. The Section Leader(s) have a responsibility to ensure that at least two adults (aged 18 or over) are present at each Pack meetings, at least one of whom holds a FULL appointment with the Section (normally a Section Leader but on occasion may be an Assistant Section Leader or a Section Assistant).
 
@@ -289,11 +289,11 @@ g. Other than two adults being present there is no minimum ratio of adults to Cu
 
 h. The recommended minimum ratio both for outdoor activities held away from the usual meeting place and for nights away experiences is 1 adult to 8 Cub Scouts plus the leader in charge. However, as a minimum, at least two adults must be present overnight. Only in the event of an emergency should an adult be alone overnight with young people on a nights away experience.
 
-i. For all Scouting activities a risk assessment should be carried out as stated in :rule:`9.4`. This risk assessment cannot override the minimum requirements stated in :rule:`3.9(e)` and :rule:`3.9(h)` or those required by the activity rules in :chapter:`9`.
+i. For all Scouting activities a risk assessment should be carried out as stated in :rule:`9!Risk Assessment`. This risk assessment cannot override the minimum requirements stated in :rule:`3!The Cub Scout Pack!(e)` and :rule:`3!The Cub Scout Pack!(h)` or those required by the activity rules in :chapter:`9`.
 
 **Age Range, Uniform and Programme**
 
-j. The core age range of the Cub Scout Pack is from 8 years to 10½ years. A young person may join at 7½ years and remain in the Pack until their 11th birthday. For further flexibility see also :rule:`3.12(b)`.
+j. The core age range of the Cub Scout Pack is from 8 years to 10½ years. A young person may join at 7½ years and remain in the Pack until their 11th birthday. For further flexibility see also :rule:`3!Section Flexibility!(b)`.
 
 k. Cub Scouts wear the approved uniform with distinguishing badges and scarves as described in :chapter:`10`.
 
@@ -305,9 +305,9 @@ m. .. body_blank::
 
 n. the minimum standard for a Cub Scout Pack is:
 
-   * Operation overseen by a Leader. (:rule:`3.9(c)`)
-   * Two adults present (:rule:`3.9(e)`)
-   * The delivery of a high quality balanced Programme (:rule:`3.9(k)`)
+   * Operation overseen by a Leader. (:rule:`3!The Cub Scout Pack!(c)`)
+   * Two adults present (:rule:`3!The Cub Scout Pack!(e)`)
+   * The delivery of a high quality balanced Programme (:rule:`3!The Cub Scout Pack!(k)`)
    * Opportunities for the members to take part in the decision making process. Any forum or committee should have both Cub Scouts and Leaders working together.
    * The opportunity for every Cub Scout to attend at least one nights away experience every year.
 
@@ -333,11 +333,11 @@ c. The operation of a Troop must be overseen by a Leader or team of Leaders.
 
    A Troop Leadership team comprises of all Section Leaders, Assistant Section Leaders, Section Assistants, and Explorer Scout Young Leaders working with the Troop. Working with the Troop Leadership team, the Section Leader(s) have responsibility for the planning of the programme and the management of the Troop.
 
-   Where there is more than one Section Leader appointed to the Troop, only one of the Section Leaders may opt-in to be an ex officio member of the Group Executive Committee (:rule:`3.24(b)(iii)`).
+   Where there is more than one Section Leader appointed to the Troop, only one of the Section Leaders may opt-in to be an ex officio member of the Group Executive Committee (:rule:`3!The Constitution of the Scout Group!(b)(iii)`).
 
-d. The delivery of the Troop programme is the responsibility of the Troop Leadership team, led by the Section Leader(s). Additional adults (for example parents, subject experts from the community) may be used on a regular or occasional basis to support the programme delivery. All additional adults need to conform to the Personal Enquiry and criminal records disclosures checks requirements detailed in :rule:`3.27(b)` apply.
+d. The delivery of the Troop programme is the responsibility of the Troop Leadership team, led by the Section Leader(s). Additional adults (for example parents, subject experts from the community) may be used on a regular or occasional basis to support the programme delivery. All additional adults need to conform to the Personal Enquiry and criminal records disclosures checks requirements detailed in :rule:`3!The Appointment of Adults!(b)` apply.
 
-   Explorer Scout Young Leaders are part of the Troop Leadership team but remain the responsibility of the Section Leader and must adhere to :rule:`4.37`.
+   Explorer Scout Young Leaders are part of the Troop Leadership team but remain the responsibility of the Section Leader and must adhere to :rule:`4!The Appointment of Explorer Scout Young Leaders`.
 
 e. The Section Leader(s) have a responsibility to ensure that at least two adults (aged 18 or over) are present at each Troop meetings, at least one of whom holds a FULL appointment with the Troop (normally a Section Leader but on occasion may be an Assistant Section Leader or a Section Assistant).
 
@@ -351,11 +351,11 @@ g. Other than two adults being present there is no minimum ratio of adults to Sc
 
 h. For outdoor activities held away from the usual meeting place and for Nights Away experiences led by a Nights Away Permit holder, the recommended minimum ratio is 1 adult to 12 scouts. However, as a minimum, at least two adults must be present overnight. Only in the event of an emergency should an adult be alone overnight with young people on a nights away experience.
 
-i. For all Scouting activities a risk assessment should be carried out as stated in :rule:`9.4`. This risk assessment cannot override the minimum requirements stated in :rule:`3.10(e)` and :rule:`3.10(h)` or those required by the activity rules in :chapter:`9`.
+i. For all Scouting activities a risk assessment should be carried out as stated in :rule:`9!Risk Assessment`. This risk assessment cannot override the minimum requirements stated in :rule:`3!The Scout Troop!(e)` and :rule:`3!The Scout Troop!(h)` or those required by the activity rules in :chapter:`9`.
 
 **Age Range, Uniform and Programme**
 
-j. The core age range of the Scout Troop is from 10½ years to 14 years. A young person may join at 10 years and remain until 14½ years. For further flexibility see :rule:`3.12(b)`.
+j. The core age range of the Scout Troop is from 10½ years to 14 years. A young person may join at 10 years and remain until 14½ years. For further flexibility see :rule:`3!Section Flexibility!(b)`.
 
 k. Scouts wear the approved Scout, Sea Scout or Air Scout uniform as appropriate with distinguishing badges and scarves as described in :chapter:`10`.
 
@@ -365,9 +365,9 @@ l. All Scouts should be offered a high quality balanced Programme run in accorda
 
 m. The minimum standard for a Scout Troop is:
 
-   * Operation overseen by a Leader. (:rule:`3.10(b)`).
-   * Two adults present (:rule:`3.10(e)`).
-   * The delivery of an appropriate high quality balanced Programme (:rule:`3.10(k)`).
+   * Operation overseen by a Leader. (:rule:`3!The Scout Troop!(b)`).
+   * Two adults present (:rule:`3!The Scout Troop!(e)`).
+   * The delivery of an appropriate high quality balanced Programme (:rule:`3!The Scout Troop!(k)`).
    * Opportunities for the members to take part in the decision making process. Any forum or committee should have both Scouts and Leaders working together.
    * The opportunity for every Scout to attend at least one nights away experience every year.
 
@@ -385,7 +385,7 @@ b. The purpose of the Group Scout Active Support Unit is to provide a body throu
 
 c. Further details of the Scout Active Support method of operation are available from the Scout Information Centre.
 
-d. Subject in all cases to a satisfactory Personal Enquiry (see :rule:`3.27`), membership of the Group Scout Active Support Unit is open to any person over the age of 18 years, including:
+d. Subject in all cases to a satisfactory Personal Enquiry (see :rule:`3!The Appointment of Adults`), membership of the Group Scout Active Support Unit is open to any person over the age of 18 years, including:
 
    * those holding appointments, who will be expected to give priority to the duties of their appointments;
    * Scout Network members will be expected to give priority to the duties of their appointments.
@@ -699,9 +699,9 @@ a. **The Group Scout Council**
        * appoint an auditor, independent examiner or scrutineer as required;
        * adopt (or reconfirm) certain resolutions:
 
-         * agree the quorum for each of meetings of the Group Scout Council, meetings of the Group Executive Committee and meetings of any sub-Committees (see :rule:`3.24(d)(iii)`)
-         * agree the number of members that may be elected to the Group Executive Committee (see :rule:`3.24(b)(iii)(Elected Members)`
-         * adopt (or re-confirm the adoption of) the constitution of the Group Scout Council (See introduction to :rule:`3.24`)
+         * agree the quorum for each of meetings of the Group Scout Council, meetings of the Group Executive Committee and meetings of any sub-Committees (see :rule:`3!The Constitution of the Scout Group!(d)(iii)`)
+         * agree the number of members that may be elected to the Group Executive Committee (see :rule:`3!The Constitution of the Scout Group!(b)(iii)(Elected Members)`
+         * adopt (or re-confirm the adoption of) the constitution of the Group Scout Council (See introduction to :rule:`3!The Constitution of the Scout Group`)
 
        * appoint (or re-appoint) any Group Presidents or Vice Presidents (see :table:`2`).
 
@@ -727,7 +727,7 @@ b. **The Group Executive Committee**
 
        * Appoint Administrators, Advisers, and Co-opted members of the Group Executive Committee.
        * Prepare and approve the Trustees' Annual Report and Annual Accounts after the examination of the accountsby an appropriate auditor, independent examiner or scrutineer.
-       * Present the approved Trustees' Annual Report and Annual Accounts to the Group Scout Council at the Annual General Meeting; file a copy with the District Executive Committee; and if a registered charity, to the appropriate charity regulator if the regulator's rules require it. (See :rule:`13.3`)
+       * Present the approved Trustees' Annual Report and Annual Accounts to the Group Scout Council at the Annual General Meeting; file a copy with the District Executive Committee; and if a registered charity, to the appropriate charity regulator if the regulator's rules require it. (See :rule:`13!The Charities Acts`)
        * Maintain confidentiality with regard to appropriate Executive Committee business.
        * Where staff are employed, act as a responsible employer in accordance with Scouting's values and relevant legislation.
        * Ensure line management responsibilities for employed staff are clearly established and communicated.
@@ -775,10 +775,10 @@ b. **The Group Executive Committee**
 
       * All ex-officio, elected, nominated and co-opted members of the Group Executive Committee are Charity Trustees of the Scout Group.
       * Only persons aged 18 and over may be full voting members of the Group Executive Committee because of their status as Charity Trustees (however the views of young people in the Group must be taken into consideration).
-      * Certain people are disqualified from being Charity Trustees by virtue of the Charities Acts. (See :rule:`13.1`)
+      * Certain people are disqualified from being Charity Trustees by virtue of the Charities Acts. (See :rule:`13!Persons not allowed to act as Trustees`)
       * Charity Trustees are responsible for ensuring compliance with all relevant legislation including the Data Protection Act 2018.
       * Complete Module 1 Essential Information, Safety, Safeguarding, GDPR and Trustee Introduction training within 5 months of the role start date.
-      * Some Groups may also need to register as a charity. (See :rule:`13.3`).\ :sv:`#`
+      * Some Groups may also need to register as a charity. (See :rule:`13!The Charities Acts`).\ :sv:`#`
 
 c. **The Group Leaders' Meeting**
 
@@ -840,15 +840,15 @@ a. No individual aged 18 or over may be permitted to undertake any role or respo
 
 b. A Personal Enquiry (including where relevant a criminal records disclosure check) will always be required for any person aged 18 or over who meets any of the following criteria:\ :sv:`#`
 
-   * wishes to become a Member or Associate member (for members of Scout Network -- see :rule:`3.27(m)` below); or
+   * wishes to become a Member or Associate member (for members of Scout Network -- see :rule:`3!The Appointment of Adults!(m)` below); or
    * will be a member of an Executive Committee; or
    * will be assisting with overnight activities (including Nights Away); or
    * may be helping out once a week (or on four occasions in a thirty day period) or more frequently; or
    * will have unsupervised access to young people.
 
-c. For the purposes of :rule:`3.27(b)` above 'unsupervised' means not being within sight and hearing of another adult who holds a valid criminal records disclosure check.
+c. For the purposes of :rule:`3!The Appointment of Adults!(b)` above 'unsupervised' means not being within sight and hearing of another adult who holds a valid criminal records disclosure check.
 
-d. A person who requires a Personal Enquiry under :rule:`3.27(b)` above (including where relevant a criminal records disclosure check) and who does not have an active role on Compass must be registered on Compass as an Occasional Helper. Occasional Helpers are not entitled to membership status or member benefits (including certain insurances -- see the Unity web site) and the recording on Compass is only provided to enable the Personal Enquiry and criminal records disclosure checks to be conducted.\ :sv:`#`
+d. A person who requires a Personal Enquiry under :rule:`3!The Appointment of Adults!(b)` above (including where relevant a criminal records disclosure check) and who does not have an active role on Compass must be registered on Compass as an Occasional Helper. Occasional Helpers are not entitled to membership status or member benefits (including certain insurances -- see the Unity web site) and the recording on Compass is only provided to enable the Personal Enquiry and criminal records disclosure checks to be conducted.\ :sv:`#`
 
 e. Certain roles will require a criminal records disclosure check every five years.
 
@@ -862,7 +862,7 @@ i. When completing a Personal Enquiry accurate information about the individual 
 
 j. The full rules for the appointment of adults can be found in :chapter:`POR-TAP`.
 
-k. Occasional Helpers (including parents) who are required to undertake a Personal enquiry (see :rule:`3.27(a)` and :rule:`3.27(b)`) must either be entered directly into Compass or recorded using the Association's official Joining Forms and then be transferred accurately into Compass (available from www.scouts.org.uk). The appropriate on-line or paper based criminal records disclosure check application process must then be followed.\ :sv:`#`
+k. Occasional Helpers (including parents) who are required to undertake a Personal enquiry (see :rule:`3!The Appointment of Adults!(a)` and :rule:`3!The Appointment of Adults!(b)`) must either be entered directly into Compass or recorded using the Association's official Joining Forms and then be transferred accurately into Compass (available from www.scouts.org.uk). The appropriate on-line or paper based criminal records disclosure check application process must then be followed.\ :sv:`#`
 
 l. Section leaders should ensure that Occasional Helpers who are involved more than once a month are aware of the appointment opportunities available to them.
 
@@ -914,7 +914,7 @@ m. Members of Scout Network are required to undertake a Personal Enquiry without
 
 **Young Leaders (Explorer Scouts)**
 
-a. For rules on the Appointment of Young Leaders see :rule:`4.37`.
+a. For rules on the Appointment of Young Leaders see :rule:`4!The Appointment of Explorer Scout Young Leaders`.
 
 b. .. body_blank::
 
@@ -1182,7 +1182,7 @@ b. The statement, together with all Group assets, must be handed to the District
 
 c. The District Treasurer will ensure that the statement of account is properly scrutinised, independently examined or audited as appropriate.
 
-d. Subject to :rule:`13.7`, any assets remaining after the closure of a Group will automatically pass to the District Scout Council which shall use or dispose of these assets at its absolute discretion.\ :sv:`#`
+d. Subject to :rule:`13!Disposal of Property at Closure`, any assets remaining after the closure of a Group will automatically pass to the District Scout Council which shall use or dispose of these assets at its absolute discretion.\ :sv:`#`
 
 e. If there is any reasonable prospect of the Group being revived the District Scout Council may delay the disposal of these assets for such a period as it thinks proper with a view to returning them to the revived Group.
 
@@ -1261,7 +1261,7 @@ a. All fundraising undertaken on behalf of the Movement must be carried out as p
 
 .. rule:: Lotteries and Gaming
 
-a. If a Group considers raising funds by means governed by any legislation as detailed at :rule:`3.58`, the proposed activity must have the recorded approval of the Group Executive Committee and Sponsoring Authority, if any, and of the District Chair.
+a. If a Group considers raising funds by means governed by any legislation as detailed at :rule:`3!Fundraising and the Law`, the proposed activity must have the recorded approval of the Group Executive Committee and Sponsoring Authority, if any, and of the District Chair.
 
 b. Regard must be paid to the views of parents and to local public opinion. Activities affected by this legislation include raffles, whist drives and similar methods of fundraising involving participation on payment of stakes.
 
