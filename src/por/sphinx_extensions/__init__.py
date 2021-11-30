@@ -71,3 +71,17 @@ def setup(app: Sphinx) -> dict[str, bool]:
 
     # Parallel safety: https://www.sphinx-doc.org/en/master/extdev/index.html#extension-metadata
     return {"parallel_read_safe": True, "parallel_write_safe": True}
+
+# TODO 'this chapter' references
+# TODO scottish variation -- link to page/sections
+# TODO flexbox or something rendering for images (14.7)
+
+# TODO left hand ToC to be accordian of all chapters
+
+# For custom inline roles and directives:
+# https://gdal.org/contributing/rst_style.html
+# https://github.com/OSGeo/gdal/tree/master/doc/source/_extensions
+
+# TODO term / definition referencing
+# https://www.sphinx-doc.org/en/master/usage/restructuredtext/roles.html#role-term
+# https://www.sphinx-doc.org/en/master/usage/restructuredtext/roles.html#role-dfn

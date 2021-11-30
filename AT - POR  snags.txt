@@ -100,3 +100,81 @@ TAP.5(i) "Executive" should be "Executive Committee"
 TAP.7(a)(x) "Executive" should be "Executive Committee"
 TAP.9(b) "Executive" should be "Executive Committee"
 TAP.9(b)(i) "Executive" should be "Executive Committee"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.scouts.org.uk/por/1-fundamentals-of-scouting/ -- SS promise, law empty
+
+1.1 alternative promises -- line breaks
+
+1.1 (f) -- second part should be (g), used to be numbered
+
+Ch2 EOP Reasonable Adjustments -- 3.6 changed to 3.7, should still be 3.6
+
+Ch2 EOP Leaders and other volunteers  - para 6 references "Rule 2" -- should be 2.4?
+
+Ch2 P&DPP link moved from DPP to generic policy
+
+2.2(e)(i) para 3 `here.` -- `.` links to a different page than `here`
+
+2.4 is verbatim repeat of end of Safeguarding Policy
+
+2.4(2) -- "must be -adhered"
+
+3.10 -- duplicate rule 3.10(l)
+
+4.3(a) -- Squirrels?
+
+4.25(e)(iv) -- "and nominate\n members" -> "and nominated members"
+
+4.37(f) -- Squirrels?
+
+4.56(f) -- references 2018
+
+4.64(a) -- Squirrels?
+
+5.16(e) -- numbering really messed up
+
+5.16(f)(iii)(Invited to attend) -- footnote asterisk with no footnote
+
+5.44(f) -- references 2018
+
+6 - Baden Powell House has been sold
+
+6 - include web link for info centre
+
+9.2(a) bullet 4 misses squirrels
+
+9.3(b) -- both links go to the same place
+
+9.34(g) -- references 2016
+
+10.8 -- old teal Scout polo is still referenced
+
+10.18(a)(i) -- squirrels?
+
+10.22 -- CS Acorn award?
+
+10.27(d) -- reference needs updating to 10.27(a)
+
+12.3 -- squirrels flags?
+
+14.7 -- members link goes to unrrelated trademark
+
+Callout boxes -- in web but not PDF:
+- 8.1(e) unity
+- 10.20, 10."Uniform Diagrams"
+- 11.5(i) good service awards
