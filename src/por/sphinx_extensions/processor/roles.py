@@ -9,13 +9,14 @@ from sphinx.errors import SphinxError
 from sphinx.util import logging
 # from sphinx.transforms import SphinxTransform
 
+from por.sphinx_extensions.processor.utils import scottish_variations
+
 if TYPE_CHECKING:
     from docutils.parsers.rst.states import Inliner
 
 logger = logging.getLogger("por.roles")
 
 POR_URL_TEMPLATE = ""
-SCOTTISH_POR_URL = "https://www.scouts.scot/media/2504/scottish-variations-from-the-september-2021-edition-of-the-policy.pdf"
 
 
 class RuleReference(ReferenceRole):
@@ -64,7 +65,7 @@ def scottish_variations_role(
         _options: dict = {},
         _content: list[str] = [],
 ) -> tuple[list[nodes.Node], list[nodes.system_message]]:
-    return [nodes.superscript("", "", nodes.reference("", "sv", refuri=SCOTTISH_POR_URL + text))], []
+    return [scottish_variations.node_from_target(text)], []
 
 
 def table_role(

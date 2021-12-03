@@ -8,10 +8,10 @@ from docutils.parsers.rst import Directive
 from docutils.parsers.rst import directives
 from sphinx.util import logging
 
+from por.sphinx_extensions.processor.utils import scottish_variations
+
 if TYPE_CHECKING:
     from sphinx.domains.std import StandardDomain
-
-SCOTTISH_POR_URL = "https://www.scouts.scot/media/2504/scottish-variations-from-the-september-2021-edition-of-the-policy.pdf#"
 
 logger = logging.getLogger("por.directives")
 
@@ -112,7 +112,7 @@ class Rule(Directive):
 
             # Handle Scottish variations
             if "sv" in self.options:
-                title_node += nodes.superscript("", "", nodes.reference("", "sv", refuri=SCOTTISH_POR_URL + self.options["sv"]))
+                title_node += scottish_variations.node_from_target(self.options["sv"])
 
         # (re)set section id / anchor
         for key in new_section["names"]:
