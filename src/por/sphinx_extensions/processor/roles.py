@@ -5,7 +5,6 @@ from typing import TYPE_CHECKING
 from docutils import nodes
 from sphinx import addnodes
 from sphinx.util.docutils import ReferenceRole
-from sphinx.errors import SphinxError
 from sphinx.util import logging
 # from sphinx.transforms import SphinxTransform
 
@@ -56,27 +55,11 @@ class ChapterReference(ReferenceRole):
         return [nodes.reference('', link_text, internal=True, refuri=self.env.app.builder.get_relative_uri(doc_from, doc_to))], []
 
 
-def scottish_variations_role(
-        _name: str,
-        _rawtext: str,
-        text: str,
-        _lineno: int,
-        _inliner: Inliner,
-        _options: dict = {},
-        _content: list[str] = [],
-) -> tuple[list[nodes.Node], list[nodes.system_message]]:
+def scottish_variations_role(_name: str, _rawtext: str, text: str, _lineno: int, _inliner: Inliner) -> tuple[list[nodes.Node], list[nodes.system_message]]:
     return [scottish_variations.node_from_target(text)], []
 
 
-def table_role(
-    _name: str,
-    _rawtext: str,
-    text: str,
-    _lineno: int,
-    _inliner: Inliner,
-    _options: dict = {},
-    _content: list[str] = [],
-) -> tuple[list[nodes.Node], list[nodes.system_message]]:
+def table_role(_name: str, _rawtext: str, text: str, _lineno: int, _inliner: Inliner) -> tuple[list[nodes.Node], list[nodes.system_message]]:
     return [nodes.Text(f"Table {text}")], []
 
 

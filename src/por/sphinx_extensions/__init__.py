@@ -76,6 +76,7 @@ def setup(app: Sphinx) -> dict[str, bool]:
     return {"parallel_read_safe": True, "parallel_write_safe": True}
 
 # TODO 'this chapter' references
+# TODO TOML Table 2
 # TODO scottish variation -- link to page/sections
 # TODO flexbox or something rendering for images (14.7)
 
