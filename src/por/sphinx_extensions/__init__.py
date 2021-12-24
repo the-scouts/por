@@ -12,6 +12,7 @@ from sphinx.builders.html import StandaloneHTMLBuilder
 from sphinx.environment import BuildEnvironment
 
 from por.sphinx_extensions.processor import directives
+from por.sphinx_extensions.processor import html_builder
 from por.sphinx_extensions.processor import html_translator
 from por.sphinx_extensions.processor import parser
 from por.sphinx_extensions.processor import roles
@@ -55,6 +56,8 @@ def setup(app: Sphinx) -> dict[str, bool]:
     """Initialize Sphinx extension."""
 
     # Register plugin logic
+    app.add_builder(html_builder.FileBuilder, override=True)
+    app.add_builder(html_builder.DirectoryBuilder, override=True)
     app.add_source_parser(parser.PORParser)  # Add transforms
     app.add_role("rule", roles.RuleReference())  # Transform POR rule references to links
     app.add_role("sv", roles.scottish_variations_role)  # Scottish variations

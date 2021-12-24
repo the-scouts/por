@@ -3,9 +3,7 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 
-from docutils.core import publish_string
 from sphinx.application import Sphinx
-from sphinx.errors import SphinxError
 
 
 def render_sphinx(*, clean: bool = False, sphinx_builder: str = "html") -> int:
@@ -33,22 +31,7 @@ def render_sphinx(*, clean: bool = False, sphinx_builder: str = "html") -> int:
         doctreedir=doctree_directory.as_posix(),
         buildername=sphinx_builder,
     )
-    app.builder.copysource = False  # Prevent unneeded source copying
-    app.builder.search = False  # Disable search
-
-    try:
-        app.build(force_all=True)
-    except (SphinxError, KeyboardInterrupt) as exception:
-        import sys
-
-        from sphinx.util.console import red  # type: ignore
-
-        if isinstance(exception, KeyboardInterrupt):
-            print("\nInterrupted!", file=sys.stderr)
-        else:
-            print(red(f"\n{exception.category}:") + f"\n{exception}", file=sys.stderr)
-
-        return 2
+    app.build()
     return app.statuscode
 
 
