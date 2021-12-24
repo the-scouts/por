@@ -64,7 +64,6 @@ def scottish_variations_role(
         _options: dict = {},
         _content: list[str] = [],
 ) -> tuple[list[nodes.Node], list[nodes.system_message]]:
-    # TODO delete previous space
     return [nodes.superscript("", "", nodes.reference("", "sv", refuri=SCOTTISH_POR_URL + text))], []
 
 

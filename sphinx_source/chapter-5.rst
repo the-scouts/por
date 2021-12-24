@@ -270,7 +270,7 @@ c. The membership of each Member of the County will cease automatically, unless 
 
 d. A Scout County cannot exist unless it has a current registration with Headquarters.
 
-e. Charity law does not permit a Scout County to transfer from The Scout Association to any other body whether calling itself a scout organisation or by any other name.\ :sv:`#`
+e. Charity law does not permit a Scout County to transfer from The Scout Association to any other body whether calling itself a scout organisation or by any other name. :sv:`#`
 
 f. Individual or several Members of a County may leave and join any other organisation they wish. The County itself and all its assets remain part of The Scout Association whose parent body is incorporated by Royal Charter.
 
@@ -294,7 +294,7 @@ d. The County Commissioner is assisted and supported by:
    * County Administrators and Advisers;
    * the County Scout Council;
    * the County Executive Committee;
-   * the County Scout Active Support Units.\ :sv:`#`
+   * the County Scout Active Support Units. :sv:`#`
 
 
 
@@ -313,7 +313,7 @@ c. All elected and constitutional bodies of The Scout Association at Headquarter
 
 d. This policy as a matter of good practice, should also be applied to any ad hoc, short or long term working groups or committees.
 
-e. **The County Scout Council**\ :sv:`#`
+e. **The County Scout Council** :sv:`#`
 
    i. The County Scout Council is the electoral body which supports Scouting in the County. It is the body to which the County Executive Committee is accountable.
    ii. Membership of the County Scout Council is open to:
@@ -382,11 +382,11 @@ e. **The County Scout Council**\ :sv:`#`
 
          * agree the number of members that may be elected to the County Executive Committee (see :rule:`15!The Constitution of the Scout County!(f)(iii)(Elected Members)`)
 
-f. **The County Executive Committee**\ :sv:`#`
+f. **The County Executive Committee** :sv:`#`
 
    i. The Executive Committee exists to support the County Commissioner in meeting the responsibilities of their appointment.
 
-   ii. Members of the County Executive Committee must act collectively as charity Trustees of the Scout County, and in the best interests of its members to:\ :sv:`#`
+   ii. Members of the County Executive Committee must act collectively as charity Trustees of the Scout County, and in the best interests of its members to: :sv:`#`
 
        * Comply with the Policy, Organisation and Rules of The Scout Association
        * Protect and maintain any property and equipment owned by and/or used by the County
@@ -410,7 +410,7 @@ f. **The County Executive Committee**\ :sv:`#`
        * Where staff are employed, act as a responsible employer in accordance with Scouting's values and relevant legislation.
        * Ensure line management responsibilities for employed staff are clearly established and communicated.
 
-   iii. The County Executive Committee consists of:\ :sv:`#`
+   iii. The County Executive Committee consists of: :sv:`#`
 
         **Ex-officio members**
 
@@ -452,18 +452,18 @@ f. **The County Executive Committee**\ :sv:`#`
        * the County Commissioner and the County Chair will be ex-officio members of any subCommittee of the County Executive Committee.
        * any fundraising committee must include at least two members of the County Executive Committee. No County Scouter should serve on such a fundraising sub-Committee.
 
-   v. Additional Requirements for Charity Trustees:\ :sv:`#`
+   v. Additional Requirements for Charity Trustees: :sv:`#`
 
       * All ex-officio, elected, nominated and co-opted members of the County Executive Committee are Charity Trustees of the Scout County
       * Only persons aged 18 and over may be full voting members of the County Executive Committee because of their status as Charity Trustees (however the views of young people in the County must be taken into consideration).
       * Certain people are disqualified from being Charity Trustees by virtue of the Charities Acts. (See :rule:`13!Persons not allowed to act as Trustees`)
       * Charity Trustees are responsible for ensuring compliance with all relevant legislation including the Data Protection Act 2018.
       * Complete Module 1 Essential Information, Safety, Safeguarding, GDPR and Trustee Introduction training within 5 months of the role start date.
-      * Some Counties may also need to register as a charity. (See :rule:`13!The Charities Acts`).\ :sv:`#`
+      * Some Counties may also need to register as a charity. (See :rule:`13!The Charities Acts`). :sv:`#`
 
 g. .. body_blank::
 
-h. **Conduct of Meetings in the Scout County**\ :sv:`#`
+h. **Conduct of Meetings in the Scout County** :sv:`#`
 
    i. In meetings of the County Scout Council and the County Executive Committee only the members specified may vote.
    ii. Decisions are made by a majority of votes of those present at the meeting. In the event of an equal number of votes being cast on either side in any issue the chair does not have a casting vote and the matter is taken not to have been carried.
@@ -483,9 +483,9 @@ c. The appointment of the County Chair is approved by the County Scout Council a
 
 d. Every effort should be made to find a County Chair. Only in extreme circumstances may the County Commissioner act as County Chair for a short period.
 
-e. The County Secretary---unless employed by the County---is elected by the County Scout Council at the Annual General Meeting every year. The role may not be held by a Leader, Manager or Supporter where that could lead to any real or potential conflict of interest within the charity or directly related charities. For example, a District Secretary should not be the County Secretary in the same Scout County but could be County Secretary in a different Scout County (subject to having the time and skill to undertake both roles).\ :sv:`#`
+e. The County Secretary---unless employed by the County---is elected by the County Scout Council at the Annual General Meeting every year. The role may not be held by a Leader, Manager or Supporter where that could lead to any real or potential conflict of interest within the charity or directly related charities. For example, a District Secretary should not be the County Secretary in the same Scout County but could be County Secretary in a different Scout County (subject to having the time and skill to undertake both roles). :sv:`#`
 
-f. The County Treasurer is elected by the County Scout Council at the Annual General Meeting every year. The role may not be held by a Leader, Manager or Supporter where that could lead to any real or potential conflict of interest within the charity or directly related charities. For example, a District Treasurer should not be the County Treasurer in the same Scout County but could be County Treasurer in a different Scout County (subject to having the time and skill to undertake both roles).\ :sv:`#`
+f. The County Treasurer is elected by the County Scout Council at the Annual General Meeting every year. The role may not be held by a Leader, Manager or Supporter where that could lead to any real or potential conflict of interest within the charity or directly related charities. For example, a District Treasurer should not be the County Treasurer in the same Scout County but could be County Treasurer in a different Scout County (subject to having the time and skill to undertake both roles). :sv:`#`
 
 g. No individual may hold more than one of the appointments of County Chair, Secretary or Treasurer of the same Executive Committee. Neither may the appointments be combined in anyway.
 
@@ -513,7 +513,7 @@ a. To hold an adult appointment (in a Scout County a person must have reached th
 
 a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a criminal records disclosure check as part of the Personal Enquiry process (see the Safeguarding Policy and :chapter:`POR-TAP`).
 
-b. A Personal Enquiry (including where relevant a criminal records disclosure check) will always be required for any person aged 18 or over who meets **any** of the following criteria:\ :sv:`#`
+b. A Personal Enquiry (including where relevant a criminal records disclosure check) will always be required for any person aged 18 or over who meets **any** of the following criteria: :sv:`#`
 
    * wishes to become a Member or Associate member (for members of Scout Network -- see :rule:`15!The Appointment of Adults in the Scout County!(m)` below); or
    * will be a member of an Executive Committee; or
@@ -523,7 +523,7 @@ b. A Personal Enquiry (including where relevant a criminal records disclosure ch
 
 c. For the purposes of :rule:`15!The Appointment of Adults in the Scout County!(b)` above 'unsupervised' means not being within sight and hearing of another adult who holds a valid criminal records disclosure check.
 
-d. A person who requires a Personal Enquiry under :rule:`15!The Appointment of Adults in the Scout County!(b)` above (including where relevant a criminal records disclosure check) and who does not have an active role on Compass must be registered on Compass as an Occasional Helper. Occasional Helpers are not entitled to membership status or member benefits (including certain insurances -- see the Unity web site) and the recording on Compass is only provided to enable the Personal Enquiry and criminal records disclosure checks to be conducted.\ :sv:`#`
+d. A person who requires a Personal Enquiry under :rule:`15!The Appointment of Adults in the Scout County!(b)` above (including where relevant a criminal records disclosure check) and who does not have an active role on Compass must be registered on Compass as an Occasional Helper. Occasional Helpers are not entitled to membership status or member benefits (including certain insurances -- see the Unity web site) and the recording on Compass is only provided to enable the Personal Enquiry and criminal records disclosure checks to be conducted. :sv:`#`
 
 e. Certain roles will require a criminal records disclosure check every five years.
 
@@ -537,7 +537,7 @@ i. When completing a Personal enquiry accurate information about the individual 
 
 j. The full rules for the appointment of adults can be found in :chapter:`POR-TAP`.
 
-k. Occasional Helpers (including parents) who are required to undertake a Personal Enquiry (see :rule:`15!The Appointment of Adults in the Scout County!(a)` and :rule:`15!The Appointment of Adults in the Scout County!(b)`) must either be entered directly into Compass or recorded using the Association's official Adult Information Form and then be transferred accurately into Compass (form available from https://www.scouts.org.uk/volunteers/running-things-locally/recruiting-and-managing-volunteers/appointing/appointment-forms/). The appropriate criminal records disclosure check application process must then be followed.\ :sv:`#`
+k. Occasional Helpers (including parents) who are required to undertake a Personal Enquiry (see :rule:`15!The Appointment of Adults in the Scout County!(a)` and :rule:`15!The Appointment of Adults in the Scout County!(b)`) must either be entered directly into Compass or recorded using the Association's official Adult Information Form and then be transferred accurately into Compass (form available from https://www.scouts.org.uk/volunteers/running-things-locally/recruiting-and-managing-volunteers/appointing/appointment-forms/). The appropriate criminal records disclosure check application process must then be followed. :sv:`#`
 
 l. Section leaders should ensure that Occasional Helpers who are involved more than once a month are aware of the appointment opportunities available to them.
 
@@ -639,7 +639,7 @@ c. A County Commissioner may not hold any other appointment other than in a shor
 
 .. rule:: Responsibilities of Appointments in the Scout County
 
-a. **The County Commissioner**\ :sv:`#`
+a. **The County Commissioner** :sv:`#`
 
    i. The County Commissioner is responsible to the Regional Commissioner for:
 
@@ -681,11 +681,11 @@ a. **The County Commissioner**\ :sv:`#`
 
         Until the Chief Commissioner can appoint an Acting County/Regional Commissioner, the Chief Commissioner assumes the role of Acting County/Regional Commissioner.
 
-        The Chief Commissioner must give priority to filling the County/Regional Commissioner vacancy as soon as possible, within 6 months if at all possible.\ :sv:`#`
+        The Chief Commissioner must give priority to filling the County/Regional Commissioner vacancy as soon as possible, within 6 months if at all possible. :sv:`#`
 
    viii. In respect of the County Scout Council and the County Executive Committee the County Commissioner must nominate the County Chair and certain members.
 
-b. **The Deputy County Commissioner**\ :sv:`#`
+b. **The Deputy County Commissioner** :sv:`#`
 
    i. Deputy County Commissioners may be appointed to assist and deputise for the County Commissioner.
 
@@ -693,7 +693,7 @@ b. **The Deputy County Commissioner**\ :sv:`#`
 
 c. .. body_blank::
 
-d. **County Training Manager**\ :sv:`#`
+d. **County Training Manager** :sv:`#`
 
    i. A County Training Manager may be appointed to assist the County Commissioner with the delivery and validation of learning.
 
@@ -708,13 +708,13 @@ d. **County Training Manager**\ :sv:`#`
 
    iii. County Training Managers must complete Module 33 Planning a learning provision and Module 34 Managing a learning provision within three years of appointment.
 
-e. **Local Training Managers**\ :sv:`#`
+e. **Local Training Managers** :sv:`#`
 
    i. Local Training Managers may be appointed to assist the County Training Manager.
 
    ii. The duties of the appointment will be defined by the County Training Manager at the time of appointment. Any of the County Training Manager's responsibilities may be delegated to a Local Training Manager.
 
-f. **Assistant County Commissioners**\ :sv:`#`
+f. **Assistant County Commissioners** :sv:`#`
 
    i. Assistant County Commissioners are appointed to assist the County Commissioner with general or particular duties (e.g. General Duties, Beaver Scouts, Cub Scouts, Scouts, Explorer Scouts).
 
@@ -764,7 +764,7 @@ c. The functions of the appointment are:
 
 .. rule:: Responsibility for Specialist Subjects
 
-a. Assistant County Commissioners may be appointed to assist the County Commissioner with a variety of special responsibilities, including Air and Water Activities, Inclusion and Media Relations.\ :sv:`#`
+a. Assistant County Commissioners may be appointed to assist the County Commissioner with a variety of special responsibilities, including Air and Water Activities, Inclusion and Media Relations. :sv:`#`
 
 b. The Assistant County Commissioner will usually, and most importantly, be experienced in the particular subject.
 
@@ -898,7 +898,7 @@ j. Gold Award Certificates are normally presented at a reception arranged in one
 
 a. The Queen's Scout Award is the highest award available to young people. It is possible for both Explorer Scouts aged 16 or over and Scout Network Members to achieve this award.
 
-b. On completion of the award, UK headquarters must be notified and the badge and certificate will be sent to the relevant Queen's Scout Award Coordinator for presentation or, if none appointed, the relevant Commissioner\ :sv:`#`.
+b. On completion of the award, UK headquarters must be notified and the badge and certificate will be sent to the relevant Queen's Scout Award Coordinator for presentation or, if none appointed, the relevant Commissioner :sv:`#`.
 
 c. .. body_blank::.
 
@@ -999,7 +999,7 @@ e. Cash received at a specific activity may only be used to defray expenses of t
 
 f. Funds not immediately required must be transferred into a suitable investment account held in the name of the County.
 
-g. County funds must be invested as specified by the Trustee Act 2000.\ :sv:`#`
+g. County funds must be invested as specified by the Trustee Act 2000. :sv:`#`
 
 h. County funds may be invested in one of the special schemes run by Headquarters.
 
@@ -1035,7 +1035,7 @@ b. This statement, together with all County assets, must be handed to Headquarte
 
 c. Headquarters will ensure that the statement of account is properly scrutinised, independently examined or audited as appropriate.
 
-d. Any assets remaining after the closure of a County will automatically pass to the Country Headquarters, which shall use or dispose of these assets at its absolute discretion.\ :sv:`#`
+d. Any assets remaining after the closure of a County will automatically pass to the Country Headquarters, which shall use or dispose of these assets at its absolute discretion. :sv:`#`
 
 e. If there is any reasonable prospect of the County being revived the Country Headquarters may delay the disposal of these assets for such a period as it thinks proper with a view to returning them to the revived County.
 

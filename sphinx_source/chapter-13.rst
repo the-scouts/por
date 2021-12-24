@@ -13,9 +13,9 @@ c. The appointment of any such person, whether as Ex officio, by nomination, by 
 
 d. It is the responsibility of each person to ensure that they are not disqualified before accepting an appointment as a trustee.
 
-e. The Charities Acts apply to England and Wales only. Similar legislation applies to Scotland.\ :sv:`#`
+e. The Charities Acts apply to England and Wales only. Similar legislation applies to Scotland. :sv:`#`
 
-f. Some people are disqualified by law from acting as charity trustees. Subject to regulatory waiver provisions this includes anyone who:\ :sv:`#`
+f. Some people are disqualified by law from acting as charity trustees. Subject to regulatory waiver provisions this includes anyone who: :sv:`#`
 
    * has an unspent conviction for an offence involving dishonesty or deception; or
    * has unspent convictions for the offences of misconduct in a public office; or
@@ -130,7 +130,7 @@ c. A copy of an appropriate model Declaration of Trust can provided by the Assoc
 
 .. rule:: Investments
 
-a. Unless the powers of investment are specified in the formal Trust Instrument creating or governing any given Group, District or County, such powers of investment are governed by the Trustee Act 2000. Accordingly, The Scout Association's own particular powers of investment are specified by its Royal Charter. These particular powers of investment apply to The Scout Association itself and not to its entire member Groups, Districts or Counties.\ :sv:`#`
+a. Unless the powers of investment are specified in the formal Trust Instrument creating or governing any given Group, District or County, such powers of investment are governed by the Trustee Act 2000. Accordingly, The Scout Association's own particular powers of investment are specified by its Royal Charter. These particular powers of investment apply to The Scout Association itself and not to its entire member Groups, Districts or Counties. :sv:`#`
 
 b. Group, District and County Treasurers must reclaim from H.M. Revenue and Customs any tax deducted at source from investment income.
 

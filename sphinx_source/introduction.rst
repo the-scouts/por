@@ -98,7 +98,7 @@ In Scotland Scouting is organised into Districts and Regions, each with distinct
 
 Unless otherwise stated, all references to 'County' or 'Counties' relate to 'Region' or 'Regions' in Scotland. Scottish Variations identifies which of these functions fall under the specific responsibility of Districts in Scotland.
 
-The above organisational differences and differences in legislation mean that some of the Rules in POR do not apply in Scotland without modification. These modifications are described in *POR Scottish Variations* and those variations are highlighted in this document by a\ :sv:`#`.
+The above organisational differences and differences in legislation mean that some of the Rules in POR do not apply in Scotland without modification. These modifications are described in *POR Scottish Variations* and those variations are highlighted in this document by a :sv:`#`.
 
 **Headquarters** -- refers to the Headquarters of The Scout Association in the United Kingdom.
 

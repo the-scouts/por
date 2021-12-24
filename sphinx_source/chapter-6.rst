@@ -188,7 +188,7 @@ The appointment of a Chief Commissioner may be renewed for a second period not e
 
 Chief Commissioners are Ex-officio Members of the Council of The Scout Association.
 
-**Regional Commissioners (England or Wales)**\ :sv:`#`
+**Regional Commissioners (England or Wales)** :sv:`#`
 
 Regional Commissioners (England and Wales) are appointed by the Chief Commissioner (England or Wales) / Deputy Chief Commissioner (England) with the approval of the Headquarters Appointments Committee.
 
@@ -268,7 +268,7 @@ Northern Ireland has separate legal and educational systems and its own system o
 
 Certain Rules concerning trusteeship, property and charitable status therefore do not apply in Northern Ireland without modification.
 
-**Scotland**\ :sv:`#`
+**Scotland** :sv:`#`
 
 Under the Scout Constitution for Scotland, the affairs of The Scout Association are under the charge of The Scottish Council of The Scout Association, with a committee for the management of its business. Under the authority of Headquarters, Scottish Headquarters is the body responsible for matters of programme, training and administration in Scotland.
 

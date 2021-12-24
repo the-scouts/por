@@ -68,7 +68,7 @@ Reasonable steps should also be taken to identify any young people with disabili
 
 Further information about equalities legislation and Scouting is available via the members area of the website.
 
-*Note: Membership of the youth Sections of the Association is open to young people of all genders and of the appropriate ages, subject to the rules set out in Chapters* :rule:`3!Mixed Membership`\ *,* :rule:`4!Mixed Membership` *and* :rule:`5!Mixed Membership` *below.*
+*Note: Membership of the youth Sections of the Association is open to young people of all genders and of the appropriate ages, subject to the rules set out in Chapters* :rule:`3!Mixed Membership`, :rule:`4!Mixed Membership` *and* :rule:`5!Mixed Membership` *below.*
 
 **Leaders and other volunteers**
 
@@ -157,7 +157,7 @@ e. In compliance with the 6 key principles of the GDPR (Article 5), personal dat
 
       Clear and accessible information must be provided to individuals about what personal data is collected, how it will be processed and how they can exercise rights over it e.g. the right to request a copy of their personal data by making a Subject Access Request (SAR) or to have incorrect data corrected or deleted.
 
-      This information should be provided both at the initial point of contact in the form of a Privacy Statement or Notice and also be made regularly accessible to the individual. The Scout Association's Privacy Statement as displayed on its website can be found `here <https://www.scouts.org.uk/about-us/policy/data-protection-policy/>`__\ `. <https://www.scouts.org.uk/about-us/policy/cookie-policy/>`__
+      This information should be provided both at the initial point of contact in the form of a Privacy Statement or Notice and also be made regularly accessible to the individual. The Scout Association's Privacy Statement as displayed on its website can be found `here <https://www.scouts.org.uk/about-us/policy/data-protection-policy/>`__.
 
    ii. Collected and processed for specified, explicit and legitimate purposes only Personal data should only be collected and used for activities directly relating to Scouting or a person's membership or association with Scouting.
 

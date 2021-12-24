@@ -13,9 +13,9 @@ a. These Rules apply to all activities carried out anywhere in the world.
 
 b. The District Commissioner is responsible for approving all activities for Squirrel Scouts, Beaver Scouts, Cub Scouts, Scouts and Explorer Scouts. This will usually be by means of an informal system agreed between the District Commissioner and each Group Scout Leader or District Explorer Scout Commissioner.
 
-c. For Scout Network the relevant Commissioner is responsible for approving all activities for Scout Network Members at that level, i.e. a District Commissioner for District Scout Network Activities and the County Commissioner for County Scout Network Activities. This will usually be by means of an informal system agreed between the District Scout Network Commissioner, Assistant County Commissioner Scout Network or County Commissioner.\ :sv:`#`
+c. For Scout Network the relevant Commissioner is responsible for approving all activities for Scout Network Members at that level, i.e. a District Commissioner for District Scout Network Activities and the County Commissioner for County Scout Network Activities. This will usually be by means of an informal system agreed between the District Scout Network Commissioner, Assistant County Commissioner Scout Network or County Commissioner. :sv:`#`
 
-d. The relevant District or County Commissioner is responsible for approving all activities for groups of adults (i.e. where each individual is aged 18 and over). This will usually be by means of an informal system agreed between the relevant Commissioner and the County Scout Network Commissioner (in respect of Scout Network), Scout Active Support Manager (in respect of Scout Active Support) or other person recognised by the relevant Commissioner.\ :sv:`#`
+d. The relevant District or County Commissioner is responsible for approving all activities for groups of adults (i.e. where each individual is aged 18 and over). This will usually be by means of an informal system agreed between the relevant Commissioner and the County Scout Network Commissioner (in respect of Scout Network), Scout Active Support Manager (in respect of Scout Active Support) or other person recognised by the relevant Commissioner. :sv:`#`
 
 e. For special events and activities approval must be granted by a County, Regional or Chief Commissioner, as appropriate.
 

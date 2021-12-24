@@ -598,7 +598,7 @@ c. In exceptional circumstances Headquarters may suspend the registration of a G
 
 d. Suspension of registration may also be a consequence of the suspension of the District.
 
-e. In such a case the County Commissioner may direct that Groups will not be suspended but attached to a neighbouring District or to the County as appropriate.\ :sv:`#`
+e. In such a case the County Commissioner may direct that Groups will not be suspended but attached to a neighbouring District or to the County as appropriate. :sv:`#`
 
 f. In the event of suspension all Group activities must cease and all adults appointed within the Scout Group are automatically suspended as if each were individually suspended.
 
@@ -709,7 +709,7 @@ b. **The Group Executive Committee**
 
    i. The Executive Committee exists to support the Group Scout Leader in meeting the responsibilities of their appointment.
 
-   ii. Members of the Group Executive Committee must act collectively as charity Trustees of the Scout Group, and in the best interests of its members to:\ :sv:`#`.
+   ii. Members of the Group Executive Committee must act collectively as charity Trustees of the Scout Group, and in the best interests of its members to: :sv:`#`.
 
        * Comply with the Policy, Organisation and Rules of The Scout Association
        * Protect and maintain any property and equipment owned by and/or used by the Group.
@@ -732,7 +732,7 @@ b. **The Group Executive Committee**
        * Where staff are employed, act as a responsible employer in accordance with Scouting's values and relevant legislation.
        * Ensure line management responsibilities for employed staff are clearly established and communicated.
 
-   iii. The Group Executive Committee consists of:\ :sv:`#`
+   iii. The Group Executive Committee consists of: :sv:`#`
 
         **Ex-officio Members**
 
@@ -771,14 +771,14 @@ b. **The Group Executive Committee**
        * The Group Scout Leader and the Group Chair will be ex-officio members of any subCommittee of the Group Executive Committee.
        * Any fundraising committee must include at least two members of the Group Executive Committee. No Section Leader or Assistant Leader may serve on such a fundraising subCommittee.
 
-   v. Additional Requirements for Charity Trustees:\ :sv:`#`
+   v. Additional Requirements for Charity Trustees: :sv:`#`
 
       * All ex-officio, elected, nominated and co-opted members of the Group Executive Committee are Charity Trustees of the Scout Group.
       * Only persons aged 18 and over may be full voting members of the Group Executive Committee because of their status as Charity Trustees (however the views of young people in the Group must be taken into consideration).
       * Certain people are disqualified from being Charity Trustees by virtue of the Charities Acts. (See :rule:`13!Persons not allowed to act as Trustees`)
       * Charity Trustees are responsible for ensuring compliance with all relevant legislation including the Data Protection Act 2018.
       * Complete Module 1 Essential Information, Safety, Safeguarding, GDPR and Trustee Introduction training within 5 months of the role start date.
-      * Some Groups may also need to register as a charity. (See :rule:`13!The Charities Acts`).\ :sv:`#`
+      * Some Groups may also need to register as a charity. (See :rule:`13!The Charities Acts`). :sv:`#`
 
 c. **The Group Leaders' Meeting**
 
@@ -838,7 +838,7 @@ a. To hold an adult appointment in a Scout Group a person must have reached the 
 
 a. No individual aged 18 or over may be permitted to undertake any role or responsibilities within Scouting until the appropriate enquiries have been made. The enquiries must include a Personal Enquiry to Headquarters, and certain roles require a disclosure as part of the Personal Enquiry process (see the Safeguarding Policy and :chapter:`POR-TAP`).
 
-b. A Personal Enquiry (including where relevant a criminal records disclosure check) will always be required for any person aged 18 or over who meets any of the following criteria:\ :sv:`#`
+b. A Personal Enquiry (including where relevant a criminal records disclosure check) will always be required for any person aged 18 or over who meets any of the following criteria: :sv:`#`
 
    * wishes to become a Member or Associate member (for members of Scout Network -- see :rule:`3!The Appointment of Adults!(m)` below); or
    * will be a member of an Executive Committee; or
@@ -848,7 +848,7 @@ b. A Personal Enquiry (including where relevant a criminal records disclosure ch
 
 c. For the purposes of :rule:`3!The Appointment of Adults!(b)` above 'unsupervised' means not being within sight and hearing of another adult who holds a valid criminal records disclosure check.
 
-d. A person who requires a Personal Enquiry under :rule:`3!The Appointment of Adults!(b)` above (including where relevant a criminal records disclosure check) and who does not have an active role on Compass must be registered on Compass as an Occasional Helper. Occasional Helpers are not entitled to membership status or member benefits (including certain insurances -- see the Unity web site) and the recording on Compass is only provided to enable the Personal Enquiry and criminal records disclosure checks to be conducted.\ :sv:`#`
+d. A person who requires a Personal Enquiry under :rule:`3!The Appointment of Adults!(b)` above (including where relevant a criminal records disclosure check) and who does not have an active role on Compass must be registered on Compass as an Occasional Helper. Occasional Helpers are not entitled to membership status or member benefits (including certain insurances -- see the Unity web site) and the recording on Compass is only provided to enable the Personal Enquiry and criminal records disclosure checks to be conducted. :sv:`#`
 
 e. Certain roles will require a criminal records disclosure check every five years.
 
@@ -862,7 +862,7 @@ i. When completing a Personal Enquiry accurate information about the individual 
 
 j. The full rules for the appointment of adults can be found in :chapter:`POR-TAP`.
 
-k. Occasional Helpers (including parents) who are required to undertake a Personal enquiry (see :rule:`3!The Appointment of Adults!(a)` and :rule:`3!The Appointment of Adults!(b)`) must either be entered directly into Compass or recorded using the Association's official Joining Forms and then be transferred accurately into Compass (available from www.scouts.org.uk). The appropriate on-line or paper based criminal records disclosure check application process must then be followed.\ :sv:`#`
+k. Occasional Helpers (including parents) who are required to undertake a Personal enquiry (see :rule:`3!The Appointment of Adults!(a)` and :rule:`3!The Appointment of Adults!(b)`) must either be entered directly into Compass or recorded using the Association's official Joining Forms and then be transferred accurately into Compass (available from www.scouts.org.uk). The appropriate on-line or paper based criminal records disclosure check application process must then be followed. :sv:`#`
 
 l. Section leaders should ensure that Occasional Helpers who are involved more than once a month are aware of the appointment opportunities available to them.
 
@@ -1075,7 +1075,7 @@ Requirements of Section awards and badges are found in the Association's officia
 
 .. rule:: Finance and the Scout Group
 
-Certain Rules in this Section do not apply, without modification, in parts of the British Isles outside England and Wales.\ :sv:`#`
+Certain Rules in this Section do not apply, without modification, in parts of the British Isles outside England and Wales. :sv:`#`
 
 a. Every Scout Group is a separate educational charity and is under a statutory obligation to keep proper books of account.
 
@@ -1156,7 +1156,7 @@ e. Cash received at a specific activity may only be used to defray expenses of t
 
 f. Funds not immediately required must be transferred into a suitable investment account held in the name of the Group.
 
-g. Group funds must be invested as specified by the Trustee Act 2000.\ :sv:`#`
+g. Group funds must be invested as specified by the Trustee Act 2000. :sv:`#`
 
 h. Group funds may be invested in one of the special schemes run by Headquarters.
 
@@ -1182,7 +1182,7 @@ b. The statement, together with all Group assets, must be handed to the District
 
 c. The District Treasurer will ensure that the statement of account is properly scrutinised, independently examined or audited as appropriate.
 
-d. Subject to :rule:`13!Disposal of Property at Closure`, any assets remaining after the closure of a Group will automatically pass to the District Scout Council which shall use or dispose of these assets at its absolute discretion.\ :sv:`#`
+d. Subject to :rule:`13!Disposal of Property at Closure`, any assets remaining after the closure of a Group will automatically pass to the District Scout Council which shall use or dispose of these assets at its absolute discretion. :sv:`#`
 
 e. If there is any reasonable prospect of the Group being revived the District Scout Council may delay the disposal of these assets for such a period as it thinks proper with a view to returning them to the revived Group.
 
@@ -1200,9 +1200,9 @@ a. Statements of account and all existing accounting records must be preserved f
 
 .. rule:: Payment of the Membership Subscription
 
-a. In order to meet the costs of Headquarters services to the Movement and the costs of organising and administering the Association, and to meet the Association's obligations to World Scouting, the Board of Trustees of the Association requires Members to pay a Headquarters Membership Subscription.\ :sv:`#`
+a. In order to meet the costs of Headquarters services to the Movement and the costs of organising and administering the Association, and to meet the Association's obligations to World Scouting, the Board of Trustees of the Association requires Members to pay a Headquarters Membership Subscription. :sv:`#`
 
-b. The amount of the Membership Subscription is decided annually by the Board of Trustees.\ :sv:`#`
+b. The amount of the Membership Subscription is decided annually by the Board of Trustees. :sv:`#`
 
 c. In addition, to meet local costs, the local Scout Country, County and the local Scout District may charge a membership subscription.
 
