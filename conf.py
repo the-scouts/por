@@ -14,9 +14,7 @@ extensions = [
 ]
 
 # The file extensions of source files. Sphinx uses these suffixes as sources.
-source_suffix = {
-    ".rst": "por",
-}
+source_suffix = {".rst": "por"}
 
 # List of relative patterns to ignore when looking for source files.
 exclude_patterns = [

@@ -26,8 +26,8 @@ class Contents(transforms.Transform):
         self.document.note_pending(pending)
 
         # Insert the toc and a horizontal rule after chapter title
-        document_nodes = self.document.children[0]
-        self.document.children[0][:] = document_nodes[:1] + [contents_section, nodes.transition()] + document_nodes[1:]
+        title_node, *child_nodes = self.document.children[0]
+        self.document.children[0][:] = [title_node, contents_section, nodes.transition(), *child_nodes]
 
 
 class _ContentsTransform(transforms.Transform):
